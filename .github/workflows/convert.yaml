@@ -27,7 +27,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git add -A
           git commit -m "Updated podcast URLs"
-      - name: Push changes to main branch # merge 내용들을 main 브랜치로 최종 push
+      - name: Push changes to main branch
         uses: ad-m/github-push-action@master
         with:
           branch: main
