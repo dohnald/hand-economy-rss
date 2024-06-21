@@ -1,28 +1,30 @@
-name: Replace and Push
+name: Update Podcast URL
 
 on: 
   push:
     branches: [ main ]
 
 jobs:
-  build:
+  updateURL:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Check out repository
-      uses: actions/checkout@v2
-      
-    - name: Download and Replace
-      run: |
-        mkdir temp
-        cd temp
-        wget https://minicast.imbc.com/PodCast/pod.aspx?code=1000671100000100000
-        sed -i 's|https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/|https://podcastfiledown.imbc.com/originaldata/|g' *.xml
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-    - name: Push changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add -A
-        git commit -m "Automated text replacement"
-        git push
+      - name: Download XML
+        run: |
+          curl -L https://minicast.imbc.com/PodCast/pod.aspx?code=1000671100000100000 -o hand-economy.xml
+
+      - name: Replace URLs
+        run: |
+          sed -i.bak 's|https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/|https://podcastfiledown.imbc.com/originaldata/|g' hand-economy.xml;
+          rm hand-economy.xml.bak
+
+      - name: Commit and Push
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+          git add -A
+          git commit -m "Updated podcast URLs"
+          git push
