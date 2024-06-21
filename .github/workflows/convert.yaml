@@ -23,8 +23,12 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add -A
           git commit -m "Updated podcast URLs"
-          git push
+      - name: Push changes to main branch # merge 내용들을 main 브랜치로 최종 push
+        uses: ad-m/github-push-action@master
+        with:
+          branch: main
+          github_token: ${{ secrets.GITHUB_TOKEN }}
