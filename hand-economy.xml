@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 06/25(화) 확정일자 받기 전에 추가 월세 계약</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 현재 지방 아파트에 전세로 거주하고 있는 중입니다. 전입신고도 했고 확정일자도 받아두었구요. 그런데 서울에 일 때문에 자주 오가게 되면서 머무를 곳이 필요해 추가로 월세 계약을 하게 되었습니다. 전월세 신고제로 인해 30일 이내에 월세로 계약한 집에 대해 임대차 신고를 하라고 하던데요, 이럴 경우 지방에 있는 전셋집에 문제가 생기는 건 아닌지 궁금합니다. 월세집에 대한 임대차 신고를 하면 자동으로 확정일자가 부여된다고 하던데,  그럼 기존 전셋집의 확정 일자와 대항력에 변동이 생기는 건 아닌지 걱정돼서 문의드려봅니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240625.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240625.mp3</guid>
+      <pubDate>Tue, 25 Jun 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 6/25(화) 국민연금 퇴직연금 운용 검토｜명품의 '미친경제학'｜알뜰폰 더 싸질 수도</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28007,15 +28018,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220631.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220631.mp3</guid>
       <pubDate>Fri, 01 Jul 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>7/1(금) 커피타임 - 텍사스 도넛가게 썰 by 누구겠어요...</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220701_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220701_1.mp3</guid>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
