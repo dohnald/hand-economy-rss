@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 06/26(수) 국민연금 추납은 언제 하는 게 좋을까요? </title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 만 44세 직장인입니다. 현재까지 21년 근무했지만, 중간에 48개월은 육아휴직으로 쉰 기간이 있고, 그 기간 동안엔 국민연금을 납부하지 않았었습니다. 하지만 지금이라도 추후납부를 하면 휴직기간은 인정되는 것으로 알고 있는데요, 정보를 찾아보니 현재 납부하고 있는 보험료를 기준으로 48개월치를 납부해야 된다고 하더라구요. 현재 소득이 높아 부담이 되는데 어떻게 하는 것이 좋을까요? 저는 당분간 퇴직할 생각은 없고, 정년인 60세까지 회사를 다니다 퇴직하고 싶습니다. 만약 60세에 퇴직하게 된다면 퇴직 전이라도, 55세부터 국민연금을 받을 수 있을까요? 그리고, 정년퇴직하는 것과 55세 이전에 퇴직하는 경우 각각 국민연금을 언제 추납하는게 좋을지도 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240626.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240626.mp3</guid>
+      <pubDate>Wed, 26 Jun 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 6/26(수) 스트레스 DSR 2달 연기｜잇따른 이상기후, 경제 영향은?(홍종호 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28013,15 +28024,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220704.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220704.mp3</guid>
       <pubDate>Mon, 04 Jul 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>7/3(일) 손경제 주간 하이라이트</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220703.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220703.mp3</guid>
-      <pubDate>Sun, 03 Jul 2022 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
