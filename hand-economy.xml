@@ -16,6 +16,33 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 6/26(수) 스트레스 DSR 2달 연기｜잇따른 이상기후, 경제 영향은?(홍종호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제 뉴스]
+금융위, 2단계 스트레스DSR 돌연 연기 
+- 김치형 뉴스큐레이터
+
+[이슈 인터뷰]
+때 아닌 폭염.. 이상기후, 경제적 영향은? 
+- 홍종호 서울대 환경대학원 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240626.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240626.mp3</guid>
+      <pubDate>Wed, 26 Jun 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 6/25(화) 왜 제약사들은 우주에서 약을 만들까(이창욱 과학동아 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[테코노미]
+왜 제약사들은 우주에서 약을 만들까
+- 이창욱 과학동아 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240625.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240625.mp3</guid>
+      <pubDate>Tue, 25 Jun 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 06/25(화) 확정일자 받기 전에 추가 월세 계약</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27988,36 +28015,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220701.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220701.mp3</guid>
       <pubDate>Fri, 01 Jul 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>7/1(금) 하반기 환율 변수와 전망, 미국 기업들, 원정 낙태비 지원 하겠다?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[<센터뷰>
-“하반기 환율 변수와 전망”
-김영익 교수(서강대 경제대학원) 
-
-<해외파 어예진-글로벌 리포트> 
-- 미국 기업들, 원정 낙태비 지원 하겠다?
-- 막시즘을 전공해야 취업하는 중국 대학생들
-- 음식에 탄소 라벨을 붙이는 나라
-어예진 소장(해담경제연구소)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220701.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220701.mp3</guid>
-      <pubDate>Fri, 01 Jul 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>7/1(금) 주택도시보증공사 분양가 심사방식 달라진다 / 미국, 5월 PCE 물가지수 발표... PCE 지수란? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 주택도시보증공사 분양가 심사방식 달라진다 
-- 서울 아파트 경매 낙찰률, 낙찰가율 올해 들어 최고치 기록
-- 미국, 5월 PCE 물가지수 발표... PCE 지수란? 
-
-출연: 박세훈 작가, 김현우 소장, 안승찬 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220631.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220631.mp3</guid>
-      <pubDate>Fri, 01 Jul 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
