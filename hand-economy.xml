@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 7/1(월) 잘못 가입한 종신보험, 해약할까 증여할까?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요 첫 회사 생활을 시작하고 금융 지식이 없을 때 들어놓은 보험이 있는데요. 저축성 보험으로 알고 가입했는데 알고보니 종신보험이었고, 10년 동안 10만 원씩 내면 사망했을 때 3,400만원이 나오는 상품이었습니다. 다른 특약은 전혀 없고요. 앞으로 납입이 30회 정도 남았고 지금 해지하면 250만 원의 손해가 나는 상황인데요, 원금을 돌려 받으려면 2039년이나 돼야 가능하답니다. 원래 목적인 사망보험으로 활용하자니 제가 40대 초반이라 인플레이션을 생각하면 별 이점이 없어 보이고, 그렇다고 해지하자니 손실을 고스란히 떠안게 될 거 같아, 고민입니다. 인터넷에서는 종신보험을 자녀에게 증여하는 방법도 있다고는 하는데 자녀가 3살이라 별로 도움이 안 되는 조언인 것 같고요. 완납을 일단 하고 나중에 해지하는 것이 나을지, 별다른 이점이 없다면 지금이라도 해지 하는 게 나을지 알고 싶습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240701.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240701.mp3</guid>
+      <pubDate>Mon, 01 Jul 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/1(월) 횡재세 위헌 판결 in 이탈리아｜미국 대선 전망(민정훈 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27994,15 +28005,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220708.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220708.mp3</guid>
       <pubDate>Fri, 08 Jul 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - 여보, 우리 여름모험 갈까?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220708_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220708_1.mp3</guid>
-      <pubDate>Fri, 08 Jul 2022 10:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
