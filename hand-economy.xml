@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/2(화) 일본 '경영의 신' 그 정수를 만나다 (양준호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+이나모리 가즈오, 경영의 원점을 말하다
+- 양준호 인천대 경제학과 교수
+
+이나모리 가즈오의 신간은 아래 링크에서 만나보실 수 있습니다.
+교보문고 : https://bit.ly/4bkVkwk
+예스24 : https://bit.ly/4cok6Nh
+알라딘 : https://bit.ly/3zlViXL]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240702.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240702.mp3</guid>
+      <pubDate>Tue, 02 Jul 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 7/2(화) 세입자로부터 받은 보증금을 어떻게 활용하는게 좋을까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27993,20 +28009,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220711.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220711.mp3</guid>
       <pubDate>Mon, 11 Jul 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>7/11(월) 머스크, 결국 트위터 인수 '취소' 결정 / 정부, 소득세 과표구간 조정 검토 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 머스크, 결국 트위터 인수 '취소' 결정 
-- 정부, 활성탄 긴급수급물자 지정... 어떤 의미? 
-- 민주당, 다주택자 종부세 완화 법안 준비 중
-- 정부, 소득세 과표구간 조정 검토
-
-출연: 박세훈 작가, 김현우 소장, 나수지 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220711.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220711.mp3</guid>
-      <pubDate>Mon, 11 Jul 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
