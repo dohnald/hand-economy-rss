@@ -16,6 +16,35 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 7/4(목) 하반기 경제 정책 방향｜한전채 만기 도래｜美채권 금리 급등락</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제 뉴스]
+1) 2024 하반기 경제 정책 방향 
+2) 한전채 만기 도래.. 기업 돈줄 마른다?
+3) '트럼플레이션' 온다.. 美채권 금리 급등락
+- 손석우 뉴스큐레이터
+- 김현우 행복자산관리연구소장
+- 박세훈 작가
+
+[친절한 경제]
+한국의 조세부담률은 낮은 편인가요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240704.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240704.mp3</guid>
+      <pubDate>Thu, 04 Jul 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 7/3(수) 부자들의 투자법에서 엿본 공통점은? (최홍석 미래에셋증권 매니저)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+부자들의 투자법에서 엿본 공통점은?
+- 최홍석 미래에셋증권 선임매니저]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240703.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240703.mp3</guid>
+      <pubDate>Wed, 03 Jul 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 7/3(수) CI보험 해약하지 말까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27983,35 +28012,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220712.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220712.mp3</guid>
       <pubDate>Tue, 12 Jul 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>7/12(화) 하반기 주택 부동산 경기 전망, 글로벌 안경 공룡 스타트업</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[<이슈 인터뷰>
-“하반기 주택 부동산 경기 전망”
-김성환 부연구위원(한국건설산업연구원)
-
-<공부왕 이종훈>
-“글로벌 안경 공룡 스타트업”
-이종훈 작가 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220712.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220712.mp3</guid>
-      <pubDate>Tue, 12 Jul 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>7/12(화) 구독 경제로 옮겨가는 자동차 회사들 / 주식 판 돈, 이제 하루만에 내 계좌로 들어온다? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 구독 경제로 옮겨가는 자동차 회사들 
-- 주식 판 돈, 이제 하루만에 내 계좌로 들어온다? 
-- 주택연금 담보설정 방식 변경 가능해진다 
-- 독일-우크라이나, 가스관 부품 때문에 사이가 나빠졌다고?
-
-출연: 박세훈 작가, 김현우 소장, 나수지 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220712.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220712.mp3</guid>
-      <pubDate>Tue, 12 Jul 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
