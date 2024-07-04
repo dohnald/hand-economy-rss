@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/4(목) 구도심의 미래, 도쿄 대개조에서 힌트를 얻다 (박희윤 현대사업개발 본부장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+구도심의 미래, 도쿄 대개조에서 힌트를 얻다
+- 박희윤 '도쿄를 바꾼 빌딩들' 저자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240704.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240704.mp3</guid>
+      <pubDate>Thu, 04 Jul 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 7/4(목) 차를 살 때 소득공제와 신용카드 혜택은?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28000,19 +28011,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220713(1).mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220713(1).mp3</guid>
       <pubDate>Wed, 13 Jul 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>7/13(수) 현대차, 29년 만에 국내 새 공장 짓는다 / '보험재매입' 제도 도입 요구하는 보험사들.. 이유는? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 현대차, 29년 만에 국내 새 공장 짓는다 
-- 치솟는 달러가치에 이젠 면세점이 더 비싸다고?
-- '보험재매입' 제도 도입 요구하는 보험사들.. 이유는? 
-
-출연: 박세훈 작가, 김현우 소장, 이슬기 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220713(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220713(1).mp3</guid>
-      <pubDate>Wed, 13 Jul 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
