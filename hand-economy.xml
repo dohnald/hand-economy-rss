@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 7/5(금) 서울 아파트값 15주째 상승｜은행권 주담대 금리 인상｜저축은행 건전성 우려</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제 뉴스]
+1) 서울 아파트값 15주 연속 상승
+2) 금감원, 은행권에 대출금리 인상 압박
+3) 저축은행, PF손실·대출연체로 건전성 우려
+- 박세훈 작가
+- 안승찬 언더스탠딩 기자
+- 김현우 행복자산관리연구소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240705.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240705.mp3</guid>
+      <pubDate>Fri, 05 Jul 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/4(목) 구도심의 미래, 도쿄 대개조에서 힌트를 얻다 (박희윤 현대사업개발 본부장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27998,19 +28013,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220713.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220713.mp3</guid>
       <pubDate>Wed, 13 Jul 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>7/13(수) 연료,플라스틱,화장품...콩의 변신은 무죄</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[<역시나 박정호>
-
-"곡물자원 특집 - 콩"
-
-출연 : 박정호 부원장(한국경제산업연구원)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220713(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220713(1).mp3</guid>
-      <pubDate>Wed, 13 Jul 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
