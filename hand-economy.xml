@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 7/8(월) 본인부담 상한액을 초과해서 실비보험이 안 된다고 합니다.</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 이번에 갑작스러운 사고로 인해 수술과 입원, 그리고 재활치료를 하면서 높은 의료비 부담이 생겼지만, 다행히 실비보험을 통해 해결될 거라 생각하였습니다. 그런데 보험사 보상담당자로부터 건강보험 본인부담상한액을 초과하여 실비 청구가 일부만 가능하고, 올해 12월31일까지는 더 이상 치료비 중 급여 부분은 보상이 되지 않는다는 연락을 받았습니다. 이번 사고로 장기간 재활치료를 받아야 하는 상황인데 실비보험을 청구할 수 없으니 너무 부담이 큽니다. 본인부담상한액을 초과한 돈은 내년 8월 정도에 공단에서 지급된다고 합니다. 혹시 병원비가 미지급된 보험금보다 적게 나오거나 안 나오면 어떡하냐고 물으니 그건 건강관리공단과 저의 문제이니 보험사와는 상관없는 일이라고 얘기하네요. 올해는 더 이상 실비보험 청구가 안 된다고 하니 더 걱정입니다. 내년에 초과분 환급될 때까지 기다려야 하나요? 다른 방법은 없을까요? ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240708.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240708.mp3</guid>
+      <pubDate>Mon, 08 Jul 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/8(월) 상속세 개편, 정상화 vs 부자 감세.. 양측 입장은? (오문성 교수, 유호림 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27997,15 +28008,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220718.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220718.mp3</guid>
       <pubDate>Mon, 18 Jul 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>7/17(일) 손경제 주간 하이라이트</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220717.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220717.mp3</guid>
-      <pubDate>Sun, 17 Jul 2022 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
