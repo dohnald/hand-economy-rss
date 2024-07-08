@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[경제콘서트] 노후 준비: 너무 늦었다고 생각하는 당신을 위해(김경록 고문)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[27th 경제콘서트
+‘너무 늦었다고 생각하는 당신을 위해’
+w. 김경록 미래에셋자산운용 고문
+
+일시: 2024년 6월 29일 (토) 오후 2시
+장소: 상암 MBC 골든마우스홀
+출연: 김경록 미래에셋자산운용 고문, 이진우 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240707.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240707.mp3</guid>
+      <pubDate>Sun, 07 Jul 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/6(토) 엔화가 이래서 떨어지고 있습니다 (박정호 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27988,17 +28003,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220715_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220715_1.mp3</guid>
       <pubDate>Fri, 15 Jul 2022 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]7/15(금) 보험사 주택담보대출, 왜 은행보다 대출한도가 높은걸까?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[보험사 주택담보대출, 은행보다 이자도 낮을 수 있고, 대출한도도 더 많이 나올 수 있다는데... 왜 그런건지, 혹시 불이익이 있는 건 아닐까?
-
-보험사 대출이 은행과 다른 기준을 적용받는 이유, 그리고 신용점수 등의 불이익이 발생하는 건 아닌지 상담해드립니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220715.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220715.mp3</guid>
-      <pubDate>Fri, 15 Jul 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
