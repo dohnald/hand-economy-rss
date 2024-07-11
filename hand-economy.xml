@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 7/11(목) 해외주식 투자 시 세금의 종류와 절세방법이 궁금합니다</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 올해부터 본격적으로 투자를 시작한 사회초년생입니다.
+적금 이외에도 월 10만 원은 연금 저축 계좌로 미국 배당주에 투자하고 있고, 
+월 40만 원씩은 직접 투자를 하고 있는데요, 이중 해외주식이 대부분입니다.
+그런데, 해외주식을 하게 되면 15%씩 세금을 뗀다고 들었던 것 같은데 이 세금은 언제, 어떻게 내는 걸까요? 추가로, 해외주식은 양도세를 내야 한다고 들었는데요, 이 양도세는 어떤 조건에서 내게 되는 것인지, 
+이런 양도세를 피하기 위해서는 어떤 전략을 추가로 세워야 하는 것인지도 궁금합니다. 이전 상담 내용 중에, 배우자에게 증여하는 방안이 유리할 수 있다고 들었는데요, 개인이 이런 양도세를 절세하는 방법은 무엇이 있는지 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240711.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240711.mp3</guid>
+      <pubDate>Thu, 11 Jul 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/11(목) 배민 중개수수료 인상｜금감원, 저축은행 PF펀드 제동｜美 원전 늘어나나</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28013,18 +28028,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220720.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220720.mp3</guid>
       <pubDate>Wed, 20 Jul 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>7/20(수) 곡물 자원 감자-악마의 음식에서 5대 작물 등극까지</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[역시나 박정호
-
-“곡물 자원 감자-악마의 음식에서 5대 작물 등극까지”
-박정호 부원장(한국경제산업연구원)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220720.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220720.mp3</guid>
-      <pubDate>Wed, 20 Jul 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
