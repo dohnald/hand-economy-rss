@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 7/12(금) 기준금리 인하 깜빡이｜아파트값 상승폭↑｜큐텐 미정산 논란</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1) 한은 기준금리 인하 깜빡이 켰다
+2) 서울 아파트값 상승폭 5년 10개월만 최대
+3) 시스템 오류? 큐텐 판매 정산금 지연 논란
+
+- 박세훈 작가
+- 김현우 행복자산관리연구소장
+- 안승찬 언더스탠딩 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240712.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240712.mp3</guid>
+      <pubDate>Fri, 12 Jul 2024 08:29:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/11(목) 가장 젊은 대륙 아프리카, 기회의 땅 되나 (김성수 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28015,19 +28030,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220721.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220721.mp3</guid>
       <pubDate>Thu, 21 Jul 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>7/21(목) 신한, 우리은행의 수상한 외환거래 / 다음 달부터 생애최초 주택구입 LTV 80% 완화 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 신한, 우리은행의 수상한 외환거래 
-- 다음 달부터 생애최초 주택구입 LTV 80% 완화 
-- CGV가 발행한 전환사채, 흥행 저조한 이유는?
-
-출연: 박세훈 작가, 김현우 소장, 이슬기 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220721.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220721.mp3</guid>
-      <pubDate>Thu, 21 Jul 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
