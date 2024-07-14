@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/13(토) 다국적 기업들이 멕시코로 가고 있습니다 (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+[역시나 박정호]
+다국적 기업들이 멕시코로 가고 있습니다
+w. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240713.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240713.mp3</guid>
+      <pubDate>Sat, 13 Jul 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/12(금) 다가온 3중전회, 중국 경제정책의 향방은? (이선엽 이사)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28005,20 +28017,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220725.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220725.mp3</guid>
       <pubDate>Mon, 25 Jul 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>7/25(월) 용산 한강맨션 재건축초과이익 부담금이 7억? / 음주, 무면허 사고, 이제 보험 적용 못 받는다 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 용산 한강맨션 재건축초과이익 부담금이 7억? 
-- 종부세 개정되니 매물이 줄었다?
-- 음주, 무면허 사고, 이제 보험 적용 못 받는다
-- 캐피탈 회사들, 부동산 PF대출 '부실 우려' 증가
-
-출연: 박세훈 작가, 김현우 소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220725.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220725.mp3</guid>
-      <pubDate>Mon, 25 Jul 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
