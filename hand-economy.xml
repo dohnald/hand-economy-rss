@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/20(토) 미국 향한 대체지인 멕시코의 치안은 이렇습니다 (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+[역시나 박정호]
+미국 향한 대체지인 멕시코의 치안은 이렇습니다
+w. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240720.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240720.mp3</guid>
+      <pubDate>Sat, 20 Jul 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/19(금) 파리올림픽 D-5..올림픽의 경제학은 이렇습니다 (이종훈 작가)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27999,21 +28011,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220802.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220802.mp3</guid>
       <pubDate>Tue, 02 Aug 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>8/2(화) 정부, 개인택시 부제 폐지 나서나? / 아파트 층간소음 규제 강화된다 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 개인택시 부제 폐지되나?
-- 아파트 층간소음 규제 강화된다
-- 금리 상승에 엇갈린 리츠와 인프라펀드 주가
-­- 최근 암보험 절판마케팅 성행, 주의할 점은?
-­- 우크라이나 곡물 수출 재개
-
-출연: 박세훈 작가, 김현우 소장, 나수지 기자 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220802(2).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220802(2).mp3</guid>
-      <pubDate>Tue, 02 Aug 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
