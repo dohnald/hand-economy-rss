@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 7/24(수) IRP의 절세효과와 연금수령 조건은 어떻게 되나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 저는 회사에서 DC형 퇴직연금을 가입했고, 개인적으로 절세 및 노후자금 목적으로 별도의 IRP계좌를 만들어서 작년부터 연간 900만원씩 납입하고 있습니다. 16.5%의 세금을 돌려받을 수 있고, 연금을 수령할 땐 5.5%의 세금을 내야한다고 하니, 낼 때는 약 150만원의 세금을 아끼고, 연금을 받을 땐 약 27만원의 세금만 내면 되는 걸까요?
+또, IRP는 가입 후 5년이 지나야 수령할 수 있다고 하더라구요. 앞으로 4년 뒤인 2028년이 되면 만 60세가 돼서 퇴직 예정인데요, 올해 납입하는 돈은 2028년이 되면 4년밖에 안 되었으니 수령을 할 수 없는 건가요? 
+그럼 퇴직 후 해마다 수령할 수 있는 연금액은 어떻게 되는 걸까요? 
+제가 생각한 세금 계산방법이 맞는 건지, 연간 수령액은 얼마인 건지 알고 싶습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240724.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240724.mp3</guid>
+      <pubDate>Wed, 24 Jul 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/24(수) 코인 거래소 예치금 이자 경쟁｜계속고용, 고령사회 해법되나? (김덕호 경사노위 상임위원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28016,18 +28030,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/456.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/456.mp3</guid>
       <pubDate>Thu, 04 Aug 2022 14:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]8/4(목) 마이너스 통장, 조금이라도 이자를 아끼려면?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[비상금 용도로 사용하고 있는 마이너스 통장, 마이너스 통장 사용이 신용점수와 어떻게 연관되는지, 또 조금이라도 이자를 아끼는 방법이 궁금하다!
-
-마이너스 통장으로 불리는 한도대출의 장단점, 이자 아끼는 방법, 사용시 주의사항, 신용점수 관리법까지 상담해드립니다.
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220804(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220804(1).mp3</guid>
-      <pubDate>Thu, 04 Aug 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
