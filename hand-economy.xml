@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/25(목) 14년 만의 정권교체..영국은 지금 브렉시트 후회 중? (강유덕 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+14년 만의 정권교체..영국은 지금 브렉시트 후회 중?
+- 강유덕 한국외대 LT학부 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240725.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240725.mp3</guid>
+      <pubDate>Thu, 25 Jul 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 7/25(목) 임대인이 바뀌면 계약갱신 요구권을 쓸 수 없나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28020,17 +28031,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220804_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220804_1.mp3</guid>
       <pubDate>Fri, 05 Aug 2022 13:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>8/5(금) 미국 금리 인상, 브레이크 걸렸다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[센터뷰
-"미국 금리 인상, 브레이크 걸렸다"
--신영증권 김학균 리서치센터장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220805.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220805.mp3</guid>
-      <pubDate>Fri, 05 Aug 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
