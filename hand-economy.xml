@@ -16,6 +16,32 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 7/25(목) 티몬·위메프 사태 일파만파｜반도체 공장 물부족 경고등｜부산항 선박 대란 </title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제 뉴스]
+1) 티몬·위메프 정산지연 사태 일파만파 
+2) 반도체 공장 '물 부족' 경고등
+3) 중국발 물량 밀어내기에 부산항 선박 부족
+- 김현우 행복자산관리연구소장
+- 손석우 뉴스큐레이터
+- 박세훈 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240725.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240725.mp3</guid>
+      <pubDate>Thu, 25 Jul 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 7/24(수) 미국 방위 산업이 DIU 주도로 변하고 있습니다 (서병수 애널리스트) </title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+미국 방위 산업이 DIU 주도로 변하고 있습니다
+- 서병수 애널리스트]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240724.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240724.mp3</guid>
+      <pubDate>Wed, 24 Jul 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 7/24(수) IRP의 절세효과와 연금수령 조건은 어떻게 되나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28006,30 +28032,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220805.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220805.mp3</guid>
       <pubDate>Fri, 05 Aug 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]8/5(금) 오피스텔 관리비, 카드납부가 안 된다는데.../퇴직한 남편, 아내의 의료보험에 올릴 수 있을까</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[1. 오피스텔 관리비 카드결제가 안 되고 통장이체로만 납부하게 하는데, 소득공제 받을 방법이 없을까?
-
-관리비는 소득공제 대상이 아니라는 점, 그리고 카드납부 거부가 위법행위가 되는 조건도 알려드립니다.
-
-2. 4대보험이 되는 사업장에서 하루 4시간 근무하는 상담자, 퇴직한 남편을 자신의 의료보험에 올릴 수 있는지, 또 연 1천만원 넘는 주택 임대소득이 있는 경우 의료보험은 무조건 단독으로 지역가입자가 되는 건지, 이 경우 대학생 자녀가 직장을 다녀도 자식 앞으로 올릴 수 없는 지 궁금하다.
-
-월세 사업자 명의에 따라 건강보험료 산정이 어떻게 달라지는지, 지역가입자의 기준까지 상담해드립니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220805.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220805.mp3</guid>
-      <pubDate>Fri, 05 Aug 2022 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>팟캐스트 담당자 불렀습니다. (주의! 설명 길고 장황)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/456.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/456.mp3</guid>
-      <pubDate>Thu, 04 Aug 2022 14:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
