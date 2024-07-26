@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 7/26(금) 2024 세법개정안 핵심정리｜엔화가 오른다?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제 뉴스]
+1) 상속세율 40%로 인하.. 자녀공제 5천만→5억원
+2) ISA 납입 한도?비과세 한도 2배 확대
+3) 엔화가 드디어 오르고 있다?
+- 안승찬 언더스탠딩 기자
+- 김현우 행복자산관리연구소장
+- 박세훈 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240726.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240726.mp3</guid>
+      <pubDate>Fri, 26 Jul 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/25(목) 14년 만의 정권교체..영국은 지금 브렉시트 후회 중? (강유덕 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28022,15 +28037,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220807.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220807.mp3</guid>
       <pubDate>Sun, 07 Aug 2022 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - 이진우, 미국에서 구급차 탔던 썰!</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220804_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220804_1.mp3</guid>
-      <pubDate>Fri, 05 Aug 2022 13:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
