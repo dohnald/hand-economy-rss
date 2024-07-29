@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/29(월) 유전자 편집 기술, 이렇게까지 발전했습니다 (김응빈 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+유전자 편집 기술, 이렇게까지 발전했습니다
+- 김응빈 연세대 시스템생물학과 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240729.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240729.mp3</guid>
+      <pubDate>Mon, 29 Jul 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 7/29(월) 1년으로 맺은 주택임대차 계약, 연장 시점은 언제인가요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28018,19 +28029,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220811.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220811.mp3</guid>
       <pubDate>Thu, 11 Aug 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>협찬인가? - 오늘 왠지 짠하다...상무님 화이팅!</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[다양한 산업과 직업의 속이야기를 파헤쳐보는 (이것은 협찬인가 콘텐츠인가)
-
-이번 화의 주인공은 ERP 개발 회사 '영림원 소프트랩'의 임승환 상무님입니다.
-
-홈페이지 : www.ksystem.co.kr]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20220809.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20220809.mp3</guid>
-      <pubDate>Wed, 10 Aug 2022 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
