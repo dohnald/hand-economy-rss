@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/30(화) 중국의 AI가 초고속 성장하고 있습니다 (김덕진 소장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+중국의 AI가 초고속 성장하고 있습니다
+- 김덕진 IT커뮤니케이션연구소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240730.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240730.mp3</guid>
+      <pubDate>Tue, 30 Jul 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 7/30(화) IRP의 수수료에 대해서 궁금합니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28021,17 +28032,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220812.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220812.mp3</guid>
       <pubDate>Fri, 12 Aug 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]8/11(목) 1년에 4% 이자 준다는 증권사 발행어음, 투자해도 될까?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[증권사 발행어음에 1년 투자하면 4% 넘는 이자를 준다는 광고 문자를 받았는데, 투자해도 괜찮을까? 위험성은 없을까?
-
-증권사에서 발행하는 어음의 원리, 어음과 채권의 차이, 그리고 안전성은 어떤지까지, 자세히 상담해드립니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220811.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220811.mp3</guid>
-      <pubDate>Thu, 11 Aug 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
