@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 7/30(화) IRP의 수수료에 대해서 궁금합니다.</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 지금까진 은행에서 개설한 IRP를 이용하고 있었는데요, 
+증권사 IRP가 수수료가 없다고 해서 이번에 갈아타려고 하는 중입니다.
+각 증권사의 홈페이지를 둘러보던 중, 모 증권사의 IRP 수수료를 보고 궁금한 점이 생겼는데요, 
+다이렉트로 계좌를 개설하면 운용 및 자산관리수수료 무료인데, 펀드의 보수는 별도 발생할 수 있다고 쓰여있고, IRP의 기본수수료는 후취로 자산관리 수수료가 연 0.1%, 운용관리수수료가 연 0.2%라고 돼 있었습니다.
+그럼 운용 및 자산관리 수수료는 없다고 광고하지만, 결국에 매년 떼어간다는 의미인 건가요? 
+해당 후취수수료는 어떻게 부과되는 것인지 궁금합니다. ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240730.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240730.mp3</guid>
+      <pubDate>Tue, 30 Jul 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/30(화) 부동산 연금화 시동｜노후주택, 전체 절반 넘었다｜美 대선후보와 비트코인</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28016,21 +28032,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220811.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220811.mp3</guid>
       <pubDate>Thu, 11 Aug 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>8/11(목) 아편전쟁에서 중국이 패한 건 수로 물류 수송 때문?,기업은 누구의 것인가</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[역사 속 경제 이야기 
-“아편전쟁에서 중국이 패한 건 수로 물류 수송 때문?”
-썬킴 역사스토리텔러
-
-책크리스트
-“기업은 누구의 것인가”
-김치형 경제뉴스큐레이터 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220811.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220811.mp3</guid>
-      <pubDate>Thu, 11 Aug 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
