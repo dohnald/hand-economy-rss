@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/1(목) 파월의 강력한 시그널, 美 금리 인하가 세계경제에 미칠 파장은? (김영익 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+파월의 강력한 시그널, 美 금리 인하가 세계경제에 미칠 파장은? 
+- 김영익 서강대 경제대학원 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240801.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240801.mp3</guid>
+      <pubDate>Thu, 01 Aug 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 8/1(목) 임대인의 전세보증보험 가입을 위해 보증금을 낮췄습니다. </title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28023,17 +28034,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220815.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220815.mp3</guid>
       <pubDate>Mon, 15 Aug 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>8/15(월) 플라스틱 분리배출, 이대로는 안 된다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[이슈 인터뷰
-“플라스틱 분리배출, 이대로는 안 된다”
--홍수열 자원순환사회경제연구소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220815.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220815.mp3</guid>
-      <pubDate>Mon, 15 Aug 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
