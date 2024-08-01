@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 8/1(목) 임대인의 전세보증보험 가입을 위해 보증금을 낮췄습니다. </title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 저는 2021년 11월 말에 2년 전세계약을 맺고, 작년 말엔 묵시적 갱신으로 연장이 되어 지금까지 살고 있습니다. 그러던 어느 날 집주인이 가입한 보증보험이 만료되어 새로 가입해야한다는 내용의 우편물을 받았습니다. 집주인에게 알아보니, 최초 계약을 맺었을 때보다 보증보험 기준이 강화돼서 가입을 못 한다고 하더라구요. 보증금이 너무 높아서 가입이 안 되니, 보증금을 낮추고 월세로 전환하자는 요구가 있었지만, 저희 입장에서는 부담이 너무 커서 이사를 가겠다고 말씀드렸습니다.
+그런데 며칠 뒤 현재 상태로 계속 거주하면 집주인이 과태료를 내야 한다면서, 보증보험을 가입하려면 보증금을 낮춘 계약서가 필요하니 몇 달 동안만 월세를 내주면 안 되겠냐고 부탁하더라구요. 혹시나 임대인이 나쁜 맘을 먹고 보증금을 안 주면 어쩌나 걱정되는 마음에, 수정한 계약서를 보내드렸습니다. 공인중개사 없이 임대인이 보증금 조정하여 작성한 계약서에 서명한 것이 잘한 건지도 모르겠고, 나중에 세입자가 구해지면 중개비도 저희가 부담해야 되는게 아닐까 걱정되는데 어떻게 해야 될까요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240801.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240801.mp3</guid>
+      <pubDate>Thu, 01 Aug 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/1(목) 일본은 금리인상, 미국은 동결｜美 반도체 장비 수출 규제서 한국 예외｜경기 미분양 7년만 최대</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28022,15 +28034,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220815.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220815.mp3</guid>
       <pubDate>Mon, 15 Aug 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>8/14(일) 손경제 주간 하이라이트</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220814.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220814.mp3</guid>
-      <pubDate>Sun, 14 Aug 2022 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
