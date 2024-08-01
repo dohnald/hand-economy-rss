@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/1(목) 일본은 금리인상, 미국은 동결｜美 반도체 장비 수출 규제서 한국 예외｜경기 미분양 7년만 최대</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제 뉴스]
+1) 일본, 기준금리 0.25%로 인상.. 미국은 동결
+2) 美, 대중국 반도체 수출규제 강화.. 한국 제외될 듯
+3) 동탄청약 수백만 몰렸는데.. 경기 미분양 7년만 최대
+- 박세훈 작가
+- 손석우 경제뉴스큐레이터
+- 김현우 행복자산관리연구소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240801.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240801.mp3</guid>
+      <pubDate>Thu, 01 Aug 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/31(수) 시니어주택, 초고령 사회 맞춤형 주거모델입니다</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28016,15 +28031,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220814.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220814.mp3</guid>
       <pubDate>Sun, 14 Aug 2022 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - 이진우, "난 내비 안 믿어"</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220812_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220812_1.mp3</guid>
-      <pubDate>Fri, 12 Aug 2022 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
