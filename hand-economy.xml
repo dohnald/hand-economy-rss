@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (5부) 좌우명: 다다익선 박리다매</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[출연료 인상단]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY240802_5.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY240802_5.mp3</guid>
+      <pubDate>Fri, 02 Aug 2024 17:04:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (4부) 패까기 전쟁</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28,16 +37,16 @@
       <title>커피타임 - (3부) 계란 100분 토론</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[-]]></description>
+      <description><![CDATA[계란논쟁 멈춰줄 사람 어디 없나]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY240802_3.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY240802_3.mp3</guid>
       <pubDate>Fri, 02 Aug 2024 17:02:00 +0900</pubDate>
     </item>
     <item>
-      <title>커피타임 - (2부) 맥락 거세 유튜브</title>
+      <title>커피타임 - (2부) 우리 아이가 달라졌어요</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[-]]></description>
+      <description><![CDATA[성실 DJ 진우]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY240802_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY240802_2.mp3</guid>
       <pubDate>Fri, 02 Aug 2024 17:01:00 +0900</pubDate>
@@ -28014,17 +28023,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220817.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220817.mp3</guid>
       <pubDate>Wed, 17 Aug 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>8/17(수) 폭우, 폭염 피해 예방을 위해 갖춰야 할 지도</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[역시나 박정호
-“폭우, 폭염 피해 예방을 위해 갖춰야 할 지도”
-박정호 부원장(한국경제산업연구원)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220817.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220817.mp3</guid>
-      <pubDate>Wed, 17 Aug 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
