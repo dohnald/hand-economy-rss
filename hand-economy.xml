@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/3(토) 지상낙원이었던 베네수엘라, 대혼돈에 빠졌습니다 (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+[역시나 박정호]
+지상낙원이었던 베네수엘라, 대혼돈에 빠졌습니다
+w. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240803.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240803.mp3</guid>
+      <pubDate>Sat, 03 Aug 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/2(금) 러시아, 그곳엔 전쟁이 없었다 (이문영 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28010,19 +28022,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220818.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220818.mp3</guid>
       <pubDate>Thu, 18 Aug 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>8/18(목) 서울우유 원유구매가 인상에 정부, 업계는 당황 / 찬밥신세 된 'K뉴딜 ETF'</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 서울우유 원유구매가 인상에 정부, 업계는 당황
-- 찬밥신세 된 K뉴딜 ETF
-- 서울시, 깡통전세 대비책 내놨다
-
-출연: 박세훈 작가, 이슬기 기자, 남궁민 경제뉴스큐레이터]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220818.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220818.mp3</guid>
-      <pubDate>Thu, 18 Aug 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
