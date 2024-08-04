@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/4(일) 화려한 숫자 뒤에 감춰진 미국 경제의 이면 (홍춘욱 대표)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+화려한 숫자 뒤에 감춰진 미국 경제의 이면
+- 홍춘욱 프리즘투자자문 대표]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240804.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240804.mp3</guid>
+      <pubDate>Sun, 04 Aug 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/3(토) 지상낙원이었던 베네수엘라, 대혼돈에 빠졌습니다 (박정호 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28007,21 +28018,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220818.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220818.mp3</guid>
       <pubDate>Thu, 18 Aug 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>8/18(목) 황금보다도 귀했던 소금, 오토워</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[역사 속 경제 이야기
-“황금보다도 귀했던 소금”
-썬킴 역사스토리텔러
-
-책크리스트
-“오토워”
-김치형 경제뉴스큐레이터]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220818.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220818.mp3</guid>
-      <pubDate>Thu, 18 Aug 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
