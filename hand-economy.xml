@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 8/5(월) 국채에 투자했는데 마이너스가 났습니다.</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 얼마 전 IRP를 가입해서, 일부는 ETF를 사고, 나머지는 국채를 샀습니다. 
+그런데 원금보장이 되는 줄 알았던 채권에서도 마이너스가 발생하고 있습니다.
+자세한 내역을 보면 매입 원금은 약 119만 9천원인데, 평가금액은 약 119만 7천 몇백원 정도로, 대략 1700원 정도 마이너스인 상태입니다. 국채는 원금이 보장된다고 하던데 왜 얼마 지나지도 않은 채권에서 마이너스가 
+나오는 걸까요? 어디에서 손실이 발생한 것인지 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240805.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240805.mp3</guid>
+      <pubDate>Mon, 05 Aug 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/5(월) 미국은 이미 경기 침체?｜[인터뷰] 임대차2법 폐지론</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28007,21 +28021,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220819.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220819.mp3</guid>
       <pubDate>Fri, 19 Aug 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>8/19(금) 이제 카카오톡 송금 불가능해진다? / 마트들의 반값치킨 경쟁과 달라진 여론 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 정부, 서울우유 제외하고 차등가격제 추진
-- 이제 카카오톡으로 송금 불가능해진다?
-- 마트들의 반값치킨 경쟁과 달라진 여론
-- 태국 라면 업체들, 정부에 가격인상 요구
-- 아르헨티나, 고물가에 대규모 시위 벌어져
-
-출연: 박세훈 작가, 이슬기 기자, 남궁민 경제뉴스 큐레이터]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220819.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220819.mp3</guid>
-      <pubDate>Fri, 19 Aug 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
