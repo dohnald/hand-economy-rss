@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 8/6(화) 집주인이 바뀌면 중개수수료는 누가 내나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요! 손경제 유니버스 애청자로서 이렇게 고민상담을 올리게 될 줄 몰랐습니다. 
+저는 전세 임차인으로 거주중인데요, 현재 묵시적 갱신으로 계약이 연장돼서 살고 있는 상태입니다. 
+그런데 이런 상황에서 집이 매매되어 임대인이 바뀌게 됐습니다. 
+새로운 집주인으로 바뀌면, 그 집주인은 직접 들어와 살겠다고 하는데요, 
+이럴 때 부동산 중개수수료와 이사비용은 누가 부담해야 되는 건지 궁금합니다. ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240806.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240806.mp3</guid>
+      <pubDate>Tue, 06 Aug 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/6(화) 세계 증시 패닉｜청라 전기차 화재｜외평채 발행추진</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28005,15 +28020,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220821.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220821.mp3</guid>
       <pubDate>Sun, 21 Aug 2022 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - 이진우는 토크가 하고 싶어서...</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220818_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220818_1.mp3</guid>
-      <pubDate>Fri, 19 Aug 2022 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
