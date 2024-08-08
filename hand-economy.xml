@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/8(목) 극한호우 시대, 새로운 도시설계가 필요합니다 (권현한 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+극한호우 시대, 새로운 도시설계가 필요합니다
+- 권현한 세종대 건설환경공학과 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240808.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240808.mp3</guid>
+      <pubDate>Thu, 08 Aug 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 8/8(목) 자녀에게 증여해 준 돈으로 보험을 가입하면?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28020,22 +28031,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220823.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220823.mp3</guid>
       <pubDate>Tue, 23 Aug 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>8/23(화) 폐쓰레기 해결사 시멘트 산업, 아이디어와 기술을 활용해 만든 컨셉 제품들</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[공부왕 이종훈
-“폐쓰레기 해결사 시멘트 산업, 가격 오르는 이유”
-이종훈 작가
-
-
-트렌드 리포트
-“아이디어와 기술을 활용해 만든 컨셉 제품들”
-조현경 대표(로그인디)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220823.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220823.mp3</guid>
-      <pubDate>Tue, 23 Aug 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
