@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 8/12(월) 일하던 곳이 폐업했는데, 퇴직금과 실업급여 받을 수 있나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 동네 빵집에서 1년 이상 근무하고 있었는데, 
+매출이 하락하면서 지난 6월 말에 가게가 폐업하게 됐습니다. 
+당시 저를 포함해서 아르바이트생 3명이 갑작스럽게 실직을 하게 되었구요. 
+다행히 마지막 월급은 입금되었는데 퇴직금은 아직 못 받은 상태입니다. 근로계약서를 쓰긴 했는데 
+어떤 내용이었는지는 정확히 기억이 안 나는데요, 
+만약 근로계약서에 퇴직금은 없다고 쓰여있었다면, 저는 퇴직금을 받을 수 없는 건가요?
+가게가 폐업을 했으니 실업급여는 받을 수 있는 건지, 실업급여를 받게 되면 퇴직금은 못 받는 건지도 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240812.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240812.mp3</guid>
+      <pubDate>Mon, 12 Aug 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/12(월) 정책대출 금리 인상｜[인터뷰] 8·8주택공급대책, 실효성은?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28007,17 +28024,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220825_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220825_1.mp3</guid>
       <pubDate>Fri, 26 Aug 2022 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]8/26(금) 화재보험, 꼭 가입해야할까?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[집주인보다 세입자가 더 가입해야 된다는 화재보험... 집주인과 세입자가 가입한 보험에는 어떤 차이가 있는 걸까?
-
-집주인이 화재보험에 가입했다하더라도, 세입자가 안심하면 안 된다고 하는데요, 집주인과 세입자에게 화재보험 보상 범위는 어떻게 적용되는지 알려드립니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220826.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220826.mp3</guid>
-      <pubDate>Fri, 26 Aug 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
