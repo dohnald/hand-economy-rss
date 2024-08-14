@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 8/14(수) 산재처리를 하면 불이익이 있을까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 저는 국가기관에 공무직으로 재직하고 있는데요, 올해 초 회사에서 업무를 보던 중 발목을 다쳐 
+현재까지 치료 중에 있습니다. 처음엔 금방 낫겠지 했는데, 계속 발목을 써야 하는 일이라 무리가 가서 지금에 이르렀습니다. 치료 기간이 길어지다보니 개인적으론 치료비 부담이 되어 산재 처리가 될지 궁금해 이렇게 사연 남겨봅니다.
+병원에 입원할 정도가 아닌데 산재 처리가 가능할까요? 그래서 만약 산재를 신청한다면, 혹시나 담당 공무원의 인사 등에 불이익이 있지 않을까 가장 걱정입니다. 
+또, 지금까지는 개인 실손보험으로 보상을 받았는데, 산재 처리가 된다면 기존에 받았던 보험금은 되돌려줘야 
+하는지, 그리고 남아있는 치료비도 보상을 받을 수 있는지도 궁금합니다. ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240814.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240814.mp3</guid>
+      <pubDate>Wed, 14 Aug 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/14(수) 카카오페이 개인정보 유출｜[인터뷰] 자본시장법 개정안, 실효성은?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28021,20 +28036,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220830.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220830.mp3</guid>
       <pubDate>Tue, 30 Aug 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>8/30(화) 세입자 사정으로 계약해지 시 상가 권리금 못 받는다? / 운용사도 자기돈 투자 의무화... 공모펀드 활성화될까? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[­- 세입자 사정으로 계약해지 시 상가 권리금 못 받는다?
-- 운용사도 자기돈 투자 의무화... 공모펀드 활성화될까?
-­- 넷플릭스, 광고 요금제 출시 예정 
-- 공정위, BHC 현장조사... 된서리 맞는 치킨업계
-
-출연: 김현우 소장, 나수지 기자, 남궁민 경제뉴스 큐레이터]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220830.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220830.mp3</guid>
-      <pubDate>Tue, 30 Aug 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
