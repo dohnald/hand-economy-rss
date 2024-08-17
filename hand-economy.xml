@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/16(금) 배스킨라빈스의 역사 (추동훈 기자) | 영국 폭동의 진짜 이유 (어예진 소장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+배스킨라빈스가 전쟁터에서 시작됐다?
+- 추동훈 매일경제 기자
+
+2부
+영국 폭동의 진짜 이유 | 방글라데시가 뒤집혔다
+- 어예진 해담경제연구소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240816.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240816.mp3</guid>
+      <pubDate>Fri, 16 Aug 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (4부) 이틀 만에 집짓기</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28048,25 +28063,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220902.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220902.mp3</guid>
       <pubDate>Fri, 02 Sep 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>9/2(금) 추석 특수 기대하는 유통가 동향 및 이슈 업데이트, - 미국 온실가스(메탄) 요금 부과</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[센터뷰
-“추석 특수 기대하는 유통가 동향 및 이슈 업데이트” 
-오린아 애널리스트(이베스트투자증권)
-
-해외파 어예진-글로벌 리포트
-- 미국의 기후법안.. 석유산업 최초로 온실가스(메탄) 요금 부과
-- 여전히 두자릿수 상승률 유지, 영국 집값
-- 성장 둔화, 중국 탄소배출량 감소
-- 달러 강세는 계속되지 않는다
-- 미 캘리포니아, 소셜미디어 규제 법안.. 
-어예진 소장(해담경제연구소)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220902.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220902.mp3</guid>
-      <pubDate>Fri, 02 Sep 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
