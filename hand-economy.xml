@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/17(토) 한국 화장품 업계의 미래가 밝아 보입니다 (홍진채 대표)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+한국 화장품 업계의 미래가 밝아 보입니다
+- 홍진채 라쿤자산운용 대표]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240817.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240817.mp3</guid>
+      <pubDate>Sat, 17 Aug 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/16(금) 배스킨라빈스의 역사 (추동훈 기자) | 영국 폭동의 진짜 이유 (어예진 소장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28052,17 +28063,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220902_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220902_1.mp3</guid>
       <pubDate>Fri, 02 Sep 2022 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]9/2(금) 주택임대소득, 분리과세냐 종합과세냐</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[임대하던 집을 얼마전 월세로 바꾸면서 분리과세와 종합과세 중 유리한 쪽을 선택해 세금을 신고하라는데, 어떤 게 더 유리한 걸까? 또 관리비는 세금을 안 내도 돼서 많이 받아도 된다던데, 이게 무슨 뜻일까?
-
-임대 소득 절세팁과 어디까지가 절세이고 편법인지까지, 꼼꼼히 상담해드립니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220902.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220902.mp3</guid>
-      <pubDate>Fri, 02 Sep 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
