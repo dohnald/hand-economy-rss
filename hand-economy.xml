@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 8/19(월) 보험사 주택담보대출이 궁금합니다</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 이제 아이가 생길 예정이라 더 큰집을 매매해서 이사를 가려고 하는데요, 주택담보 대출을 알아보다 보니 보험회사의 대출이 은행보다 한도가 높은 걸 알게 됐습니다. 이자가 은행보다는 높다고 하는데, 현재 
+기준으로는 0.5%포인트 정도 높은 대신, 1억 정도 대출을 더 받을 수 있더라구요. 
+개인적으론 대출을 많이 받아야 하는 상황이라 보험사의 대출도 괜찮은 조건이 아닌가 싶습니다.
+그런데 보험사 주담대가 일반인들에게 낯설다는 것은 분명히 단점이 있기 때문이지 않을까 하는 생각도 듭니다. 혼자 추측해보기로는 은행의 경우 정부가 까다롭게 관리해서 문제가 없지만, 보험사 주담대의 경우는 나중에 
+갑자기 보험사에서 금리를 올려버릴 수 있다는 리스크가 있는 건가 싶은데, 정확한 내용을 찾기가 어려워서 
+사연 보내봅니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240819.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240819.mp3</guid>
+      <pubDate>Mon, 19 Aug 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/19(월) 제2의 티메프 사태가 온다｜[인터뷰] 택시 월급제 도입 쟁점은?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28057,20 +28073,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220905.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220905.mp3</guid>
       <pubDate>Mon, 05 Sep 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>9/5(월) 한전, 내년에는 흑자 전환하겠다... 어떻게? / 중국, 또 '대도시 봉쇄령'... 경기침체 더 깊어지나 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 한전, 내년에는 흑자 전환하겠다... 어떻게?
-- 단체 실손보험도 중지 가능해진다
-- 중국, 또 '대도시 봉쇄령'... 경기침체 더 깊어지나
-- 컨테이너 운임 하락세, 물류 정상화의 신호?
-
-출연: 박세훈 작가, 김현우 소장, 나수지 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220905.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220905.mp3</guid>
-      <pubDate>Mon, 05 Sep 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
