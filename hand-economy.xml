@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 8/20(화) 국민연금과 개인연금, 어디에 돈을 넣어야 할까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요! 40대 초반 주부입니다. 국민연금 임의가입과 개인연금을 두고 고민하고 있습니다.
+현재, 국민연금은 예전에 직장 생활을 할 당시 10년 이상 납입해 둔 상태입니다.
+이후, 개인연금에는 매년 2~300만원 정도 납입중이구요. 
+국민연금을 최소한 연금을 받을 수 있는 기간인 10년을 다 채워둔 상태에서, 지금처럼 개인연금에 매년 2~300만원을 납입하는게 좋을지, 아니면 국민연금 임의가입으로 최소 금액을 계속 납입하는 것이 나을지 궁금합니다.
+개인연금은, 현재 소득이 없어 세액공제 혜택은 불필요한 상태이고, 납입한 돈은 ETF로 배당주에 꾸준히 
+투자하고 있습니다. 국민연금을 향후에 정상적으로 받을 수 있을지 걱정도 되는데, 이런 상태에서 어떻게 하는 것이 더 유리한지 알고 싶습니다]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240820.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240820.mp3</guid>
+      <pubDate>Tue, 20 Aug 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/20(화) 시중은행들 주담대 금리↑｜‘당근‘ 상위 이용자들 매출 공개돼｜청탁금지법 식사비 상향｜뚝 떨어진 환율</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28059,21 +28075,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220906.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220906.mp3</guid>
       <pubDate>Tue, 06 Sep 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>9/6(화) 15억 초과 주택, 담보대출 풀리나 / 3배 레버리지ETF에 투자하는 서학개미들 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 추석 맞아 중소기업 지원 자금 21조 방출
-- 15억 초과 주택, 담보대출 풀리나
-- 3배 레버리지ETF에 투자하는 서학개미들
-- 할부가 남아 침수차도 폐차 못한다?
-- 서울시 택시요금 인상안 공청회, 현장 반응은?
-
-출연: 박세훈 작가, 김현우 소장, 나수지 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220906.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220906.mp3</guid>
-      <pubDate>Tue, 06 Sep 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
