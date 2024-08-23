@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (2부) 라떼 시절 재테크</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[이자 괜찮으시겠어요? 화이팅!]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240823_2.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240823_2.mp3</guid>
+      <pubDate>Fri, 23 Aug 2024 17:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (1부) 정호 강연 금지?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[경기 지표는 쓰레기양?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240823_1.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240823_1.mp3</guid>
+      <pubDate>Fri, 23 Aug 2024 17:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 8/23(금) 전세기간과 아파트 입주일정이 안 맞습니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28057,38 +28075,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220909.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220909.mp3</guid>
       <pubDate>Fri, 09 Sep 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>9/9(금) 노후 아파트 재건축, 언제 할 수 있나?, 에너지 위기 겪는 EU.. 에너지 기업에 횡재세 부과 추진</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[센터뷰
-“노후 아파트 재건축, 언제 할 수 있나?” 
-김열매 연구위원(NH투자증권)
-
-해외파 어예진-글로벌 리포트
-- 에너지 위기 겪는 EU.. 에너지 기업에 횡재세 부과 추진
-- 실리콘밸리가 기술자 아닌 경제학자 고용하는 이유
-- 싱가포르, 인재 유치 아이디어
-- 네덜란드, 공공장소에서 고기 광고 금지
-어예진 소장(해담경제연구소)
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220909.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220909.mp3</guid>
-      <pubDate>Fri, 09 Sep 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>9/9(금) 우리나라도 '반려동물세' 도입 논의 시작되나 / 추석 귀성객 숫자, 차례상 비용은 어떻게 계산할까? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 우리나라도 '반려동물세' 도입 논의 시작되나
-- 추석 귀성객 숫자, 차례상 비용은 어떻게 계산할까?
-- 미국 초등생 읽기능력 급락, 이유는 코로나 때문?
-
-출연: 박세훈 작가, 김현우 소장, 안승찬 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220909.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220909.mp3</guid>
-      <pubDate>Fri, 09 Sep 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
