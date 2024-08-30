@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (4부) 콜롬비아 도시가스는요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ 질문왕 현우]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY240830_4.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY240830_4.mp3</guid>
+      <pubDate>Fri, 30 Aug 2024 17:03:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (3부) 똘똘한 아이는?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28072,17 +28081,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220920.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220920.mp3</guid>
       <pubDate>Tue, 20 Sep 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]9/19(월) 면세사업자가 되면 소득세도 면제되나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[면세사업자인데 왜 피부양자인가요? 면세사업자인데 건강보험은 어떻게 되나요? 면세사업자가 되면 소득세도 면제받나요? 
-
-면세사업자에 대해 설명해드립니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220919.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220919.mp3</guid>
-      <pubDate>Mon, 19 Sep 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
