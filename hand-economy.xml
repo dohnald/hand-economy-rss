@@ -16,6 +16,33 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (3부) 똘똘한 아이는?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240830_3.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240830_3.mp3</guid>
+      <pubDate>Fri, 30 Aug 2024 17:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (2부) 아싸라비아 콜롬비아</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[이재선 배우 이메일: mc800@naver.com]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240830_2.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240830_2.mp3</guid>
+      <pubDate>Fri, 30 Aug 2024 17:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (1부) 극복 가능 몸치</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240830_1.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240830_1.mp3</guid>
+      <pubDate>Fri, 30 Aug 2024 17:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 8/30(금) 학원이 방학인데도 학원비는 똑같이 내라고 합니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28056,41 +28083,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220919.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220919.mp3</guid>
       <pubDate>Mon, 19 Sep 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>9/19(월) 미국 울트라스텝 밟을까? 이번주 증시, 환율 전망, 성형 시술 정보 플랫폼 ‘강남언니’</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[센터뷰
-“미국 울트라스텝 밟을까? 이번주 증시, 환율 전망” 
-이선엽 영업부장(신한금융투자)
-
-블루칩신기주
-“성형 시술 정보 플랫폼 ‘강남언니’”
-신기주 부대표(더밀크코리아)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220919.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220919.mp3</guid>
-      <pubDate>Mon, 19 Sep 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>9/19(월) 4% 넘는 고금리 저축보험 상품들 경쟁적 출시 / 국세, 카드로 내면 수수료를 납세자가 내는 이유.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 4% 넘는 고금리 저축보험 상품들 경쟁적 출시
- 2. 국세, 카드로 내면 수수료를 납세자가 내는 이유
- 3. 재정난에 허덕이는 중국 지방정부]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220919.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220919.mp3</guid>
-      <pubDate>Mon, 19 Sep 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>9/18(일) 이진우의 손에 잡히는 경제</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220918.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220918.mp3</guid>
-      <pubDate>Sun, 18 Sep 2022 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
