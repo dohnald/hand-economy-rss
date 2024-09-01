@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/1(일) 베트남 경제가 중대한 기로에 섰습니다 (곽성일 센터장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+베트남 경제가 중대한 기로에 섰습니다 
+- 곽성일 대외경제정책연구원 세계지역연구센터장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240901.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240901.mp3</guid>
+      <pubDate>Sun, 01 Sep 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/31(토) 고물가의 대명사 아르헨티나가 변하고 있습니다 (박정호 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28070,18 +28081,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220921.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220921.mp3</guid>
       <pubDate>Wed, 21 Sep 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>9/21(수) 정부, 주식 배당 제도 손본다 / 국제 금값, 지속 하락.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 정부, 주식 배당 제도 손본다
- 2. 국제 금값, 지속 하락
- 3. 부실채권(NPL)이 원금보다 비싸게 거래가 되고 있다?
- 4. 8월 예대금리차 공시]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220921.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220921.mp3</guid>
-      <pubDate>Wed, 21 Sep 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
