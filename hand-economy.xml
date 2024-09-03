@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 9/3(화) 만기가 얼마 안 남은 채권, 중간에 팔아도 될까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 만기가 짧게 남은 대기업 회사채권이나 공기업 채권에 투자를 하고 있습니다. 그 중엔 만기가 5달 남은 미국 국채도 있는데요, 현재 수익률이 만기 시 받는 이율보다도 높아서 지금 매도를 해야 하나 
+고민 중입니다. 지금 매도하면 만기 전 해지하게 되는 건데 현재 수익률이 실제 수익이 되는 건지, 혹시 중도 해지라 위약금 같은 게 발생하는 건 아닌지 궁금합니다.
+증권사에 문의하니 미국 국채의 현재 가격과 환차익으로 인한 이익이라고 합니다.
+그럼 만기 시 환율이 지금과 같다고 가정한다면, 중간 매도의 이익과 만기시 이익 중 어느 것이 높은지 계산이 될까요? 증권사에서는 현재 환율로 계산하면 3만원 정도 차이가 난다고 하는데 어떤 게 유리한 건지 알 수는 없다고 하네요. 검색해도 안 나와서 처음으로 사연 보내봅니다.
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240903.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240903.mp3</guid>
+      <pubDate>Tue, 03 Sep 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/3(화) 밸류업 지수 곧 나온다｜美대선 쟁점된 프래킹｜생활형숙박시설, 집단 소송↑</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28081,21 +28096,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220922.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220922.mp3</guid>
       <pubDate>Thu, 22 Sep 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>9/22(목) 양안 긴장의 중심 대만 금문도 특산품 탄생 배경, 종자 세계를 지배하다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[역사 속 경제 이야기 
-“양안 긴장의 중심 대만 금문도, 특산품 탄생 배경”
-썬킴 역사스토리텔러
-
-책크리스트
-“종자 세계를 지배하다”
-김치형 경제뉴스큐레이터 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220922.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220922.mp3</guid>
-      <pubDate>Thu, 22 Sep 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
