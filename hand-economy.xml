@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/3(화) 국가대표 집중력의 비밀을 알려드립니다 (한덕현 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+국가대표 집중력의 비밀을 알려드립니다
+- 한덕현 중앙대병원 정신건강의학과 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240903.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240903.mp3</guid>
+      <pubDate>Tue, 03 Sep 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 9/3(화) 만기가 얼마 안 남은 채권, 중간에 팔아도 될까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28083,19 +28094,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220923.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220923.mp3</guid>
       <pubDate>Fri, 23 Sep 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]9/22(목) 지역주택조합 - 1억원, 원금 회수는 가능할까요</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-부모님이 지역주택조합에 투자를 하셨습니다. 지금까지 거의 1억원 가까운 돈이 들어간 상태인데요, 조합에 문제가 생겨서 계속 사업은 미뤄지고 있고, 이젠 제대로 아파트가 분양될 수 있을지도 의문입니다.
-
-제가 보기엔 원금을 회수할 수 있을지도 걱정입니다. 그래도 들어간 돈이 있으니 부모님께서는 일단 기다려보자고 하시는데요, 이대로 가도 될지, 돈을 돌려받을 방법은 없는지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220922.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220922.mp3</guid>
-      <pubDate>Thu, 22 Sep 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
