@@ -16,6 +16,28 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/5(목) [인터뷰] ‘연금 개혁안’ 17년 만에 보험료율 올린다 (이기일 보건복지부 제1차관)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[이슈 인터뷰]
+연금개혁안, 보험료율 13%로 세대별 차등 인상된다
+- 이기일 보건복지부 제1차관]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240905.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240905.mp3</guid>
+      <pubDate>Thu, 05 Sep 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 9/4(수) 지역별 비례선발제, 한국은행이 대학들에 제안하다 (정종우 한국은행 과장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+지역별 비례선발제, 한국은행이 대학들에 제안하다
+- 정종우 한국은행 미시제도연구실 과장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240904.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240904.mp3</guid>
+      <pubDate>Wed, 04 Sep 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 9/4(수) 집주인이 보증금을 3일 늦게 준다는데 대출을 연장해야 될까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28063,32 +28085,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220923_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220923_2.mp3</guid>
       <pubDate>Fri, 23 Sep 2022 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 무호흡을 대하는 아내의 자세</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220923_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220923_1.mp3</guid>
-      <pubDate>Fri, 23 Sep 2022 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]9/23(금) 상속포기와 한정승인 - 할아버지의 빚을 부모님이 갚아야 하나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[ [고민 상담]
-
-아버지가 돌아가시면서 부모님의 걱정거리가 생기셨습니다. 
-
-할아버지께서 살아계셨을 때 진 빚이 문제가 된 것 같더라구요. 할아버지께서 생전에 빚이 많으신 상태였다고 하시더라구요. 그런데 그 빚을 갚기 위해서 저희 아버지와 큰아버지, 고모가 돈을 드렸다고 합니다. 빚을 다 갚지는 못했고 일부만 갚았는데, 문제는 그렇게 드린 돈도 대출을 받아서 드린 겁니다. 
-
-이런 상황에서 할아버지가 돌아가셔서, 저희 부모님은 할아버지의 빚과 함께, 그 빚을 갚으려고 받은 대출까지도 갚아야할 상황이 됐습니다. 
-
-저희 부모님도 은퇴하셔서 생활비 정도 버는 일을 하고 계신데 빚을 갚아야 하다니 막막합니다. 어떻게 도움을 받을 곳이 없을까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220923.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220923.mp3</guid>
-      <pubDate>Fri, 23 Sep 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
