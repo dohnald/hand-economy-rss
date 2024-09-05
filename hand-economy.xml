@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 9/5(목) 퇴직에 맞춰 국민연금 수령시기를 늦추는게 유리할까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 저는 67년생으로 올해 만 57세인 직장인 입니다. 저는 국민연금 수령 개시 나이가 만 64세인데, 정년퇴직은 만 65세에 하게 되었습니다. 그래서 이대로라면 직장생활을 하는 동안에 국민연금을 받게 되는데요, 1년 동안 직장을 다니면서 국민연금을 수령하는 것과, 정년퇴직에 맞춰서 1년을 늦춰 국민연금을 수령하는 것이 어떤 차이가 있는지 궁금합니다. 소득이 있을 때 국민연금을 수령하면 세금을 더 내야할까요? 국민연금 수령 
+시기를 1년 늦추면 수령액이 더 늘어난다고 하는데, 그러면 나중에 건강보험료가 더 올라가는 게 아닐까요? 
+어느 쪽이 더 좋을지 고민돼 이렇게 문의해 봅니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240905.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240905.mp3</guid>
+      <pubDate>Thu, 05 Sep 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/5(목) [인터뷰] ‘연금 개혁안’ 17년 만에 보험료율 올린다 (이기일 보건복지부 제1차관)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28076,15 +28089,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220925.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220925.mp3</guid>
       <pubDate>Sun, 25 Sep 2022 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 나 혼자 있(고싶)다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220923_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220923_2.mp3</guid>
-      <pubDate>Fri, 23 Sep 2022 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
