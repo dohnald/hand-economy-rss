@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 9/6(금) 이사갈 집 세입자의 계약갱신요구도 거절할 수 있나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요, 저는 이번에 실거주 목적으로 아파트 매매계약을 마쳤고, 10월 초에 잔금 및 등기 예정입니다. 
+이사를 갈 집엔 세입자가 전세를 살고 있는데 올해 12월이 만기입니다. 세입자는 지금의 집주인에게 
+계약갱신청구권 사용을 통보했다는데, 지금의 집주인은 "새 집주인이 이를 거절할 수도 있다"라는 내용은 전달했다고 합니다.
+최근 대법원 판례에서 새 집주인이 세입자의 계약갱신청구권을 거절하는 게 정당하다는 판결이 나온 것으로 
+알고 있습니다. 그리고 세입자도 이런 판례가 있다는 것에 대해서는 인지하고 있는 것 같지만, 판례일 뿐 법에 명시된 게 아니기 때문에 자신들의 계약갱신청구권은 여전히 유효하며, 그래서 집주인이 바뀌더라도, 자신들이 계약갱신청구권을 사용하여 2년 연장이 가능하다는 입장인 것 같습니다. 이러한 세입자의 입장에 대해서 어떻게 대응해야 올해 12월에 무사히 입주할 수 있을지 구체적인 방안에 대해 조언 부탁드립니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240906.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240906.mp3</guid>
+      <pubDate>Fri, 06 Sep 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/6(금) [인터뷰] 8.8 공급대책 이후 한달, 업데이트 (김헌정 국토교통부 주택정책관)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28074,22 +28089,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220926.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220926.mp3</guid>
       <pubDate>Mon, 26 Sep 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>9/26(월) 취약차주 지원 방안 Q&amp;A, 경쟁사 피그마 인수한 ‘어도비’</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[센터뷰
-“취약차주 지원방안Q&A” 
-김영훈 PB센터장(하나은행 클럽1)
-
-블루칩신기주
-“28조원에 피그마 인수하는 ‘어도비’”
-신기주 부대표(더밀크코리아)
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220926.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220926.mp3</guid>
-      <pubDate>Mon, 26 Sep 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
