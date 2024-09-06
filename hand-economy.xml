@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/6(금) [인터뷰] 8.8 공급대책 이후 한달, 업데이트 (김헌정 국토교통부 주택정책관)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[이슈 인터뷰]
+8.8주택 공급대책 이후 부동산 시장 변화는?
+- 김헌정 국토교통부 주택정책관]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240906.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240906.mp3</guid>
+      <pubDate>Fri, 06 Sep 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/5(목) 헤즈볼라가 전면전을 피하는 진짜 이유 (임용한 역사학자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28079,20 +28090,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220926.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20220926.mp3</guid>
       <pubDate>Mon, 26 Sep 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>9/26(월) 가스공사는 왜 적자 논란에서 자유로운가? / 오늘부터 주식 소수점으로 거래 가능.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 가스공사는 왜 적자 논란에서 자유로운가?
- 2. 오늘부터 주식 소수점으로 거래 가능
- 3. 정부, 수출기업 선물환 매도 도와 '숨통 틔운다'
- 4. 주식시장 불공정 거래(미공개정보 이용, 주가 조작) 처벌 강화
-
-출연: 김현우 소장, 나수지 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220926.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220926.mp3</guid>
-      <pubDate>Mon, 26 Sep 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
