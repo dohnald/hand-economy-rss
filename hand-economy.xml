@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/8(일) 우리 일을 수월하게 만들 AI｜딥페이크 이렇게도 쓰입니다 (김덕진 소장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+우리 일을 수월하게 만들 AI
+
+2부
+딥페이크 이렇게도 쓰입니다
+- 김덕진 IT커뮤니케이션연구소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240908.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240908.mp3</guid>
+      <pubDate>Sun, 08 Sep 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/7(토) 아르헨티나에서 핀테크 산업이 발전한 이유 (박정호 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28058,23 +28072,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20220928.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20220928.mp3</guid>
       <pubDate>Wed, 28 Sep 2022 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]9/28(수) 오피스텔 사야 할까요? - 지방 직장인의 고민</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[ [고민 상담]
-
-직장으로 인해 지방 소도시에서 일하게 된 30대입니다. 앞으로 최소한 5년 이상은 여기서 근무를 해야하는데, 가장 큰 고민은 주거입니다. 
-
-올해 초에 이곳으로 와서 원룸 오피스텔에서 월세를 살고 있는데, 이 월세가 너무 아깝다는 생각이 듭니다. 그래서 전세를 알아봤는데, 전세에서 조금 더 대출을 받으면 아예 살 수도 있겠더라구요. 
-
-주변에 인프라가 제대로 갖춰진 곳이 아니어서 퇴근하면 거의 집에서 보내는 시간이 긴데, 차라리 이참에 매수를 해서 집을 좋게 꾸미고 사는게 어떨까 고민하고 있습니다. 
-
-매수했다가 나중에 잘 안 팔리면 월세를 주면 되고 월세로 대출을 갚으면 되니 손해는 아닌거 같은데, 혹시 제가 생각하지 못한 단점이나 리스크가 있을까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220928.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20220928.mp3</guid>
-      <pubDate>Wed, 28 Sep 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
