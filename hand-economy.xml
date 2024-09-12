@@ -16,6 +16,33 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/12(목) 삼성전자 주가 연중 최저가｜금리 되돌림 우려｜국제유가 뚝.. 왜?｜미국 CPI 지수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제 뉴스]
+1) 삼성전자, 美 파운드리 공장서 인력 대거 철수
+2) 기준금리 인하해도 시장금리 오를 수 있다?
+3) 국제유가, 70달러 아래로.. 원인은?
+4) 美 8월 소비자물가지수 2.5%↑
+- 손석우 경제뉴스큐레이터
+- 김현우 행복자산관리연구소장
+- 박세훈 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240912.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240912.mp3</guid>
+      <pubDate>Thu, 12 Sep 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 9/11(수) AI 환멸론? 앞으론 이렇게 바뀔 겁니다 (박종훈 소장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+AI 환멸론? 앞으론 이렇게 바뀔 겁니다
+- 박종훈 지식경제연구소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240911.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240911.mp3</guid>
+      <pubDate>Wed, 11 Sep 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 9/11(수) 외국인도 공적연금 연계를 하면 국민연금을 받을 수 있나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28055,24 +28082,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221003.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221003.mp3</guid>
       <pubDate>Mon, 03 Oct 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>10/2(일) 이진우의 손에 잡히는 경제</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221002.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221002.mp3</guid>
-      <pubDate>Sun, 02 Oct 2022 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 어느 살쾡이의 사랑 : 이진우 ＜ 이석훈</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220930_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20220930_2.mp3</guid>
-      <pubDate>Fri, 30 Sep 2022 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
