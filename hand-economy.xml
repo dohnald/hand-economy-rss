@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (2부) 추석에도 열심히</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240913_2.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240913_2.mp3</guid>
+      <pubDate>Fri, 13 Sep 2024 17:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (1부) 나지막이</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240913_1.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240913_1.mp3</guid>
+      <pubDate>Fri, 13 Sep 2024 17:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 9/13(금) 입주 전 디딤돌대출을 받으려면 중도금을 상환해야 되나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28044,38 +28062,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221005.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221005.mp3</guid>
       <pubDate>Wed, 05 Oct 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]10/4(화) 안심전환대출 좋은 거 맞아요? </title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[ [고민 상담]
-
-안녕하세요. ‘손에 잡히는 경제’와 손경제 상담소도 매회 들으면서 많은 도움을 받고 있습니다.
-
-이번에 안심전환대출을 신청해놓은 상태인데, 만약 승인이 나서 진행될 경우 차후에 금리가 떨어지는 시기가 왔을 때 다시 변동금리로 갈아탈 수 없다고 들었습니다. 
-
-만약 이 말이 맞다면 안심전환대출로 갈아타는 게 현재로선 유리하겠지만 나중엔 어떻게 될지 모르니 고민이 됩니다. 꼼꼼히 따져보고 선택하라는데 어떤 게 맞는 선택인지 잘 모르겠습니다. ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221004.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221004.mp3</guid>
-      <pubDate>Tue, 04 Oct 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>10/4(화) 글로벌 신용카드사들은 어떻게 등장했나?, 젊은 노인, ‘욜드’ 비즈니스 트렌드</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[공부왕 이종훈
-“글로벌 신용카드사들은 어떻게 등장했나?”
-이종훈 작가
-
-트렌드 리포트
-“젊은 노인, ‘욜드’ 비즈니스 트렌드”
-조현경 대표(로그인디)
-
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221004.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221004.mp3</guid>
-      <pubDate>Tue, 04 Oct 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
