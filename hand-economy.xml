@@ -16,6 +16,27 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/16(월) ‘추석특집’ 가루의 역사: 소금편(이종훈 작가)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[‘추석특집’ 가루의 역사: 소금편
+- 이종훈 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240916.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240916.mp3</guid>
+      <pubDate>Mon, 16 Sep 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 9/15(일) 인도네시아는 수도 이전에 성공할 수 있을까? (복덕규 코트라 경기지원단장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+인도네시아는 수도 이전에 성공할 수 있을까?
+- 복덕규 코트라 경기지원단장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240915.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240915.mp3</guid>
+      <pubDate>Sun, 15 Sep 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/14(토) 미국 대선, 토론보다 중요한 게 있습니다(하상응 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28039,35 +28060,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221006.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221006.mp3</guid>
       <pubDate>Thu, 06 Oct 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>10/6(목) 막강한 군사력 무역로 독점한 오스만 제국, 법은 어떻게 부자의 무기가 되는가</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[역사 속 경제 이야기 
-“막강한 군사력 무역로 독점한 오스만 제국”
-썬킴 역사스토리텔러
-
-책크리스트
-“법은 어떻게 부자의 무기가 되는가”
-김치형 경제뉴스큐레이터 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221006.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221006.mp3</guid>
-      <pubDate>Thu, 06 Oct 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>10/6(목) 넷플릭스, 트위치 같은 해외 CP들 '망 사용료' 논란 재점화 / 강원도 '레고랜드'때문에 회생 신청.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 넷플릭스, 트위치 같은 해외 CP들 '망 사용료' 논란 재점화
- 2. 강원도 '레고랜드'때문에 회생 신청
- 3. OPEC, 하루 생산량 대폭 줄인다
- 4. 필리핀서 복권 1등 433명.. 진상 조사 요구
-
-출연: 김현우 소장, 이슬기 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221006.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221006.mp3</guid>
-      <pubDate>Thu, 06 Oct 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
