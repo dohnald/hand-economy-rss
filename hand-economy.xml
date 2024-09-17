@@ -16,6 +16,27 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/17(화) ‘추석특집’ 가루의 경제사: 설탕편 (이종훈 작가)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ‘추석특집’ 가루의 경제사: 설탕편
+- 이종훈 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240917.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240917.mp3</guid>
+      <pubDate>Tue, 17 Sep 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 9/16(월) '추석특집' 손에 잡히는 경제 크로스 (이진우, 박정호, 김현우)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+'추석특집' 손에 잡히는 경제 크로스
+- 이진우 기자, 박정호 명지대 교수, 김현우 행복자산관리연구소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240916.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240916.mp3</guid>
+      <pubDate>Mon, 16 Sep 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/16(월) ‘추석특집’ 가루의 경제사: 소금편(이종훈 작가)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28032,34 +28053,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221007.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221007.mp3</guid>
       <pubDate>Fri, 07 Oct 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>10/7(금) '타다' 2심서도 무죄 / '레고랜드' 어음 비상, 개인 투자자 손실 우려.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. '타다' 2심서도 무죄
- 2. '레고랜드' ABCP(자산유동화 기업어음) 비상, 개인 투자자 손실 우려
- 3. '한은' 사상 처음 외환보유액 백브리핑 나서
-
-출연: 안승찬 기자, 김현우 소장, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221007.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221007.mp3</guid>
-      <pubDate>Fri, 07 Oct 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]10/6(목) 의심되는 광고 문자, 가입해도 돼요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[ [고민 상담]
-
-제가 거래하는 증권사에서 얼마 전 광고문자를 받았습니다. 
-
-유명 카드사에서 연 4.3%의 이자를 주는 채권이 나왔다는 내용이었는데요, 진짜로 좋은 거라면 굳이 문자를 돌려가며 가입하라고 하지 않을 거 같습니다. 
-
-저한테까지 연락이 오는 거 보면 어딘가 분명 안 좋은 거겠죠? 만약 좋은 거라면 가입을 해도 되는 걸까요? 예금보다 이자는 높은데, 그렇다면 뭐가 더 위험한 건지도 알고 싶습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221006.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221006.mp3</guid>
-      <pubDate>Thu, 06 Oct 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
