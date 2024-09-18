@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 9/18(수) 본인부담 상한제의 소득 기준은?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 저희 아이가 희귀 난치병으로 꾸준히 치료를 받다가 이번에 신약이 개발 되었고 건강보험이 적용되어 올해 5월부터 투약을 받았습니다. 그 전까지의 치료는 비급여라 실손보험만 청구했었는데, 건강보험 급여항목이면 본인부담 상한제도를 적용받아서, 일정 금액 이상 안 내거나 돌려받을 수 있다고 안내 받았습니다.
+그런데 미성년자일 경우 본인부담금 상한액을 계산할 때 부양자 소득만 잡힌다고 하여, 소득이 적은 아내의 피부양자로 옮긴 상태입니다. 부부합산이 아닌 부양자 소득만으로 계산되는 것이 맞는 건가요?
+또, 본인부담 상한제는 사전 신청이 있고 사후 정산이 있는데 사전 신청을 하면 사후 정산을 못 받는다고 들었습니다. 사전 신청은 병원에서 신청하는 거라고 안내 받았고, 사후 정산은 따로 신청할 필요 없이 공단에서 우편물을 발송한다고 하는데, 이 내용에 대해서도 궁금합니다. ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240918.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240918.mp3</guid>
+      <pubDate>Wed, 18 Sep 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/18(수) ‘추석특집’ 가루의 경제사: 밀가루편 (이종훈 작가)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28038,15 +28051,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221009.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221009.mp3</guid>
       <pubDate>Sun, 09 Oct 2022 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 친절하게 이상했던 날</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221007_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221007_2.mp3</guid>
-      <pubDate>Fri, 07 Oct 2022 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
