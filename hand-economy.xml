@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/19(목) 미국 연준 ‘빅컷’ 단행｜급증하는 스팸 문자｜모든 세금 면제, 평생투자계좌</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제 뉴스]
+1) 미국 연준, 기준금리 0.5%p 인하
+2) 요즘 스팸 문자가 급증한 이유
+3) 금융연구원, '평생투자계좌' 제안
+- 박세훈 작가
+- 손석우 경제뉴스큐레이터
+- 김현우 행복자산관리연구소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240919.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240919.mp3</guid>
+      <pubDate>Thu, 19 Sep 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/18(수) 세계가 우주군에 집중하고 있습니다 (서병수 애널리스트)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28040,19 +28055,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221010.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221010.mp3</guid>
       <pubDate>Mon, 10 Oct 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>10/10(월) 연금저축, 내년부터 세제 혜택 늘어나 / 고금리 시대, 보험 약관대출 잘 활용하는 법.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 연금저축, 내년부터 세제 혜택 늘어나
- 2. 고금리 시대, 보험 약관대출 잘 활용하는 법 
- 3. 1개월짜리 은행 적금 나온다 
-
-출연: 김현우 소장, 나수지 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221010.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221010.mp3</guid>
-      <pubDate>Mon, 10 Oct 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
