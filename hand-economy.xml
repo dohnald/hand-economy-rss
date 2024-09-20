@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 9/20(금) 단기간 활용할 돈을 배우자의 ISA에 넣어도 될까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 저의 고민은 단기자금운용에 대한 부분입니다. 
+1~2년 전부터 5~6%대 금리로 가입했던 예적금들이 올해 6월부터 만기를 맞고 있습니다. 올해 말에서 내년초 쯤에 집을 사려는 계획이 있어 만기가 된 자금을 오래 묶어놓고 싶지는 않은 상황인데요, 만기가 된 돈들을 ISA에 넣어두는 게 어떨까 고민 중입니다. 저와 저희 남편 모두 가입한지는 3년이 지났지만, 입금 한도도 꽤 남았고 수익도 200만원에 많이 못 미칩니다. 이런 ISA에 만기가 된 돈을 넣어, RP나 머니마켓 액티브 ETF로 운용하다가, 필요할 때 원금을 출금하거나 해지하는 건 어떨지 궁금합니다. 
+부부 각자 파킹통장엔 5천만원씩 이미 넣어두었고, 단기예금을 알아보니 이율이 낮아서, 원금을 보장받을 수 있는 상품이 뭐가 있을까 고민하다가 ISA를 떠올리게 되었습니다.
+추가로, 제 명의로 만기된 목돈을 신랑 명의 ISA에 넣었다가 출금 및 해지를 해도 문제가 없는지도 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240920.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240920.mp3</guid>
+      <pubDate>Fri, 20 Sep 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/20(금) 반도체 겨울론｜인텔, 파운드리 분사｜고액반전세 대출보증 막는다</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28035,21 +28049,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221011.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221011.mp3</guid>
       <pubDate>Tue, 11 Oct 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>10/11(화) 양날의 검 신용카드, IT 관점에서 바라본 인공위성 산업</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[공부왕 이종훈
-“양날의 검, 신용카드”
-이종훈 작가
-
-트렌드 리포트
-“IT 관점에서 바라본 인공위성 산업”
-김덕진 소장(미래사회IT연구소)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221011.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221011.mp3</guid>
-      <pubDate>Tue, 11 Oct 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
