@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/19(목) 청소년 도박, 갈수록 심각해지고 있습니다 (서민수 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[청소년 도박, 갈수록 심각해지고 있습니다
+- 서민수 경찰인재개발원 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240919.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240919.mp3</guid>
+      <pubDate>Thu, 19 Sep 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 9/19(목) 청약예금을 가입하고 있는데, 당첨가능성이 있을까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28040,19 +28050,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221011.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221011.mp3</guid>
       <pubDate>Tue, 11 Oct 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]10/10(월) 은행에서 권유받은 투자상품 - 이래도 되나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[ [고민 상담]
-
-안녕하세요. 저희 어머니 연세는 환갑이 조금 넘으셨는데요, 요새 걱정이 많아 보이시길래 여쭤봤더니 은행에서 창구 직원이 이율이 오르면 바로 통장으로 입금된다고 주식을 적극적으로 권하길래 평생 안 해보신 주식을 하셨다고 하더라구요. 몇 년에 걸쳐서 조금씩 모으신 3천만원을 넣으셨다는데 지금 2천만원이 됐다고 너무 걱정을 하십니다.
-
-아직 제가 직접 확인은 못해봤는데, 은행에서도 주식을 권유할 수 있는 건가요? 만약 어머니가 제대로 설명을 못 들으시고 가입하신 거라면 원금을 돌려받을 수 있는 방법은 없는 걸까요? 어머니가 다시 찾아가셔서 설명 듣기로는 오를거니까 기다리라고만 한답니다. 어떻게 해야 될까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221010.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221010.mp3</guid>
-      <pubDate>Mon, 10 Oct 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
