@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/20(금) 반도체 왕국, 인텔은 일어날 수 있을까 (추동훈 기자) | 인도의 삼성공장이 멈춰섰습니다 (어예진 소장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[브랜드 메이커스]
+반도체 왕국, 인텔은 일어날 수 있을까
+- 추동훈 매일경제 기자
+
+2부
+[글로벌 리포트]
+인도의 삼성 공장이 멈춰섰습니다
+- 어예진 해담경제연구소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240920.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240920.mp3</guid>
+      <pubDate>Fri, 20 Sep 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (5부) 자영업자가 될 상인가</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28010,19 +28027,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221013.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221013.mp3</guid>
       <pubDate>Thu, 13 Oct 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>10/13(목) 한은 기준금리 0.5%p 올려.. 영향은? / 영국 금융 불안, 미국에도 나비효과.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 한은 기준금리 0.5%p 올려.. 영향은?
- 2. 미국, 對中 반도체 장비 수출제재.. 삼성·SK만 1년 유예
- 3. 영국 금융 불안, 미국에도 나비효과
-
-출연: 김현우 소장, 이슬기 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221013.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221013.mp3</guid>
-      <pubDate>Thu, 13 Oct 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
