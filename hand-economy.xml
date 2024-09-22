@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/21(토) 유럽이 추락하는 원인, 유로화입니다 (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+[역시나 박정호]
+유럽이 추락하는 원인, 유로화입니다
+- 박정호 명지대 교수
+w. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240921.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240921.mp3</guid>
+      <pubDate>Sat, 21 Sep 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/20(금) 반도체 왕국, 인텔은 일어날 수 있을까 (추동훈 기자) | 인도의 삼성공장이 멈춰섰습니다 (어예진 소장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28012,21 +28025,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221013.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221013.mp3</guid>
       <pubDate>Thu, 13 Oct 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>10/13(목) 영화 산업의 역사, 주소 이야기</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[역사 속 경제 이야기 
-“영화 산업의 역사”
-썬킴 역사스토리텔러
-
-책크리스트
-“주소 이야기”
-김치형 경제뉴스큐레이터 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221013.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221013.mp3</guid>
-      <pubDate>Thu, 13 Oct 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
