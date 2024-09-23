@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 9/23(월) 전세보증금을 인상하고 싶어요</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[안녕하세요. 임대인의 입장에서 전세계약에 대해 궁금한 점이 있어 사연 보냅니다.
+시세 2억2천만원 정도의 아파트를 매매하고 전세로 1억4천에 임차인을 받았는데 내년 4월이 만기입니다. 
+현재 전세가가 많이 올라서 2억1천만원정도로 형성되어있는데, 당연히 임대인 입장에선 시세까진 아니더라도 
+비슷한 수준으로 보증금을 올려 받고 싶은 마음입니다. 하지만 여기저기 알아보니 혹시라도 임차인이 계약갱신 청구권을 사용하면 갑자기 계약금을 높여서 받을 순 없겠더라고요.
+전세갱신 할 때 계약금을 1억 8~9천 정도까진 올리고 싶은데, 임차인과 상의해서 올릴 수 있는 걸까요? 
+혹시라도 임차인이 싫다고 하면, 계약갱신 청구권을 거부하고 다른 세입자를 구할 수 있는지도 궁금합니다. 만약 청구권을 신청하면 임대인으로서는 어찌할 방법이 없는 걸까요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240923.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240923.mp3</guid>
+      <pubDate>Mon, 23 Sep 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/23(월) 고려아연 경영권 분쟁｜쓰리마일섬 원전 재가동 예정｜반려동물 보유세 검토</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28007,18 +28021,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221014.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221014.mp3</guid>
       <pubDate>Fri, 14 Oct 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>10/14(금) "집값 폭락 이제 시작이다?"</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[이슈 인터뷰
-
-"집값 폭락, 이제 시작이다?"
-한문도 교수(연세대학교 금융부동산학과)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221014.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221014.mp3</guid>
-      <pubDate>Fri, 14 Oct 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
