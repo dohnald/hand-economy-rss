@@ -16,6 +16,28 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/25(수) [인터뷰] 급변하는 세계 통화정책, 자산시장 영향은? (변정규 전무)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[이슈 인터뷰]
+급변하는 세계 통화정책, 자산시장 영향은?
+- 변정규 미즈호은행 전무]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240925.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240925.mp3</guid>
+      <pubDate>Wed, 25 Sep 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 9/24(화) 베트남에서 의외로 인기 없다? 투자 전에 알아야 합니다 (유영국 작가)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+베트남에서 의외로 인기 없다? 투자 전에 알아야 합니다
+- 유영국 작가 (베트남라이징 저자)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240924.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240924.mp3</guid>
+      <pubDate>Tue, 24 Sep 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 9/24(화) 배우자가 혼인 전 주택소유 이력이 있다면?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28003,28 +28025,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221017.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221017.mp3</guid>
       <pubDate>Mon, 17 Oct 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>10/17(월) 주말에 멈춘 '카카오', 왜 그리고 앞으로는? / 미국, '화웨이' 더 흔든다.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 주말에 멈춘 '카카오', 왜 그리고 앞으로는?
- 2. 사적연금엔 부과되지 않는 건보료
- 3. 미국, '화웨이' 더 흔든다
-
-출연: 김현우 소장, 나수지 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221017.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221017.mp3</guid>
-      <pubDate>Mon, 17 Oct 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>10/16(일) 이진우의 손에 잡히는 경제</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221016.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221016.mp3</guid>
-      <pubDate>Sun, 16 Oct 2022 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
