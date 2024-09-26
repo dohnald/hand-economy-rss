@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/26(목) 우리는 왜 늙을까, 병들까, 죽을까 (이현숙 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+우리는 왜 늙을까, 병들까, 죽을까
+- 이현숙 서울대 생명과학부 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240926.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240926.mp3</guid>
+      <pubDate>Thu, 26 Sep 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 9/26(목) 전세보증금을 끼고 증여해준 집을 팔려고 합니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -28001,22 +28012,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221019.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221019.mp3</guid>
       <pubDate>Wed, 19 Oct 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]10/18(화) 나는 자영업자, 아내는 직장인. 누구 명의로 돈을 써야 유리?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[  [고민 상담]
-
-안녕하세요. 개인사업자로 장사를 하고 있는 30대입니다.
-아내는 직장인이고 저는 사업자로 장사를 하고 있는데요, 저와 아내의 수입을 어떻게 나눠서 쓰는게 유리한지 궁금합니다. 
-
-누구 앞으로 현금이나 카드를 많이 사용 하는 것이 연말정산, 종소세, 부가세 신고를 할 때 더 좋을까요?
-
-그리고 저는 올 5월에 처음으로 종합소득세 신고를 했는데요,종소세 신고를 하고나면 건강보험과 국민연금을 내야한다고 하던데 아직까지 내라는 이야기가 없습니다. 이건 어떻게 되는건지 손경제 상담소에서 알려주세요. 감사합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221018.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221018.mp3</guid>
-      <pubDate>Tue, 18 Oct 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
