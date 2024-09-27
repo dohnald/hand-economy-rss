@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (5부) </title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240927_5.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240927_5.mp3</guid>
+      <pubDate>Fri, 27 Sep 2024 17:04:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (4부) </title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240927_4.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240927_4.mp3</guid>
+      <pubDate>Fri, 27 Sep 2024 17:03:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (3부) </title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27968,36 +27986,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221021.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221021.mp3</guid>
       <pubDate>Fri, 21 Oct 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]10/20(목) 개인연금저축을 해지하려는데요.</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[  [고민 상담]
-
-1994년에 은행에서 가입한 개인연금신탁을 갖고 있습니다. 가입 후부터 지금까지 발생한 이자는 3천만원 정도 됩니다. 
-
- 그런데 이번에 직장을 그만두게 되어 연금을 해지하려고 하다가 궁금한 점이 생겨 사연 남깁니다. 
-
-퇴사로 인해 해지를 하면 이자소득세는 비과세 한다고 하는데, 대신 종합소득에는 포함된다고 합니다. 이 말이 맞는 말인가요? ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221020.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221020.mp3</guid>
-      <pubDate>Thu, 20 Oct 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>10/20(목) 유대 금융의 대가 로스차일드 탄생,차이나쇼크 한국의 선택</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[역사 속 경제 이야기
-“유대 금융의 대가 로스차일드 탄생”
-역사스토리텔러 썬킴
-
-책크리스트
-‘차이나쇼크 한국의 선택’
-김치형 경제뉴스큐레이터 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221020.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221020.mp3</guid>
-      <pubDate>Thu, 20 Oct 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
