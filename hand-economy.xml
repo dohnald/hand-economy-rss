@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/27(금) 한국 프로야구 천만관중의 시대 (이종훈 작가) | 아르헨티나가 임대료를 잡았다?(어예진 소장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[공부왕 이종훈]
+한국 프로야구 천만관중의 시대
+- 이종훈 작가 (스포츠평론가, 플레이볼 작가)
+
+[글로벌 리포트]
+아르헨티나가 임대료를 잡았다?
+물이 부족한 유럽
+- 어예진 해담경제연구소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240927.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240927.mp3</guid>
+      <pubDate>Fri, 27 Sep 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (5부) 반려동물 보유세 라운드 투</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27972,20 +27988,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221021.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221021.mp3</guid>
       <pubDate>Fri, 21 Oct 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>10/21(금) 고금리 시대, 카드사도 돈 빌리기 힘들어졌다 / 끝없이 추락하는 일본円화 가치.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 고금리 시대, 카드사도 돈 빌리기 힘들어졌다
- 2. 재건축, 최근 '조합방식'보다 '신탁방식' 선호
- 3. 끝없이 추락하는 일본円화 가치
- 4. '감세안' 역풍, 영국 트러스 총리 사임
-
-출연: 안승찬 기자, 김현우 소장, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221021.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221021.mp3</guid>
-      <pubDate>Fri, 21 Oct 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
