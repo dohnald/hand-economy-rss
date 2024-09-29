@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/29(일) 식음료주 투자, 이래서 어렵습니다 (홍진채 대표)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+식음료주 투자, 이래서 어렵습니다
+- 홍진채 라쿤자산운용 대표 ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240929.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240929.mp3</guid>
+      <pubDate>Sun, 29 Sep 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/28(토) 미국대선, 양당의 에너지 정책은? (박정호 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27974,21 +27985,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221021_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221021_1.mp3</guid>
       <pubDate>Fri, 21 Oct 2022 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]10/21(금) 전세보증금 반환보증보험 무조건 가입해야 하나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[  [고민 상담]
-
-안녕하세요, 지난 4월에 남편과 공동명의로 전세 계약을 했습니다. 보증금은 2억5천만원이고 은행에서 전세대출도 일부 받았습니다. 
-
-문제없이 계약기간이 끝난다면 좋겠지만 그렇지 못한 경우를 대비해야할 것 같아서 전세보증보험을 알아보니, 공동명의는 인터넷이나 모바일로 전세보증보험을 가입할 수가 없고 주택 도시 보증공사에 직접 가야한다고 들었습니다. 
-
-확정일자는 계약 후 바로 받긴 했는데요, 전세보증보험을 가입하는 게 제일 안전한 방법일까요? 아니면 다른 방법도 있다면 알려주시면 감사하겠습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221021.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221021.mp3</guid>
-      <pubDate>Fri, 21 Oct 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
