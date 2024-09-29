@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/28(토) 미국대선, 양당의 에너지 정책은? (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+[역시나 박정호]
+미국대선, 양당의 에너지 정책은?
+w. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240928.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240928.mp3</guid>
+      <pubDate>Sat, 28 Sep 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/27(금) 한국 프로야구 천만관중의 시대 (이종훈 작가) | 아르헨티나가 임대료를 잡았다?(어예진 소장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27977,17 +27989,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221021.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221021.mp3</guid>
       <pubDate>Fri, 21 Oct 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>10/21(금) '특집 경제콘서트' #20 기후위기는 경제위기다 - 투자와 생존 전략</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[10/8(토) 경제콘서트 #20 기후위기는 경제위기다 - 투자와 생존 전략
-
-출연 : 홍종호 서울대 환경대학원 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221021.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221021.mp3</guid>
-      <pubDate>Fri, 21 Oct 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
