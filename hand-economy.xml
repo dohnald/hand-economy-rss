@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 9/30(월) 재건축을 하게 되면 자금은 어떻게 마련해야 되나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요.
+저는 보금자리론으로 대출을 1억 정도 받아서 10년째 살고 있는데, 제가 살고 있는 아파트가 재건축 심의를 통과하고 안전진단까지 통과했습니다. 그런데 앞으로 재건축이 진행되면 어떤 절차를 거치는지 궁금합니다. 
+재건축이 시작되면 그 즉시 제가 받은 보금자리론은 바로 갚아야 되는 건가요? 이후에 입주를 할 때쯤 돈이 얼마나 있어야 하는지도 궁금하구요, 만약 가지고 있는 현금이 없으면 부족한 만큼 은행에서 전액 대출을 받을 수 있는지도 알고 싶습니다. 그리고 현금이 없으면 입주를 못하고 팔아야 하는걸까요? 손경제 상담소에서 알려주세요~]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240930.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240930.mp3</guid>
+      <pubDate>Mon, 30 Sep 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/30(월) 포기 당 만원 ‘금배추’ 논란｜사우디 증산 결정｜39년만의 한일 7광구 회의</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27981,15 +27994,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221023.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221023.mp3</guid>
       <pubDate>Sun, 23 Oct 2022 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 잔치 참석 : 패스의 달인, 응어리 부자, 3등 워너비, 자발적 경멸러</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221021_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221021_2.mp3</guid>
-      <pubDate>Fri, 21 Oct 2022 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
