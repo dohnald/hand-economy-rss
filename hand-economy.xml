@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/30(월) 포기 당 만원 ‘금배추’ 논란｜사우디 증산 결정｜39년만의 한일 7광구 회의</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제 뉴스]
+1) 배춧값 폭등에 중국산 배추 풀린다
+2) 사우디, 12월부터 원유 생산 늘린다
+3) 한-일, 39년만에 7광구 개발회의 개최
+- 정지서 연합인포맥스 기자
+- 안승찬 언더스탠딩 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240930.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240930.mp3</guid>
+      <pubDate>Mon, 30 Sep 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/29(일) 식음료주 투자, 이래서 어렵습니다 (홍진채 대표)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27976,15 +27990,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221021_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221021_2.mp3</guid>
       <pubDate>Fri, 21 Oct 2022 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 반백쨜의 습자지 가슴</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221021_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221021_1.mp3</guid>
-      <pubDate>Fri, 21 Oct 2022 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
