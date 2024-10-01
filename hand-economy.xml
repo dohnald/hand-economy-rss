@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 10/1(화) 세입자가 직접 경매로 그 집을 낙찰받으면 취득세는? </title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 제가 전세 세입자로 살고 있는 아파트가 경매로 넘어가게 돼서, 직접 낙찰 받으려고 하는데 몇가지 궁금한 점이 있습니다. 
+아파트 전세 임차인이 경매에서 직접 낙찰받아 소유권을 취득하면, 취득세를 내야하는 기준 금액을 낙찰금액으로만 하는지, 아니면 임차보증금을 포함해서 계산해야 하는지 궁금합니다.
+임차인이 대항력을 갖춘 경우에는 낙찰자에게 임차보증금을 반환받을 수 있지만, 임차인이 직접 낙찰 받아서 소유권을 취득하게 되면, 임차권은 소멸된다고 알고 있습니다.
+그렇다면 취득세를 내야하는 기준은, 경매에서의 낙찰금액인지, 아니면 보증금까지 포함한 금액인지가 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241001.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241001.mp3</guid>
+      <pubDate>Tue, 01 Oct 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/1(화) [인터뷰] 우리나라 대학의 문제점과 커리어센터의 중요성 (김영한 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27976,22 +27990,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221024.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221024.mp3</guid>
       <pubDate>Mon, 24 Oct 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>10/24(월) 레고랜드發 금융시장 불안, 투자 전망과 대응법,유니콘으로 성장한 ‘한국신용데이터’</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[센터뷰
-“레고랜드發 금융시장 불안, 투자 전망과 대응법”
-박제영 차장(한국투자증권)
-
-블루칩신기주
-“유니콘으로 성장한 ‘한국신용데이터’”
-신기주 부대표(더밀크코리아)
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221024.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221024.mp3</guid>
-      <pubDate>Mon, 24 Oct 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
