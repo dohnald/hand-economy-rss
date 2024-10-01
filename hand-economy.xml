@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/1(화) 호명사회, 이제는 각자의 이름을 알려야 합니다 (송길영 작가)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+호명사회, 이제는 각자의 이름을 알려야 합니다
+- 송길영 작가 (마인드마이너)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241001.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241001.mp3</guid>
+      <pubDate>Tue, 01 Oct 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 10/1(화) 세입자가 직접 경매로 그 집을 낙찰받으면 취득세는? </title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27975,21 +27986,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221025.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221025.mp3</guid>
       <pubDate>Tue, 25 Oct 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]10/24(월) 아파트 중도금대출 갚는게 좋을까요? 금리가 걱정돼요</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[ [고민 상담]
-
-작년에 아파트 청약에 당첨돼서 현재는 집단대출을 받아서 중도금을 내고 있습니다. 내년 말이나 돼야 입주할 예정인데요, 요금 금리가 오르다보니 걱정거리가 생겼습니다. 
-
- 중도금은 3회차까지 낸 상태고 앞으로도 세 번 더 남았습니다. 그런데 변동금리 대출이라고 설명을 들었는데 가끔 은행에서 문자가 오는 걸 보면 금리가 별로 오르질 않았더라구요. 나중에 한꺼번에 올라가는 건 아닌지 걱정도 돼서, 그러면 모아놓은 돈으로 중도금대출을 갚을까 고민이 됩니다. 
-
-조금이라도 갚는 것이 유리할까요? 혹시 중도금 대출을 다른 싼 금리의 대출로 갈아타는 식으로 대출 이자를 줄일 수 있는 방법도 있을지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221024.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221024.mp3</guid>
-      <pubDate>Mon, 24 Oct 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
