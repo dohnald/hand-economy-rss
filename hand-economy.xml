@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/3(목) 휴머노이드 로봇은 주권입니다 (한재권 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+휴머노이드 로봇은 주권입니다
+- 한재권 한양대 로봇공학과 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241003(1).mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241003(1).mp3</guid>
+      <pubDate>Thu, 03 Oct 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 10/3(목) 10년 된 아파트를 샀는데, 누수가 있습니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27968,23 +27979,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221027.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221027.mp3</guid>
       <pubDate>Thu, 27 Oct 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]10/26(수) 주택담보대출 소득공제 - 연말정산 혜택!</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[ [고민 상담]
-
-안녕하세요. 저는 2019년 8월에 전세끼고 아파트를 처음 구입했습니다. 당시 부모님댁에 같이 거주 중이었다가, 2021년 5월에 세입자가 나가고 제가 독립하면서 지금 집에 들어오게 됐는데요. 이사 들어오면서 주택담보대출을 실행했어요. 
-
-작년에 연말정산할때 보니 주택담보대출 부분이 있던데 저는 집을 구입하고 2년 뒤에 대출을 실행한 것이라 해당이 안 되는 것 같더라구요. 
-
-주택담보대출을 연말정산 혜택을 받으려면 집을 구입하고 등기한지 3개월 이내에 실행한 대출만 연말정산 혜택을 받을 수 있다고 하던데 이 말이 맞나요?
-
-만약 그렇다면 대출 받은 첫 해만 연말정산 받는 것인지, 아니면 한번 조건을 만족한 대출은 대출금 상환할 때 까지 해마다 혜택을 받을 수 있는 것인지요? 등기 3개월 이내만 가능하다면 그 이유는 무엇인지도 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221026.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221026.mp3</guid>
-      <pubDate>Wed, 26 Oct 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
