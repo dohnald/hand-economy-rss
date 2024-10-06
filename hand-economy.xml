@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/6(일) 지금 중국이 부양책을 쏟아내는 이유 (전가림 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+지금 중국이 부양책을 쏟아내는 이유 
+- 전가림 호서대 교양학부 교수 ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241006.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241006.mp3</guid>
+      <pubDate>Sun, 06 Oct 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/5(토) 미국 대선: 양당 후보의 세금 정책은? (박정호 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27946,19 +27957,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221031.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221031.mp3</guid>
       <pubDate>Mon, 31 Oct 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>10/31(월) 상세정리 - 채권시장 경색 / 푸르밀 사업장 정리</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 상세정리1 - 레고랜드發 채권시장 경색 	
- 2. 상세정리2 - '푸르밀' 사업장 정리
- 3. 브라질 대통령에 현직 누르고 '룰라' 당선
-
-출연: 김현우 소장, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221031.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221031.mp3</guid>
-      <pubDate>Mon, 31 Oct 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
