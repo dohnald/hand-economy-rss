@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/5(토) 미국 대선: 양당 후보의 세금 정책은? (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+[역시나 박정호]
+미국 대선: 양당 후보의 세금 정책은?
+w. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241005.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241005.mp3</guid>
+      <pubDate>Sat, 05 Oct 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/4(금) 대한축구협회는 왜 이렇게 됐나 (이종훈 작가) |  베팅에 빠진 미국인들 (어예진 소장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27947,15 +27959,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221031.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221031.mp3</guid>
       <pubDate>Mon, 31 Oct 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>10/30(일) 이태원 압사 사고 뉴스 특보</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221030(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221030(1).mp3</guid>
-      <pubDate>Sun, 30 Oct 2022 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
