@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 10/8(화) 김현우의 손경제 상담소</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241008.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241008.mp3</guid>
+      <pubDate>Tue, 08 Oct 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/8(화) 삼성전자 3분기 잠정실적｜흔들리는 이스라엘 경제｜중국산 시멘트 수입하나</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27938,19 +27947,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221102.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221102.mp3</guid>
       <pubDate>Wed, 02 Nov 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]11/1(화) 내 돈 주고 산 집을 내 마음대로 못팔아요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[안녕하세요. 저희 신랑은 형제가 3명인데, 이번에 저희 신랑 포함해서 첫째와 셋째 자녀가 돈을 모아 시어머니 명의로 작은 아파트를 구입해드렸습니다. 
-
-그런데 문제는 둘째의 형편이 좋지 않아 목돈을 낼 수 없었는데, 주변에서 듣기론 시어머니가 돌아가신 후 집을 처분하는 과정에서 둘째의 동의를 받아야 한다는 이야기를 하더라고요. 그전에도 둘째와는 돈 문제로 여러 갈등이 있었는데 이 말이 사실인가요?
-
-혹시나 시어머니께서 둘째 때문에 중간에 집을 처분하시면 어쩌나.. 또, 돌아가신 후 둘째가 동의를 하지 않으면 어쩌나 걱정입니다. 시어머니가 돌아가실 때까지 쭉 지내실 수 있도록 매매를 못하게 막을 수 있는 방법은 없을까요? 시어머니가 돌아가신 후에 처분할 때 큰 다툼 없이 해결 할 수 있는 현명한 방법이 있는지도 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221101.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221101.mp3</guid>
-      <pubDate>Tue, 01 Nov 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
