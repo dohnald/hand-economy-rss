@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/12(토) 미국 대선: 양당 후보의 산업 정책은? (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+[역시나 박정호]
+미국 대선: 양당 후보의 산업 정책은?
+w. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241012.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241012.mp3</guid>
+      <pubDate>Sat, 12 Oct 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>협찬인가 - 세운상가 보행로를 무너뜨린 사람들</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27947,21 +27959,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221108.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221108.mp3</guid>
       <pubDate>Tue, 08 Nov 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>11/8(화) 군사용 목적으로 개발된 CCTV / 커튼과 블라인드가 창문 속으로.. 스마트윈도우 기술과 활용</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[공부왕 이종훈
-“군사용 목적으로 개발된 CCTV”
-이종훈 작가
-
-트렌드 리포트
-“커튼과 블라인드가 창문 속으로... 스마트윈도우 기술과 활용”
-김아람 책임연구원(한국인사이트연구소)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221108.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221108.mp3</guid>
-      <pubDate>Tue, 08 Nov 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
