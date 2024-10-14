@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/14(월) 낙하산, 이렇게나 경제적 손실이 큽니다 (김현철 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+낙하산, 이렇게나 경제적 손실이 큽니다
+- 김현철 연세대 의대·홍콩과기대 경제학과 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241014.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241014.mp3</guid>
+      <pubDate>Mon, 14 Oct 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 10/14(월) 제날짜에 전입신고를 못해 취득세 추징을 당할거 같아요</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27952,19 +27963,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221110.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221110.mp3</guid>
       <pubDate>Thu, 10 Nov 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]11/9(수) '가동기 제도'란?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 현직 변호사입니다. 우연히 차에서 11월 1일 방송을 들었는데, 제시해주신 내용보다 더 쉬운 방법이 있어서 이렇게 글을 남기게 되었습니다.
-
-당시 사연은 첫째 셋째 자녀가 어머니를 위해 마련해 드린 집을, 어머님이 팔아다른 형제에게 지원해주거나, 나중에 돌아가신 후에 상속되는 것을 어떻게 막을 수 있는지에 대한 상담이었는데요, 이땐 가등기 제도를 활용하면 얼마든지 사연자가 원하는 대로 할 수 있습니다. 사연자 분을 위해 다시 한 번 방송 부탁드립니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221109.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221109.mp3</guid>
-      <pubDate>Wed, 09 Nov 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
