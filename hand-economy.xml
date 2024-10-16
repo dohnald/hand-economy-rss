@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 10/16(수) DC형 퇴직연금에 추가납입을 하면?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 저는 만 52세 직장인으로 30여 년 동안 한 회사에 근무 중이고, 앞으로 최소 5년은 더 일할 수 있습니다. 중간에 DC형 퇴직연금으로 전환된 이후, 연말 소득공제를 위해 꾸준히 추가납입도 해 왔습니다. 제가 가입한 금융회사는 모 보험사인데요, 개인 납입금은 IRP 계좌가 아니라 퇴직연금이 쌓이는 계좌에 같이 적립되고 있고, 회사분과 개인 납입분으로 구분해서 볼 수 있는 정도입니다.
+이렇게 퇴직연금과 개인 납입금을 통합적으로 관리하는 것과 별도의 IRP 계좌에서 운용하는 건 어떤 차이가 있는 걸까요? 혹시 지금 방식이 불리하다면 지금이라도 분리할 수 있을까요?
+각각의 금액이 1억 중반이 넘는 큰 금액이라 향후 절세까지 고려한 좋은 운용 방안을 알고 싶습니다.
+참고로 다수의 퇴직연금 금융사가 있어서 다른 곳으로 전환할 수도 있습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241016.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241016.mp3</guid>
+      <pubDate>Wed, 16 Oct 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/16(수) 신한투자증권 1300억 운용손실｜비만약 위고비 국내 상륙</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27941,21 +27955,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221111_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221111_1.mp3</guid>
       <pubDate>Fri, 11 Nov 2022 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]11/11(금) 피부양자의 금융소득 요건과 종신연금</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 저는 직장인이고 어머니는 피부양자로 등재되어 계십니다. 그런데 어머니의 금융소득이 2000만원 이상이면 지역가입자로 바뀐다고 하더라고요. 적금이나 예금, 배당금 등으로는 금융소득이 2000만원이 넘지 않습니다.
-
-그런데 10년 된 개인연금이 하나 있는데 연금이 아닌 일시금으로 받고 싶어 하세요. 이게 좀 걱정이 돼서 문의 드립니다. 개인연금은 우체국을 통해서 가입한 보험이구요, 2012년에 가입해서 이달 말쯤이면 10년이 됩니다. 
-
-당시 일시금으로 납입했고 이자와 배당금이 약 4200만원 정도 붙었습니다. 제가 알기론 개인연금이 사적연금이라 건강보험과는 상관없다고 알고 있는데, 혹시나 건강보험 피부양자조건에 영향이 있을까요? 지역가입자로 빠지는지 알고 싶습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221111.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221111.mp3</guid>
-      <pubDate>Fri, 11 Nov 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
