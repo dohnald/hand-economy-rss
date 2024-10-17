@@ -16,6 +16,33 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/17(목) 자영업자 속썩이는 테이블오더 수수료｜디딤돌대출 한도축소｜생숙 용도변경 완화｜ASML 쇼크</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제 뉴스]
+1) 높은 테이블오더 수수료에 자영업자 부담↑
+2) 정부 ‘디딤돌 대출’ 한도도 줄인다
+3) 생활형 숙박시설 용도변경 문턱 낮춘다
+4) ASML 실적 부진에 흔들린 반도체 시장
+- 손석우 경제뉴스큐레이터
+- 나수지 한국경제신문 기자
+- 박세훈 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241017.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241017.mp3</guid>
+      <pubDate>Thu, 17 Oct 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 10/16(수) 20년 뒤에도 노동 인구 별로 줄어들지 않을 겁니다 (이철희 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+20년 뒤에도 노동 인구 별로 줄어들지 않을 겁니다
+- 이철희 서울대 경제학과 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241016.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241016.mp3</guid>
+      <pubDate>Wed, 16 Oct 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 10/16(수) DC형 퇴직연금에 추가납입을 하면?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27937,24 +27964,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221113.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221113.mp3</guid>
       <pubDate>Sun, 13 Nov 2022 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 천하제일 가성비 대회</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221111_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221111_2.mp3</guid>
-      <pubDate>Fri, 11 Nov 2022 16:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 산다는 것, 받는다는 것</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221111_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221111_1.mp3</guid>
-      <pubDate>Fri, 11 Nov 2022 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
