@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/18 금융권 일탈의 역사 (이종훈 작가)｜세습이 사라지는 영국 상원 | 빅테크와 SMR (어예진 소장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+금융권 일탈의 역사
+- 이종훈 작가 (플레이볼 작가)
+
+2부
+세습이 사라지는 영국 상원 | 빅테크와 SMR
+- 어예진 해담경제연구소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241018.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241018.mp3</guid>
+      <pubDate>Fri, 18 Oct 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (5부) 아파트 이모저모</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27917,25 +27932,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20221116.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20221116.mp3</guid>
       <pubDate>Wed, 16 Nov 2022 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]11/16(수) 발행어음형 CMA는 안전한가요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요 소장님! 항상 잘 듣고 있는 신혼부부 팬입니다!
-
-점점 금리가 높아지는 요즘, 파킹통장에 있던 돈을 전부 증권사의 발행어음식 CMA계좌로 옮겼습니다.
-
-우량증권사에서만 발행할 수 있다고 하니 안전하겠다는 생각이 들었고, 금리를 3.5%나 주면서 수시입출금이 가능하다는 부분이 매력인 것 같았습니다. 
-
-그런데 최근 레고랜드사태, 흥국생명사태 등 채권시장이 불안정해지고 증권사도 위험도가 높아질 수 있다는 얘기를 들어 걱정이 됩니다. 최근 이슈들이 발행어음과도 관련이 있는지, 만약 위험할 수 있다면 지금이라도 예금자보호가 되는 다른 상품으로 옮기는 게 좋을지 궁금합니다.
-
-저축은행이 금리가 높고 예금자보호도 된다고 하던데, 5천만원을 넘지 않으면 위험도 없을까요? 주의사항 좀 알려주세요! 저와 와이프 각각 모은 돈이 5천만원은 되지 않아 예금자보호 한도를 넘기는 일은 없는 상황입니다. 소장님의 도움을 기대하겠습니다. 감사합니다!]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221116.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221116.mp3</guid>
-      <pubDate>Wed, 16 Nov 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
