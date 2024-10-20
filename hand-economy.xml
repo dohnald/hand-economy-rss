@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/19(토) 석유의 나라 쿠웨이트는 왜 세계 주목 못 받을까 (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+[역시나 박정호]
+석유의 나라 쿠웨이트는 왜 세계 주목 못 받을까
+- 박정호 명지대 교수
+w. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241019.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241019.mp3</guid>
+      <pubDate>Sat, 19 Oct 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/18 금융권 일탈의 역사 (이종훈 작가)｜세습이 사라지는 영국 상원 | 빅테크와 SMR (어예진 소장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27921,17 +27934,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221117.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221117.mp3</guid>
       <pubDate>Thu, 17 Nov 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>협찬인가 - 철옹성이 나타났다!! 뚫어라! 그리하라.</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[다양한 산업과 직업의 속이야기를 파헤쳐보는 (이것은 협찬인가 콘텐츠인가)
-
-이번 화의 주인공은 떼어낼 수 있는 기능성 페인트 '피크(PIEKE) 페인트'를 홍보하러 '주식회사 해광'의 신현종 수석님, 하태규 수석님입니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20221116.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20221116.mp3</guid>
-      <pubDate>Wed, 16 Nov 2022 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
