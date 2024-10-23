@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 10/23(수) 김현우의 손경제 상담소</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241023.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241023.mp3</guid>
+      <pubDate>Wed, 23 Oct 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/23(수) 현대차 인도증시 IPO｜달라진 일자리 패러다임｜내년 황금연휴 티켓 전쟁</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27915,21 +27924,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221121.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221121.mp3</guid>
       <pubDate>Mon, 21 Nov 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>11/21(월) 긴축 불확실성 점검 및 내년 국내외 경제 전망 / 상장 철회 '밀리의 서재'</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[센터뷰
-"긴축 불확실성 점검 및 내년 국내외 경제 전망"
-김광석 실장(한국경제산업연구원) 
-
-블루칩신기주 
-"상장 철회 '밀리의 서재'"
-신기주 부대표(더밀크코리아)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221121.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221121.mp3</guid>
-      <pubDate>Mon, 21 Nov 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
