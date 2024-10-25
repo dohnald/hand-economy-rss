@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 10/25(금) 대출이 있는 집에 전세를 들어가도 될까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 현재 분가를 계획하고 있어 전세를 알아보고 있습니다.
+계약을 하고 싶은 집이 있는데 전세 5억5천만원이고, 3억원 정도의 융자가 잡혀 있는 집입니다. 주택가격은 9억에서 10억 정도이구요. 집주인은 저희가 전세로 들어가면 그 전세금으로 융자금 3억원을 상환한다고 합니다. 
+부동산에서는 융자가 있는 집이긴 하지만, 전세보증금으로 융자를 갚을거니까 사실상 융자가 없는 집이라고 하면서, 융자를 갚으면 은행 상환 확인서도 계약서에 첨부하고, 말소등기 확인도 해준다고 합니다.
+이 경우 전세를 들어가도 괜찮은 걸까요? 저희도 2억원은 대출이 필요한 상황이라 혹시나 무슨 일이 생기지는 않을지 걱정이 됩니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241025.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241025.mp3</guid>
+      <pubDate>Fri, 25 Oct 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/25(금) 육아휴직으로 고용보험 오른다?｜서울시 레미콘 수급난｜잇따르는 리츠 유상증자</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27912,19 +27926,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221123.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221123.mp3</guid>
       <pubDate>Wed, 23 Nov 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>11/23(수) 제2의 중동 붐 열까? 사우디아라비아</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[역시나 박정호
-
-“제2의 중동 붐 열까? 사우디아라비아”
-박정호 특임교수(명지대학교)
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221123.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221123.mp3</guid>
-      <pubDate>Wed, 23 Nov 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
