@@ -19,7 +19,10 @@
       <title>협찬인가 - 싸가지 많이 있습니다</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[*이벤트 응모는 월요일 오전부터 가능합니다*
+      <description><![CDATA[*이벤트 응모는 월요일 오전부터 가능합니다
+
+제작진의 실수로 파일이 사전 공개되어 응모 과정에 혼선이 빚어졌습니다. 사죄의 의미로 저희가 제작비로 해당 상품을 구입해서, 오늘 오전 9시부터 댓글을 달아주신 100분께 추가로 보내드리겠습니다. 얼른 디보트쥬얼리를 방문하셔서 응모해주시기 바랍니다. 혼란스럽게 해드려 송구합니다. 
+
 
 다양한 산업과 직업의 속 이야기를 파헤쳐 보는 
 '이것은 협찬인가 콘텐츠인가'
@@ -58,6 +61,23 @@
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20241025.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20241025.mp3</guid>
       <pubDate>Mon, 28 Oct 2024 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[손경제] 10/28(월) 보험사 회계기준 바뀌나?｜초고가-중고가 아파트 세금역전 현상｜직원할인 과세</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제 뉴스]
+1) 금융당국, 실적 부풀린 보험사 회계기준 손본다
+2) 초고가 대형 아파트, 세금 덜 내는 이유
+3) 직원 할인도 이제 소득으로 과세 추진
+- 안승찬 언더스탠딩 기자
+- 정지서 연합인포맥스 기자
+
+[친절한 경제]
+기업은 왜 어려울 때, 희망퇴직 신청을 받나요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241028.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241028.mp3</guid>
+      <pubDate>Mon, 28 Oct 2024 08:30:00 +0900</pubDate>
     </item>
     <item>
       <title>[플러스] 10/27(일) 한국 방산주에 주목해 볼 이유가 충분합니다? (홍진채 대표)</title>
@@ -27916,19 +27936,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221127.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221127.mp3</guid>
       <pubDate>Sun, 27 Nov 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]11/25(금) 1세대 실손보험 언제 갈아탈까?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-저는 62년생이고, 2009년에 5년 갱신형 실손 보험에 가입하여 현재 월 7만6천원 정도의 보험료를 내고 있습니다. 그런데 최근에 상담원을 통해 2년 뒤 갱신이 되는데 그땐 보험료가 11만5천원 정도로 인상된다며 지금 4세대 실손으로 갈아타라는 권유를 받았습니다. 
-
-지금까지 병원비나 약값을 청구한 적은 한 번도 없구요, 저희 남편은 고혈압과 당뇨약을 복용 중입나다. 실손 외에 다른 보험은 없는 상태여서 어떻게 할지 고민이 많습니다. 갱신될 때까지는 시간이 아직 남아 있으니까 그때 가서 결정하는 건 어떨지도 알려주세요.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221125.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221125.mp3</guid>
-      <pubDate>Fri, 25 Nov 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
