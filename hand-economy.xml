@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 10/31(목) 김현우의 손경제 상담소</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241031.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241031.mp3</guid>
+      <pubDate>Thu, 31 Oct 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/31(목) 유상증자 카드 꺼낸 고려아연｜은행 중도상환수수료 개편｜대재해 채권</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27924,19 +27933,6 @@ https://reg.help-me.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20221130.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20221130.mp3</guid>
       <pubDate>Wed, 30 Nov 2022 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]11/30(수) 청약저축 VS 주택청약종합저축</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 아버지께서 청약저축을 1996년 9월에 아버지 명의로 가입 후 매월 10만원씩 납입하시다가 올해 8월에 돌아가셨습니다. 청약저축은 명의 변경이 가능하다고 해서 어머니 명의로 변경을 하려고 하는데, 마침 어머니께서도 2009년에 주택청약종합저축을 가입하셔서 매월 2만원씩 납입하고 계신 중입니다.
-
-참고로 부모님은 경기도에서 한 세대를 구성해서 두 분만 같이 생활하셨었습니다. 어머니의 주택청약종합저축 통장과 아버지의 청약저축 통장으로 어떤 청약이 가능한지 궁금합니다. ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221130.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221130.mp3</guid>
-      <pubDate>Wed, 30 Nov 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
