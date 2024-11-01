@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (2부) 지. 부. 체</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241101_2.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241101_2.mp3</guid>
+      <pubDate>Fri, 01 Nov 2024 17:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (1부) 서서 자요</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241101_1.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241101_1.mp3</guid>
+      <pubDate>Fri, 01 Nov 2024 17:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 11/1(금) 노부모 특별공급과 생애최초, 저도 신청 가능할까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27909,35 +27927,6 @@ https://www.mackerel.co.kr]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221202_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221202_1.mp3</guid>
       <pubDate>Fri, 02 Dec 2022 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>12/2(금) '애플페이' 마침내 한국 상륙 하나 / 서울 아파트 35층 넘길 수 있게 규제 완화.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. '애플페이' 마침내 한국 상륙 하나
- 2. 서울 아파트 35층 넘길 수 있게 규제 완화
- 3. 우리나라 11월 무역수지, 8개월 연속 적자
- 4. 달러-원 환율 내려가
-
-출연 : 김현우 소장, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221202.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221202.mp3</guid>
-      <pubDate>Fri, 02 Dec 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]12/1(목) 시세가 없는 주택의 전세보증보험</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 신축아파트에 6개월 전 전세로 들어왔고 입주할 때 전세보증보험에 가입하려고 했는데 시세가 없다고 안 받아주더라구요. 
-
-요즘 거래가 없어서인지 저희 아파트 시세는 아직까지 나오지 않고 있구요. 지금은 전세가가 떨어지고 있으니 불안해서 가입하기는 해야 될 것 같은데, 분양가보다도 높은 전세가로 들어와서 분양가를 기준으로 보험에 들을 수도 없는 상태입니다.
-
-혹시 감정사나 감정기관을 통한 감정가로도 가입할 수 있는 건가요? 가입 할 수 있으면 감정가 대비 전세가가 몆 %여야 보증보험에 가입할 수 있을까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221201.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221201.mp3</guid>
-      <pubDate>Thu, 01 Dec 2022 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
