@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 11/1(금) 김현우의 손경제 상담소</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241101.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241101.mp3</guid>
+      <pubDate>Fri, 01 Nov 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/1(금) 삼성전자 3분기 실적발표｜분양전환형 매입임대주택｜주담대금리 상승 이유｜되살아나는 중국 제조업</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27923,21 +27932,6 @@ https://www.mackerel.co.kr]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221201.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221201.mp3</guid>
       <pubDate>Thu, 01 Dec 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>12/1(목) 중국 삼국지 시대 기후변화 / 호황 VS 불황</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[역사 속 경제 이야기
-“중국 삼국지 시대 기후변화”
-역사스토리텔러 썬킴
-
-책크리스트
-‘호황 VS 불황’
-김치형 경제뉴스큐레이터]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221201.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221201.mp3</guid>
-      <pubDate>Thu, 01 Dec 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
