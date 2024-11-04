@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 11/4(월) 퇴직금을 받았는데 어디에 두고 굴리면 좋을까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 이번에 퇴직 후 재입사하면서 퇴직금을 정산 받았습니다. 
+은행에 IRP 계좌를 만들어서 그쪽으로 받았는데, 일시금으로 꺼내쓰면 세금을 약 70만원 가량 내야한다고 하네요. 지금 당장에 돈을 쓸 일은 없을 것 같긴한데, 세금을 내더라도 한 2천만원 정도는 급할때 쓸 용도로 따로 은행에 넣어두고, 나머지는 안전한 곳에 투자를 하는 건 어떨까 고민이 됩니다.
+아니면, 그냥 전부 IRP 계좌에 두고 투자 상품을 선택해서 운용하다가 필요할 때 해지하는게 좋을까요?
+그도 아니면 계속 투자하다가 55세 이후에 연금으로 수령하는 게 가장 좋은 선택일까요?
+55세 이후에도 계속 일은 할 것 같은데 당장 퇴직금을 어떻게 굴리는게 좋을지 모르겠습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241104.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241104.mp3</guid>
+      <pubDate>Mon, 04 Nov 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/4(월) 환율 1,400원 ‘뉴노멀’｜가상자산위 출범｜다우, 엔비디아 편입｜애플 또 판 버핏</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27908,21 +27923,6 @@ https://www.mackerel.co.kr]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221206.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221206.mp3</guid>
       <pubDate>Tue, 06 Dec 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>12/6(화) 월드컵 상금은 얼마인가 / 타임지가 선정한 올해 최고의 발명품</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[공부왕 이종훈
-“월드컵 상금은 얼마인가”
-이종훈 작가
-
-트렌드 리포트
-“타임지가 선정한 올해 최고의 발명품”
-조현경 대표(로그인디)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221206.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221206.mp3</guid>
-      <pubDate>Tue, 06 Dec 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
