@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 11/7(목) 美 트럼프의 귀환, 세계 경제 영향은?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제 뉴스]
+1) 트럼프 2.0 시대, 금융시장 반응은?
+2) 조세: 법인세 낮추고 관세 높인다
+3) 산업: 화석연료 늘리고 IRA 손본다
+4) 대외: '아메리카 온리'.. 대중 압박 ↑
+- 박세훈 작가
+- 김현우 행복자산관리연구소장
+- 손석우 경제뉴스큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241107.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241107.mp3</guid>
+      <pubDate>Thu, 07 Nov 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 11/6(수) 인도는 과연 중국의 대체지로 부상할 수 있을까? (최준영 박사)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27902,22 +27918,6 @@ https://www.mackerel.co.kr]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221209.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221209.mp3</guid>
       <pubDate>Fri, 09 Dec 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]12/9(금) 100만 원 이상의 이자소득, 인적공제 가능한가요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-이번에 미성년자 자녀에게 2000만원을 증여하고 세금 신고도 완료했습니다. 
-
-그런데 그 돈을 자녀명의로 연 6%짜리 예금통장에 넣었다고 가정하면, 1년 후에는 대략 100만원 이상의 이자를 받게 되는데, 이럴 경우 제가 연말정산을 할 때 자녀를 인적공제 대상자로 넣을 수 있나요?
-
-만약 저의 인적공제 대상자가 안 된다면, 자녀는 별도로 국세청에 세금신고를 해야 하는지도 궁금합니다. 
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221209.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221209.mp3</guid>
-      <pubDate>Fri, 09 Dec 2022 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
