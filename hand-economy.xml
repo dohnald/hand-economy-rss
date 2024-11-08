@@ -16,10 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>[상담소] 11/8(금) 손경제 상담소</title>
+      <title>커피타임 - (1부) 김현우의 손에 잡히는 경제</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[  ]]></description>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241108_1.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241108_1.mp3</guid>
+      <pubDate>Fri, 08 Nov 2024 17:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[상담소] 11/8(금) 자동차보험 가입시 블랙박스 가격이 중요한가요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 몇 년 전에 자동차를 구입하고 매년 자동차보험을 갱신하고 있습니다. 
+얼마 전에도 자동차보험을 갱신했는데, 매년 갱신할 때마다 블랙박스 구입연도와 금액을 입력하도록 되어 있더라구요. 
+구입 영수증을 첨부하는 것도 아니고, 모델명을 작성하는 것도 아닌데 블랙박스 유무에 따라서 할인 적용이 될 수도 있다보니, 무조건 비싼 제품을 구입을 해야 되는 것인지 궁금합니다. 그리고 동일 제품이라고 해도 어디서 구입하느냐에 따라 가격이 다를텐데, 실제로는 가장 저렴한 쇼핑몰에서 구입했지만 가장 비싸게 판매하는 가격을 입력해도 무방한 걸까요?]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241108.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241108.mp3</guid>
       <pubDate>Fri, 08 Nov 2024 13:52:00 +0900</pubDate>
@@ -27907,15 +27920,6 @@ https://www.mackerel.co.kr]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221212.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221212.mp3</guid>
       <pubDate>Mon, 12 Dec 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>12/11(일) 손경제 주간 하이라이트</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221211.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221211.mp3</guid>
-      <pubDate>Sun, 11 Dec 2022 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
