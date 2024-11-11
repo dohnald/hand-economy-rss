@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 11/11(월) 연금저축에 납입한 돈을 세액공제 받지 않으면?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 30대 직장인 입니다.
+작년부터 연금저축계좌를 개설하여 국내에 상장된 미국 지수관련 ETF를 소액으로 매수하고 있습니다.
+연금저축의 가장 큰 장점은 높은 비율로 세액공제를 해주는 것이라고 생각하고 가입했는데요, 
+저의 경우는 납입금액 자체가 적어 세액공제금액도 연간 20만원 수준으로 적은 편입니다.
+만약, 연말정산 할 때 납입금액을 반영하지 않아서 세액공제를 받지 않는다면 어떤 이점이 있을까요?
+또, 납입금액의 일부만 세액공제 받고 나머지는 받지 않는 것도 가능할지 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241111.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241111.mp3</guid>
+      <pubDate>Mon, 11 Nov 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/11(월) 중국 지방 부채 해결에 2천조 투입 | 노년층 고객 잡는 ‘피벗 투 시니어’ 현상 | '2기 트럼프', 물가 전망은?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27884,18 +27900,6 @@ https://www.mackerel.co.kr]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221214.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20221214.mp3</guid>
       <pubDate>Wed, 14 Dec 2022 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>12/14(수) 월드컵으로 주목 받는 나라 '모로코'</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[역시나 박정호
-
-“월드컵으로 주목 받는 나라 모로코”
-박정호 특임교수(명지대학교)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221214.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221214.mp3</guid>
-      <pubDate>Wed, 14 Dec 2022 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
