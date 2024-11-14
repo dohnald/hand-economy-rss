@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 11/14(목) 계약갱신 청구권 사용 이후 재계약을 하면?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+
+안녕하세요, 2021년 2월에 최초로 전세계약을 맺고, 작년 2월에 계약갱신 청구권을 사용해 계약을 연장했습니다. 그리고 작년 8월 집주인이 바뀌었는데요, 내년 2월에 이사갈 집을 알아보려는 중에 내년 2월에는 현재 전세가보다 5천만원 낮춰서 전세를 내놓을 계획이라는 말에 계속 연장해서 살까 생각 중입니다.
+
+그래서 재계약서를 작성하려고 하는데요, 부동산 중개업소에서 이 계약은 계약갱신청구권에 의한 재계약임을 계약서에 명시하라고 하네요. 이 경우 2027년 2월에는 저의 계약갱신 청구권이 소멸하게 되기에 법적인 근거를 계약서 작성 전에 알아보려고 이곳 저곳을 둘러보는 중입니다. 문득 손경제 상담소 생각이 떠올라 이곳에 도움의 글을 올려봅니다. 이러한 문구 삽입은 적절한 것일까요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241114.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241114.mp3</guid>
+      <pubDate>Thu, 14 Nov 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/14(목) CPI 2.6%, 환율 1405원 | 예금자보호한도 1억원 상향 | ‘6세 이하 의료비’ 공제 한도 사라진다</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27912,15 +27925,6 @@ https://www.mackerel.co.kr]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221219.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221219.mp3</guid>
       <pubDate>Mon, 19 Dec 2022 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>12/18(일) 손경제 주간 하이라이트</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221218.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221218.mp3</guid>
-      <pubDate>Sun, 18 Dec 2022 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
