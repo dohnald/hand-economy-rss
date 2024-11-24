@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 11/23(토) 미국은 유주택자들을 위한 나라입니다 (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+미국은 유주택자들을 위한 나라입니다 
+- 박정호 명지대 교수
+w. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241123.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241123.mp3</guid>
+      <pubDate>Sat, 23 Nov 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 11/22(금) 붕어빵의 경제학 (이종훈 작가)ㅣ일본의 사표 비즈니스 (어예진 소장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27881,19 +27894,6 @@ https://www.mackerel.co.kr]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221230.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20221230.mp3</guid>
       <pubDate>Fri, 30 Dec 2022 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>12/30(금) 서울시 대중교통 요금 내년 4월부터 오른다 / 고정금리 대출 '연 2.5→4.5%' 강제 인상 논란.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 통신 3사 5G 서비스 성적표 나왔다
- 2. 고정금리 대출 '연 2.5→4.5%' 강제 인상 논란
- 3. 서울시 대중교통 요금 내년 4월부터 오른다
-
-출연 : 김현우 소장, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221230.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221230.mp3</guid>
-      <pubDate>Fri, 30 Dec 2022 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
