@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 11/25(월) 퇴직을 했는데 건강보험료가 너무 부담됩니다.</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요? 올해 9월 30일자로 20년 가까이 다니던 회사를 퇴사하고 실업급여를 받고 있습니다. 실직 상태에서는 당연히 배우자의 건강보험 피부양자로 등록이 될 줄 알았는데 임대료 수입 때문에 지역가입자로 전환이 되었습니다. 제 명의로 된 지식산업센터에서 받는 월 78만 원의 임대료를 받고 있는데요, 10월 말에 첫 건강보험료 고지서를 받아봤더니 장기요양보험료 포함 약 16만 원이나 되더라구요.
+
+실업급여를 최대 8개월까지 받을 수 있는 상황인데, 8개월 후 재취업을 할 수 있을지 없을지도 모르는 상황에서 월 16만 원이나 되는 돈을 내야 된다는 생각을 하니 부담도 되고 아깝기도 합니다. 정녕 임대료 수입 때문에 이렇게 많은 건보료를 납부해야 되는 걸까요. 실직 상태에서는 안 낼 수 있는 방법이 있는지, 없다면 감액할 수는 없는지 알고 싶습니다. 그리고 '소득부과 건강보험료 정산제도'라는 것도 있던데 이게 도움이 될 수 있는지도 의견 부탁드릴게요.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241125.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241125.mp3</guid>
+      <pubDate>Mon, 25 Nov 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/25(월) 政, 상법개정안 반대 입장 | 천연가스 가격 급등 | AI 효과보는 美 쇼핑시장</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27889,15 +27901,6 @@ https://www.mackerel.co.kr]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221230_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221230_2.mp3</guid>
       <pubDate>Fri, 30 Dec 2022 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 제1차 이/안대전 발발</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221230_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221230_1.mp3</guid>
-      <pubDate>Fri, 30 Dec 2022 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
