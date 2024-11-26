@@ -16,6 +16,34 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 11/26(화) 경기침체 우려 속 추경론 | ‘손피거래’ 양도세  | 외국인 근로자 고용 갈등</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[깊이 있는 경제뉴스]
+1) 폐업 늘고 전기 덜 쓴다.. 내수 부진 심각 
+2) ‘손피 거래’ 양도세 산정 방식 바뀐다
+3) 외국인 버스기사, 쉽지 않은 이유는?
+
+-김치형 경제뉴스 큐레이터
+-조미현 한국경제신문 기자
+-정지서 연합인포맥스 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241126.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241126.mp3</guid>
+      <pubDate>Tue, 26 Nov 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 11/25(월) 트럼프 2기, 멕시코 경제는 어떻게 될까? (오성주 연구원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+멕시코 경제, 트럼프 집권하면 어떻게 될까? 
+- 오성주 포스코경영연구원
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241125.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241125.mp3</guid>
+      <pubDate>Mon, 25 Nov 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 11/25(월) 퇴직을 했는데 건강보험료가 너무 부담됩니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27883,24 +27911,6 @@ https://www.mackerel.co.kr]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230101.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230101.mp3</guid>
       <pubDate>Sun, 01 Jan 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 아주 위험한 짐승, 살쾡이 이즈백</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221230_3.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221230_3.mp3</guid>
-      <pubDate>Fri, 30 Dec 2022 12:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) "솔직히 틀린 말은 아니잖아" 주의보</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221230_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20221230_2.mp3</guid>
-      <pubDate>Fri, 30 Dec 2022 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
