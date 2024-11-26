@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 11/26(화) 소득공제용으로 청약통장을 가입해도 될까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[안녕하세요. 청약통장 소득공제에 대해 궁금한 점이 있어 사연 보냅니다. 저희 남편은 현재 54세 공무원인데요. 이젠 자녀들도 각자 경제 활동을 하다보니, 연말정산때 소득공제를 받는 항목이 적어져서 세금을 더 내야할 수도 있을 것 같습니다. 그래서 소득공제를 받을 목적으로 남편의 명의의 청약통장를 개설하려고 하는데요, 뉴스를 보니 남들은 요즘 해지한다하는데 늦은 나이에 개설한다는게 왠지 모르게 걱정되기도 해서요. 인터넷에 찾아보니 연 300만원에 대해 40%를 소득공제해준다는데, 지금이라도 개설하는 게 좋을까요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241126.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241126.mp3</guid>
+      <pubDate>Tue, 26 Nov 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/26(화) 경기침체 우려 속 추경론 | ‘손피거래’ 양도세  | 외국인 근로자 고용 갈등</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27902,15 +27911,6 @@ https://www.mackerel.co.kr]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230102(1).mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230102(1).mp3</guid>
       <pubDate>Mon, 02 Jan 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>1/1(일) 손경제 주간 하이라이트</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230101.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230101.mp3</guid>
-      <pubDate>Sun, 01 Jan 2023 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
