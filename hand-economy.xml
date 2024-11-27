@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 11/27(수) 상속세는 어떻게 계산되는지 궁금합니다.</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+
+안녕하세요. 형부가 갑자기 돌아가시며 상속세 때문에 언니가 혼란스러워 하고 있는데요, 언니를 도와주고 싶어 이렇게 상담글 남깁니다. 형부 명의로 되어 있는 아파트 한 채와 현금이 있는데요, 아파트 실거래가는 대략 5천 5백만원 정도이고, 현금과 금융자산이 6억원에서 7억원 정도 있는 것 같다고 합니다.
+
+궁금한 점이 많은데요.. 우선, 상속세는 아파트와 현금 자산을 모두 합산해서 따지는 것인가요? 만약에 합산하는 거라면, 상속재산이 얼마를 넘게 됐을 때 세금을 내게 되는지 궁금합니다. 현재 언니는 성인 자녀가 2명 있는데요, 그 자녀에게는 얼마까지 상속을 하면 상속세가 없는지, 또, 지방에 살고 있는데 혹시 수도권과 지방이 다르게 적용되는게 있는지도 알고 싶습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241127.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241127.mp3</guid>
+      <pubDate>Wed, 27 Nov 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/27(수) 삼성전자 인사개편 예고 | 전세 보증 요건 강화 | 한계기업 퇴출 심사</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27897,19 +27910,6 @@ https://www.mackerel.co.kr]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230103.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230103.mp3</guid>
       <pubDate>Tue, 03 Jan 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]1/2(월) 전세반환보증 보증료 계산</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[[고민 소개]
-
-안녕하세요. 예전에 손에 잡히는 경제에서 전세반환보증보험을 가입할 때, 전세계약기간이 전체의 2분의 1 이상만 남아있으면 가입을 할 수 있다고 들었습니다. 그리고 이렇게 하면 보험료는 남은 계약기간 동안만 계산하기 때문에, 전세계약하자마자 가입하는 것보다 보험료를 아낄 수 있다고 들었구요. 
-
-그런데 다음 달에 보증보험을 가입하려고 알아보니, 보험 가입날짜가 아닌 전체 전세계약기간 2년에 해당하는 보험료를 내야 된다고 합니다. 규정이 바뀐 걸까요? 허그(HUG)측에서는 예전부터 그리해왔다고 얘기하시는데, 다시듣기를 찾아보니 2017년 1월에 손에 잡히는 경제 방송 중 “친절한 하나씨”코너에 해당 내용이 있네요. 이게 어찌된 건지, 그럼 보험료를 아낄 수 있는 방법은 이젠 없는 건지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20230102.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20230102.mp3</guid>
-      <pubDate>Mon, 02 Jan 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
