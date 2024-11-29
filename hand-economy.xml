@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 11/29(금) 한국은행 기준금리가 달라지면 임대료에도 영향이 있다고 합니다.</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+
+안녕하세요. 꽤나 오래 지속되던 기준금리가 얼마 전 인하되었는데요, 제가 살고 있던 월세집 계약의 만기가 다가와 임대료를 올리면서 연장계약을 하다가 알게 된 것이 있어, 많은 분들께 도움이 될 것 같아 사연을 남깁니다.
+12월에 계약이 만료예정이라 10월초에 임대료를 5%만 인상하고 갱신청구권을 사용하는 조건으로 재계약서를 작성했습니다. 그런데, 그 후 한국은행 기준금리가 내려갔습니다. 전월세 전환율은 기준금리에 따라 달라지는데, 그 적용기준일자가 궁금해 국민 신문고에 물어봤더니, 재계약 시작일이라는 답변을 받았습니다.
+
+그렇다면, 바뀐 기준금리를 기준으로 계산했을 때 이번에 연장한 계약의 임대료 인상률이 5%을 초과하게 되더더라구요. 그래서 5%를 초과하여 인상한 계약은 갱신청구권 사용이 무효가 되는 것인지 다시 문의했더니, 갱신청구권은 사용한 것으로 간주되고, 5% 초과액에 대한 반환 청구권이 발생한다고 하네요. 전세보다 월세가 늘고 있고 기준금리가 변동될 가능성이 많은 요즘 같은 시기에 다뤄주시면, 많은 분들에게 도움이 될 것 같습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241129.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241129.mp3</guid>
+      <pubDate>Fri, 29 Nov 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/29(금) 한은 기준금리 인하 | 흔들리는 프랑스 내각 | 대한항공-아시아나 최종 합병 임박</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27895,23 +27909,6 @@ https://www.mackerel.co.kr]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230104.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230104.mp3</guid>
       <pubDate>Wed, 04 Jan 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소]1/4(수) 보험사가 파산하면...?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1005496100000100000</link>
-      <description><![CDATA[[고민 상담]
- 
-안녕하세요. 저는 64세로, 모 생명보험사의 유니버셜 종신보험 가입자입니다. 보험료는 매달 15만원 정도를 20년 동안 내야하고, 이제 불입 완료까지 3년이 남았습니다. 
-
-그런데 얼마 전 해당 보험사의 채권 연장이 안 되면 부도의 위험성이 있다는 뉴스를 보게 되었습니다.
-
-만약에 보험사가 부도가 나서 파산한다면 저를 포함한 수많은 계약자들은 어떻게 되는 걸까요?
-
-2년 정도 보험료를 내지 않아도 혜택은 유지된다고 들어서 현재는 일시 정지를 시켜놓은 상태인데요, 앞으로 납입완료까지 3년 정도 남았는데 계속 보험료는 내는 것이 옳은지 아니면 정지시키는게 맞는지 그것도 아니면 아예 해약을 하는 것이 맞는지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20230104.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20230104.mp3</guid>
-      <pubDate>Wed, 04 Jan 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
