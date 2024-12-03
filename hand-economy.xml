@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 12/3(화) 우리나라의 식량 안보 지수가 후퇴하고 있습니다 (이주량 박사)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+우리나라의 식량 안보 지수가 후퇴하고 있습니다
+- 이주량 과학기술정책연구원 박사]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241203.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241203.mp3</guid>
+      <pubDate>Tue, 03 Dec 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 12/3(화) 미국주식을 어머니께 증여하면 연금과 건보료에 문제가 생길까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27871,20 +27882,6 @@ https://www.mackerel.co.kr]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230110.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230110.mp3</guid>
       <pubDate>Tue, 10 Jan 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>1/10(화) 美 물가 13개월 만에 6%대 하락 예측.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 美 물가 13개월 만에 6%대 하락 예측
- 2. 온기 도는 채권시장.. 우량채 릴레이 흥행 
- 3. 자영업자, 신용점수 낮으면 받는 '정부대출' 꼼수
- 4. '수에즈 운하'에서 화물선 또 좌초
-
-출연 : 양효걸 기자, 나수지 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230110.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230110.mp3</guid>
-      <pubDate>Tue, 10 Jan 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
