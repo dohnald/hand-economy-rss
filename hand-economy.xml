@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 12/5(목) 45년만의 계엄령, 이번 사태의 의미는? (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+45년만의 계엄령, 이번 사태의 의미는?
+- 김재원 역사학자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241205(1).mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241205(1).mp3</guid>
+      <pubDate>Thu, 05 Dec 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 12/5(목) 외국인 근로자도 국민연금을 내야하나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27876,20 +27887,6 @@ IRP에 들어있는 돈이 퇴직금인지, 개인이 낸 돈인지 구분하는
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230112.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230112.mp3</guid>
       <pubDate>Thu, 12 Jan 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>협찬인가 - '내 안을 파고드는 것'들의 천적</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[다양한 산업과 직업의 속이야기를 파헤쳐보는 (이것은 협찬인가 콘텐츠인가)
-
-이번 화의 주인공은 순살생선전문 기업으로 고등어, 삼치, 갈치 등을 생산 판매하는 '가시제거연구소'의 송중협 대표님입니다.
-
-맛으로 많은 청취자를 사로잡은 가시제거 연구소는 아래 링크에서 구매 가능합니다.
-https://www.mackerel.co.kr]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230111.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230111.mp3</guid>
-      <pubDate>Wed, 11 Jan 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
