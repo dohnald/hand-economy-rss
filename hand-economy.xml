@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/6(금) 부양가족 공제 개편 | 면세점 수수료 감면 요청 | 홈쇼핑 송출수수료 갈등 | 비트코인 최고가 경신</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 소득 있는 부양가족, 인적공제 대상 제외한다
+2) 위기의 면세점.. 특허수수료 인하 요청
+3) 홈쇼핑 송출수수료 갈등.. 블랙아웃까지
+4) 비트코인 사상 첫 10만 달러.. 배경은?
+
+- 나수지 한국경제신문 기자
+- 안승찬 언더스탠딩 기자
+- 김현우 행복자산관리연구소 소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241206.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241206.mp3</guid>
+      <pubDate>Fri, 06 Dec 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 12/5(목) 45년만의 계엄령, 이번 사태의 의미는? (박정호 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27873,20 +27890,6 @@ IRP에 들어있는 돈이 퇴직금인지, 개인이 낸 돈인지 구분하는
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230112.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230112.mp3</guid>
       <pubDate>Thu, 12 Jan 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>1/12(목) 소득제한 없는 연 4%대 '특례보금자리론'.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 소득제한 없는 연 4%대 '특례보금자리론' 
- 2. '담보신탁방식' 이용한 전세 사기 조심
- 3. 애플 '디스플레이'도 홀로서기 하나
- 4. 달러-원 환율 안정화 접어들어
-
-출연 : 김현우 소장, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230112.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230112.mp3</guid>
-      <pubDate>Thu, 12 Jan 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
