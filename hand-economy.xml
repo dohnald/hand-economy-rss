@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 12/6(금) 계약이 끝나도 나가지 않을 거라는 세입자, 어떡하나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+
+안녕하세요. 저희는 작년 2월에 신축아파트를 1년 월세를 주었습니다. 그 당시 저희가 살고 있던 전세만기가 1년이 남은 상태여서, 만기 후 입주할 생각에 1년만 계약을 했었던 건데요. 작년 11월쯤, 저희가 실거주를 할 예정이라 이사를 가실건지 물어보니. 임차인은 망설임도 없이 주택임대차보호법상 1년을 계약했어도 2년은 살 수 있다는 문자를 보내왔습니다.
+
+부동산중개업소에 물어봐도 어쩔 수 없다는 설명에, 저희는 그 신축아파트 1년짜리 전세로 이사를 왔습니다. 그리고 1년이 지난 지금, 실입주를 하려한다고 임차인께 말씀드렸더니, 자기는 계속 살거라고 명도소송하라면서 전화를 일방적으로 끊더라구요. 자기는 첨부터 오래 살 계획이었는데, 부동산 핑계를 대며 나갈 생각이 없다고 합니다. 현재 저희가 살고 있는 전셋집은 1년 만기를 앞두고 있어 집주인 집을 내놓은 상태입니다. 
+
+혹여나 임차인이 집을 나가지 않으면 어떡하나 고민입니다. 지금 월세가 시세보다 50만원 정도는 싸게 살고 있고, 그래서 더 안 나갈려고 하는건지... 저흰 원만하게 해결하고 싶은데, 정말 소송을 해야하나요? 혹, 소송을 하게 되면 그 비용을 받을 수는 있는걸까요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241206.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241206.mp3</guid>
+      <pubDate>Fri, 06 Dec 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/6(금) 부양가족 공제 개편 | 면세점 수수료 감면 요청 | 홈쇼핑 송출수수료 갈등 | 비트코인 최고가 경신</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27875,21 +27890,6 @@ IRP에 들어있는 돈이 퇴직금인지, 개인이 낸 돈인지 구분하는
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20230112.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economycounsel/ECONOMYCOUNSEL_20230112.mp3</guid>
       <pubDate>Thu, 12 Jan 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>1/12(목) 한국경제 도약의 계기가 된 88서울올림픽 / 최초의 질문</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[역사 속 경제 이야기
-“한국경제 도약의 계기가 된 88서울올림픽”
-썬킴 역사스토리텔러 썬킴
-
-책크리스트
-“최초의 질문”
-김치형 경제뉴스 큐레이터]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230112.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230112.mp3</guid>
-      <pubDate>Thu, 12 Jan 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
