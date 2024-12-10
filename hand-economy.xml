@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 12/10(화)상장폐지된 해외주식, 손실로 인정되나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 미국 주식 양도소득세 차익에 상장 폐지된 주식 손실도 포함할 수 있을지 궁금합니다. 저희 아버지께서 경매로 아파트를 취득하시면서 현금이 필요해져, 보유하고 있던 미국 주식을 한 번에 매도하게 되었습니다. 이로 인해 내년에 양도소득세를 부담해야 하는 상황인데, 미국 주식 중 일부는 상장폐지로 손실이 발생한 종목도 있어서 이를 세금 계산 시 반영할 수 있는지 궁금합니다.
+
+덧붙여서, 부부 사이에 해외주식을 증여하면 증여 당시의 가격을 기준으로, 취득가액이 계산되어 양도소득세 절감 효과가 있다는 이야기를 들었습니다. 아버지께서도 증여 방안을 고민하셨지만, 절차가 어렵고 시간이 많이 걸린다는 이유로 결국 그냥 매도를 선택하셨습니다. 주식을 증여하는 과정과 세금 절감 효과에 대해 자세히 설명해 주시면 감사하겠습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241210.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241210.mp3</guid>
+      <pubDate>Tue, 10 Dec 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/10(화) 흔들리는 금융시장 | 내수 살리는 중국 | 전세보증비율 현행 유지 | 트럼프 경제 정책 예고</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27889,19 +27901,6 @@ IRP에 들어있는 돈이 퇴직금인지, 개인이 낸 돈인지 구분하는
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230118.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230118.mp3</guid>
       <pubDate>Wed, 18 Jan 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 1/17(화) 고향사랑기부제, 자녀 이름으로도 참여 가능한가요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담] 
-
-올해 고향사랑기부제가 시행돼서, 저와 배우자 모두 세액공제 한도인 10만원을 기부하고 3만원 상당의 답례품을 받아 매우 만족하고 있습니다. 양가 부모님께도 소개해서 기부를 마쳤고, 부모님께서 은퇴하신 상태라 저희가 연말정산 때 함께 공제받을 예정입니다.
-
-그런데 저희에게는 만 2세 아이와 곧 태어날 아기가 있습니다. 두 아이의 이름으로 고향사랑 기부제에 참여할 수 있나요? 두 아이 모두 직접 기부 의사를 밝힐 수 없는 나이라 기부를 해도 되는지, 기부를 한다면 마찬가지로 저희가 세액공제를 받을 수 있는지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230117.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230117.mp3</guid>
-      <pubDate>Tue, 17 Jan 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
