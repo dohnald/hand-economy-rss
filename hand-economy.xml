@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 12/11(수) 미성년 자녀의 주식거래, 어떤 계좌를 개설해야 할까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요? 손경제를 통해 들은 지식으로 미성년 자녀에게 2000만 원을 증여한 후, 위탁계좌에서 미국주식을 직거래해서 적립식으로 모아가고 있습니다. 연말 정산할때 기본공제를 받기 위해 양도소득금액도 100만원 이하로 맞추고 있구요. 그런데 미성년자 자녀에게 일반 위탁계좌가 아닌 개인연금계좌를 만들어주고, 그 계좌로 거래하는 사람들이 있다는 이야기를 들었습니다. 저의 짧은 생각으로는 장점이 딱히 있을 것 같지 않은데요, 미성년 자녀에게 위탁 계좌보다 개인연금계좌를 개설해서 거래할 때의 장점은 뭐가 있는지 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241211.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241211.mp3</guid>
+      <pubDate>Wed, 11 Dec 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/11(수) 감액 예산안 통과 | 계엄사태發 고환율 부담</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27884,21 +27894,6 @@ IRP에 들어있는 돈이 퇴직금인지, 개인이 낸 돈인지 구분하는
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230119.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230119.mp3</guid>
       <pubDate>Thu, 19 Jan 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 1/18(수) 유주택자는 청약저축을 어떻게 할까?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
- 저는 지방도시에 거주중인 50대 초반 남자입니다. 약 25년 전에 청약저축을 가입해서 매달 10만원씩, 약 2천5백만원 정도를 납부하다가 5년 전쯤 부턴 납부를 안 하고 있습니다.
-
- 처음 가입할 땐 소득공제 혜택도 받고, 혹시 기회가 된다면 아파트 분양도 받을 수 있을까 하는 희망도 가졌지만 결국 지방도시에 아파트를 구입하게 됐습니다. 그리고나선 소득공제 혜택도 받지 못해서 해지를 생각했다가 혹시 몰라서 놔둔지 벌써 5년이 조금 지났습니다.
-
- 앞으로 10년 정도 후엔 퇴직을 하고 전원생활을 생각해서, 분양을 받을 일이 없을 것 같아서 해지예상금액 조회를 해보니 이자가 대략 1200만원 정도 되더라구요. 이자소득으로 천만원이 넘어가게 되면 건강보험료도 많이 낸다는데 어떻게 해야 할지 고민입니다. ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230118.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230118.mp3</guid>
-      <pubDate>Wed, 18 Jan 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
