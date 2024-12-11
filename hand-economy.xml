@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/11(수) 감액 예산안 통과 | 계엄사태發 고환율 부담</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 4.1조 감액 예산안 통과.. 부족분은 추경하기로
+2) 계엄사태發 고환율.. 항공·여행·식품업계 비상
+- 김치형 경제뉴스 큐레이터
+- 손석우 경제뉴스 큐레이터
+
+[친절한 경제]
+상장 회사들은 왜 주가를 방어하나요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241211.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241211.mp3</guid>
+      <pubDate>Wed, 11 Dec 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 12/10(화) 13년만에 시리아 내전이 끝났습니다 (박현도 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27883,18 +27899,6 @@ IRP에 들어있는 돈이 퇴직금인지, 개인이 낸 돈인지 구분하는
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230118.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230118.mp3</guid>
       <pubDate>Wed, 18 Jan 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 1/18(수) "빠르게 식는 부동산, 이번이 처음 아니다"</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[지리는 경제사
-
-"빠르게 식는 부동산, 이번이 처음 아니다"
-- MBC 양효걸 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230118.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230118.mp3</guid>
-      <pubDate>Wed, 18 Jan 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
