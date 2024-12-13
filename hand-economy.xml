@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 12/13(금) 부모님 농지를 증여받을 때 주의사항을 알고 싶습니다</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 아버지 연세가 많으셔서 경작하시던 논을 저희 4형제에게 나누어 증여를 하고 싶어 하십니다. 문제는, 4형제 모두 직장이 있어 당장 경작에 참여할 수 없고, 대략 5년쯤 지나 한명이 퇴직하게 되면 그때서야 한명이 도맡아 남은 형제들의 논도 모두 경작할 수 있을 것 같습니다.
+
+그래서 증여받은 뒤 약 5년 동안은 경작을 못하면서 보유하고 있어야 하는데요, 농지를 증여받고나서 직접 농사를 짓지 않으면 법적으로 문제가 된다고 하더라고요. 직접 농사를 짓지 않으면 어떤 문제가 발생하는지, 농사를 짓지 않더라도 문제없이 유지할 수 있는 방안이 있는지 궁금합니다. 또, 증여를 받을 때 4형제가 나누어서 받아야 하는데, 절세 측면에서 주의해야 할 사항이 있는지도 알고 싶습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241213.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241213.mp3</guid>
+      <pubDate>Fri, 13 Dec 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/13(금) 위안화 절하 전망 | 中 풍력발전 기술 넘겨준다? | 美 의료보험 논란</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27875,19 +27887,6 @@ IRP에 들어있는 돈이 퇴직금인지, 개인이 낸 돈인지 구분하는
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230120_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230120_1.mp3</guid>
       <pubDate>Fri, 20 Jan 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 1/20(금) 소규모 아파트의 장기수선충담금 관련 질문</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담] 
-
-월세를 주고 있는 아파트가 있는데 총 18세대 정도 되는 빌라형 아파트 입니다. 관리비는 한 달에 8만원정도 부과되는데요, 세대수도 적고 관리비도 많지가 않아서 신경을 안 쓰고 있었습니다. 그런데 세입자가 얼마전 자기가 나갈 때는 장기수선충당금을 따로 받아야하니까 관리비 세부내역을 확실하게 해서 달라고 하더군요. 
-
-관리비로 나가는 돈은 전기요금, 엘리베이터 관리비, 소방안전대행비 등 몇 가지 내역밖에 없고 몇 달 전 아파트소방펌프교체 등을 했습니다. 그리고 예전 아파트 지붕 공사를 했을 땐 집주인들끼리 돈을 모아서 냈는데, 세입자는 무슨 관리비를 구분해서 달라고 하는지 모르겠습니다. 이럴 경우 뭘 해줘야 되는 건가요? 또, 이런 건 전세든 월세든 상관없는지도 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230120.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230120.mp3</guid>
-      <pubDate>Fri, 20 Jan 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
