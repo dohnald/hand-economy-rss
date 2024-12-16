@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 12/16(월) 해외주식의 매입단가는 어떤 기준으로 처리되나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요 해외주식 양도 시, 1년 동안의 양도차익이 250만원을 초과할 때 양도소득세를 초과하는 금액의 22%를 부과하는 걸로 알고 있습니다. 그런데 이익과 손해를 계산할 때 어떤 단가를 기준으로 하는지 궁금합니다. 가령 30달러짜리 주식을 1000주 매수한 다음, 20달러에 추가로 1000주를 매수한 뒤, 25달러에 1000주를 매도 했을 때 이익인지 본전인지 손실인지가 궁금합니다. 선입선출이라면 5000달러 손실이고, 평균단가를 기준으로 하면 본전인데 어떻게 계산되는 걸까요? 또한 환차손익도 양도세 계산시 반영된다면 최초 환전한 1번에 대해서만 하는지, 아니면 매번 외화예수금에 대해 환차손익을 반영하는지도 알고 싶습니다. ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241216.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241216.mp3</guid>
+      <pubDate>Mon, 16 Dec 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/16(월) 탄핵정국 경제 전망 | 불투명한 부동산시장 | 트럼프에 줄서는 美기업들</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27870,19 +27880,6 @@ IRP에 들어있는 돈이 퇴직금인지, 개인이 낸 돈인지 구분하는
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230125.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230125.mp3</guid>
       <pubDate>Wed, 25 Jan 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 1/25(수) 난방비 폭탄.. 가스요금 더 오른다?.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 난방비 폭탄.. 가스요금 더 오른다?
- 2. 올해 무역적자, 벌써 102억 달러
- 3. 美 '국가 부채' 더 이상 못 올린다
-
-출연 : 양효걸 기자, 나수지 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230125.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230125.mp3</guid>
-      <pubDate>Wed, 25 Jan 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
