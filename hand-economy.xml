@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 12/17(화) ETF로 투자하고 있는 연금을 수령할 땐 어떻게 되나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 이제 곧 퇴직연금과 개인연금을 수령하게 되는 50대 가장입니다. 연금저축에 가입해서 ETF로 투자를 하고 있는데, 연금 수령 방법과 수령 시 매도 방법 등에 대한 이야기가 잘 없는 것 같아, 손경제 상담소에 이렇게 사연을 올립니다. 연금을 수령할 때 수령 시점과 수령기간을 설정하는 것까지는 이해를 했는데요, 연금을 수령하게 되면 보유 중인 ETF를 전부 매도하고 현금으로 만든 상태여야 되나요? 아니면, 연금을 수령할 때 해당 금액만큼만 자동으로 매도가 되면서 연금이 나오는 건가요?
+
+만약 수령금액만 자동으로 매도가 된다면, 수령 기간동안 보유 중인 ETF에서 수익이 계속 발생해서 수령기간이 끝나더라도 ETF가 남아있을 경우 어떻게 처리되는지도 궁금합니다.
+그리고 만약 모두 현금으로 매도하면, 여기서도 이자가 발생될 것 같은데 이자소득도 건강보험료에 영향을 주는건가요? 이 밖에도 연금수령시 고려해야 되는 내용도 있으면 알고 싶습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241217.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241217.mp3</guid>
+      <pubDate>Tue, 17 Dec 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/17(화) 대출 규제 완화 | 비례형 담보 보험 중단 | 아사드家 17조 숨겼다</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27865,20 +27878,6 @@ IRP에 들어있는 돈이 퇴직금인지, 개인이 낸 돈인지 구분하는
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230126.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230126.mp3</guid>
       <pubDate>Thu, 26 Jan 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>협찬인가 - 인공지능의 생김새</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[다양한 산업과 직업의 속이야기를 파헤쳐보는 (이것은 협찬인가 콘텐츠인가)
-
-이번 화의 주인공은 기업대상 AI모델을 홍보하러 나오신 '알고리즘랩스'의 손진호 대표님입니다.
-
-'알고리즘랩스'는 기업이 보유한 빅데이터를 기반으로 AI가 해결가능한 문제를 정의하고 모델을 개발하며
-퇴사자 예측, 기대성과 예측, 가격 예측, 결함 예측, 성능 예측, 수명 예측 등의 프로젝트를 수행하였습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230125.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230125.mp3</guid>
-      <pubDate>Wed, 25 Jan 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
