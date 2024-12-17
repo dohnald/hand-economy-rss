@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 12/17(화) 크루즈 산업이 새로운 전성기를 맞았습니다 (서병수 위원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+크루즈 산업이 새로운 전성기를 맞았습니다
+- 서병수 애널리스트]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241217.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241217.mp3</guid>
+      <pubDate>Tue, 17 Dec 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 12/17(화) ETF로 투자하고 있는 연금을 수령할 땐 어떻게 되나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27863,21 +27874,6 @@ IRP에 들어있는 돈이 퇴직금인지, 개인이 낸 돈인지 구분하는
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230126.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230126.mp3</guid>
       <pubDate>Thu, 26 Jan 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 1/26(목) 오스템임플란트, 경영권 분쟁 새 국면.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 오스템임플란트, 경영권 분쟁 새 국면
- 2. 작년 김치 수입 최고 기록
- 3. '외화예금' 규모 사상 최대치
- 4. '전세금 반환 걱정' 집주인에 2억까지 반환 보증
- 5. 해상운임 지속 하락세
-
-출연 : 김현우 소장, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230126.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230126.mp3</guid>
-      <pubDate>Thu, 26 Jan 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
