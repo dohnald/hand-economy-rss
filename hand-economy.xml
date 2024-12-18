@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 12/18(수) 대출을 빨리 갚으려고 하는데 체증식으로 받아도 될까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요, 신축 아파트에 당첨됐는데 집단대출과 보금자리론 중에서 뭘 선택해야할지 고민입니다. 집단대출은 변동금리가 3.9%, 고정금리는 3.8%로 받을 수 있고요, 중도상환수수료는 1.5% 정도에, 원금균등방식과 원리금균등방식을 선택할 수 있습니다. 또, 보금자리론은 20년 납입기준 고정금리로 4%이고, 중도상환수수료는 0.7%입니다. 원금균등과 원리금균등 방식이 가능하고, 아직 40세 이전이라 체증식도 가능한데요. 체증식이 가능하다면 체증식으로 하라고 추천하던데, 제 상황에도 맞는지 의문입니다. 
+
+신축 아파트에 계속 거주할 계획이고 시세차익 같은 건 생각지 않고 있습니다. 목돈이 생기더라도 재테크할 생각이나 능력이 없어서, 대출금을 먼저 갚고 싶어요. 이런 상황이면 체증식, 원금균등, 원리금균등 중 어떤 방식으로 대출하는게 좋을까요? 제 경우에도 체증식이 가장 좋은 걸까요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241218.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241218.mp3</guid>
+      <pubDate>Wed, 18 Dec 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/18(수) 예산 75% 상반기 투입 | 국회의장 특사단 파견 | 中 전기버스 수입 뒷거래 | 청약 무주택자 기준 완화</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27857,22 +27869,6 @@ IRP에 들어있는 돈이 퇴직금인지, 개인이 낸 돈인지 구분하는
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230127.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230127.mp3</guid>
       <pubDate>Fri, 27 Jan 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 1/26(목) 재직 중 IRP연금 수령해야 할까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담] 
-
-이전에 유사한 상담을 해주신 것을 들었지만, 제 경우와는 다른 것 같아 문의 드립니다.
-저는 올해 만 55세가 되어 그동안 10년간 가입했던 IRP의 연금개시가 가능해졌습니다.
-
-앞으로도 정년까지 계속 직장생활을 할 예정이라서 당장 돈이 필요한 상황은 아니구요, 나중에 은퇴하고 나면 퇴직금은 퇴직연금으로 받고, 국민연금도 같이 수령할 생각입니다. 
-
-그런데 연금수령액이 연간 1,200만원을 넘으면 세금이 크다고 들었습니다. 그러면 저 같은 경우 지금 IRP를 연금으로 수령하고 정기예금 등에 넣는 것이 좋은 가요? 아니면 그냥 미뤄두다가 필요할 때 연금 수령을 하는 것이 좋은 걸까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230126.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230126.mp3</guid>
-      <pubDate>Thu, 26 Jan 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
