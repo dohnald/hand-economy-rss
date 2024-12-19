@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 12/19(목) 짧은 기간 동안 목돈을 굴리는 방법을 알려주세요.</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요, 내년 11월 결혼 예정인 예비신부입니다. 예비신랑과는 다음 달부터 같이 동거를 하게 되었는데요, 결혼을 준비하다보니 월세, 웨딩홀 예약금, 혼수 구매, 신혼여행비 마련 등등 큰 돈이 들어갈 일이 많더라고요. 마침 내년 1월에 만기가 되는 800만 원짜리 적금이 있는데, 결혼 전까진 쓸 일이 없을 것 같습니다. 그래서 결혼시점인 내년 11월 전까지 만기된 돈을 어떻게 굴려야하나 고민입니다. 주식에 넣자니, 손실이 날까 두렵고, 예금에 가입하자니, 10개월짜리는 없어서 가입이 어렵습니다. 약 10개월 정도의 기간 동안, 최대로 이익을 낼 수 있는 방법은 어떤게 있을지 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241219.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241219.mp3</guid>
+      <pubDate>Thu, 19 Dec 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/19(목) FOMC 리뷰 | 소득계층의 양극화 | 칩플레이션 발생</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27843,19 +27853,6 @@ IRP에 들어있는 돈이 퇴직금인지, 개인이 낸 돈인지 구분하는
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230127_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230127_1.mp3</guid>
       <pubDate>Fri, 27 Jan 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 1/27(금) 개인회생이 취소된다고 합니다... 어떡하나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 조그만 호프집을 하다가 코로나가 터진 후에 문을 닫게 되고 그 전에 있던 빚을 도저히 갚을 길이 없어서 개인회생을 신청하고 변제 중입니다. 그런데 그 이후에도 돈벌이가 시원치 않아서 변제금을 아예 못 낸 달도 있었고, 일부만 낸 적도 있었습니다. 그러다보니 얼마 전 개인회생이 취소된다는 연락을 받게 됐습니다. 
-
-변제금을 내야하는 건 맞지만 처음에 신청했을 때보다 소득도 줄어들어서 변제금을 내기가 점점 더 빠듯하고 생활이 너무 힘듭니다. 취소를 막으려면 밀린 돈을 내라고 하는데 거의 천만원에 육박하는 걸 어떻게 내야할지 막막합니다. 지금 같은 상황에서 제가 할 수 있는 게 무엇인지 알고 싶습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230127.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230127.mp3</guid>
-      <pubDate>Fri, 27 Jan 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
