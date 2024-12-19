@@ -16,6 +16,32 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/19(목) FOMC 리뷰 | 소득계층의 양극화 | 칩플레이션 발생</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美 금리 0.25%p 인하.. 내년 인하는 2회
+2) 소득 양극화 고착.. 더 높아진 계층의 벽
+3) 저가상품 가격만 오른다.. '칩플레이션' 원인은?
+- 박세훈 작가
+- 손석우 경제뉴스 큐레이터
+- 김현우 행복자산관리연구소 소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241219.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241219.mp3</guid>
+      <pubDate>Thu, 19 Dec 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 12/18(수) 우리나라 반도체 기술, 중국이 따라 잡고 있습니다 (신창환 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+우리나라 반도체 기술, 중국이 따라 잡고 있습니다
+- 신창환 고려대 반도체공학과 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241218.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241218.mp3</guid>
+      <pubDate>Wed, 18 Dec 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 12/18(수) 대출을 빨리 갚으려고 하는데 체증식으로 받아도 될까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27830,45 +27856,6 @@ IRP에 들어있는 돈이 퇴직금인지, 개인이 낸 돈인지 구분하는
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230127.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230127.mp3</guid>
       <pubDate>Fri, 27 Jan 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 1/27(금) 주간 Review : 난방비 대소동.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1) Review & Preview
--Re : 난방비 대소동
--Pre : 향후 공공요금 정책 
-
-박연미 경제평론가
-
-
-2) 글로벌 리포트
-- 중국 재개방, 글로벌 인플레이션 자극할까?
-- 영국 부동산 시장에서 떠오르는 '주택'
-- 독일, 데이터 센터서 나오는 폐열 재사용
-- 전 세계가 달걀값 급등에 난리
-
-어예진 소장 
-
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230127.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230127.mp3</guid>
-      <pubDate>Fri, 27 Jan 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 1/27(금) 중국 부유층, 중국 탈출 중.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 다음 주 출시 '특례보금자리론' 금리 인하
- 2. PF 시장, 대우조선해양건설發 폭탄
- 3. 중국 부유층, 중국 탈출 중
- 4. 특수형태 근로종사자·프리랜서 소득세 비과세 혜택
- 5. 캐나다, "더 이상의 금리 인상은 없다"
-
-출연 : 김현우 소장, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230127.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230127.mp3</guid>
-      <pubDate>Fri, 27 Jan 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
