@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/20(금) 치솟은 달러원 환율 | 통상임금 판례 변경 | 신도시 이주대란 우려</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 달러원 환율 1,450원선도 뚫었다
+2) 대법 “조건부 상여금도 통상임금”
+3) 1기 신도시 이주대책.. 시장에 맡긴다
+- 박세훈 작가
+- 김현우 행복자산관리연구소 소장
+- 손석우 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241220.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241220.mp3</guid>
+      <pubDate>Fri, 20 Dec 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 12/19(목) 탄핵정국 속 부동산 시장의 미래는? (이광수 대표)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27846,15 +27861,6 @@ IRP에 들어있는 돈이 퇴직금인지, 개인이 낸 돈인지 구분하는
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230129.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230129.mp3</guid>
       <pubDate>Sun, 29 Jan 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 아직, 맛세이 금지</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230127_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230127_2.mp3</guid>
-      <pubDate>Fri, 27 Jan 2023 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
