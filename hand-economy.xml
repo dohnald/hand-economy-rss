@@ -16,6 +16,35 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/23(월) 선물환 한도 상향 | 美 반도체 보조금 확정 | 파두 사태 수사</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 政 “선물환포지션 확대”.. 환율 잡을까?
+2) 삼성 美 반도체 보조금, 26% 감액
+3) ‘뻥튀기 상장’ 파두 사태.. 관계자 검찰行
+- 안승찬 언더스탠딩 기자
+- 정지서 연합인포맥스 기자
+
+[친절한 경제]
+달러원 환율 1,400원대
+과거와 뭐가 다른가요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241223.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241223.mp3</guid>
+      <pubDate>Mon, 23 Dec 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 12/22(일) 달러의 시대가 저물고 있습니다 (홍익희 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+달러의 시대가 저물고 있습니다
+-홍익희 전 세종대 대우교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241222.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241222.mp3</guid>
+      <pubDate>Sun, 22 Dec 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 12/21(토) 방위 산업의 트렌드를 알려드립니다 (박정호 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27813,30 +27842,6 @@ https://blog.naver.com/riverodw]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230201.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230201.mp3</guid>
       <pubDate>Wed, 01 Feb 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/1(수) 연금 수령할 때, 퇴직금 원금과 운용수익</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담] 
-
-얼마 전 어떤 기사를 보니 퇴직금을 IRP에 넣어놓고 나중에 연금을 받을 때, 원금과 운용수익에 대해서 각각 따로따로 세금이 부과된다고 하더라구요. 퇴직금 원금을 연금으로 받는 건 문제가 없는데, 운용수익을 연금으로 받을 때는 1200만원을 넘게 되면 세금폭탄을 맞을 수 있으니, 원금이 얼마고 운용수익이 얼마인지 잘 기억해 둘 필요가 있다는 내용이었습니다.
-
-IRP에 들어있는 돈이 퇴직금인지, 개인이 낸 돈인지 구분하는 건 이해가 됩니다. 하지만 연금으로 받는 돈이 원금인지 운용수익인지까지 알아야 하는 이유는 뭔지 알고 싶습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230201.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230201.mp3</guid>
-      <pubDate>Wed, 01 Feb 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/1(수) 은행과 돈의 질긴 인연</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[지리(地理)는 경제사(史)
-"은행과 돈의 질긴 인연"
-- 양효걸 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230201.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230201.mp3</guid>
-      <pubDate>Wed, 01 Feb 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
