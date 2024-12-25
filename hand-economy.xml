@@ -16,6 +16,33 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/25(수) 실손보험 인상 | '자사주 마법'의 종언 | 미국채 10년물</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 내년 실손보험 평균 7.5% 인상
+2) 인적분할시 신주 배정 금지.. 실효성은?
+-김치형 경제뉴스 큐레이터
+-손석우 경제뉴스 큐레이터
+
+[친절한 경제]
+미국 국채 10년물은 왜 중요한가요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241225.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241225.mp3</guid>
+      <pubDate>Wed, 25 Dec 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 12/24(화) 우리나라 정치가 자꾸 실패하는 이유 (하상응 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+우리나라 정치가 자꾸 실패하는 이유
+- 하상응 서강대학교 정치외교학과 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241224.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241224.mp3</guid>
+      <pubDate>Tue, 24 Dec 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 12/24(화) 퇴직금을 중간정산하고 싶습니다</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27806,37 +27833,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230203.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230203.mp3</guid>
       <pubDate>Fri, 03 Feb 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/3(금) 美 기준금리 0.25%p 인상, '한은'은?.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[Review & Preview
-- Re : 전세사기 예방 및 피해지원 방안
-- Pre : 美 기준금리 0.25%p 인상, '한은'은?
-박연미 경제평론가
-
-글로벌 리포트
-- 인도의 아다니 그룹과 공매도 헤지펀드 힌덴버그의 싸움
-- 고기보다 양파가 비싼 나라, 필리핀
-- 독일 시민권 부여 기준 개정
-어예진 소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230203.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230203.mp3</guid>
-      <pubDate>Fri, 03 Feb 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 2/3(금) 전세사기 예방 및 피해 지원방안.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 정부, 전세사기 예방 및 피해 지원방안 또 내놔
- 2. 日 저출산 대책.. 다자녀 가구 세금 인하
- 3. 전기차 보조금 개편안 공개
-
-출연 : 김현우 소장, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230203.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230203.mp3</guid>
-      <pubDate>Fri, 03 Feb 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
