@@ -16,6 +16,27 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 12/25(수) 후지산·백두산·울릉도의 화산 폭발 가능성 (김기범 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+후지산·백두산·울릉도의 화산 폭발 가능성
+- 김기범 부산대 지질환경과학과 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241225.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241225.mp3</guid>
+      <pubDate>Wed, 25 Dec 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[상담소] 12/25(수) 입주권을 사면 취득세를 두 번 내나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 조합원 입주권을 매수하여 신축아파트에 입주하려고 합니다. 그런데, 제가 조합원 입주권을 매수하면 승계조합원이 되어 취득세를 두 번 납부해야한다고 하더라구요. 아파트가 현재 준공되어 사용승인도 받은 상황이고, 아직은 입주를 시작하기 전입니다. 이 시기에도 입주권을 매수하게 되면 취득세를 두 번 내는 것이 맞는 건가요? 만약 두 번 취득세를 내야한다면, 입주권을 매수할 때와 입주를 할 때 각각 내게 되는 것일까요? 두 번의 취득 세를 내야한다는 게 이해가 잘 안 되어 사연을 보내봅니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241225.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241225.mp3</guid>
+      <pubDate>Wed, 25 Dec 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/25(수) 실손보험 인상 | '자사주 마법'의 종언 | 미국채 10년물</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27813,26 +27834,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230203_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230203_2.mp3</guid>
       <pubDate>Fri, 03 Feb 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 보복이 난무하는 곳</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230203_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230203_1.mp3</guid>
-      <pubDate>Fri, 03 Feb 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/3(금) 금융자산과 건강보험료 (+ 1월 30일 상담 내용 일부 정정)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담] 
-
-안녕하세요. 은퇴가 얼마 남지 않아 은퇴 후엔 채권과 예금에 돈을 넣어 놓고 나오는 이자로 생활비에 보태려고 하는데, 건강보험료가 걱정입니다. 건강보험 지역가입자가 되면 재산에도 건강보험료를 산정한다고 들었는데, 금융 자산은 건강보험료 산정할 때 어디까지 포함 되나요? 똑같은 금융자산이라도 어떤 금융상품에 넣어놓는지에 따라서 기준이 달라지는지도 궁금합니다. ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230203.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230203.mp3</guid>
-      <pubDate>Fri, 03 Feb 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
