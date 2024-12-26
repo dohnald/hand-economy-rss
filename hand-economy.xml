@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/26(목) SRT거래 증가 | 회사채 투자 위축 | 2036 올림픽 유치</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 금융위기와 비슷한 위험요인, SRT란?
+2) 벌어지는 신용 스프레드.. 기업 자금난 우려
+3) 2036 올림픽 수지타산 맞는다? 
+- 김치형 경제뉴스 큐레이터
+- 김현우 행복자산관리연구소 소장
+- 손석우 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241226.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241226.mp3</guid>
+      <pubDate>Thu, 26 Dec 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 12/25(수) 후지산·백두산·울릉도의 화산 폭발 가능성 (김기범 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27825,15 +27840,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230205.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230205.mp3</guid>
       <pubDate>Sun, 05 Feb 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 돌아오지 않을 팬미팅</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230203_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230203_2.mp3</guid>
-      <pubDate>Fri, 03 Feb 2023 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
