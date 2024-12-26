@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 12/26(목) 재건축으로 주택이 멸실되면 무주택인가요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 저는 재건축이 진행 중인 아파트 1채를 보유하고 있습니다. 현재 퇴거율은 98% 정도 되고, 나머지 2%의 퇴거가 완료되면 기존의 아파트를 허물고 다시 아파트를 짓는다 고 하는데요, 이와 관련해서 몇 가지 궁금한 게 있습니다. 기존 건물을 허물어서 멸실이 되면 무주택자가 된다고 하는데, 맞나요? 무주택자가 된다면 관련된 세제 혜택이 나, 주택 청약, 전세 자금 대출, 월세 세액공제 등의 혜택들도 받을 수 있는 걸까요? 멸실 시 적용되는 무주택자 기간과 범위 등에 대해서 알고 싶습니다. 감사합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241226.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241226.mp3</guid>
+      <pubDate>Thu, 26 Dec 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/26(목) SRT거래 증가 | 회사채 투자 위축 | 2036 올림픽 유치</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27823,23 +27833,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230206.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230206.mp3</guid>
       <pubDate>Mon, 06 Feb 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/5(일) 은행나무와 한국 경제가 닮았다고요?.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1) 주간 손경제 플러스 - 공부왕 이종훈
-"인류의 삶을 바꾼 발명, 아스피린"
-- 이종훈 평론가
-
-
-2) 이과식 경제
-"은행나무와 한국 경제가 닮았다고요?"
-- 이독실 과학평론가
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230205.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230205.mp3</guid>
-      <pubDate>Sun, 05 Feb 2023 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
