@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (1부) 대학 간판 vs 좋은 학과</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[(1부) 대학 간판 vs 좋은 학과]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241227_1.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241227_1.mp3</guid>
+      <pubDate>Fri, 27 Dec 2024 18:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 12/27(금) 서울 청약을 위해 이사를 해야 할까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27813,19 +27822,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230207.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230207.mp3</guid>
       <pubDate>Tue, 07 Feb 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 2/7(화) 화물차 '안전운임제'서 '표준운임제'로 개편.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 화물차 '안전운임제'서 '표준운임제'로 개편
- 2. 대우건설 울산 주상복합 시공권 '손절'
- 3. 달러-원 환율 다시 급등
-
-출연 : 양효걸 기자, 나수지 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230207.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230207.mp3</guid>
-      <pubDate>Tue, 07 Feb 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
