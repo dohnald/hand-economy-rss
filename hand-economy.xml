@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (2부) 안승찬의 토크 타임</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[(2부) 안승찬의 토크 타임]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241227_2.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241227_2.mp3</guid>
+      <pubDate>Fri, 27 Dec 2024 18:01:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (1부) 대학 간판 vs 좋은 학과</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27805,23 +27814,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230207.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230207.mp3</guid>
       <pubDate>Tue, 07 Feb 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/7(화) 마스크를 벗어봤더니.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1) 공부왕 이종훈
-"GPS의 가치는 산소와 동급"
-- 이종훈 작가
-
-2) 키워드 경제
-"마스크를 벗어봤더니..."
-- 남궁민 뉴스 큐레이터 
-
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230207.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230207.mp3</guid>
-      <pubDate>Tue, 07 Feb 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
