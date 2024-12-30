@@ -16,6 +16,33 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/30(월) 전력망 흔드는 데이터센터 | 美 전문직비자 논쟁</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 머스크 vs ‘MAGA’.. 美 전문직비자 논쟁
+2) 전기먹는 데이터센터.. 美 전력 품질 떨어졌다
+- 안승찬 언더스탠딩 기자
+- 정지서 연합인포맥스 기자
+
+[친절한 경제]
+무역시 달러를 어떻게 주고 받나요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241230.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241230.mp3</guid>
+      <pubDate>Mon, 30 Dec 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 12/29(일) 캐나다 저격하는 트럼프의 속내 (최준영 박사)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+캐나다 저격하는 트럼프의 속내
+- 최준영 법무법인 율촌 전문위원]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241229(1).mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241229(1).mp3</guid>
+      <pubDate>Sun, 29 Dec 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 12/28(토) 2025년, 부동산 가격 또 오를 겁니다 (박정호 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27785,33 +27812,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230209.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230209.mp3</guid>
       <pubDate>Thu, 09 Feb 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/9(목) 제2 중동붐은 오는가.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1) 경제 평행이론
-"제2 중동붐은 오는가"
-- 김대호 박사
-
-2) 책크리스트
-"로코노믹스(Rockonomics) - 음악 산업에서는 누가, 어떻게 돈을 버는가"]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230209.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230209.mp3</guid>
-      <pubDate>Thu, 09 Feb 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 2/9(목) 작년 경상수지 '흑자 기록' 했지만.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 작년 경상수지 '흑자 기록' 했지만..
- 2. 금리 3%대 '주담대' 다시 등장
- 3. 수도권 빌라 ⅔는 '보증 보험' 가입 못 한다
-
-출연 : 김현우 소장, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230209.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230209.mp3</guid>
-      <pubDate>Thu, 09 Feb 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
