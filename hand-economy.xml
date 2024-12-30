@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 12/30(월) 연말정산시 프리랜서인 가족은 기본공제를 못 받나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 연말정산시 연소득이 500만원 이하일 경우에만 인적공제가 가능하고, 상반기에 소득이 있을 경우 연말정산 간소화 시스템에서 걸러진다고 손경제에서 들었습니다. 지금까진 아버님과 어머님을 포함해, 온 가족을 남편의 기본공제 대상자로 등록해 혜택을 받았습니다. 그런데 작년에 제가 프리랜서로 일하며 약 천 만 원정도의 수입이 있었습니다. 아버님도 소득기준을 초과할 것 같아, 공제 대상자에서 빼야될 것 같습니다. 이런 경우는 저도 인적공제에서 빠져야되나요? 별 생각없이 제 명의의 카드로 생활비 절반을 결제했는데, 아버님과 제가 빠지고, 카드 사용금액까지 상당수가 빠질 것 같아 걱정이네요. 세금을 토해내야 될 것 같은데, 종합소득세 신고를 하는 프리랜서를 기본공제 대상자로 넣을 순 없는 건가요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241230.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20241230.mp3</guid>
+      <pubDate>Mon, 30 Dec 2024 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/30(월) 전력망 흔드는 데이터센터 | 美 전문직비자 논쟁</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27799,19 +27809,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230210.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230210.mp3</guid>
       <pubDate>Fri, 10 Feb 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/9(목) 신용카드 사용액으로 소득증빙이 안 되는 이유는?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담] 
-
-안녕하세요. 저희부부는 코로나 이후 가정집 일일도우미, 일용직 근로자로 열심히 투잡, 쓰리잡을 하며, 신용카드사용액으로 소득을 증빙하고 2금융권에서 주택담보대출을 받아서 상환하고 있습니다. 그런데 이번 특례보금자리론을 받고자 알아보니 한국주택금융공사에서는 신용카드 사용액으로 소득증빙이 안된다고 합니다.
-
-현실적으로 일용직소득을 증빙하기도 어렵고, 사실 건강보험은 아들의 피부양자라 직접 납부하지는 않아서 소득을 증빙하기가 어렵습니다. 정부에서 다양한 소득추정 방식을 허용하겠다는 보도를 봤는데, 시중은행에서는 신용카드사용액을 보고 소득으로 인정해줌에도 불구하고, 주택금융공사에서는 인정해 주지 않는 이유가 무엇인가요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230209.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230209.mp3</guid>
-      <pubDate>Thu, 09 Feb 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
