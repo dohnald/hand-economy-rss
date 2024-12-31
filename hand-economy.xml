@@ -16,6 +16,32 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/31(화) 국세청 환급 서비스 | 반도체 인력 유출 | 엔비디아 로봇 신제품 출시</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 국세청, 무료로 세금 환급 서비스.. 배경은?
+2) 삼성·SK 반도체 인력.. 美·中에 뺏긴다
+3) 치열한 로봇 시장.. 엔비디아 신제품 나온다
+-조미현 한국경제신문 기자
+-손석우 경제뉴스 큐레이터
+-정지서 연합인포맥스 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241231.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20241231.mp3</guid>
+      <pubDate>Tue, 31 Dec 2024 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 12/30(월) 양자컴퓨터의 시대는 이미 왔습니다 (이창욱 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+양자컴퓨터의 시대는 이미 왔습니다
+- 이창욱 과학동아 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241230.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20241230.mp3</guid>
+      <pubDate>Mon, 30 Dec 2024 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 12/30(월) 연말정산시 프리랜서인 가족은 기본공제를 못 받나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27775,40 +27801,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230210.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230210.mp3</guid>
       <pubDate>Fri, 10 Feb 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/10(금) 교통요금 쓰나미 오나.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1) Review & Preview
-- Re : 440억 물고 사업 포기한 건설사 & 10% 분양가 할인 아파트 등장
-- Pre : 교통요금 쓰나미 오나
-박연미 경제평론가
-
-
-2) 글로벌 리포트
-- 튀르키예 강진 누적 사망자 2만 명 넘어
-- 미국 농지 중국인은 못 사게 막는다
-- 미국의 제조업 부활을 바라보는 영국의 차가운 시선
-- 캘리포니아 가스요금 폭탄 
-어예진 소장 
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230210.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230210.mp3</guid>
-      <pubDate>Fri, 10 Feb 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 2/10(금) 국민연금 개혁, 진전이 없다.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 국민연금 개혁, 진전이 없다
- 2. 시중은행 가계 대출 잔액 8조원 줄어
- 3. 금감원, 'DSR 우회' 꼼수 대출 막는다
-
-출연 : 김현우 소장, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230210.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230210.mp3</guid>
-      <pubDate>Fri, 10 Feb 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
