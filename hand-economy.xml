@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 1/1(수) ISA의 수익이 비과세한도를 넘었는데, 더 납입해도 될까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 2년 전 서민형 ISA를 개설해서 납입 한도 4천만 원을 모두 입금한 뒤, 현재는 미국 S&P500, 미국배당다우존스, 미국나스닥100 3종목에 나눠서 투자하고 있습니다. 서민형이라 비과세 한도가 400만 원인데, 현재 수익은 1천2백만 원 정도로, 한도를 이미 초과한 상태입니다. 3년 만기를 채우면 연금저축으로 전환할 예정인데요. 비과세 한도를 이미 초과한 상태여서, 내년에도 3년차 한도인 2천만 원을 입금해서 계좌를 운용하는게 나을지, 아니면 입금하지 않고 있다가 만기가 되면 연금저축계좌에 1800만 원을 입금하여 운용하는 게 나을지 알고 싶습니다. 참고로, 내년에 투자 할 수 있는 여유 자금은 2천만 원 정도입니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250101.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250101.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 1/1(수) 이진우의 손에 잡히는 경제</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27785,23 +27795,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230213.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230213.mp3</guid>
       <pubDate>Mon, 13 Feb 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/12(일) 백두산, 고인 마그마는 터진다. 고인 경제는?.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1) 주간 손경제 플러스 - 책크리스트
-"로코노믹스(Rockonomics) - 음악 산업에서는 누가, 어떻게 돈을 버는가"
-- 김치형 경제뉴스 큐레이터
-
-
-2) 이과식 경제
-"백두산, 고인 마그마는 터진다. 고인 경제는?"
-- 이독실 과학평론가
- ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230212.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230212.mp3</guid>
-      <pubDate>Sun, 12 Feb 2023 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
