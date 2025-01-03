@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (2부) 호랑이 선생님의 풍금 [끝]</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[오늘 커피타임은 2부가 끝입니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250103_22.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250103_22.mp3</guid>
+      <pubDate>Fri, 03 Jan 2025 18:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (1부) '하찮은' 문화생활</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[아저씨들의 하찮은 문화생활]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250103_11.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250103_11.mp3</guid>
+      <pubDate>Fri, 03 Jan 2025 18:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 1/3(금) 부모님댁에 살면서 드린 전세금, 근거를 남겨둬야 하나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27758,31 +27776,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230215.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230215.mp3</guid>
       <pubDate>Wed, 15 Feb 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/15(수) 산업혁명부터 ChatGPT까지... 기술 발전은 인간을 얼마나 이롭게 하나</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[지리(地理)는 경제사(史)
-"산업혁명부터 ChatGPT까지...기술 발전은 인간을 얼마나 이롭게 하나"
-- 양효걸 기자
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230215.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230215.mp3</guid>
-      <pubDate>Wed, 15 Feb 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 2/15(수) 카카오T 배차 알고리즘 조작.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 美 1월 CPI, 둔화됐지만 예상보다 높아
- 2. 카카오T 배차 알고리즘 조작.. 과징금 257억 원
- 3. 중국 전기차 배터리 회사, "미국에 공장 짓겠다"
-
-출연 : 양효걸 기자, 나수지 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230215.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230215.mp3</guid>
-      <pubDate>Wed, 15 Feb 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
