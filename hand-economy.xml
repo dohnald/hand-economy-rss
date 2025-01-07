@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 1/6(월) 미얀마 군부정권이 흔들리고 있습니다 (박재혁 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+미얀마 군부정권이 흔들리고 있습니다
+- 박재혁 한국외대 동남아연구소 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250106.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250106.mp3</guid>
+      <pubDate>Mon, 06 Jan 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 1/6(월) 1년 단위로 맺은 월세계약, 계약갱신을 요구할 수 있나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27753,20 +27764,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230217.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230217.mp3</guid>
       <pubDate>Fri, 17 Feb 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 2/17(금) 채권 투자에 투자금이 몰리고 있다.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 신용카드 '현금서비스'나 '리볼빙' 늘어나
- 2. 반도체 주요 기술 중국 유출
- 3. 채권 투자에 투자금이 몰리고 있다
- 4. 보험사 '신속지급률' 공시
-
-출연 : 김현우 소장, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230217.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230217.mp3</guid>
-      <pubDate>Fri, 17 Feb 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
