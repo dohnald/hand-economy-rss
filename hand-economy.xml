@@ -16,6 +16,35 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/8(수) 에코프로 근로이사제 도입 | 현대제철 美 직접투자 | 뉴욕 혼잡통행료 징수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 에코프로, 근로이사제 최초 도입.. 배경은?
+2) 현대제철, 美 제철소 추진.. 최대 10조
+3) 美 뉴욕, 혼잡통행료 징수.. 반발 지속
+-김치형 경제뉴스 큐레이터
+-손석우 경제뉴스 큐레이터
+
+[친절한 경제]
+무역 시장에서 왜 원화보다
+동남아 국가들의 화폐가 많이 쓰이나요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250108.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250108.mp3</guid>
+      <pubDate>Wed, 08 Jan 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 1/7(화) 한국 경제의 위기, 나아갈 방향은? (박종훈 박사)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+한국 경제의 위기, 나아갈 방향은?
+- 박종훈 지식경제연구소 박사]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250107.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250107.mp3</guid>
+      <pubDate>Tue, 07 Jan 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 1/7(화) 군인공제회의 저축상품에 대해 알고 싶습니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27740,24 +27769,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230219.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230219.mp3</guid>
       <pubDate>Sun, 19 Feb 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 법인 설 립</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230217_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230217_2.mp3</guid>
-      <pubDate>Fri, 17 Feb 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 극복할 수 있는 자</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230217_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230217_1.mp3</guid>
-      <pubDate>Fri, 17 Feb 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
