@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 1/8(수) 지속가능한 국민연금, 마지막 기회가 남았습니다 (김우창 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+지속가능한 국민연금, 마지막 기회가 남았습니다
+- 김우창 카이스트 산업시스템공학과 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250108.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250108.mp3</guid>
+      <pubDate>Wed, 08 Jan 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 1/8(수) 상속주택의 명의를 어떻게 해야 될까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27751,19 +27762,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230220.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230220.mp3</guid>
       <pubDate>Mon, 20 Feb 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 2/20(월) '노란봉투법'에 쏠리는 시선.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 여러 지표만 보면, 금리 더 올라갈 것
- 2. '노란봉투법'에 쏠리는 시선
- 3. 금리 인상으로 은행권 수익은 극대화
-
-출연 : 안승찬 기자, 양효걸 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230220.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230220.mp3</guid>
-      <pubDate>Mon, 20 Feb 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
