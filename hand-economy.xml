@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/9(목) 지방 산업도시의 위기 | 美 임대료 상승 원인 | 현대차 美아마존서 판매</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 청년층, 지방 산업도시서 대탈출.. 제조업 위기
+2) 美  주택 임대료 상승.. ‘기업 집주인’ 때문?
+3) 현대차, 美 아마존서 판매.. 시장 바꿀까?
+- 손석우 경제뉴스 큐레이터 
+- 김현우 행복자산관리연구소 소장
+- 박세훈 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250109.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250109.mp3</guid>
+      <pubDate>Thu, 09 Jan 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/8(수) 지속가능한 국민연금, 마지막 기회가 남았습니다 (김우창 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27745,23 +27760,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230220.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230220.mp3</guid>
       <pubDate>Mon, 20 Feb 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/20(월) 인상 VS 동결, 한국은행 기준금리 23일 발표.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-증시 열렸다
-- 인상 VS 동결, 한국은행 기준금리 23일 발표
-정광우 대표
-
-2)
-신기방기 레드칩
-- MS 빙에 요즘 장안의 화제, 챗GPT가 탑재됐다고?
-신기주 부대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230220.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230220.mp3</guid>
-      <pubDate>Mon, 20 Feb 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
