@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 1/11(토) 세계의 인터넷망이 쪼개질 지도 모릅니다 (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+세계의 인터넷망이 쪼개질지도 모릅니다
+- 박정호 명지대 교수
+w. 이진우 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250111.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250111.mp3</guid>
+      <pubDate>Sat, 11 Jan 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/10(금) 키즈카페의 역사 (이종훈 작가) | 中 연금정책의 위기 | 독일 경제 망치는 병가? (어예진 소장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27715,19 +27728,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230224(2).mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230224(2).mp3</guid>
       <pubDate>Fri, 24 Feb 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/23(목) '투자조합출자'와 '장기집합투자증권'이란?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담] 
-
-안녕하세요~ 매일 생활밀착형 경제고민에 답해주셔서 감사합니다!
-최근 직장에서 한 연말정산 결과를 보면서 연말정산 반성문을 작성한다 생각하고,소득공제, 세액공제 항목을 꼼꼼히 되짚어보고 있습니다.
-연금저축, 주택청약저축 등은 손경제 상담소에서 잘 설명해주셔서 뭔지 알겠는데, 소득공제 항목 중 [투자조합출자] 와 [장기집합투자증권저축]은 어떻게 가입할 수 있는 상품인지 궁금합니다. 아무 펀드나 가입하면 되는 건가요? 재테크 겸 세테크 겸, 겸사겸사 활용할 수 있는 방법을 알려주시면 감사드리겠습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230223.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230223.mp3</guid>
-      <pubDate>Thu, 23 Feb 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
