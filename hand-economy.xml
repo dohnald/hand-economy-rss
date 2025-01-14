@@ -16,6 +16,39 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/14(화) 무순위청약 개편  | 美 반도체 수출 통제 | 한은 RP 매입 </title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 이제 무주택자만 '줍줍'.. 부양 가족 확인도 강화
+2) 공공주택, 역대 최대 공급.. 청년 대출도 지원
+3) 바이든, 임기 마지막 주에 반도체 규제 .. 빅테크는 반발
+4) 한은, RP 매입액 ‘사상 최대’.. 실상은?
+-김치형 경제뉴스 큐레이터
+-정지서 연합인포맥스 기자
+-조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250114.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250114.mp3</guid>
+      <pubDate>Tue, 14 Jan 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 1/13(월) CES에서 만난 AI혁신 (김덕진 소장) | 서울 도시 개발의 시작 (김재원 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+CES에서 만난 AI혁신
+- 김덕진 IT커뮤니케이션 연구소장
+
+2부
+[쩐설의 김선생]
+서울 도시 개발의 시작
+- 김재원 역사학자 (가톨릭대 겸임교수)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250113.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250113.mp3</guid>
+      <pubDate>Mon, 13 Jan 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 1/13(월) 연말정산 의료비공제와 부양가족 공제가 궁금합니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27699,24 +27732,6 @@ AI 전쟁터 된 MWC 2023
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230226.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230226.mp3</guid>
       <pubDate>Sun, 26 Feb 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 탕이 싫은 MC등등</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230224_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230224_2.mp3</guid>
-      <pubDate>Fri, 24 Feb 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 다 깐 남자</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230224_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230224_1.mp3</guid>
-      <pubDate>Fri, 24 Feb 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
