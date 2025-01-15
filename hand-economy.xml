@@ -16,6 +16,34 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/15(수) 기준금리 전망 | 삼성전자 중고폰 보상 | 역할 대행 서비스</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 한은, 3연속 금리 내릴까.. 내일 금통위서 결정
+2) 삼성전자, 애플처럼 ‘중고폰 매입 보상’ 시작
+3) 역할 대행 서비스 유행.. “시간당 친구·애인해 준다”
+-김치형 경제뉴스 큐레이터
+-손석우 경제뉴스 큐레이터
+
+[친절한 경제]
+물가가 오르면 금값도 오르나요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250115.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250115.mp3</guid>
+      <pubDate>Wed, 15 Jan 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 1/14(화) 자율주행의 시대, 자동차 산업의 미래는? (권용주 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+자율주행의 시대, 자동차 산업의 미래는?
+- 권용주 국민대 자동차 운송·디자인학과 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250114.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250114.mp3</guid>
+      <pubDate>Tue, 14 Jan 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 1/14(화) 개인연금 과세에 대해 알려주세요.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27691,38 +27719,6 @@ AI 전쟁터 된 MWC 2023
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230227.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230227.mp3</guid>
       <pubDate>Mon, 27 Feb 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/27(월) 3월 1일 테슬라의 날을 주목해야 하는 이유.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-증시 열렸다
-3월 1일 테슬라의 날을 주목해야 하는 이유
-- 정광우 대표
-
-
-2) 
-신기방기 레드칩
-코로나19에 불티났다... 크록스
-- 신기주 부대표
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230227.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230227.mp3</guid>
-      <pubDate>Mon, 27 Feb 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 2/27(월) '연결되지 않을 권리' 국내 도입되나.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 기름 도매가격 공개, 정부 vs 정유사 갈등 
- 2. '기준'금리 동결됐지만, '시중'금리는 올라
- 3. '연결되지 않을 권리' 국내 도입되나
-
-출연 : 안승찬 기자, 양효걸 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230227.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230227.mp3</guid>
-      <pubDate>Mon, 27 Feb 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
