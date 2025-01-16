@@ -16,6 +16,32 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/16(목) 美 CPI 상승과 금리 | 미래등기시스템 혼란 | 묶음수가 도입 논의</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美 CPI 2.9% 상승.. 전 세계 금리 전망은?
+2) 미래등기시스템, 도입 직전에 혼란.. 이유는?
+3) 동네의원, ‘3분 진료’ 없앤다.. 상담도 수가 보상
+- 박세훈 작가
+- 김현우 행복자산관리연구소 소장
+- 손석우 경제뉴스 큐레이터 ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250116.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250116.mp3</guid>
+      <pubDate>Thu, 16 Jan 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 1/15(수) 자원의 땅 그린란드, 미국이 노리고 있습니다 (김봉철 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+자원의 땅 그린란드, 미국이 노리고 있습니다
+- 김봉철 한국외대 기후변화융합학부 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250115.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250115.mp3</guid>
+      <pubDate>Wed, 15 Jan 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 1/15(수) 공시이율형 연금보험에 대해 궁금합니다. </title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27684,38 +27710,6 @@ SM 경영권 확보 배경과 향후
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230228.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230228.mp3</guid>
       <pubDate>Tue, 28 Feb 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/28(화) 결제 시스템, 세상을 움직이는 보이지 않는 힘.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-공부왕 이종훈 
-결제 시스템, 세상을 움직이는 보이지 않는 힘
-- 이종훈 작가
-
-
-2)
-키워드 경제
-AI 전쟁터 된 MWC 2023
-- 김덕진 소장 
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230228.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230228.mp3</guid>
-      <pubDate>Tue, 28 Feb 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 2/28(화) 청약, 오늘부터 무주택 거주 요건 폐지.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 청약, 오늘부터 무주택 거주 요건 폐지
- 2. 가스공사 작년 순익 2조 5천억 원, 그러나 그건 이익이 아니다
- 3. 인천공항 면세점에 '중국 면세업체' 들어오나
-
-출연 : 양효걸 기자, 나수지 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230228.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230228.mp3</guid>
-      <pubDate>Tue, 28 Feb 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
