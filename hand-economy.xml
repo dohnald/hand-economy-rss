@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (4부) 대행의 시대</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (4부) 대행의 시대]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250117_44.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250117_44.mp3</guid>
+      <pubDate>Fri, 17 Jan 2025 18:20:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (2부) 다시 태어난다면</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27678,25 +27687,6 @@ SM 경영권 확보 배경과 향후 계획
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230302.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230302.mp3</guid>
       <pubDate>Thu, 02 Mar 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/2(목) 계약 갱신 거절 사례와 판례.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1) 
-억울한 경제
-계약 갱신 거절 사례와 판례 
-- 조세영 변호사
-
-
-2)
-책크리스트
-프랑켄슈타인 + 은밀한 설계자들
-- 장동석 출판평론가 
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230302.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230302.mp3</guid>
-      <pubDate>Thu, 02 Mar 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
