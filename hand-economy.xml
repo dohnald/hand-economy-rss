@@ -16,6 +16,33 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/17(금) 한은 금리 동결 | 토탈리턴 ETF 과세 | 카카오T 제재</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 한은, 금리 3%로 동결.. “추경으로 경기 살려야”
+2) 미래등기시스템, 도입 잡음에 “일단 유보”
+3) 해외 TR ETF, ‘매년’ 세금 낸다.. 국내형은 유보
+4) 공정위 “부당 수수료 징수”.. TK 카카오택시 제재
+- 박세훈 작가
+- 김현우 행복자산관리연구소 소장
+- 안승찬 언더스탠딩 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250117.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250117.mp3</guid>
+      <pubDate>Fri, 17 Jan 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 1/16(목) 무너질 독일 경제를 되살릴 방법은?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+무너질 독일 경제를 되살릴 방법은?
+- 안병억 대구대 국제관계학과 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250116.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250116.mp3</guid>
+      <pubDate>Thu, 16 Jan 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 1/16(목) 자동차보험 렌터카 보상과 운전자 보험이 궁금합니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27683,32 +27710,6 @@ SM 경영권 확보 배경과 향후 계획
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230301.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230301.mp3</guid>
       <pubDate>Wed, 01 Mar 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/1(수) SM 경영권 확보 배경과 향후 </title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[이슈 인터뷰]
-SM 경영권 확보 배경과 향후 
-이창환 얼라인파트너스 자산운용 대표
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230301.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230301.mp3</guid>
-      <pubDate>Wed, 01 Mar 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/1(수) 영종대교·인천대교 통행료 인하.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 영종대교·인천대교 통행료 인하
- 2. 서울 '전세가율' 지속 하락
- 3. 까다로운 조건 붙인 美 반도체 보조금
- 4. 한전, 채권 두 달 새 6조 발행
-
-출연 : 양효걸 기자, 나수지 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230301.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230301.mp3</guid>
-      <pubDate>Wed, 01 Mar 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
