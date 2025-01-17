@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (2부) 다시 태어난다면</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (2부) 다시 태어난다면]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250117_22.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250117_22.mp3</guid>
+      <pubDate>Fri, 17 Jan 2025 18:10:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (1부) 협력의 진화</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27688,20 +27697,6 @@ SM 경영권 확보 배경과 향후 계획
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230302.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230302.mp3</guid>
       <pubDate>Thu, 02 Mar 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/2(목) 실업급여, 액수는 깎고 지급 기간은 늘린다.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 실업급여, 액수는 깎고 지급 기간은 늘린다
- 2. 유럽·일본 물가 상승
- 3. 달러예금 금리 5%까지 올라
- 4. 2월 무역적자 53억달러.. 12개월 연속 적자행진
-
-출연 : 김현우 소장, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230302.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230302.mp3</guid>
-      <pubDate>Thu, 02 Mar 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
