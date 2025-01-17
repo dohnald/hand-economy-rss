@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (1부) 협력의 진화</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (1부) 협력의 진화]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250117_11.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250117_11.mp3</guid>
+      <pubDate>Fri, 17 Jan 2025 18:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 1/17(금) 등록 임대주택과 미등록 임대주택의 임대소득과 건보료는?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27693,22 +27702,6 @@ SM 경영권 확보 배경과 향후 계획
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230302.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230302.mp3</guid>
       <pubDate>Thu, 02 Mar 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>협찬인가 - 아무도 모른다 (a.k.a.이듣보)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[다양한 산업과 직업의 속이야기를 파헤쳐보는 (이것은 협찬인가 콘텐츠인가)
-
-이번 화의 주인공은 일반인이 배달에 참여하는 플랫폼 '우리동네 딜리버리' 어플을 홍보하고,
-가벼운 물건을 가까운 거리에 걸어서 배달하는 '우친'들을 모집하러 나온 김범준, 상현수 매니저님 입니다.
-
-참여하고 싶으신 분은, 웹(www.woodel.co.kr)과 우리동네딜리버리 앱에서 상세 내용 확인 가능합니다.
-
-(이것은 협찬인가 콘텐츠인가) 출연 문의는 hand-economy@naver.com 입니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230301.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230301.mp3</guid>
-      <pubDate>Wed, 01 Mar 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
