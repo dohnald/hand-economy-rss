@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (5부) 이러면 안 되지</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (5부) 이러면 안 되지]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250117_55.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250117_55.mp3</guid>
+      <pubDate>Fri, 17 Jan 2025 18:25:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (4부) 대행의 시대</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27673,20 +27682,6 @@ SM 경영권 확보 배경과 향후 계획
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230303.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230303.mp3</guid>
       <pubDate>Fri, 03 Mar 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/2(목) 자녀가 내는 월세, 세액공제 받을 수 있나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 이번에 자녀가 대학에 입학하게 되어 월세를 알아봤습니다.
-보증금 300만원, 월세 40만원 조건인 원룸에 입주 예정인데, 아빠인 저 또는 아내가 월세에 대한 세액공제 같은 걸 받을 수 있을까요?
-
-현재 저희는 부부공동명의의 주택을 보유하고 있는데, 대출이 있어서 매월 이자포함 53만원 상환중이고 아내가 이자에 대한 소득공제를 받고 있습니다. 연봉은 아내가 저보다 많구요. 이 상태에서 자녀의 월세 세액공제를 받을 수 있는지, 있다면 저와 아내 중 누가 더 유리한지 알고 싶습니다. ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230302.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230302.mp3</guid>
-      <pubDate>Thu, 02 Mar 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
