@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 1/17(금) 등록 임대주택과 미등록 임대주택의 임대소득과 건보료는?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 81세이신 어머니가 지방중소도시에 3채의 아파트를 보유하고 계신데요, 모두 공시가격 2억 미만입니다. 현재 2채는 장기 주택임대 사업자로 등록돼 있고, 한 채는 어머니가 거주하고 계신데요. 어머니가 연로하셔서 곧 양로원에 입소하시거나 자녀의 집에 거주하실 예정이고, 이후엔 거주 중이었던 주택도 임대를 하려고 합니다.
+
+이럴 경우 현재 거주 중인 주택의 임대료가 사업소득으로 잡히는 건지, 아니면 임대주택으로 등록된 주택은 소유 주택수에 포함되지 않아 1주택으로 간주되어 소득이 잡히지 않는 것인지 궁금합니다. 또, 지금은 임대소득이 많지 않고 장애인이셔서, 세금은 내시지만 피부양자로 등록이 되어 있으신데요, 향후 임대소득이 사업소득으로 잡히게 되면 건강보험료는 어떻게 되는 건지도 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250117.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250117.mp3</guid>
+      <pubDate>Fri, 17 Jan 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 1/17(금) 한은 금리 동결 | 토탈리턴 ETF 과세 | 카카오T 제재</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27697,19 +27709,6 @@ SM 경영권 확보 배경과 향후 계획
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230301.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230301.mp3</guid>
       <pubDate>Wed, 01 Mar 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/1(수) 퇴사 2달 째, 아직도 밀린 임금과 퇴직금을 못 받았어요</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 이전에 다니던 직장의 경영사정이 어려워지면서, 2달치 월급과 퇴직금, 그리고 그 외 기타 업무처리비용을 받지 못하고 퇴사한 상태입니다. 퇴사한지는 벌써 2달이 지났고 지금까지 급여는 한 푼도 못받고 있습니다. 처음엔 돈이 생기는대로 최대한 빨리 주겠다고 했지만, 최근 한 달 간은 연락조차 오지 않고 있네요. 
-
-고용노동부에 신고할까 해서 짧게 상담도 했었는데, 국가에서 대신 지급해 주는 경우가 있고 고용주랑 협의해서 받아야 하는 경우가 있다고 들었습니다. 만약 국가에서 대신 지급해주는 경우에 해당 된다면 당장 신고 해서 받고 싶은데, 아니라면 전 직장과 관계만 틀어져 더 못 받게 되는 건 아닐까 걱정입니다. 어떤 경우에 해당하면 나라에서 먼저 체불임금을 지급해 주는 건지 알고 싶습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230301.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230301.mp3</guid>
-      <pubDate>Wed, 01 Mar 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
