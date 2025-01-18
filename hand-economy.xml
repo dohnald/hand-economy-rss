@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 1/17(금) 사교육 시장의 역사 (이종훈 작가) | 이스라엘-하마스 휴전 | 핀란드의 금융 교육 (어예진 소장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[공부왕 이종훈]
+우리나라 사교육 시장의 역사
+- 이종훈 스포츠평론가 (플레이볼 작가)
+
+2부
+[글로벌리포트]
+이스라엘-하마스 휴전 합의ㅣ핀란드의 금융 교육
+- 어예진 해담경제연구소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250117.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250117.mp3</guid>
+      <pubDate>Fri, 17 Jan 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (5부) 이러면 안 되지</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27656,28 +27673,6 @@ SM 경영권 확보 배경과 향후 계획
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230303.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230303.mp3</guid>
       <pubDate>Fri, 03 Mar 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/3(금) 12개월 무역 적자에 환율은 하락.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1) 
-리뷰 앤 프리뷰
-- Re : 12개월 무역 적자에 환율은 하락
-- Pre : 바뀐 부동산 제도, 반등 시기는
-박연미 경제평론가
-
-
-2) 
-글로벌 리포트
-- 예상보다 회복 빠른 중국 경제
-- 핀란드 NATO(북대서양조약기구) 가입 코 앞
-- 파키스탄 기준금리는 무려 20%
-- 이집트 서머타임 재도입
-어예진 소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230303.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230303.mp3</guid>
-      <pubDate>Fri, 03 Mar 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
