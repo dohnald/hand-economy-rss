@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 1/18(토) 시진핑의 신년사로 보는 미중패권의 미래 (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+시진핑의 신년사로 보는 미중패권의 미래
+- 박정호 명지대 교수
+w. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250118.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250118.mp3</guid>
+      <pubDate>Sat, 18 Jan 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/17(금) 사교육 시장의 역사 (이종훈 작가) | 이스라엘-하마스 휴전 | 핀란드의 금융 교육 (어예진 소장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27660,19 +27673,6 @@ SM 경영권 확보 배경과 향후 계획
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230303_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230303_1.mp3</guid>
       <pubDate>Fri, 03 Mar 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/3(금) 국민연금과 건강보험 관련 궁금증</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 손경제를 통해 경제에 눈을 뜨게 된 30대 직장인입니다. 저는 3월까지 직장을 다니고 한동안 일을 쉬려고 합니다. 그러다보니 국민연금과 건강보험에 대해 궁금한 게 생겼습니다. 퇴사 후에도 국민연금은 임의가입하여 매월 일정 금액을 납부하려고 하는데요, 최소 월 9만원부터 낼 수 있다던데, 전 월 20만원까지는 낼 여력이 있습니다. 9만원이 아닌 20만원을 냈을 때 더 낸 보험료 만큼의 혜택이 돌아오는 건지 일단 궁금합니다.
-
- 건강보험의 경우, 무직자는 지역가입자로 변경되어 매월 고지서가 날아오는 건가요? 작년 12월부로 휴업 중이고 폐업도 고려 중인 개인사업자가 있는데 이게 건강보험료에 미치는 영향이 있는지, 그리고 건강보험료를 적게 낼 수 있는 방법도 있는지도 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230303.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230303.mp3</guid>
-      <pubDate>Fri, 03 Mar 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
