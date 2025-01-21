@@ -16,6 +16,39 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/21(화) 트럼프 취임사 | 틱톡 美서비스 재개 | 차 보험료 인하 | 버려지는 김</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 트럼프 “황금시대 시작”.. 노골적인 취임사 주목
+2) 틱톡, 트럼프 덕에 살았다.. 美서비스 일단 재개
+3) 차 보험료, 최대 1% 인하.. 손보사는 적자 우려
+4) ‘금값’ 김 원료, 산지서 1200t 폐기.. 이유는?
+-김치형 경제뉴스 큐레이터
+-정지서 연합인포맥스 기자
+-조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250121.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250121.mp3</guid>
+      <pubDate>Tue, 21 Jan 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 1/20(월) 플랫폼 회사로 거듭나는 엔비디아 (김덕진 소장) | 서울의 개발과 서민의 눈물 (김재원 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+플랫폼 회사로 거듭나는 엔비디아
+- 김덕진 IT커뮤니케이션 연구소장
+
+2부
+[쩐설의 김선생]
+서울의 개발과 서민의 눈물
+- 김재원 역사학자 (가톨릭대 겸임교수)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250120.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250120.mp3</guid>
+      <pubDate>Mon, 20 Jan 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 1/20(월) 유기정기금에 대해서 알려주세요</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27648,38 +27681,6 @@ SVB & 리먼브라더스 사태
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230306.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230306.mp3</guid>
       <pubDate>Mon, 06 Mar 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/6(월) 반값 테슬라? 나도 기대했는데.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-증시 열렸다
-전 세계는 미, 2월 고용지표 발표 대기 중
-- 정광우 대표 
-
-
-2)
-신기방기 레드칩
-반값 테슬라? 나도 기대했는데...
-- 신기주 부대표 
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230306.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230306.mp3</guid>
-      <pubDate>Mon, 06 Mar 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/6(월) 바이든의 고민 : ESG 펀드.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 시진핑 3기 첫 해 경제성장률 목표 5%
- 2. 벽에 부딪힌 EU의 탄소중립
- 3. 바이든의 고민 : ESG(환경, 사회적 책무, 기업지배구조 개선) 펀드
-
-출연 : 안승찬 기자, 양효걸 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230306.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230306.mp3</guid>
-      <pubDate>Mon, 06 Mar 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
