@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/22(수) 상폐 제도 개선 | 지하철비 인상 | 커피플레이션 | 복지포인트 과세 판단</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 상장폐지 요건 개선.. ‘좀비기업’ 퇴출에 속도
+2) 수도권 지하철 요금, 3월부터 150원 인상
+3) 커피플레이션 부추긴 원두값.. 저가커피도 위기
+4) 대법, “회사서 준 복지포인트도 과세 대상”
+-김치형 경제뉴스 큐레이터
+-손석우 경제뉴스 큐레이터
+
+[친절한 경제]
+기준금리와 환율은 어떤 관계가 있나요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250122(1).mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250122(1).mp3</guid>
+      <pubDate>Wed, 22 Jan 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/21(화) 영국 금융업의 몰락과 경제 전망 (장영욱 위원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27653,26 +27671,6 @@ SVB & 리먼브라더스 사태
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230307.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230307.mp3</guid>
       <pubDate>Tue, 07 Mar 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/7(화) 쉽고도 어려운 '해고'.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-공부왕 이종훈 
-소득세는 전쟁의 산물이다
-- 이종훈 작가 
-
-
-2) 
-키워드 경제
-쉽고도 어려운 '해고'
-- 남궁민 뉴스큐레이터
-
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230307.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230307.mp3</guid>
-      <pubDate>Tue, 07 Mar 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
