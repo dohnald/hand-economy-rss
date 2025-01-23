@@ -16,6 +16,33 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/23(목) 美 AI산업 투자 | 토허제 재검토 | 5년물 국채 출시 | 청약 피해자 구제</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 트럼프, AI 합작사 ‘스타게이트’ 키운다
+2) 토지거래허가제, 해제 기대감에 강남권 들썩
+3) 개인투자용 국채, 5년물 출시.. 연 2억까지
+4) 사전청약 당첨 후 무산.. 피해자들 구제한다
+- 박세훈 작가
+- 손석우 경제뉴스 큐레이터
+- 김현우 행복자산관리연구소 소장 ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250123(1).mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250123(1).mp3</guid>
+      <pubDate>Thu, 23 Jan 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 1/22(수) 트럼프의 '아메리카 온리'가 어려운 이유 (오건영 단장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+트럼프의 '아메리카 온리'가 어려운 이유
+- 오건영 신한 프리미어 패스파인더 단장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250122.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250122.mp3</guid>
+      <pubDate>Wed, 22 Jan 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 1/22(수) 신축아파트 주택담보 대출을 받았는데 소득공제가 될까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27646,30 +27673,6 @@ SVB & 리먼브라더스 사태
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230308.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230308.mp3</guid>
       <pubDate>Wed, 08 Mar 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/8(수) 왜 영화관 팝콘값은 다 똑같을까 </title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[지리는 경제사
-왜 영화관 팝콘값은 다 똑같을까 
-- 양효걸 기자 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230308.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230308.mp3</guid>
-      <pubDate>Wed, 08 Mar 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/8(수) 올해 취업문 더 좁아진다.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 작년 GNI(1인당 국민총소득) 8% 줄어
- 2. 정부, LH 주식 '산업은행'에 넘기고 있다
- 3. 올해 취업문 더 좁아진다
-
-출연 : 양효걸 기자, 나수지 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230308(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230308(1).mp3</guid>
-      <pubDate>Wed, 08 Mar 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
