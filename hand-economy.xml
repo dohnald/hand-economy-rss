@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 1/23(목) 해외주식 양도세 신고를 하려는데 수수료가 더 비쌀 때는?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요, 해외 주식 수익의 기본 공제액이 250만 원으로 알고 있는데요, 작년 수익이 250만 원이 넘어서 양도세를 내게 되었습니다. 총 수익이 260만 원 정도인데요, 공제되는 금액 제외하고 10만 원에 대한 양도세로 22%, 대략 2만 원 대로 예상됩니다. 계좌도 여러 개고 중간에 사고 팔기도 해서 직접 신고는 쉽지 않아 대행신고를 하려고 하는데, 제가 거래하는 증권사에서 다른 증권사까지 통합해서 신고하면 수수료가 5만 원 정도 들거라고 합니다.
+그러다 보니 양도세보다 대행비가 더 많이 나오게 될 것 같은데, 가산세를 물더라도 그냥 신고를 안 하고 있다가 나중에 국세청에서 세금 내라고 통지서가 오면 그때 내는 게 좋을까요? 아니면 수수료를 내더라도 대행을 맡겨서 신고를 하는게 좋을까요? 혹시 신고를 안 했을 때 또 다른 불이익은 없는지 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250123.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250123.mp3</guid>
+      <pubDate>Thu, 23 Jan 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 1/23(목) 美 AI산업 투자 | 토허제 재검토 | 5년물 국채 출시 | 청약 피해자 구제</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27655,24 +27666,6 @@ SVB & 리먼브라더스 사태
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230309.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230309.mp3</guid>
       <pubDate>Thu, 09 Mar 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>협찬인가 - 백종원이 필요하시쥬?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[다양한 산업과 직업의 속이야기를 파헤쳐보는 (이것은 협찬인가 콘텐츠인가)
-
-이번 화의 주인공은 장사고수와 예비 창업주를 연결해주는 플랫폼 '창톡'을 홍보하러 나온 노승욱 대표님 입니다.
-
-네이버, 구글에서 '창톡' 검색하셔서 웹(https://changtalk.kr/) 확인 가능하고요
-지금, 사전 오픈 기간에 등록하시면 20%할인 행사도 한다고 합니다.
-
-정식 오픈은 4월 17일로 예정되어 있고, 그 때 '어플리케이션'으로도 이용할 수 있습니다.
-
-(이것은 협찬인가 콘텐츠인가) 출연 문의는 hand-economy@naver.com 입니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230308.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230308.mp3</guid>
-      <pubDate>Wed, 08 Mar 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
