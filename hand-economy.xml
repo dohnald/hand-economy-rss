@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (1부) 코인을 살 결심</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (1부) 코인을 살 결심]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20250124_22.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20250124_22.mp3</guid>
+      <pubDate>Fri, 24 Jan 2025 18:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (1부) 샤브샤브샐러드</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (1부) 샤브샤브샐러드]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20250124_11.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20250124_11.mp3</guid>
+      <pubDate>Fri, 24 Jan 2025 18:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 1/24(금) 연금보험을 해약해서 투자를 해야 될까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27628,40 +27646,6 @@ SVB & 리먼브라더스 사태
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230310.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230310.mp3</guid>
       <pubDate>Fri, 10 Mar 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/10(금) '개인연금'의 모든 것.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1) 
-원 포인트 레슨
-'개인연금'의 모든 것 
-- 김현우 소장
-
-2) 
-글로벌 리포트
-- 조지아 국민 시위 "러시아식 악법 철회"
-- 노점상 독려하는 중국
-- 인도, 모디와 함께할 제2의 '아다니' 나오나 
-어예진 소장  
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230310.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230310.mp3</guid>
-      <pubDate>Fri, 10 Mar 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/10(금) '대환대출 플랫폼' 5월 출시.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. '대환대출 플랫폼' 5월 출시
- 2. 재건축 뇌관 된 공사비 갈등 깊어져
- 3. 시중 은행 금리 다시 오름세
- 4. 정부, 미국과 반도체법 협상 가능할까?
-
-출연 : 김현우 소장, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230310.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230310.mp3</guid>
-      <pubDate>Fri, 10 Mar 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
