@@ -16,10 +16,28 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>커피타임 - (1부) 코인을 살 결심</title>
+      <title>커피타임 - (4부) 부채 공포</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (1부) 코인을 살 결심]]></description>
+      <description><![CDATA[커피타임 - (4부) 부채 공포]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20150124_44.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20150124_44.mp3</guid>
+      <pubDate>Fri, 24 Jan 2025 18:31:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (3부) 라드유 나두유</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (3부) 라드유 나두유]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20150124_33.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20150124_33.mp3</guid>
+      <pubDate>Fri, 24 Jan 2025 18:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (2부) 코인을 살 결심</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (2부) 코인을 살 결심]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20250124_22.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20250124_22.mp3</guid>
       <pubDate>Fri, 24 Jan 2025 18:15:00 +0900</pubDate>
@@ -27626,26 +27644,6 @@ SVB & 리먼브라더스 사태
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230310_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230310_2.mp3</guid>
       <pubDate>Fri, 10 Mar 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 홍보 금지 구역</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230310_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230310_1.mp3</guid>
-      <pubDate>Fri, 10 Mar 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/10(금) 임대차 계약 해지 시 부동산 중개 수수료는?  (+ 3월 8일 상담 내용 정정)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-상가를 계약하고 중개수수료를 바로 달라길래 중개업소에 수수료 75만원과, 주인에게 계약금 50만원을 줬습니다. 상가주인은, 수수료는 다음에 준다고 하고 가버렸구요. 당시 준공이 되기 전이었는데, 상가가 다른 사람에게 팔려도 문제없다고 중개사에게 들었습니다. 그런데 며칠 후 상가가 다른 사람에 팔리고, 새주인이 상가를 사용하게 됐다면서 계약을 파기 당했습니다. 그런데 중개업소에서 하는 말이, 중개수수료는 법적으로 돌려줄 의무가 없다고 못준다고 하는 겁니다. 전화로 항의하니까, 원래는 안 주는 건데 생각해서 준다면서 30%인 25만원만 돌려주더군요. 법적으로 안 주는 게 맞는 건가요? 그렇다면 계약금을 두 배로 돌려받아도 결국 손해인 건데, 모르면 피해를 보는 분들이 많을 것 같습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230310.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230310.mp3</guid>
-      <pubDate>Fri, 10 Mar 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
