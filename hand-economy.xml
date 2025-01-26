@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 1/25(토) 트럼프가 꿈꾸는 미국은 이렇습니다 (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+트럼프가 꿈꾸는 미국은 이렇습니다
+- 박정호 명지대 교수
+w. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250125.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250125.mp3</guid>
+      <pubDate>Sat, 25 Jan 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/24(금) 세계의 사교육 시장 (이종훈 작가) | 트럼프-맥킨리 평행이론 | LA산불과 실직ㅣ미국인 동사 (어예진 소장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27630,19 +27643,6 @@ SVB & 리먼브라더스 사태
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230313.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230313.mp3</guid>
       <pubDate>Mon, 13 Mar 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/13(월) 美 '실리콘밸리은행(SVB)' 파산.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 美 '실리콘밸리은행(SVB)' 파산
- 2. 코인 전문 은행 '실버게이트'도 파산
- 3. 맥주와 탁주에 붙는 주세, 개편하나
-
-출연 : 안승찬 기자, 양효걸 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230313.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230313.mp3</guid>
-      <pubDate>Mon, 13 Mar 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
