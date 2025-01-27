@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 1/27(월) 청약통장, 해지해야 될까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 저는 경기도에 거주하고 있는 1인 가구입니다. 2009년에 청약통장을 가입해서 지금까지 유지 중인데요, 주택을 1채 소유하고 있고, 결혼 계획은 없으며, 집을 팔고 무주택이 될 계획도 없습니다. 그래서 22점인 청약가점이 더 이상 올라갈 것 같지는 않습니다. 2021년에 집을 샀을 때 청약통장을 해지했어야 되는데, 시기를 놓친 것 같습니다. 청약 통장에 1500만 원 이상의 돈이 묶여있어 너무 아깝습니다. 
+
+서울에 청약을 넣는게 목적이라고 하더라도, 필요예치금만 넣어두면 되고, 심지어 복권당첨 수준의 운에 맡겨야 하는 상황인데, 소득공제 환수를 감수하더라도 해지하는 게 맞지 않을까요? 넓은 면적에 청약을 하는게 가능성이 조금 높긴 하지만, 너무 비싸져서 그럴 수는 없을 거 같습니다. 그래도 경기도가 아닌 지역으로 청약을 계획하는 경우에는 유지하는 게 나을까요? 너무 고민됩니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250127.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250127.mp3</guid>
+      <pubDate>Mon, 27 Jan 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 1/27(월) 연금개혁 | LCC 안전 강화 | 에베레스트 티켓값 인상</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27625,20 +27637,6 @@ SVB & 리먼브라더스 사태
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230314.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230314.mp3</guid>
       <pubDate>Tue, 14 Mar 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/14(화) 미국 은행 줄파산, 국내 영향은?.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 美 '실리콘밸리은행(SVB)' 파산 여파
- 2. 미국 은행 줄파산, 국내 영향은?
- 3. 정부 '연금소득세'로 10년 만에 50배 벌었다
- 4. 우리나라 무역수지 적자 폭 계속 커져
-
-출연 : 양효걸 기자, 나수지 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230314.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230314.mp3</guid>
-      <pubDate>Tue, 14 Mar 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
