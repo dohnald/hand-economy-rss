@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 1/27(월) 중국 AI 딥시크의 반란 (김덕진 소장) | 일제시대 을지로 개발 (김재원 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+중국 AI 딥시크의 반란
+- 김덕진 IT커뮤니케이션 연구소장
+
+2부
+[쩐설의 김선생]
+일제시대 을지로의 개발
+- 김재원 역사학자 (가톨릭대 겸임교수)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250127.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250127.mp3</guid>
+      <pubDate>Mon, 27 Jan 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 1/27(월) 청약통장, 해지해야 될까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27618,25 +27635,6 @@ SVB & 리먼브라더스 사태
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230314.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230314.mp3</guid>
       <pubDate>Tue, 14 Mar 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/14(화) 프로 야구 선수의 몸값.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-공부왕 이종훈
-프로 야구 선수의 몸값
-- 이종훈 작가
-
-
-2) 
-키워드 경제 
-챗GPT, 광속으로 발전 中
-- 김덕진 소장 
- ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230314.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230314.mp3</guid>
-      <pubDate>Tue, 14 Mar 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
