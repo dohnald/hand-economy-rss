@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/28(화) 딥시크 충격파 | 미국-콜롬비아 관세전쟁 | 한일 철강관세 갈등 | 독감 검사비 | 숏폼 시대</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 딥시크발 공포.. AI 인프라 관련주 폭락 
+2) ‘트럼프식 보복관세’ 이겼다.. 백기투항한 콜롬비아
+3) 현대제철, 日강판 반덤핑 제소.. 한일도 관세갈등?
+4) 독감 검사비, 병원따라 2배 차이도.. 이유는?
+5) 숏폼 콘텐츠가 대세.. OTT도 제작 뛰어든다
+- 정지서 연합인포맥스 기자
+- 김치형 경제뉴스 큐레이터
+- 손석우 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250128.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250128.mp3</guid>
+      <pubDate>Tue, 28 Jan 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/27(월) 중국 AI 딥시크의 반란 (김덕진 소장) | 일제시대 을지로 개발 (김재원 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27624,17 +27641,6 @@ SVB & 리먼브라더스 사태
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230315.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230315.mp3</guid>
       <pubDate>Wed, 15 Mar 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/14(화) 펀드 보수는 어떻게 계산되나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담] 
-
-연금저축 보험을 가입하고 있다가 손경제 상담소에서 계약이전제도가 있다는 걸 듣고, 연금저축 펀드로 이전을 했습니다. 그런데 문제는, 보험을 가입하는 동안엔 납부만 하면 제가 할 일이 없었는데, 펀드로 옮기고 나니 제가 알아서 투자를 해야한다는 것이었습니다. 그래서 알아보니 제가 선택할 수 있는 건 ETF와 펀드인데, 모두 펀드보수라는게 있더라구요. 이런 펀드의 보수는 수익에 대해서 계산되는 건지, 아니면 매수할 때와 매도할 때 이미 가격에 반영이 돼 있는 건지 궁금합니다. 어떤 자료에서는 펀드를 장기간 보유하면 보수로 인해서 손해가 발생할 수도 있다고 하던데 이게 무슨 말인지도 알고 싶습니다. 아직 어떤 펀드를 정하지 못했는데, 이런 상황에서 놀고 있는 돈의 이자를 많이 받는 방법도 알려주세요~]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230314.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230314.mp3</guid>
-      <pubDate>Tue, 14 Mar 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
