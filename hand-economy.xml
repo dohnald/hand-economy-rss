@@ -16,6 +16,28 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/29(수) [인터뷰] 대한민국 HBM 개발의 미래와 생존전략 (심대용 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[손에잡히는경제 인터뷰]
+ 대한민국 HBM 개발의 미래와 생존전략
+- 심대용 동아대 교수 (전 SK하이닉스 부사장)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250129.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250129.mp3</guid>
+      <pubDate>Wed, 29 Jan 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 1/28(화) '설특집' 손에 잡히는 경제 크로스 (이진우, 박정호, 김현우)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+'설특집' 손에 잡히는 경제 크로스
+- 이진우 기자, 박정호 교수, 김현우 소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250128.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250128.mp3</guid>
+      <pubDate>Tue, 28 Jan 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 1/28(화) 딥시크 충격파 | 미국-콜롬비아 관세전쟁 | 한일 철강관세 갈등 | 독감 검사비 | 숏폼 시대</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27616,31 +27638,6 @@ SVB & 리먼브라더스 사태
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230315.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230315.mp3</guid>
       <pubDate>Wed, 15 Mar 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/15(수) 혼테크의 끝판왕 - 합스부르크 가문</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[지리(地理)는 경제(史)
-혼테크의 끝판왕 - 합스부르크 가문
-한영준 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230315.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230315.mp3</guid>
-      <pubDate>Wed, 15 Mar 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/15(수) 실리콘밸리은행(SVB)發 여파 지속.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 美 소비자물가지수(CPI) 6.0%
- 2. 실리콘밸리은행(SVB)發 여파 지속
- 3. 고정→변동금리로? 모호한 약관으로 피해 속출
- 4. '예금보험한도' 5천만 원에서 1억으로?
-
-출연 : 양효걸 기자, 나수지 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230315.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230315.mp3</guid>
-      <pubDate>Wed, 15 Mar 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
