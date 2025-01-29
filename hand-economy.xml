@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 1/29(수) 상가 임대소득은 보증금에 대한 이자도 세금을 내나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 저는 직장을 다니고 있고, 직장생활 30년 동안 모은 돈으로 작은 상가를 마련해 월세를 받고 있습니다. 세금신고를 하기 위해 알아보니, 상가 임대료 수입은 월세에다가 제가 받은 보증금의 이자를 더한 금액이라고 하더라구요. 보증금을 받아서 은행에 넣어두면 이자가 생기고 그에 대한 세금은 이미 한 번 낸 것인데, 5월에 종합소득세 신고를 할 때는 보증금에 대한 이자를 또 신고해야 되나요? 그럼 이미 낸 이자소득세와 임대수입에 대한 세금이 중복되는 거 아닌가요? 이런 경우 종합소득에 포함시키지 않으려면 어떤 방법이 있는지 궁금합니다. 또, 주택임대를 하는 경우도 보증금에 대한 이자에 대해 중복으로 세금을 부과하는 건지 알고 싶습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250129.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250129.mp3</guid>
+      <pubDate>Wed, 29 Jan 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 1/29(수) [인터뷰] 대한민국 HBM 개발의 미래와 생존전략 (심대용 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27625,19 +27635,6 @@ SVB & 리먼브라더스 사태
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230316.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230316.mp3</guid>
       <pubDate>Thu, 16 Mar 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/15(수) 복식부기 대상자의 종합소득세 신고</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 아내가 보험설계사로 일하고 있는데 소득을 통 오픈하지 않더니 갑자기 소득세 신고에 대해 알아봐 달랍니다. 연 7500만원 이상을 받으면 회사에서 연말정산을 안 해준다고 직접 해야한다면서요. 올해까지만 해주고 내년 신고부터는 직접하라고 했답니다. 인터넷을 뒤져보니 7500만원이 넘으면 복식부기 대상이라고 하는데, 주변에선 신고 때만 세무사에 맡겨도 된다고 하기도 하고.. 소득세법을 찾아보니 가산세도 있더군요.
-개인이 집에서 정리해도 복식부기로 인정이 되나요? 아님 무조건 세무사를 통해야만 할까요?
-복식부기를 하려면 매달 비용증빙을 세무사 사무소에 보내야 하는 건가요? 그러면 매달 비용도 꽤 될 것 같고.. 어떻게 하는 방법이 최선인지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230315.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230315.mp3</guid>
-      <pubDate>Wed, 15 Mar 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
