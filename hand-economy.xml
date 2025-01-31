@@ -16,6 +16,33 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/31(금) 美 보조금 재검토 | 美 AI시장 전망 | 미국 금리 동결 | 침수차 수출 논란</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美 정부 “보조금 전면 재검토”.. 긴장하는 삼성·SK
+2) 美 AI시장, 딥시크 쇼크에도 회복 예상.. 이유는?
+3) 美 연준, 금리 동결.. “서두를 필요 없다”
+4) 침수차 수출 논란.. 국내 재유통 우려도
+- 손석우 경제뉴스 큐레이터
+- 나수지 한국경제신문 기자
+- 김현우 행복자산관리연구소 소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250131.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250131.mp3</guid>
+      <pubDate>Fri, 31 Jan 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 1/30(목) 우울함에 대처하는 자세를 알려드립니다 (김지용 원장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+우울함에 대처하는 자세를 알려드립니다 
+- 김지용 정신건강의학과 전문의]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250130.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250130.mp3</guid>
+      <pubDate>Thu, 30 Jan 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 1/30(목) 연초부터 연말정산을 잘 준비하고 싶습니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27592,42 +27619,6 @@ SK브로드밴드 IPTV용 셋탑박스만 설치하면 800번 채널에서 본 �
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230317.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230317.mp3</guid>
       <pubDate>Fri, 17 Mar 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/17(금) SVB &amp; 리먼브라더스 사태.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-겹경(제)사(건)
-SVB & 리먼브라더스 사태
-김윤경 기자
-
-
-2)
-글로벌 리포트
-- 시진핑 이미지 변신, 평화 위한 중재자로
-- 러시아, 제2의 우크라니아로 '몰도바' 선택?
-- EU, 유로7(자동차 배출 규제) 고치나
-- 종이 지도의 부활 
-어예진 소장
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230317.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230317.mp3</guid>
-      <pubDate>Fri, 17 Mar 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/17(금) SVB 다음은 '크레디트스위스' 은행.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 日 반도체 핵심 소재 수출 규제 해제
- 2. SVB 다음은 '크레디트스위스' 은행
- 3. 올해 공동주택 공시가격 하락 전망
- 4. 은행 연체율 가파르게 올라
-
-출연: 김현우 소장, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230317.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230317.mp3</guid>
-      <pubDate>Fri, 17 Mar 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
