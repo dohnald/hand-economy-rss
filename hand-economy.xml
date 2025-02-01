@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 1/31(금) 슈퍼볼과 아보카도 (이종훈 작가) | 대출 수요없는 中 | 캐나다 선거 개입 | 금값된 소 담석 (어예진 소장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[공부왕 이종훈]
+슈퍼볼과 아보카도
+- 이종훈 스포츠평론가 (플레이볼 작가)
+
+2부
+[글로벌리포트]
+대출 수요 없는 中 | 캐나다 선거 개입 | 금값된 소 담석
+- 어예진 해담경제연구소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250131.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250131.mp3</guid>
+      <pubDate>Fri, 31 Jan 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (5부) 감성을 흔들어</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27580,19 +27597,6 @@ SK브로드밴드 IPTV용 셋탑박스만 설치하면 800번 채널에서 본 �
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230321.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230321.mp3</guid>
       <pubDate>Tue, 21 Mar 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/20(월) 효율적인 마이너스 상환과 월급관리 방법이 궁금합니다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 스무 살에 집안의 빚을 갚기 위해 겁도 없이 마이너스 대출을 받아서, 어느덧 7년 동안 빚을 갚으며 살고 있습니다. 빚이 생각보다 줄어들지 않아 아직 잔액은 1,600만 원 정도 남았는데요, 덜컥 겁이 나기 시작해 올해부터는 효율적으로 상환을 할 수 있는 방법이 없을까 고민하고 있습니다. 
-
-세후 220만 원 정도의 월급을 받고 있고 모아놓은 돈은 따로 없으며, 고정비와 용돈을 제외하고 매달 90만 원 정도를 상환에 쓸 수 있는 상황입니다. 제 고민은요, 곧 ‘청년도약계좌상품’이 출시된다고 하는데 적금을 넣으면서 빚 상환을 함께해야 하는지, 아니면 빚 상환에만 집중해야 하는지, 갈피를 못 잡겠습니다. 어떻게 하는 게 가장 좋은 방법일까요? 이 외에도 효율적인 월급 관리 방법도 알려주시면 감사하겠습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230320.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230320.mp3</guid>
-      <pubDate>Mon, 20 Mar 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
