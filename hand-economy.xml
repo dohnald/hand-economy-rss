@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 2/1(토) 전 세계 자금이 미국에 몰리는 이유 (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+전 세계 자금이 미국에 몰리는 이유
+- 박정호 명지대 교수
+w. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250201.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250201.mp3</guid>
+      <pubDate>Sat, 01 Feb 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/31(금) 슈퍼볼과 아보카도 (이종훈 작가) | 대출 수요없는 中 | 캐나다 선거 개입 | 금값된 소 담석 (어예진 소장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27584,19 +27597,6 @@ SK브로드밴드 IPTV용 셋탑박스만 설치하면 800번 채널에서 본 �
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230321.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230321.mp3</guid>
       <pubDate>Tue, 21 Mar 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/21(화) 우리 금융회사들도 불안.. 특히 '새마을금고'.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 우리 금융회사들도 불안.. 특히 '새마을금고'
- 2. 크레디트스위스(CS)發 여진 심각
- 3. 프랑스 정부 '연금 개혁안' 통과
-
-출연: 양효걸 기자, 나수지 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230321.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230321.mp3</guid>
-      <pubDate>Tue, 21 Mar 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
