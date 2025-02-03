@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 2/3(월) 실손보험료 인상의 이유를 알고 싶습니다.</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 1세대 실손보험을 2009년 9월에 막차로 가입하여 유지하고 있습니다. 거의 10년 정도는 건강에 문제가 없어서 보험금 청구 없이 유지하고 있었고, 이후 3개월마다 고혈압 관련 진료와 약에 대한 청구 정도만 간간히 하고 있었습니다. 그런데 작년 6월쯤 보험사에서 제 계약의 적립부분 준비금 소진으로 7월부터 보험료가 인상 된다는 안내를 받았습니다. 그 이후에 납입 보험료가 3만원 대에서 9만 원 대로 약 3배 정도 올랐는데요. 보장보험료는 약 2만 원이고 적립보험료는 약 7만 원으로 인상됐습니다. 보험사에서 얘기하는 적립부분 준비금 소진이란 건 무엇이고, 왜 보험료가 올랐는지 궁금합니다. 보험 상품이라는 것이, 위험률을 기반으로 정교하게 설계해서 출시하는 것으로 알고 있는데, 이렇게 중간에 준비금이 부족하게 되면 계약자에게 전가할 수 있는 건지도 궁금합니다. ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250203.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250203.mp3</guid>
+      <pubDate>Mon, 03 Feb 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 2/3(월) 트럼프발 관세전쟁 | SOC사업 속도전 | 두리안과 원두값</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27581,19 +27591,6 @@ SK브로드밴드 IPTV용 셋탑박스만 설치하면 800번 채널에서 본 �
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230322.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230322.mp3</guid>
       <pubDate>Wed, 22 Mar 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/22(수) 한전의 적자 떠넘기기 ‘전력도매가 상한제(SMP)’.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 한전의 적자 떠넘기기 ‘전력도매가 상한제(SMP)’
- 2. '긴급생계비대출' 상품 27일 출시
- 3. 통신·항공·방송, 외국인 지분 한도 푼다
-
-출연: 양효걸 기자, 나수지 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230322.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230322.mp3</guid>
-      <pubDate>Wed, 22 Mar 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
