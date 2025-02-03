@@ -16,6 +16,34 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 2/3(월) 트럼프발 관세전쟁 | SOC사업 속도전 | 두리안과 원두값</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美 관세폭탄 터진다.. 보복 예고한 캐·멕·中
+2) 政 SOC사업, 규모·속도 ↑.. 효과는?
+3) 고공행진하는 원두값.. 두리안이 불붙였다?
+- 정지서 연합인포맥스 기자
+- 안승찬 언더스탠딩 기자
+
+[친절한 경제]
+디플레이션이 오면 빈부격차가 완화되나요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250203.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250203.mp3</guid>
+      <pubDate>Mon, 03 Feb 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 2/2(일) 원두 가격, 앞으로 더 오를 일만 남았습니다 (심재범 칼럼니스트)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+원두 가격, 앞으로 더 오를 일만 남았습니다
+- 심재범 커피칼럼니스트]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250202.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250202.mp3</guid>
+      <pubDate>Sun, 02 Feb 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/1(토) 전 세계 자금이 미국에 몰리는 이유 (박정호 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27566,37 +27594,6 @@ SK브로드밴드 IPTV용 셋탑박스만 설치하면 800번 채널에서 본 �
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230322.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230322.mp3</guid>
       <pubDate>Wed, 22 Mar 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/21(화) 중소기업금융채권, 안전한가요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 약간의 목돈이 있어서 기업은행의 중금채 상품에 넣어두었습니다. 이 상품은 채권이라 예금자 보호는 되지 않지만, 기업은행은 지분의 60% 이상을 정부가 가지고 있는 국책은행이고, 중금채는 중소기업을 위해 발행하는 채권이니까 나라가 망하지 않는 이상 원금 손실은 없다고 해서 넣어두었어요. 그런데 며칠 전 미국에서 채권 때문에 은행이 파산했다는 소식이 들려서 괜히 찝찝하고 불안하네요. 우리나라 은행의 파산 가능성은 혹시 없는지, 만약 기업은행이 파산하면 돈을 못 돌려받는 건지 궁금합니다. ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230321.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230321.mp3</guid>
-      <pubDate>Tue, 21 Mar 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/21(화) 한국 기업들이 인색한 그것, 배당.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-공부왕 이종훈
-안전자산... 금이야? 달러야?
-- 이종훈 작가
-
-
-
-2)
-키워드 경제
-한국 기업들이 인색한 그것, 배당
-- 남궁민 뉴스큐레이터 
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230321.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230321.mp3</guid>
-      <pubDate>Tue, 21 Mar 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
