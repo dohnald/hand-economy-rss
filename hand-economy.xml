@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 2/3(월) 딥시크에 맞서는 챗GPT (김덕진 소장) | 식민 조선의 자본가, 박홍식 (김재원 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+딥시크 여파에 맞서는 챗GPT
+- 김덕진 IT커뮤니케이션 연구소장
+
+2부
+[쩐설의 김선생]
+식민 조선의 자본가, 박홍식
+- 김재원 역사학자 (가톨릭대 겸임교수)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250203.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250203.mp3</guid>
+      <pubDate>Mon, 03 Feb 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 2/3(월) 실손보험료 인상의 이유를 알고 싶습니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27579,18 +27596,6 @@ SK브로드밴드 IPTV용 셋탑박스만 설치하면 800번 채널에서 본 �
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230322.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230322.mp3</guid>
       <pubDate>Wed, 22 Mar 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/22(수) 은행이 망하면 벌어지는 일들... 남 얘기 아니다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[지리(地理)는 경제사(史)
-"은행이 망하면 벌어지는 일들... 남 얘기 아니다?"
-- 양.효.걸 기자
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230322.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230322.mp3</guid>
-      <pubDate>Wed, 22 Mar 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
