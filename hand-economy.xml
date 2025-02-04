@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 2/4(화) 오래된 청약저축, 어떻게 활용할까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 서울에 거주중인 40대 중반 무주택자 미혼 여성입니다. 2006년 4월에 가입해서 납입하고 있는 청약저축이 있습니다. 올해 1월 기준 납입횟수는 총 226회구요, 납입금액은 1,444만 원입니다. 가입당시에는 민간주택은 비싸니 주택공사에서 분양받자는 마음으로 청약저축을 가입했습니다. 그리고는 별 생각 없이 납부만 하고 있었는데요. 그런데 세월이 흘러흘러 내 집 마련을 어떻게 해야하나란 생각에 이것저것 알아보게 되었습니다. 하지만, 다양한 특별공급 유형이 있어도 해당되는 사항은 하나도 없고, 생애최초 특별공급마저도 미혼은 제약이 있더라구요. 작년 11월부터는 청약저축 통장을 주택청약종합저축으로도 전환이 가능하다고 하던데.. 그렇다고 해도 민간분양은 말도 못하게 비싸서 엄두를 내지 못할 것 같습니다. 그냥 해지할까 하는 마음이 들다가도, 그동안 유지했던 시간이 아깝다는 생각도 들기도 하고.. 이래저래 고민입니다. 어떻게 하는 것이 현명한 선택일까요.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250204.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250204.mp3</guid>
+      <pubDate>Tue, 04 Feb 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 2/4(화) 이진우의 손에 잡히는 경제</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27569,31 +27579,6 @@ AI 대전쟁, 구글 '바드'의 반격
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230323(3).mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230323(3).mp3</guid>
       <pubDate>Thu, 23 Mar 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>협찬인가 - 언젠간 되고 말거야!</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[다양한 산업과 직업의 속이야기를 파헤쳐보는 (이것은 협찬인가 콘텐츠인가)
- 
-이번 화의 주인공은 사내방송 'On-Air'와 디지털 사이니지 'On-Ad' 서비스를 홍보하러 나온 SK 브로드밴드의 류종인 팀장님 입니다.
-
-SK브로드밴드 IPTV용 셋탑박스만 설치하면 800번 채널에서 본 서비스를 받아 볼 수 있습니다.
-
-용도는 여러명이 지정된 시간에 같은 방송을 볼 수 있는 '사내 방송'과
-카페나 음식점에 설치할 수 있는 '디지털 사이니지' 메뉴 처럼 다양합니다.
-
-웹페이지(https://biz.skbroadband.com/page.do?menu_id=P04010200)에서 확인 가능하며
-고객센터 전화번호는 1600-0108 입니다.
-
-가장 빠른 설치 및 A/S 문의는 팀장님 직통 메일(cheetos0@sk.com)로 주시면 류팀장님의 임원 승진에 더욱 보탬이 될 듯합니다.
-
-손경제 듣고 연락했다고 하면, 3년 약정시, 3개월 무료로 이용 혜택도 드린다고 합니다.
- 
-(이것은 협찬인가 콘텐츠인가) 출연 문의는 hand-economy@naver.com 입니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230322.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230322.mp3</guid>
-      <pubDate>Wed, 22 Mar 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
