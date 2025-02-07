@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (4부) 따르릉 따르릉 [끝]</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (4부) 전화 왔어요 [끝]]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250207_44.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250207_44.mp3</guid>
+      <pubDate>Fri, 07 Feb 2025 18:20:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (3부) 금은 금이다</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27549,20 +27558,6 @@ AI 대전쟁, 구글 '바드'의 반격
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230328.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230328.mp3</guid>
       <pubDate>Tue, 28 Mar 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/28(화) '새마을금고' 리스크관리 들어갔다.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. '새마을금고' 리스크관리 들어갔다
- 2. CS發 코코본드(조건부자본증권) 국내 여파
- 3. 미국, MMF에 자금 유입 증가세
- 4. 70세 이상 운전면허 자진 반납 시, 10만 원 교통카드
-
-출연: 양효걸 기자, 나수지 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230328.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230328.mp3</guid>
-      <pubDate>Tue, 28 Mar 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
