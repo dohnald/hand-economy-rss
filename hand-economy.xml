@@ -16,6 +16,32 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 2/7(금) 경상수지 흑자 | 美 소액면세 중단 | 폰지사기 수사</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 작년 경상수지, 역대급 흑자.. 美는 최악의 적자
+2) 美·유럽, 소액면세 막는다.. 中 이커머스 겨냥
+3) 금감원, 2600억 폰지사기 의혹 수사.. 전말은?
+- 박세훈 작가
+- 안승찬 언더스탠딩 기자
+- 김현우 행복자산관리연구소 소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250207.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250207.mp3</guid>
+      <pubDate>Fri, 07 Feb 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 2/6(목) 트럼프가 가자지구를 탐내는 이유 (성일광 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+트럼프가 가자지구를 탐내는 이유
+- 성일광 서강대 유로메나연구소 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250206.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250206.mp3</guid>
+      <pubDate>Thu, 06 Feb 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 2/6(목) 건강보험 피부양자 소득평가기준이 궁금합니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27557,24 +27583,6 @@ AI 대전쟁, 구글 '바드'의 반격
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230326.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230326.mp3</guid>
       <pubDate>Sun, 26 Mar 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 사랑과 급전</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230324_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230324_2.mp3</guid>
-      <pubDate>Fri, 24 Mar 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 선물 전달 사고의 전말</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230324_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230324_1.mp3</guid>
-      <pubDate>Fri, 24 Mar 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
