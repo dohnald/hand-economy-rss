@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 2/7(금) 자녀의 대학등록금, 세액공제는 누가 받는게 좋을까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 저는 외벌이 엄마입니다. 소득은 연 3억 원으로 작지는 않습니다. 연말정산시 소득액이 3억이 조금 넘어서 세율이 38%가 되느냐 40%가 되느냐 기로에 있습니다. 외벌이이긴 하지만 남편도 연 100만 원 이상 수익이 생길 예정이고, 아들은 이제 세법상 성인이라 두 명의 인적공제도 안 되는 상황입니다. 저의 과세표준이 높은 세율구간에 걸쳐 있어서, 가급적이면 교육비에 대해서도 공제를 받아 절세를 하고 싶은데요, 예전 손경제 상담소에서 “무조건 학비는 자녀 명의로 대출받고, 이후에 아들이 직장에서 연말정산시 교육비 세액공제를 받는 것이 좋다”라고 했던 말이 기억 나서요. 당장 몇 주후에 등록금을 내야하는 상황이라 구체적으로 어떻게 해야 할지 몰라 사연 보냅니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250207.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250207.mp3</guid>
+      <pubDate>Fri, 07 Feb 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 2/7(금) 경상수지 흑자 | 美 소액면세 중단 | 폰지사기 수사</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27570,19 +27580,6 @@ AI 대전쟁, 구글 '바드'의 반격
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230327.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230327.mp3</guid>
       <pubDate>Mon, 27 Mar 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/26(일) 경제콘서트 - 멀리하기엔 너무 가까이 온 초거대 AI</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[22회 경제콘서트
-
-멀리하기엔 너무 가까이 온 초거대 AI
-
-출연 : LG AI 연구원 이문태 랩장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230326.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230326.mp3</guid>
-      <pubDate>Sun, 26 Mar 2023 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
