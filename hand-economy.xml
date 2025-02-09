@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 2/8(토) 성과급 전쟁, 얼마가 적당할까? (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+성과급 전쟁, 얼마가 적당할까?
+- 박정호 명지대 교수
+w. 오승훈 아나운서
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250208.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250208.mp3</guid>
+      <pubDate>Sat, 08 Feb 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/7(금) 슈퍼볼과 미국증시 (이종훈 작가) | 해외원조 끊는 미국｜비만약의 피해자들｜절도범 증가 (어예진 소장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27545,17 +27559,6 @@ NBA의 성공 비결
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230329.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230329.mp3</guid>
       <pubDate>Wed, 29 Mar 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/28(화) 사내 대출과 은행 대출, 뭐가 더 나을까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담] 
-
-안녕하세요~ 27살 아들이 청주에서 근무하는데요, 원룸 월세비용이 너무 커서 회사 대출을 받아 1억 천만 원짜리 투룸 전세 계약을 하려고 합니다. 근데 근무한 지 2년 밖에 되지 않아 회사대출 6천만 원을 받는데 보증료가 200만 원이나 들어간다네요. 금리는 고정으로 1.5%이고 2년 거치 후 13년간 월 40만 원씩 상환해야 합니다. 중도에 상환이 안 된다는 단점도 있어요. 제 생각엔 목돈 있을 때마다 상환하면 좋을텐데 그러지 못하니 아쉽네요. 혹시 은행대출로 청년 우대 대출상품이 있을까요? 있다면 회사 대출보다 유리한 점은 뭔지 궁금합니다. 그리고 이사하려는 곳이 등기상 깨끗해서 전세보증보험을 들지 않아도 될 것 같다고 아들은 얘기하는데 괜찮을까요? 그 외 계약 전에 신경써야 될 것이 있으면 조언 부탁드립니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230328.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230328.mp3</guid>
-      <pubDate>Tue, 28 Mar 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
