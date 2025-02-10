@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 2/10(월) 美 환율조작 경고 | 전세대출 보증 비율 | 법정이율 변동제</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美, 무역흑자국에 “환율조작 가능성”.. 한국은?
+2) 전세대출, 보증 비율 줄인다.. 상환 능력도 따져
+3) 연 5% 법정이율, 변동제로 개정.. 민법 바뀐다
+- 안승찬 언더스탠딩 기자
+- 정지서 연합인포맥스 기자
+
+[친절한 경제]
+워런 버핏의 주식 거래 내역은
+어떻게 알 수 있나요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250210.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250210.mp3</guid>
+      <pubDate>Mon, 10 Feb 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/9(일) 대한민국 자산 불평등의 진짜 원인은? (최병천 소장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27544,18 +27562,6 @@ NBA의 성공 비결
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230329.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230329.mp3</guid>
       <pubDate>Wed, 29 Mar 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/29(수) 베트남 영토가 길쭉한 이유</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[지리(地理)는 경제(史)
-베트남 영토가 길쭉한 이유
-- 한영준 기자
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230329.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230329.mp3</guid>
-      <pubDate>Wed, 29 Mar 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
