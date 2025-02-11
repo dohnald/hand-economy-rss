@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 2/11(화) 휴머노이드 시대, 어디까지 왔을까? (오용환 연구원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+휴머노이드 시대, 어디까지 왔을까?
+- 오용환 한국과학기술연구원 KIST 책임연구원]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250211.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250211.mp3</guid>
+      <pubDate>Tue, 11 Feb 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 2/11(화) 해외에 나갈 때 보험료 납입을 중지할 수 있나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27538,19 +27549,6 @@ NBA의 성공 비결
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230331.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230331.mp3</guid>
       <pubDate>Fri, 31 Mar 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/30(목) DC형 퇴직연금 운용을 어떻게 하면 좋을까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-이번에 퇴직연금을 DB에서 DC로 전환하려고 상품들을 살펴보고 있습니다. 연봉 상승율보다 금리가 높으면 원리금보장상품에 넣어야겠다고 생각해서 살펴보니, 원리금보장상품 중에 금리가 높은 상품들은 증권사의 ELB, 보험사의 이율보증형 보험, 그 다음이 저축은행 예금, 은행 예금 순인 것 같더라고요. 그래서 가장 높은 금리에 넣으려고 했는데, 예금자보호가 금융기관별로 5천만원까지만 된다고 하고, 그나마 금리가 높은 ELB는 예금자보호가 안 되는 상품이라고 해서 걱정이 됩니다.
-
-예금자보호가 되는 상품이라도 5천만원씩 나눠서 여러 상품에 가입을 하자니, 번거롭기도 하고 이자도 많이 포기해야 하더군요. 도산가능성이 적은 증권사, 보험사를 믿고 5천만원 이상 맡겨도 될지 고민이 됩니다. 가장 효율적으로 안전하게 운영할 수 있는 방법이 있을까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230330.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230330.mp3</guid>
-      <pubDate>Thu, 30 Mar 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
