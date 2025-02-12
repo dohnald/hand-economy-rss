@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 2/12(수) K-미사일의 미래 (김민석 연구위원) | 우주복 만드는 프라다 (이창욱 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+K-미사일의 미래
+- 김민석 국방안보포럼 연구위원
+
+2부
+[사이언스가 머니]
+우주복 만드는 프라다
+- 이창욱 과학동아 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250212.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250212.mp3</guid>
+      <pubDate>Wed, 12 Feb 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 2/12(수) 생활형 숙박시설도 임대차 보호법 적용이 되나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27528,20 +27544,6 @@ NBA의 성공 비결
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230331_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230331_1.mp3</guid>
       <pubDate>Fri, 31 Mar 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/31(금) 세액공제를 받지 않은 퇴직연금 관련 질문</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. IRP가 세액공제에도 좋고 노후자금을 적립하기에 좋다고 해서 300만원씩 3년간 가입했습니다.
-그런데 올해 1월 연말정산을 하면서 기존 자료를 확인하니, 이미 매년 400만원씩 납입하고 있는 연금저축만으로도 세액공제를 다 받아서 IRP로는 세액공제를 거의 못 받았더라구요. 3년 동안 IRP에 넣은 900만원 중 1년차에 넣은 14만원 정도만 세액공제를 받은 걸 확인했습니다.
-
-나중에 연금으로 받으면 세금을 내야한다고 들었는데, 저는 노후연금은 준비가 되어있는데다가, IRP에는 투자 가능한 상품의 종류도 적어서 지금이라도 해지할까 고민 중입니다. 만약 지금 해지하게 되면 세금은 공제된 금액만큼만 내면 되는 건가요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230331.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230331.mp3</guid>
-      <pubDate>Fri, 31 Mar 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
