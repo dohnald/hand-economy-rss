@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 2/12(수) 삼성계열사 지분 매각 | 고령층 실손보험 | OTT 스포츠 중계</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 삼성생명·화재, 삼성전자 지분 매각.. 이유는?
+2) 실손보험, 가입·보장연령 ↑.. 4월부터 실시
+3) 넷플릭스, K스포츠 중계 눈독.. OTT업계 긴장
+- 김치형 경제뉴스 큐레이터
+- 손석우 경제뉴스 큐레이터
+
+[친절한 경제]
+가로등과 신호등 전기세
+누가 내나요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250212.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250212.mp3</guid>
+      <pubDate>Wed, 12 Feb 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/11(화) 휴머노이드 시대, 어디까지 왔을까? (오용환 연구원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27535,20 +27553,6 @@ NBA의 성공 비결
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230331.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230331.mp3</guid>
       <pubDate>Fri, 31 Mar 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/31(금) 'K-칩스법' 국회 본회의 통과.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 'K-칩스법' 국회 본회의 통과
- 2. 영국, 철강 품목에 탄소국경세 도입
- 3. '악성 미분양' 전국적으로 급증
- 4. 러시아, 자국 철수 기업에 '출국세' 10% 징수
-
-출연: 김현우 소장, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230331.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230331.mp3</guid>
-      <pubDate>Fri, 31 Mar 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
