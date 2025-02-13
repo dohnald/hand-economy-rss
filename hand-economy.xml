@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 2/13(목) 세대 분리형 아파트를 임차할 때 주의사항은?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요? 이사할 때가 돼서 전셋집을 알아보고 있는데요, 마음에 딱 드는 52제곱미터의 아파트를 찾았습니다. 그런데 자세히 알아보니 해당 아파트는 실제 면적이 74제곱미터인데, 52제곱미터와 원룸으로 분리돼서 나온 형태더라구요. 아파트는 한 채인데 가벽으로 공간이 구분돼 있고 현관문도 두 개입니다. 한쪽에 집주인이 살면서 임대를 주면 문제가 없을 것 같은데, 원룸쪽 세대도 월세로 임대를 주려고 하는 것 같더라구요. 사실상 다가구 주택인 셈입니다. 채광이며 위치며 모든 부분이 마음에 드는데, 거기에다 세대분리형이다 보니 같은 면적의 다른 집들보다 전세가가 5천만 원정도 싸다는 점도 장점입니다. 이런 집에 들어가게 됐을 경우 혹시 법률적인 문제는 없는지 걱정인데요, 예를 들어, 원룸 임차인의 문제로 거주에 문제가 생기지는 않는지, 경매에 넘어가는 일은 없을지 궁금합니다. 참고로, 현재 해당주택의 매매호가는 12억 5천만 원 정도이고, 제가 알아본 투룸의 전세가는 4억 5천정도, 나머지 원룸 부분의 전세가는 1억 5천 정도입니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250213.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250213.mp3</guid>
+      <pubDate>Thu, 13 Feb 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 2/13(목) 토지거래허가구역 해제, 부동산 시장 영향은? (분전 김건우 대표)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27537,15 +27547,6 @@ NBA의 성공 비결
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230402.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230402.mp3</guid>
       <pubDate>Sun, 02 Apr 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 끝없는 회의, 손기획</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230331_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230331_2.mp3</guid>
-      <pubDate>Fri, 31 Mar 2023 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
