@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 2/13(목) 토지거래허가구역 해제, 부동산 시장 영향은? (분전 김건우 대표)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[이슈 인터뷰]
+토지거래허가구역 대거 해제, 부동산 시장 영향은?
+- 분전 김건우 대표]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250213.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250213.mp3</guid>
+      <pubDate>Thu, 13 Feb 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/12(수) K-미사일의 미래 (김민석 연구위원) | 우주복 만드는 프라다 (이창욱 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27535,15 +27546,6 @@ NBA의 성공 비결
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230331_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230331_2.mp3</guid>
       <pubDate>Fri, 31 Mar 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 돈독 오른 것들</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230331_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230331_1.mp3</guid>
-      <pubDate>Fri, 31 Mar 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
