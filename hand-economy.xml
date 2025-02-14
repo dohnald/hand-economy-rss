@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 2/13(목) 트럼프 행정부의 핵전략은? (김동현 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+트럼프 행정부의 핵전략은?
+- 김동현 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250213.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250213.mp3</guid>
+      <pubDate>Thu, 13 Feb 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 2/13(목) 세대 분리형 아파트를 임차할 때 주의사항은?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27528,25 +27539,6 @@ NBA의 성공 비결
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230403.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230403.mp3</guid>
       <pubDate>Mon, 03 Apr 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/2(일) (아직은 잘 모르는) 임신에 대한 이야기.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1) 
-주간 손경제 플러스 : 억울한 경제
-못 잊겠다, 떼인 돈
-- 조세영 변호사
-
-
-2)
-이과식 경제
-(아직은 잘 모르는) 임신에 대한 이야기 
-- 이독실 과학평론가
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230402.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230402.mp3</guid>
-      <pubDate>Sun, 02 Apr 2023 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
