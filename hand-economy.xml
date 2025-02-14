@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (5부) 과외가 필요해</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (5부) 사회성 과외커피타임 - (5부) 과외가 필요해]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20250214_555.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20250214_555.mp3</guid>
+      <pubDate>Fri, 14 Feb 2025 18:50:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (4부) 성공적인 인생</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27497,20 +27506,6 @@ NBA의 성공 비결
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230405.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230405.mp3</guid>
       <pubDate>Wed, 05 Apr 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 4/5(수) 尹대통령 '양곡법' 거부권 행사.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 尹대통령 '양곡법' 거부권 행사
- 2. 3%대 근접한 물가, 복병 만났다
- 3. '기준금리 인상 부담' 떠넘기기, 국내 ＞ 미국
- 4. 삼전·하이닉스 '큰 돈' 빌리고 있다는데..
-
-출연: 양효걸 기자, 나수지 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230405.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230405.mp3</guid>
-      <pubDate>Wed, 05 Apr 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
