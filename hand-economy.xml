@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 2/14(금) 美 상호관세 | 美 반도체 지원금 재논의 | K칩스법 | 온누리상품권 악용</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 트럼프, 상호관세 부과 명령 서명.. 韓 영향은?
+2) 美 반도체 보조금은 “재협상 추진” 
+3) K칩스법 청신호.. “R&D 비용도 세금 감면”
+4) 온누리상품권, 부정사용·금 투자 논란
+- 손석우 경제뉴스 큐레이터
+- 안승찬 언더스탠딩 기자
+- 김현우 행복자산관리연구소 소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250214.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250214.mp3</guid>
+      <pubDate>Fri, 14 Feb 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/13(목) 트럼프 행정부의 핵전략은? (김동현 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27526,19 +27542,6 @@ NBA의 성공 비결
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230403.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230403.mp3</guid>
       <pubDate>Mon, 03 Apr 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 4/3(월) 정부, 전기요금 인상 보류.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 정부, 전기요금 인상 보류
- 2. 올해 두 달간 세수 16조 원 줄었다
- 3. 바이든, 은행 규제강화 지시
-
-출연: 안승찬 기자, 양효걸 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230403.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230403.mp3</guid>
-      <pubDate>Mon, 03 Apr 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
