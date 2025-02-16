@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 2/16(일) 난카이 대지진, 언제 올지 모릅니다 (홍태경 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+난카이 대지진, 언제 올지 모릅니다
+- 홍태경 연세대 지구시스템학과 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250216.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250216.mp3</guid>
+      <pubDate>Sun, 16 Feb 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/15(토) 뉴노멀이 된 강달러, 전망은? (박정호 교수) </title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27490,26 +27501,6 @@ NBA의 성공 비결
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230406.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230406.mp3</guid>
       <pubDate>Thu, 06 Apr 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>협찬인가 - 내 마음이 보이니?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[다양한 산업과 직업의 속이야기를 파헤쳐보는 (이것은 협찬인가 콘텐츠인가)
- 
-이번 화의 주인공은 고객의 손품을 분석해주는 서비스 '뷰저블(Beusable)'을 홍보하러 나온 포그리트(4grit)의 나온 박태준 대표, 엄지연 기획팀장님 입니다.
-
-온라인 쇼핑몰이나 회사 서비스 홈페이지에서 사람들은 어디에서 눈길을 멈추는지 히트맵을 보여주고 체류시간과 이탈률, 전환율을 분석 해주는 서비스입니다.
-최근 강조하고 있는 UX Writing 분야(어떤 정보성 텍스트를 소비자가 선호하는지)도 말씀해주셨습니다.
-
-4월 27일 목요일 오후2시, 롯데월드타워 31층에서 열리는 세미나에도 관심이 있으신 분들은 '재빨리' 신청 바랍니다 (선착순이랍니다)
-또한 관련 기술에 관심 있으신 분들이 자유롭게 이야기 나누는 '포럼'도 이야기 해주셨으나 시간관계상 방송에 담지 못했습니다.
-관심있으신 분들은 포그리트 홈페이지(www.4grit.com)를 들러보시길 권합니다.
- 
-(이것은 협찬인가 콘텐츠인가) 출연 문의는 hand-economy@naver.com 입니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230405.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230405.mp3</guid>
-      <pubDate>Wed, 05 Apr 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
