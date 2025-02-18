@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 2/18(화) 임차인이 상가 월세를 주지 않고 있습니다</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 제 명의로 아파트 상가를 하나 보유하고 있는데요, 2023년 4월부터 2년 동안 임대를 주기로 하고, 
+보증금 150만 원에 월세 25만 원으로 계약을 했습니다. 그런데 지난 4월부터 월세가 입금되지 않기 시작하더니, 문자를 보내도 답장이 없고 이젠 아예 전화통화도 되지 않습니다. 결국 내용 증명도 보내봤지만 수취거부로 반송된 이후 시간만 흐르고 있는 상황입니다. 이럴 때는 어떻게 해야 하는 건가요? 얼마 안 되는 금액이라고 할 수도 있지만 너무 답답합니다......]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250218.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250218.mp3</guid>
+      <pubDate>Tue, 18 Feb 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 2/18(화) 담뱃세·주세 개편 | 시진핑-中빅테크 회동 | 해저케이블 훼손</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27483,28 +27494,6 @@ NBA의 성공 비결
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230407.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230407.mp3</guid>
       <pubDate>Fri, 07 Apr 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/7(금) 오펙 플러스 추가 감산, 석유의 파워.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-겹경(제)사(건)
-오펙 플러스 추가 감산, 석유의 파워 
-- 김윤경 기자 
-
-
-2)
-글로벌 리포트 
-- 마크롱 대통령, 중국 방문의 의미
-- 이번 은행사태로 떼돈 번 헤지펀드
-- 유럽 집값이 떨어졌다
-- 새우가 우크라이나 전쟁에 도움된다
-어예진 소장 
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230407.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230407.mp3</guid>
-      <pubDate>Fri, 07 Apr 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
