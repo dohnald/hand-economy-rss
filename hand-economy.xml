@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 2/19(수) 해외ETF에 투자할 때 어떤 점을 주의해야 될까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요, S&P500 ETF에 적립식으로 투자를 하는 것과 관련해서 궁금한 점이 있습니다. 과거 수익률을 보면 안정적이고 높은 편이라 장기적인 투자 대상으로 매력이 있다고 생각하는데요. 매월 적립식으로 S&P500 ETF를 사서 모은다고 할 때 주의해야 할 사항이 있는지 궁금합니다. 그리고 20년 이상 장기간으로 투자할 때와, 목돈을 모으기 위해 단기간으로 2~3년 투자해서 매도할 때도 주의사항이 있는지 궁금합니다. 또, S&P500 ETF도 종류가 많던데, 수수료의 차이는 투자에 어떤 영향을 미치는지, 수수료 비교는 어떻게 해야 하는지도 알고 싶습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250219.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250219.mp3</guid>
+      <pubDate>Wed, 19 Feb 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 2/19(수) 政 부동산 대책 | 러-우전쟁 종전 논의</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27491,15 +27501,6 @@ NBA의 성공 비결
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230409.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230409.mp3</guid>
       <pubDate>Sun, 09 Apr 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 세상e* 좋은 사장은 없다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230407_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230407_2.mp3</guid>
-      <pubDate>Fri, 07 Apr 2023 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
