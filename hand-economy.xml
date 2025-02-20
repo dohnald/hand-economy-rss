@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 2/20(목) 주52시간제 예외, 반도체 성장의 답이 아닙니다 (박준영 소장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+주52시간제 예외, 반도체 성장의 답이 아닙니다
+- 박준영 산업인류학연구소장 (전 삼성전자 반도체 연구원)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250220(1).mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250220(1).mp3</guid>
+      <pubDate>Thu, 20 Feb 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 2/20(목) 사학연금을 다 채우지 못 하고 퇴직하게 되었습니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27477,19 +27488,6 @@ NBA의 성공 비결
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230411.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230411.mp3</guid>
       <pubDate>Tue, 11 Apr 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 4/10(월) 분양주택 디딤돌 대출, 언제 알아봐야 하나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 생애최초 주택구입자로서 디딤돌 대출을 활용해 내 집 마련을 하려고 합니다.
-새로 짓고 있는 아파트가 있는데 입주 시기는 2024년 8월로 예상하고 있습니다. 입주 시기를 고려했을 때 , 디딤돌 대출 조건과 자격, 금리 같은 내용들은 언제부터 알아봐야 하는 걸까요? 
-분양가는 4억 8천만 원인데 대출은 최대 얼마까지 받을 수 있을지, 부부합산소득을 따질 때 일용근로소득은 어떻게 계산하는지 궁금합니다. 최대한 많은 대출을 받을 수 있는 방법 좀 알려주세요.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230410.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230410.mp3</guid>
-      <pubDate>Mon, 10 Apr 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
