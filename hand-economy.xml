@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 2/21(금) 中후판 관세 | 은행사 배당 전망 | 프리미엄 없는 금</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 政 "중국산 후판에 관세".. 저가공세 막는다
+2) 국내 은행주, 배당 줄어들까.. 고환율 여파에 위기
+3) 韓프리미엄 붙은 금.. 은행에선 제값에 판매
+- 박세훈 작가
+- 안승찬 언더스탠딩 기자
+- 김현우 행복자산관리연구소 소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250221.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250221.mp3</guid>
+      <pubDate>Fri, 21 Feb 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/20(목) 주52시간제 예외, 반도체 성장의 답이 아닙니다 (박준영 소장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27474,20 +27489,6 @@ NBA의 성공 비결
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230411.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230411.mp3</guid>
       <pubDate>Tue, 11 Apr 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 4/11(화) 美, IRA 이후 또 환경규제 내놨다.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 美, IRA 이후 또 환경규제 내놨다
- 2. 리츠(REITs, 부동산투자신탁) 시장, 계속 찬바람
- 3. 국제 유가 널뛰기 걱정.. 다행히 안정적
- 4. 오늘 우리나라 기준금리 결정 회의 전망
-
-출연: 양효걸 기자, 남궁민 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230411.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230411.mp3</guid>
-      <pubDate>Tue, 11 Apr 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
