@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 2/21(금) 우리나라 자가용의 역사 (이종훈 작가) | 독일 조기 총선 | 무너지는 인니 중산층 (어예진 소장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[공부왕 이종훈]
+우리나라 자가용의 역사
+- 이종훈 스포츠평론가 (플레이볼 작가)
+
+2부
+[글로벌리포트]
+독일의 조기 총선 | 무너지는 인니 중산층
+- 어예진 해담경제연구소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250221.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250221.mp3</guid>
+      <pubDate>Fri, 21 Feb 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (4부) 샤워의 저주 (끝)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27475,25 +27492,6 @@ ISA 계좌, IRP계좌, 개인연금계좌 등을 활용하는 방법에 대해 �
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230413.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230413.mp3</guid>
       <pubDate>Thu, 13 Apr 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/13(목) 핵융합 1편 : E = mc².. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-이과식 경제 
-핵융합 1편 : E = mc²
-이독실 과학평론가
-
-
-2) 
-책크리스트 
-행복의 정복 + 잘 쉬는 기술 
-- 장동석 출판평론가 
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230413.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230413.mp3</guid>
-      <pubDate>Thu, 13 Apr 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
