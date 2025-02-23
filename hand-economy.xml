@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 2/22(토) 러시아의 다음 타깃은 이 나라들입니다 (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+러시아의 다음 타깃은 이 나라들입니다
+- 박정호 명지대 교수
+w. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250222.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250222.mp3</guid>
+      <pubDate>Sat, 22 Feb 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/21(금) 우리나라 자가용의 역사 (이종훈 작가) | 독일 조기 총선 | 무너지는 인니 중산층 (어예진 소장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27481,17 +27494,6 @@ ISA 계좌, IRP계좌, 개인연금계좌 등을 활용하는 방법에 대해 �
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230414.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230414.mp3</guid>
       <pubDate>Fri, 14 Apr 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 4/13(목) 세액공제 받지 않는 연금저축, 해지할까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[최근 노후자금 마련을 위해 개인연금을 살펴보던 중, 제가 예전에 가입한 연금저축이 세액공제 혜택용이라서 
-현재 세액공제를 받지 않는 저에게는 별 메리트가 없다는 말에 고민 상담을 보내봅니다.
-2016년 11월에 모 보험사의 연금저축보험을 한 달에 15만원씩 20년 동안 납입하는 조건으로 가입했습니다. 만기는 2046년이구요. 가입 당시에는 직장인이었지만 중간에 퇴직을 하는 바람에, 최근 3년 정도는 세액공제를 받지 않았습니다. 혜택이 없어서 해지를 하려고 보니 손해가 발생하더라구요. 이런 경우엔 계속 납입을 해야되는지 아니면 손해를 보더라도 해지를 해야되는지 고민입니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230413.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230413.mp3</guid>
-      <pubDate>Thu, 13 Apr 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
