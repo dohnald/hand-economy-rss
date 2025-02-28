@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (3부) 사고경위</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (3부)사고경위 ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250228_3333.MP3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250228_3333.MP3</guid>
+      <pubDate>Fri, 28 Feb 2025 18:13:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (2부) 그 남자의 취향</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27437,24 +27446,6 @@ Pre : 한미정상회담 경제인 122명 대동
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230420.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230420.mp3</guid>
       <pubDate>Thu, 20 Apr 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/20(목) 핵융합 2편 : 무한 에너지 - K인공태양.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-이과식 경제
-핵융합 2편 : 무한 에너지 - K인공태양 
-- 이독실 과학평론가 
-
-
-2)
-책크리스트 
-정의로운 시장의 조건 
-- 김치형 경제 뉴스 큐레이터 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230420.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230420.mp3</guid>
-      <pubDate>Thu, 20 Apr 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
