@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (1부) 선과 악</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (1부) 선과 악]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250228_111.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250228_111.mp3</guid>
+      <pubDate>Fri, 28 Feb 2025 18:01:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 2/28(금) 외국에 거주하게 되면 국내증권사 거래가 불법인가요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27451,30 +27460,6 @@ Pre : 한미정상회담 경제인 122명 대동
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230420.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230420.mp3</guid>
       <pubDate>Thu, 20 Apr 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>협찬인가 - 속세를 초월한 빵</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[다양한 산업과 직업의 속이야기를 파헤쳐보는 (이것은 협찬인가 콘텐츠인가)
- 
-이번 화의 주인공은 대구에서 비건 빵 전문 '찌니빵공장'의 김예진 대표님 입니다.
-
-비건 베이커리는 동물성 식재료인 우유, 버터, 치즈, 생크림 등등이 안 들어간 빵입니다.
-여러가지 신념으로 '채식주의자'가 된 분들이나 '유제품'에 대한 알레르기가 있는 분, 아이들을 위한 간식으로도 좋은 빵입니다.
-
-네이버나 인스타그램에서 '찌니빵공장'을 검색하셔서 이용 바랍니다. (https://jjinibread.imweb.me)
-
-매주 금요일 인스타그램을 통해 판매할 빵 라인업을 공개하고,
-토요일 낮 2시 부터 주문을 받습니다.
-
-특별히 손경제 애청자들을 위해 1주일동안(4/22~4/27) 2만원 이상 주문시 무료배송을 하기로 했습니다.
-대표님 생일을 제외하고는 특별 할인 행사가 없는 본 업체로서는 이번 기회가 큰 혜택이 될겁니다.
-
-(이것은 협찬인가 콘텐츠인가) 출연 문의는 hand-economy@naver.com 입니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230419.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230419.mp3</guid>
-      <pubDate>Wed, 19 Apr 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
