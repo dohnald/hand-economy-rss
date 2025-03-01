@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 신호등의 역사 (이종훈 작가) | 불난 데 집짓는 美 | 월마트 가는 부자들 | 중국의 노총각 (어예진 소장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[공부왕 이종훈]
+신호등의 역사
+- 이종훈 스포츠 평론가 (플레이볼 작가)
+
+2부
+[글로벌 리포트]
+불난 데 집짓는 美 | 월마트 가는 부자들 | 중국의 노총각
+- 어예진 해담경제연구소장
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250228.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250228.mp3</guid>
+      <pubDate>Fri, 28 Feb 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (3부) 사고경위 (끝)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27433,19 +27451,6 @@ Pre : 한미정상회담 경제인 122명 대동
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230421.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230421.mp3</guid>
       <pubDate>Fri, 21 Apr 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 4/20(목) 청년희망적금 소득초과, 유지해야 할까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 작년 2월에 청년희망적금을 가입해서 내년 2월 만기를 목표로 열심히 적금을 넣고 있었습니다. 그런데 오늘 은행에서 '소득요건 미충족대상'이라는 문자를 받았습니다. 근로소득 총 급여액이 3,600만원을 초과했다는 이유라는데요, 아마도 이직을 하면서 연봉이 오른 것 때문인 것 같습니다. 통보 문자를 보면, '소득요건 미충족을 통보 받은 날부터 비과세 해지는 제한되어 이자소득에 대한 소득세가 부과될 예정이며, 만기까지 유지시 저축장려금은 지원 받을 수 있습니다' 라고 되어 있습니다. 
-이런 상황에서 청년희망적금을 유지하는 게 좋을까요, 아니면 해지 하는 게 좋을까요? 해지하더라도 딱히 다른 곳에 투자할 계획은 없고 6월 이후 출시된다는 청년도약계좌에 가입할 예정입니다.
-만약 만기를 채울 경우, 세금은 어떻게 부과되는 건지도 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230420.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230420.mp3</guid>
-      <pubDate>Thu, 20 Apr 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
