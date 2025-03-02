@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/2(일) 초장시간 노동도 필요한 이유 (김현철 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+초장시간 노동도 필요한 이유
+- 김현철 연세대·홍콩과기대 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250302.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250302.mp3</guid>
+      <pubDate>Sun, 02 Mar 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/1(토) 유럽이 러시아산 가스에 의존하게 된 이유 (박정호 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27427,29 +27438,6 @@ GMO(유전자변형작물), 진짜 문제는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230421.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230421.mp3</guid>
       <pubDate>Fri, 21 Apr 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/21(금) 지금 꼭 필요한 전세 사기 대책.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-리뷰 앤 프리뷰
-Re : 지금 꼭 필요한 전세 사기 대책 & 美 한국산 전기차, 보조금 0원  
-Pre : 한미정상회담 경제인 122명 대동 
-양효걸 기자
-
-
-2)
-글로벌 리포트
-- 독일, 압도적 반대 여론 뚫고 탈원전 완성
-- 중국에서 경제적으로도 멀어지려는 대만
-- 대학 수가 늘어나는 게 고민이라는 인도
-- 이탈리아의 파격적인 저출산 타개책
-어예진 소장
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230421.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230421.mp3</guid>
-      <pubDate>Fri, 21 Apr 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
