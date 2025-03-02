@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/1(토) 유럽이 러시아산 가스에 의존하게 된 이유 (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+유럽이 러시아산 가스에 의존하게 된 이유
+- 박정호 명지대 교수
+w. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250301.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250301.mp3</guid>
+      <pubDate>Sat, 01 Mar 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/28(금) 신호등의 역사 (이종훈 작가) | 불난 데 집짓는 美 | 월마트 가는 부자들 | 중국 노총각들 (어예진 소장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27437,20 +27450,6 @@ Pre : 한미정상회담 경제인 122명 대동
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230421.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230421.mp3</guid>
       <pubDate>Fri, 21 Apr 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 4/21(금) 금융으로 뻗는 애플 생태계.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 전세 사기 피해 대책.. 경매 우선매수권
- 2. 금융으로 뻗는 애플 생태계.. '애플 통장'
- 3. 日, 작년 무역 적자 역대 최대 규모
-+ 친절한 경제
-
-출연: 김현우 소장, 이상은 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230421.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230421.mp3</guid>
-      <pubDate>Fri, 21 Apr 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
