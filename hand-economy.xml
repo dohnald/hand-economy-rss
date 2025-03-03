@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 3/3(월) 미-우크라 협상 결렬 | 재외동포 취업문 | 폐업하는 자영업자</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 미-우크라, 광물협정도 결렬.. 긴장하는 우방국들
+2) 재외동포, 단순노무 취업 열린다.. 건보료 논란도
+3) 자영업자 폐업·실업급여 수급 ↑.. 흔들리는 내수
+- 나수지 한국경제신문 기자
+- 정지서 연합인포맥스 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250303.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250303.mp3</guid>
+      <pubDate>Mon, 03 Mar 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/2(일) 초장시간 노동도 필요한 이유 (김현철 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27426,18 +27440,6 @@ GMO(유전자변형작물), 진짜 문제는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230421_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230421_1.mp3</guid>
       <pubDate>Fri, 21 Apr 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 4/21(금) 13년 전 가입한 연금펀드의 마이너스 수익률, 어떡할까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-2009년 말에 소득공제가 된다고 해서 적립식 연금펀드를 가입했습니다. 한 달에 50만원씩, 3년간 납입 후 퇴직시점에 받는 것으로 알고 있습니다. 총 36회, 1,800만원을 2012년 말까지 다 납입했고 그 뒤로 가만히 두고 있는데, 현재 평가금액은 1,754만원입니다. 만약 지금 환매할 경우 운용수수료와 세금까지 공제하고 나면 환급액이 1,465만원으로, 13년 3개월의 누적수익률이 마이너스 20%에 가까운 셈입니다. 제가 가입한 게 어떤 상품이길래 이렇게 수익률이 십 수년간 꾸준히 안 좋을 수 있는지 아는 방법이 있을까요? 두 번째로, 이 상품을 해약하면 당시 소득공제를 받았던 부분에 대한 불이익이 있을까요? 
-대출금리가 높아져, 이걸 해약해서라도 일부 상환을 해야하나 고민중입니다. 제가 어떻게 해야할 지 꼭 좀 알려주세요.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230421.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230421.mp3</guid>
-      <pubDate>Fri, 21 Apr 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
