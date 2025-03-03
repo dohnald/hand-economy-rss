@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 3/3(월) 금융소득종합과세 대상자가 됐을 때, 연말정산과 건보료는?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요? 작년도 아버지의 금융소득이 2천만 원을 넘어, 저한테 등록되어 있던 건강보험 피부양자 자격도 박탈되고 종합과세 대상자가 되셨다는 이야기를 듣게 되었습니다. 그동안 연말정산에서 아버지를 부양가족으로 올려, 소득공제 받고 있었는데 이번엔 부양가족으로 등록하면 안 되는거겠죠? 금리가 높은 상품에 가입하시면서 일시적으로 소득이 2천만 원을 조금 넘어가게 됐는데, 다시 건강보험 피부양자로 등록하려면 어떻게 해야 할까요? 또, 아버지가 받으셨던 5천만 원 비과세 한도도 사라지는 걸로 아는데, 언제쯤 다시 혜택을 받을 수 있을까요? 막상 저에게 이런 상황이 생기니 어떻게 해야될지 모르겠습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250303.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250303.mp3</guid>
+      <pubDate>Mon, 03 Mar 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 3/3(월) 미-우크라 협상 결렬 | 재외동포 취업문 | 폐업하는 자영업자</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27431,15 +27441,6 @@ GMO(유전자변형작물), 진짜 문제는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230421_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230421_2.mp3</guid>
       <pubDate>Fri, 21 Apr 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 그 지적을 멈춰주오</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230421_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230421_1.mp3</guid>
-      <pubDate>Fri, 21 Apr 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
