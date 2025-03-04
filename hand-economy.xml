@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 3/4(화) 주택담보대출을 상환하면 소득공제혜택을 반납해야 되나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 2014년 9월에 주택을 구입하면서 주택담보대출을 받았는데요. 당시 15년 원리금 상환으로 설정했습니다. 15년 원리금 상환으로 설정한 이유는 연말정산때 소득공제 혜택을 받기 위해서였습니다. 현재는 주택담보대출 상환을 시작한 지 10년을 좀 넘긴 상태인데요, 만약 지금 남은 대출금액을 전액 중도상환 할 경우엔, 그간 연말정산때 받았던 소득공제 혜택을 전부 다 반납해야 되는 건지, 아니면 그간 소득공제 금액은 그대로 인정되고 중도상환 완료로 마무리 되는 건지 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250304.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250304.mp3</guid>
+      <pubDate>Tue, 04 Mar 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 3/4(화) 중국 양회 | 대체거래소 출범 | 트럼프 가상자산 발언</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27429,19 +27439,6 @@ GMO(유전자변형작물), 진짜 문제는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230424.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230424.mp3</guid>
       <pubDate>Mon, 24 Apr 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 4/24(월) 정부, ‘전세사기 특별법’ 제정 추진.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 정부, ‘전세사기 특별법’ 제정 추진
- 2. 코인도 제도권으로... EU ‘가상자산법’ 통과
-+ 친절한 경제
-
-출연: 안승찬 기자, 양효걸 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230424.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230424.mp3</guid>
-      <pubDate>Mon, 24 Apr 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
