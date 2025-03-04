@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/4(화) 인도 정치가 자꾸 실패하는 이유 (김현철 연구원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+인도 정치가 자꾸 실패하는 이유
+- 맹현철 서울대 남아시아센터 연구원]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250304.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250304.mp3</guid>
+      <pubDate>Tue, 04 Mar 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 3/4(화) 주택담보대출을 상환하면 소득공제혜택을 반납해야 되나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27422,23 +27433,6 @@ GMO(유전자변형작물), 진짜 문제는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230424.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230424.mp3</guid>
       <pubDate>Mon, 24 Apr 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/24(월) 대통령 방미 - 미국시장 주요 이슈 점검.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-증시 열렸다
-대통령 방미 - 미국시장 주요 이슈 점검
-- 정광우 대표
-
-2)
-신기방기 레드칩
-챗GPT는 거짓말쟁이? 머스크의 AI 회사 ‘X.AI’
-- 신기주 부대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230424.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230424.mp3</guid>
-      <pubDate>Mon, 24 Apr 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
