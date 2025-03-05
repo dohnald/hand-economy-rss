@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 3/5(수) 세액공제 한도의 초과분을 배당ETF에 투자하면 세제 효과가 있나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 개인연금과 IRP를 합산해서 총 1800만 원까지 불입할 수 있고, 그 중 900만 원까지만 연말정산 때 세액공제를 받을 수 있는 것으로 알고 있습니다. 세액공제 한도를 초과해서 불입한 900만 원에 대해서는 언제든지 인출할 수 있다고 들었구요. 제가 궁금한 점은, 개인연금과 IRP 계좌 내의 배당금은 배당소득세를 부과하지 않는다고 하던데... 그렇다면 세액공제를 받지 않을 900만 원을 추가로 넣어 배당 ETF에 투자한 다음, 세금 없이 배당금을 받은 뒤 인출하는 것도 가능한 걸까요? 배당소득세를 공제하지 않고 들어오는 배당금만큼 개인연금계좌에서 인출할 수 있다면, 이론적으로는 세금을 내지 않고 배당ETF를 투자할 수 있는 방법 같은데 이게 가능한 건가요? 900만 원에 대한 배당금이 크지 않을 수도 있지만, 이렇게 매년 쌓이다 보면 나중에는 큰 돈이 될 것 같은데, 이런 방법이 가능한 건지 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250305.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250305.mp3</guid>
+      <pubDate>Wed, 05 Mar 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 3/5(수) 여당 민생지원책 | 홈플러스 회생절차</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -33,7 +43,7 @@
       <pubDate>Wed, 05 Mar 2025 08:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>[플러스] 3/4(화) 인도 정치가 자꾸 실패하는 이유 (김현철 연구원)</title>
+      <title>[플러스] 3/4(화) 인도 정치가 자꾸 실패하는 이유 (맹현철 연구원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
       <description><![CDATA[1,2부
@@ -27423,20 +27433,6 @@ GMO(유전자변형작물), 진짜 문제는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230425.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230425.mp3</guid>
       <pubDate>Tue, 25 Apr 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 4/25(화) ‘빚투 종목’ 무더기 하한가 기록.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1.‘빚투 종목’ 무더기 하한가 기록
- 2. 칠레, 배터리 핵심원료 ‘리튬 국유화’ 선언
- 3.‘친환경 선박’ 수주 쓸어담는 조선업
- 4. 환율 또 연고점, 한미 통화스와프 필요할까
-
-출연: 양효걸 기자, 남궁민 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230425.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230425.mp3</guid>
-      <pubDate>Tue, 25 Apr 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
