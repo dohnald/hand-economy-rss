@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (5부) 그놈의 소통</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (5부) 그놈의 소통]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_555.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_555.mp3</guid>
+      <pubDate>Fri, 07 Mar 2025 16:29:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (4부) 긁♡</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27366,27 +27375,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230428.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230428.mp3</guid>
       <pubDate>Fri, 28 Apr 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/28(금) '일주일 째 하한가' CFD 사태.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-Review & Preview
-- Re : CFD 사태 & 한미정상회담 F/up
-- Pre : 전세사기 특별법 & 5월 FOMC
-양효걸 기자
-
-2)
-글로벌 리포트
-- 중국, 대외거래서 위안화 비중이 달러 추월
-- 국민에게 디지털 시장 개방 중인 인도
-- 디젤 가격 급락.. 미국경제 경고 신호?
-- 싱가포르, 외국인 대상 세율 대폭 인상
-어예진 소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230428.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230428.mp3</guid>
-      <pubDate>Fri, 28 Apr 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
