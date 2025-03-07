@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (1부) 무용담 말고 낙오담</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (1부) 무용담 말고 낙오담]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_111.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_111.mp3</guid>
+      <pubDate>Fri, 07 Mar 2025 16:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 3/7(금) 자녀를 위해 금을 사서 투자해 주는 건 어떨까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27399,19 +27408,6 @@ GMO(유전자변형작물), 진짜 문제는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230427.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230427.mp3</guid>
       <pubDate>Thu, 27 Apr 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 4/27(목) 벤처기업 ‘복수의결권’ 통과 목전.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 중대재해처벌법 첫 실형 선고, 이유는?
-2. 전세사기 불똥.. ‘실거주의무 폐지’ 재보류 
-3. 벤처기업 ‘복수의결권’ 통과 목전
-
-출연: 김현우 소장, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230427.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230427.mp3</guid>
-      <pubDate>Thu, 27 Apr 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
