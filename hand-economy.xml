@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (3부) 말의 형식</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (3부) 말의 형식]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_333.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_333.mp3</guid>
+      <pubDate>Fri, 07 Mar 2025 16:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (2부) 전적으로 PD 잘못</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (2부) 전적으로 PD 잘못]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_22222.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_22222.mp3</guid>
+      <pubDate>Fri, 07 Mar 2025 16:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (1부) 무용담 말고 낙오담</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27376,38 +27394,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230428.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230428.mp3</guid>
       <pubDate>Fri, 28 Apr 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 4/27(목) 청년희망적금 깨고 대출 갚는 게 나을까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 26살 사회초년생입니다. 1년 반 전 첫 직장에 취업해서 1년 정도 근무하다 퇴사를 했는데요, 퇴사직전에 생활비대출을 받으라는 이상한 유혹에 빠져 1500만원을 대출 받았습니다.
-작년 8월에 만기가 돌아와서 1년 연장을 했는데요, 처음엔 4%대였던 금리가 6%대로 올라 월 10만원에 가까운 이자만 내고 있습니다. 
-대출을 받을 땐 금리라는 단어도 모를 정도였는데, 다시 회사를 다니면서부터는 가치관이 180도 달라져서 아껴쓰고 저축하려고 엄청 노력하고 있습니다.
-현재 저축은 청약, 청년희망적금, 일반적금이 있는데요, 청년희망적금은 중간에 2번을 납입하지 못했습니다.
-청년희망적금이 내년 8월에 만기인데, 대출만기가 돌아오는 올해 8월에 그냥 해지해서 대출을 조금이라도 갚는게 나을까요? 아니면 낮은 금리의 대출로 갈아타서 이자만 내고 청년희망적금은 유지하는게 좋을까요? 2번을 연체한 게 마음에 걸립니다. ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230427.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230427.mp3</guid>
-      <pubDate>Thu, 27 Apr 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/27(목) GMO(유전자변형작물), 진짜 문제는?.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-이과식 경제
-GMO(유전자변형작물), 진짜 문제는?
-- 이독실 과학평론가
-
-2)
-책크리스트
-월든 + 빚으로 지은 집
-- 장동석 출판평론가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230427.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230427.mp3</guid>
-      <pubDate>Thu, 27 Apr 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
