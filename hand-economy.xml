@@ -16,6 +16,32 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 3/7(금) 홈플러스 사태 파장 | 유로화 강세의 이유 | 외국인 인재 유치</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 홈플러스, 제2의 티메프 될라.. “상품권 안 받아요”
+2) 유로화·독일 국채 ↑.. 국방·인프라 투자에 기대감
+3) 政, 톱티어 비자 신설.. 해외 고급인재 들인다
+- 김현우 행복자산관리연구소 소장
+- 박세훈 작가
+- 안승찬 언더스탠딩 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307.mp3</guid>
+      <pubDate>Fri, 07 Mar 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 3/6(목) 남미의 석유 분쟁에 전운이 감돕니다 (최준영 박사)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+남미의 석유 분쟁에 전운이 감돕니다
+- 최준영 박사 (율촌 전문위원)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250306.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250306.mp3</guid>
+      <pubDate>Thu, 06 Mar 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 3/6(목) 임대인이 권리금을 빼고 임대매물을 올렸습니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27400,37 +27426,6 @@ GMO(유전자변형작물), 진짜 문제는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230426.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230426.mp3</guid>
       <pubDate>Wed, 26 Apr 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 4/26(수) 개인사업자도 주담대 상환액 공제 가능한가요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-저는 현재 개인사업자인데요, 이번 5월에 하게 될 종합소득세 신고 관련해서 궁금한 게 있어서 문의 드립니다.
-자가로 보유 중인 주택이 있는데, 처음 취득할 때 한국토지주택공사에서 디딤돌대출을 받았습니다. 
-제가 근로자였을 때는 연말정산을 할 때 공제를 받았는데, 개인사업자일 때도 공제가 가능한가요? 마음에 걸리는 게 있는데, 담보대출을 받은 실거주지와 사업장 주소지가 다른 것이 문제가 되지 않을까 걱정이 됩니다. 
-개인사업자가 되니 여러 가지 신경 쓸 게 많네요~ 속 시원한 답변 부탁드립니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230426.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230426.mp3</guid>
-      <pubDate>Wed, 26 Apr 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/26(수) 끝나지 않는 내전 - 수단.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-역시나 박정호 시즌 Ⅱ
-끝나지 않는 내전 - 수단
-- 안주희 아나운서
-
-2)
-억울한 경제
-오피스텔·상가 분양계약, 해지하고 싶다면?
-- 조세영 변호사]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230426.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230426.mp3</guid>
-      <pubDate>Wed, 26 Apr 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
