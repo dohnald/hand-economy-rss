@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/8(토) 러시아를 움직이는 건 '돈'입니다 (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+러시아를 움직이는 건 '돈'입니다
+- 박정호 명지대 교수
+w. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250308.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250308.mp3</guid>
+      <pubDate>Sat, 08 Mar 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/7(금) 도시가스의 역사 (이종훈 작가) | 美 관세 역풍 | 금에 밀리는 코코아 | 힌두교 축제 (어예진 소장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27369,20 +27382,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230428_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230428_1.mp3</guid>
       <pubDate>Fri, 28 Apr 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 4/28(금) 가족의 자산 전체가 한 금융기관에... 괜찮을까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-손경제 애청자 입니다. 며칠 전 연금저축신탁의 예금자보호에 대한 사연을 듣고 궁금해져서 글을 남깁니다. 
-남편 회사에서 이번에 퇴직금을 DC형 퇴직연금으로 전환을 하는데, 가장 좋아 보이는 증권사가 있어 그곳으로 선택을 하려고 합니다. 문제는 아내인 저의 모든 금융 자산도 해당 증권사에 있는데요, 이럴 경우 안정성이 궁금합니다. 저는 몇 해 전에 조기퇴직을 하여 받은 퇴직금과 기존에 타 은행에 있던 연금저축도 전부 이 증권사로 옮겨서 연금저축 펀드에 넣어두었습니다. 
-남편도 퇴직연금과 함께 연금저축도 전부 이곳으로 옮길까 하는데, 그러면 저희 가족의 모든 노후자금을 비롯한 대부분의 금융자산이 이 증권사에 맡겨지게 되는거라, 이래도 될까 싶네요.
-증권사에 문제가 생겨도 주식이나 펀드가 없어지는건 아니라고 들었는데, 퇴직연금도 동일한지, 펀드나 ETF는 운용사에 문제가 생기면 어떻게 되는지도 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230428.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230428.mp3</guid>
-      <pubDate>Fri, 28 Apr 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
