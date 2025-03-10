@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 3/10(월) 자녀 이름으로 만들 수 있는 절세계좌는?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 자녀에게 증여한 돈을 어떻게 불려줘야할지 고민이 돼서 사연 보냅니다. 현재 미국 주식과 금현물을 분산해서 넣어둔 상태입니다. 미국 주식은 연 250만 원 이상 수익이 나면 세금을 내야 돼서 ISA를 가입해주고 싶은데 미성년자는 가입이 불가능하다고 하네요. 대안으로 연금저축펀드가 가입 가능하다고 하던데요, 어떻게 하면 연금저축펀드를 가입할 수 있고, 어떤 상품에 투자할 수 있는지 궁금합니다. 그리고 연금저축펀드와 IRP, ISA에 대해서 각각의 투자방법과 투자 가능한 상품, 과세방식과 가입기간도 자세히 알고 싶습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250310.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250310.mp3</guid>
+      <pubDate>Mon, 10 Mar 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (2부) 하등한 존재 [재업로드]</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27372,19 +27382,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230501.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230501.mp3</guid>
       <pubDate>Mon, 01 May 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 5/1(월) BNPL(선구매·후불제) 연체율 급증.. ‘건정성 비상’.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. BNPL(선구매·후불제) 연체율 급증.. ‘건정성 비상’
- 2. ‘개미전용 국채’ 발행 가능해졌다
-+ 친절한 경제
-
-출연: 안승찬 기자, 양효걸 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230501.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230501.mp3</guid>
-      <pubDate>Mon, 01 May 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
