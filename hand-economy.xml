@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/11(화) 우크라이나 전쟁에 대한 여론의 변화 (이재승 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+ 우크라이나 전쟁에 대한 여론의 변화
+- 이재승 고려대 국제대학원 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250311.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250311.mp3</guid>
+      <pubDate>Tue, 11 Mar 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 3/11(화) 건강보험료에 영향을 미칠 수 있는 금융소득은?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27361,24 +27372,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230502.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230502.mp3</guid>
       <pubDate>Tue, 02 May 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 5/2(화) 구글, 폴더블폰 출시.. ‘삼성vs구글’ 본격화?.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-공부왕 이종훈
-비디오 게임 산업 2편: 글로벌 대세는 콘솔게임
-- 이종훈 작가
-
-2)
-키워드 경제
-구글, 폴더블폰 출시.. ‘삼성vs구글’ 본격화?
-- 김덕진 소장
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230502.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230502.mp3</guid>
-      <pubDate>Tue, 02 May 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
