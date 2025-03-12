@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 3/12(수) 자녀와 공동으로 상속받은 주택 때문에 고민입니다.</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 주택의 명의에 대해 고민이 있어서 사연 남깁니다. 현재 저희 딸과 제가 주택을 공동명의로 소유하고 있습니다. 이로 인해 딸이 주택 청약이나 생애 최초 주택마련시 각종 혜택을 놓치게 될 것 같아 속상합니다. 20여년 전에 남편이 세상을 떠날 당시 저희 딸은 미성년자였는데요, 그때 집을 공동 명의로 해야 한다는 조언을 들었습니다. 공동 명의를 안 하려면 시댁으로부터 별도의 서류를 받아야 한다길래, 거리도 멀고 여러 번거로움이 있어서 딸과 공동 명의로 상속을 받았습니다. 하지만 지금은 딸이 성인이 되어 직장생활을 하고 있어, 주택 관련 혜택을 받지 못하는 상황이 안타깝습니다. 지금이라도 명의를 바꿔야 할까요? 어떤 방법이 가장 좋을지 조언을 구하고 싶습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250312.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250312.mp3</guid>
+      <pubDate>Wed, 12 Mar 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 3/12(수) 美 경기침체 해석 | 사망보험금 생전 지급 | 대만 세금 환급</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27363,19 +27373,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230503.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230503.mp3</guid>
       <pubDate>Wed, 03 May 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 5/3(수) 물가상승세 둔화.. 14개월 만에 3%.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 물가상승세 둔화.. 14개월 만에 3%
-2. 금융위, CFD 제도 개선 나선다
-3. 한국은행이 금을 더 사지 않는 이유
-
-출연: 양효걸 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230503.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230503.mp3</guid>
-      <pubDate>Wed, 03 May 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
