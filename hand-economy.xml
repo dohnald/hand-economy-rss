@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/13(목) 바다로 번진 미중패권 전쟁 (정구연 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+바다로 번진 미중패권 전쟁
+- 정구연 강원대 정치외교학과 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250313.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250313.mp3</guid>
+      <pubDate>Thu, 13 Mar 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 3/13(목) 예고없는 주차비 인상, 세입자가 부담해야 되나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26,7 +37,7 @@
       <pubDate>Thu, 13 Mar 2025 13:52:00 +0900</pubDate>
     </item>
     <item>
-      <title>[손경제] 3/12(목) 상속세 개편안 | 美 철강관세 발효 | GTX-C 사업 위기 </title>
+      <title>[손경제] 3/13(목) 상속세 개편안 | 美 철강관세 발효 | GTX-C 사업 위기 </title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
       <description><![CDATA[[깊이 있는 경제뉴스]
@@ -27343,19 +27354,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230504.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230504.mp3</guid>
       <pubDate>Thu, 04 May 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 5/4(목) FOMC 기준금리 인상.. ‘16년만에 최고’.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. FOMC 기준금리 인상.. ‘16년만에 최고’
-2. 단통법 수술대 오른다 
-3.‘최우선변제금 전세사기’ 등장 
-
-출연: 김현우 소장, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230504.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230504.mp3</guid>
-      <pubDate>Thu, 04 May 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
