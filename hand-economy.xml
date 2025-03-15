@@ -16,12 +16,12 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>커피타임 - (5부) 용기의 정의</title>
+      <title>3/14(금) [플러스] 손에 잡히는 경제 </title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (5부) 용기의 정의]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250314_555.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250314_555.mp3</guid>
+      <description><![CDATA[  ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250314.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250314.mp3</guid>
       <pubDate>Fri, 14 Mar 2025 20:05:00 +0900</pubDate>
     </item>
     <item>
@@ -31,6 +31,15 @@
       <description><![CDATA[커피타임 - (4부) 배수의 진(?)]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250314_444.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250314_444.mp3</guid>
+      <pubDate>Fri, 14 Mar 2025 20:04:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (5부) 용기의 정의</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (5부) 용기의 정의]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250314_555.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250314_555.mp3</guid>
       <pubDate>Fri, 14 Mar 2025 20:04:00 +0900</pubDate>
     </item>
     <item>
@@ -27326,19 +27335,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230508.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230508.mp3</guid>
       <pubDate>Mon, 08 May 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 5/8(월) 개인 채권 순매수 ‘사상 최대치’ 기록.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 미 금융위기설, 다음 뇌관은 ‘상업용 부동산’
-2. 개인 채권 순매수 ‘사상 최대치’ 기록
-+ 친절한 경제
-
-출연: 안승찬 기자, 양효걸 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230508.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230508.mp3</guid>
-      <pubDate>Mon, 08 May 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
