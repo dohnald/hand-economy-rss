@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 3/17(월) 민감국가된 한국 | MBK회장 사재 출연 | 연금개혁 합의점</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美에 민감국가된 한국.. 기술협력에 제동 우려
+2) MBK 김병주 회장, 홈플러스에 사재 출연 약속
+3) 연금개혁, 여야 소득대체율 합의.. 내용은?
+- 정지서 연합인포맥스 기자
+- 안승찬 언더스탠딩 기자
+
+[친절한 경제]
+테슬라 주가를 추종하는
+국산 종목을 만들 순 없나요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250317.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250317.mp3</guid>
+      <pubDate>Mon, 17 Mar 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/16(일) 초고령화시대, 노인을 위한 주거환경은? (주서령 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27324,19 +27342,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230509.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230509.mp3</guid>
       <pubDate>Tue, 09 May 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 5/9(화) 호남 전력 수도권 보내는 ‘전력망 개편’ 발표.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 호남 전력 수도권 보내는 ‘전력망 개편’ 발표
-2. 러시아 협박에 국제곡물가격 다시 오를 판
-3.‘평당 2천만원 돌파’.. 분양가 시장 악재
-
-출연: 양효걸 기자, 남궁민 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230509.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230509.mp3</guid>
-      <pubDate>Tue, 09 May 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
