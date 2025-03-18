@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 3/18(화) 해외거주시 취득한 해외주식도 양도세를 내야하나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 제가 해외에서 근무한 적이 있어 당시 근무한 회사의 주식을 조금 가지고 있습니다. 다만 주식을 보유하고 있는 계좌가 한국에 있는 증권사가 아닌 해외에 있는 증권사여서 매도를 원하는 경우, 매도 후 금액을 제가 직접 한국으로 송금해야 합니다. 그렇게 주식을 처분해서 송금 받은 경우에도 해외주식 거래에 따른 양도세 대상이 되는 걸까요? 그리고 해외 계좌이기 때문에 국내에서는 매수, 매도금액에 대한 조회가 어려운데, 제가 직접 계산해서 양도세를 다음해 5월에 납부해야하는 건지요? 금액은 크지 않지만, 오래된 주식이고 여러 번에 걸쳐 매수되었고, 또 배당금액도 있다보니 적절한 환율을 적용해서 잘 계산할 엄두가 안 납니다. 이런 경우 조금이라도 손쉽게 양도세를 계산할 수 있는 방법이 있는지 알고 싶습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250318.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250318.mp3</guid>
+      <pubDate>Tue, 18 Mar 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 3/18(화) 中 내수부양책 | 삼성 위기론 대응 | 해외부동산 투자 ↑</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27320,23 +27330,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230510.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230510.mp3</guid>
       <pubDate>Wed, 10 May 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 5/10(수) 한국 부동산의 미래는 일본이다?.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-역시나 박정호 시즌 Ⅱ
-한국 부동산의 미래는 일본이다?
-- 오승훈 아나운서
-
-2) 
-억울한 경제
-형제간 상속 분쟁, 어떻게 해결할까
-- 조세영 변호사]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230510.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230510.mp3</guid>
-      <pubDate>Wed, 10 May 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
