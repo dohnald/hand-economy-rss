@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 3/19(수) 투자 중인 채권이 부도가 나면 어떻게 되나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 현재 예적금 금리가 너무 낮아 단기자금을 투자기간 대비 금리가 더 높은 장외채권에 투자 하고 있습니다. 채권의 신용등급과 위험 정도 등을 감안해서 투자하고 있지만, 가끔 채권만기일에 상환이 늦게 이뤄지는 경우도 있다고 들어서, 혹시나 투자하고 있는 채권이 만기에 상환되지 않으면 어쩌나 하는 생각이 든 적이 몇 번 있습니다. 
+채권은 발행회사가 망하지만 않으면 상환 받을 수 있다는 이야기를 들었는데요, 혹시 채권만기일에 상환이 이루어지지 않으면 무슨 일이 일어나는지, 채권 투자자금 회수는 어떤 방식으로 진행되는지 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250319.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250319.mp3</guid>
+      <pubDate>Wed, 19 Mar 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 3/19(수) 위기의 한국 경제, 정책적 해법 있을까? (김동연 경기도지사) </title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27307,19 +27318,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230511.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230511.mp3</guid>
       <pubDate>Thu, 11 May 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 5/11(목) 저축은행 위기설.. 9년만에 적자 기록할듯.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 미국 소비자물가 4.9% 상승 
- 2. 저축은행 위기설.. 9년만에 적자 기록할듯
- 3. 보험사들이 보장 만기 늘리는 이유
-
-출연: 김현우 소장, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230511.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230511.mp3</guid>
-      <pubDate>Thu, 11 May 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
