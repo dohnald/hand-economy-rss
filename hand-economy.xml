@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 3/19(수) 위기의 한국 경제, 정책적 해법 있을까? (김동연 경기도지사) </title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[이슈 인터뷰]
+위기의 한국 경제, 정책적 해법 있을까?
+w. 김동연 경기도지사]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250319.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250319.mp3</guid>
+      <pubDate>Wed, 19 Mar 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/18(화) 전 세계 금값이 날뛰는 이유 (박종훈 박사)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27309,25 +27320,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230511.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230511.mp3</guid>
       <pubDate>Thu, 11 May 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>협찬인가 - 치즈 탐험 신비의 세계</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[다양한 산업과 직업의 속이야기를 파헤쳐보는 (이것은 협찬인가 콘텐츠인가)
- 
-이번 화의 주인공은 치즈와 수제소스 전문점 '디어 마이 치즈'의 표나래 대표님 입니다.
-
-중국어 강사 출신이지만, 지금은 치즈 전문가인 대표님이 엄선한! 유럽의 고소한 치즈를 품은 곳입니다.
-
-경기도 김포시 장기동 오프라인 매장에 방문하면 치즈뿐 아니라 바질 페스토, 각종 파스타 소스, 드라이에이징 스테이크 등등을 만나 볼 수 있습니다.
-
-스마트스토어(디어마이치즈), 인스타그램(dear_my_cheese), 전화(070-8691-2991) 로 문의 및 주문 가능합니다.
-
-(이것은 협찬인가 콘텐츠인가) 출연 문의는 hand-economy@naver.com 입니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230510(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230510(1).mp3</guid>
-      <pubDate>Wed, 10 May 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
