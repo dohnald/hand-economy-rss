@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (4부) 어예진이 날아다닙니다</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (4부) 어예진이 날아다닙니다]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250321_444.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250321_444.mp3</guid>
+      <pubDate>Fri, 21 Mar 2025 18:04:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (3부) 진우의 네메시스</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (3부) 진우의 네메시스]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250321_333.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250321_333.mp3</guid>
+      <pubDate>Fri, 21 Mar 2025 18:03:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (2부) 말줄임표는 없다</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27263,37 +27281,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230516.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230516.mp3</guid>
       <pubDate>Tue, 16 May 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 5/15(월) 임차인이 새 임차인과 임의로 계약했다면..?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요! 늘 다른 청취자의 사연을 들으면서, 아~ 이런 일도 있구나! 했는데, 갑자기 제가 황당한 일을 당해 이렇게 글을 남깁니다. 저는 상가를 임대해주고 있는 중인데요, 2020년 9월부터 작년 9월까지 계약기간이었고, 계약이 끝날 때 쯤 다시 제가 요청해서 2년간의 연장계약서를 작성했습니다. 그런데 지난 5월 9일에 평소 연락이 없던 임차인에게서 전화가 왔습니다. 자기가 새로운 임차인을 구했다며 계약서를 다시 쓰자고 하더라구요. 뜬금없는 이야기라 그게 무슨 말이냐며 되물었더니, 자신이 운영하는 매장을 다른 사람에게 넘기겠다는 이야기를 평소 주위 사람들에게 했는데, 그러다 매장을 넘겨 받겠다는 사람을 구했다는 겁니다. 그러면서 이번 주 금요일에 자기들끼리 계약서를 쓰기로 했다길래, 저는 일을 하고 있으니 주말에 얘기하자고 했습니다. 
-
-새로운 임차인이 어떤 사람인지, 무슨 영업을 할지 전혀 모르는 상태에서 무작정 급하게 계약을 해야 하는 상황이 된 것 같아 불안합니다. 새로운 임차인이 마음에 안 들더라도 그대로 받아들여야 하는 걸까요?
-예전에 다른 임차인이 월세를 체납해서 명도소송까지 간 적도 있었는데, 그때 승소판결을 받기까지 1년의 시간을 소비하였습니다. 이제는 그런 일이 없었으면 하는 마음인데, 어떻게 해야 할까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230515(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230515(1).mp3</guid>
-      <pubDate>Mon, 15 May 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 5/15(월) 물가 정상화, 언제 돌아올까? .. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-증시 열렸다
-물가 정상화, 언제 돌아올까? 
-- 정광우 대표
-
-2)
-신기방기 레드칩
-워렌 버핏의 회사, 버크셔 해서웨이
-- 신기주 부대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230515(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230515(1).mp3</guid>
-      <pubDate>Mon, 15 May 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
