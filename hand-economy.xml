@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (2부) 말줄임표는 없다</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (2부) 말줄임표는 없다]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250321_222.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250321_222.mp3</guid>
+      <pubDate>Fri, 21 Mar 2025 18:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (1부) 폭싹 빠졌수다</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (1부) 폭싹 빠졌수다]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250321_111.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250321_111.mp3</guid>
+      <pubDate>Fri, 21 Mar 2025 18:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 3/21(금) 노란우산공제를 해약했는데 건보료가 올랐습니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27276,36 +27294,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230515(1).mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230515(1).mp3</guid>
       <pubDate>Mon, 15 May 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 5/15(월) 삼성페이 유료화 첫 단계 돌입.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 삼성페이 유료화 첫 단계 돌입
-2. ‘추방정책’ 사라지니 이민자 몰려드는 미국
-
-출연: 안승찬 기자, 양효걸 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230515.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230515.mp3</guid>
-      <pubDate>Mon, 15 May 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 5/14(일) 베이징은 어떻게 중국의 수도가 되었을까?.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-주간 손경제 플러스: 이과식 경제
-모기, 박멸할 수 있을까?
-- 이독실 과학평론가
-
-2)
-지리(地理)는 경제다
-베이징은 어떻게 중국의 수도가 되었을까?
-- 한영준 기자
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230521.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230521.mp3</guid>
-      <pubDate>Sun, 14 May 2023 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
