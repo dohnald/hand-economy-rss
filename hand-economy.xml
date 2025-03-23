@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/22(토) 미국은 어떻게 우주를 독점하고 있을까? (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+미국은 어떻게 우주를 독점하고 있을까?
+- 박정호 명지대 교수
+w. 오승훈 아나운서
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250322.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250322.mp3</guid>
+      <pubDate>Sat, 22 Mar 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/21(금) 공중전화의 역사 (이종훈 작가) | 차이나쇼크 | 일본 쌀값 | 30억의 비만 (어예진 소장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27266,23 +27280,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230516.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230516.mp3</guid>
       <pubDate>Tue, 16 May 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 5/16(화) 그 많던 공룡은 다 어디로 갔을까?.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-이과식 경제
-그 많던 공룡은 다 어디로 갔을까?
-- 이독실 과학평론가
-
-2) 
-키워드 경제
-구글 '바드'가 한국어를 선택한 이유
-- 김덕진 소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230516.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230516.mp3</guid>
-      <pubDate>Tue, 16 May 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
