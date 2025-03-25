@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 3/25(화) 신혼부부 전세보증금 이자지원을 받고 싶어요</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 현재 전세로 거주하고 있는 신혼부부입니다. 서울시의 신혼부부 이자지원을 받으려고 하다가 궁금한 점이 생겼습니다. 예를 들어 제 돈이 3억이고 전세대출이 3억 4천만 원이라면, 전세대출금 중 5천만 원 정도를 일부상환하면 서울시 신혼부부 이자지원 커트라인인 3억 안으로 될 것 같아서요. 여기서 궁금한 것은 이렇게 전세대출을 일부 상환하면, 나중에 임대인에게 전세금을 돌려받을 때 제가 입금한 3억 원은 직접 임대인에게 받을 수 있지만, 대출금은 임대인이 은행에 입금할텐데 은행에서 정산 후에 제가 일부상환한 금액을 저에게 입금해주는 건가요? 또 이렇게 일부상환한 후에 서울시 신혼부부 이자지원 취급한도 3억 원 이내로 들어오면 지원대상이 가능한지도 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250325.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250325.mp3</guid>
+      <pubDate>Tue, 25 Mar 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 3/25(화) 현대차 美투자 | 비과세 배당 | 연금 운용 | 美에그플레이션 여파 | 디지털화폐</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27269,19 +27279,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230518.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230518.mp3</guid>
       <pubDate>Thu, 18 May 2023 11:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 5/18(목) 내달부터 ‘약 배송 없는’ 비대면 진료 시행.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 내달부터 ‘약 배송 없는’ 비대면 진료 시행
- 2. 법원, 임금피크제 또 ‘무효’ 판결 
- 3. EU, 대한항공-아시아나 합병에 '경쟁제한 우려'
- 
-출연: 김현우 소장, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230518.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230518.mp3</guid>
-      <pubDate>Thu, 18 May 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
