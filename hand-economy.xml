@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 3/27(목) 이진우의 손에 잡히는 경제</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250327(1).mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250327(1).mp3</guid>
+      <pubDate>Thu, 27 Mar 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/26(수) K뷰티의 진짜 리더는? (박종대 연구원) | 정자에 숨겨진 비밀 (이창욱 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27250,24 +27259,6 @@ Q&A 타임: 무엇이든 물어보세요!
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230519_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230519_1.mp3</guid>
       <pubDate>Fri, 19 May 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 5/19(금) 요양보호사 자격증 취득 후 가족요양급여 관련 질문</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-부모님을 직접 간병해야할 시기가 올 것 같아 알아보다가 궁금한 부분이 있어 질문드립니다.
-현재 저희 아버지는 중증장애가 있으셔서 간병인을 쓰고 계시고, 동시에 어머니도 간병을 함께 돕고 계십니다.
-제가 요양보호사 자격증을 취득해서 부모님을 간병하면 매달 가족요양급여란 걸 받는 것으로 알고 있는데요, 
-만약에 제가 민간 보험사에 간병보험을 가입하면, 보험사의 간병보험금과 가족요양급여를 동시에 중복으로 받을 수 있을까요? 
-
-그리고 혹시나 어머니도 간병을 받으셔야 할 상황이 생겼을 때, 제가 어머니를 간병한다고 하면 현재 나라에서 지원받는 아버지쪽 간병인제도도 계속 활용할 수 있는지 궁금합니다.
-
-또, 가족요양급여를 받으려면 160시간 미만 근무를 해야 한다고 하던데, 근무시간이란 건 뭘 기준으로 보고 어떻게 증빙할 수 있는지도 알려주세요~]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230519.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230519.mp3</guid>
-      <pubDate>Fri, 19 May 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
