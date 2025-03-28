@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 3/28(금) 배당금을 많이 주는 비트코인ETF, 괜찮을까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 작년부터 미국 ETF를 사모으고 있었는데 비트코인과 관련된 ETF 종목을 발견하고 이상한 점이 있어 문의 드립니다. 해당 ETF의 소개를 보면, 비트코인 선물을 커버드콜 전략으로 투자하는 상품이라는데, 정작 종목 자체의 가격은 비트코인처럼 급격하게 상승하진 않았고, 대신 배당금을 50%가까이 나눠줬더라구요. 비트코인의 상승분을 배당금으로 줘서 그런건가요?  또, 기존에는 매달 배당금을 지급하다가 올해부터는 매주 배당으로 바뀌었는데, 월 배당이던 24년보다 배당률이 더 올라서 오히려 투자하기가 망설여집니다. 이런 종목은 어떤 위험이 있는걸까요? 수익률이 매우 높으니 위험도 그만큼 클 것 같은데 자세히 알아보고 투자하려고 합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250328.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250328.mp3</guid>
+      <pubDate>Fri, 28 Mar 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 3/28(금) 발란 미정산 | 현대제철 셧다운 | 우체국 은행대리업</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27253,19 +27263,6 @@ Q&A 타임: 무엇이든 물어보세요!
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230522.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230522.mp3</guid>
       <pubDate>Mon, 22 May 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 5/22(월) 위헌 심판대 오른 유류분 공방.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 위헌 심판대 오른 유류분 공방
-2. 새 회계기준 도입 후 보험사들 ‘역대급 실적’
- +친절한 경제
-
-출연: 안승찬 기자, 양효걸 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230522.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230522.mp3</guid>
-      <pubDate>Mon, 22 May 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
