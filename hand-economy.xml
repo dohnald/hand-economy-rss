@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - LAST DANCE 2</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - LAST DANCE 2]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250328_2222.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250328_2222.mp3</guid>
+      <pubDate>Fri, 28 Mar 2025 23:13:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - LAST DANCE 1</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - LAST DANCE 1]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250328_1111.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250328_1111.mp3</guid>
+      <pubDate>Fri, 28 Mar 2025 23:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>협찬인가 - 염소는 불끈, 대표님은 발끈</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27253,31 +27271,6 @@ Q&A 타임: 무엇이든 물어보세요!
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230523.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230523.mp3</guid>
       <pubDate>Tue, 23 May 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 5/23(화) 세수 펑크에도 지방 교육재정은 남아돈다?..외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 2차전지 역수입 급증.. 무역수지 적자 지속
-2. 세수 펑크에도 지방 교육재정은 남아돈다?
-3. 미·중 반도체 전쟁 재점화.. K-반도체 향방은?
-
-출연: 양효걸 기자, 남궁민 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230523.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230523.mp3</guid>
-      <pubDate>Tue, 23 May 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 5/22(월) 연대보증 섰다가 집에 가압류가 걸렸습니다..</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 아주 오래 전 해주었던 연대보증 문제 때문에 사연 보냅니다.
-지금으로부터 10년도 더 지난 때쯤에 친척이 하는 부동산사업에 대한 연대보증을 부탁 받았습니다. 자세한 내용도 모른 상태로 그저 사업은 잘 될 것이고, 문제 될 거 없다는 말에 연대보증을 해주었습니다. 그 친척을 포함해서 5억원의 빚에 대해 10명이 연대보증인으로 되어있었는데, 2011년 5월에 갑자기 소송이 들어오더니 제 명의로 되어 있는 집에 가압류가 걸렸습니다. 제가 빌려 쓴 돈도 아닌데 갚아야하는지.. 지금까지도 걸려있는 가압류를 풀 수 있는 방법은 없는지 궁금합니다. 10년이 넘었는데도 집은 여전히 가압류상태이라서 팔수도 없고 답답하네요. 어떡해야 할까요? 보증 서달라던 친척은 현재 나몰라라하고 있습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230522.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230522.mp3</guid>
-      <pubDate>Mon, 22 May 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
