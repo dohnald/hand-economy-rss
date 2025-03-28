@@ -16,6 +16,31 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 3/28(금) 발란 미정산 | 현대제철 셧다운 | 우체국 은행대리업</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 발란, 정산금 밀렸다.. 티메프 사태와 유사
+2) 현대제철, 인천공장 한 달간 멈춘다.. 불황에 극약처방
+3) 우체국도 곧 은행 업무한다.. 금융소외계층 지원 ↑
+- 안승찬 언더스탠딩 기자
+- 박세훈 작가
+- 김현우 행복자산관리연구소 소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250328.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250328.mp3</guid>
+      <pubDate>Fri, 28 Mar 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 3/27(목) 유럽은 이제 다시는 러시아에 의존하지 않을 겁니다 (서병수 애널리스트)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[유럽의 새 에너지 수급처, 흑해
+- 서병수 애널리스트]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250327.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250327.mp3</guid>
+      <pubDate>Thu, 27 Mar 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 3/27(목) 신혼부부인데 집을 사는게 좋을까요, 전세가 좋을까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27241,32 +27266,6 @@ Q&A 타임: 무엇이든 물어보세요!
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230522.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230522.mp3</guid>
       <pubDate>Mon, 22 May 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 5/21(일) 중국과 몽골, 그 애증의 역사.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-주간 손경제 플러스: 책크리스트
-내러티브&넘버스
-- 김치형 경제뉴스큐레이터
-
-2) 
-지리(地理)는 경제사(史)
-중국과 몽골, 그 애증의 역사
-- 한영준 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230521(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230521(1).mp3</guid>
-      <pubDate>Sun, 21 May 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 그냥 민망해서 그랬어..</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230519_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230519_2.mp3</guid>
-      <pubDate>Fri, 19 May 2023 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
