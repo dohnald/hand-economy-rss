@@ -29,15 +29,6 @@ w. 오승훈 아나운서]]></description>
       <pubDate>Sat, 29 Mar 2025 20:05:00 +0900</pubDate>
     </item>
     <item>
-      <title>커피타임 - LAST DANCE 2</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - LAST DANCE 2]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250328_2222.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250328_2222.mp3</guid>
-      <pubDate>Fri, 28 Mar 2025 23:13:00 +0900</pubDate>
-    </item>
-    <item>
       <title>커피타임 - LAST DANCE 1</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27267,6 +27258,22 @@ Q&A 타임: 무엇이든 물어보세요!
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230524.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230524.mp3</guid>
       <pubDate>Wed, 24 May 2023 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[상담소] 5/23(화) 퇴직연금 중간정산 관련 질문</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 상담]
+
+안녕하세요. 오는 8월에 새로운 전셋집으로 이사를 하게 되었습니다
+저는 현재 아내와 함께 같은 회사에 재직 중인 상황인데요, 부족한 전세자금 마련을 목적으로 아내와 저 모두 이번에 퇴직연금 중간정산을 하려고 생각 중입니다.
+
+현재 아내 명의로 주택이 하나 있는 상태이고, 이 주택을 구입할 때 아내는 퇴직연금 중간정산을 이미 한 번 했었습니다. 그리고 새로 이사하려는 전셋집은 제 이름으로 계약을 할 계획입니다.
+
+이런 상황에서 아내와 저 둘 다 퇴직연금 중간정산을 통해 전세자금 마련이 가능할까요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230523.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230523.mp3</guid>
+      <pubDate>Tue, 23 May 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
