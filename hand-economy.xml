@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/31(월) 진화한 챗GPT 이미지 (김덕진 소장) | 한국 문화재를 지킨 재력가 (김재원 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+진화한 챗GPT 이미지
+- 김덕진 IT커뮤니케이션 연구소장
+
+2부
+[역사의 재원쌤]
+한국 문화재를 지킨 재력가
+- 김재원 역사커뮤니케이터 (가톨릭대 겸임교수)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250331.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250331.mp3</guid>
+      <pubDate>Mon, 31 Mar 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 3/31(월) 배당금을 많이 주는 비트코인ETF, 괜찮을까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27253,20 +27270,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230525.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230525.mp3</guid>
       <pubDate>Thu, 25 May 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 5/24(수) 단기알바도 종합소득세 신고를 해야 하나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 저는 사회초년생인데요, 소득세 신고와 관련해서 궁금한 점이 있어 질문 남깁니다.
-작년 4월에 4대보험이 적용되던 회사를 퇴사하고 나서 두 달 정도 쉬다가, 7월에는 4대보험이 포함되지 않는 단기 아르바이트를 한 달 했습니다. 그리고 쭉 무직으로 있다가 올해 2월 정도에 4대보험이 적용되는 새로운 직장에 취업해서 지금도 다니고 있습니다. 
-
-이럴 경우에 작년에 했던 짧은 단기 알바도 종합소득세 신고를 해야 하나요? 아니면 소득이 얼마 되지 않는 단기 알바는 신고를 안 해도 상관 없는 건가요? 그간 사용한 카드 지출 내역있으면 그것 때문이라도 신고를 해야 좋은 건지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230524.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230524.mp3</guid>
-      <pubDate>Wed, 24 May 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
