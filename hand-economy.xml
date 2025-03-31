@@ -16,6 +16,35 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 3/31(월) 10조 추경 카드 | 공매도 전면 재개 | 미중 최혜국 갈등</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 정부 “10조원 필수추경 추진”.. 입장 갈린 여야
+2) 공매도, 오늘부터 전면 재개.. 유의 사항은?
+3) 美, 中최혜국 지위 박탈할까.. 중국도 반격 예고
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자
+
+[친절한 경제]
+금을 안전자산이라고
+부르는 이유가 뭔가요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250331.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250331.mp3</guid>
+      <pubDate>Mon, 31 Mar 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 3/30(일) 일론 머스크의 캐시카우는 스타링크입니다 (강원석 이사)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+일론 머스크의 캐시카우는 스타링크입니다
+- 강원석 스페이스 빔 이사]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250330.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250330.mp3</guid>
+      <pubDate>Sun, 30 Mar 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/29(토) 러시아가 위성 기술을 회복하고 있습니다 (박정호 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27245,35 +27274,6 @@ Q&A 타임: 무엇이든 물어보세요!
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230524.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230524.mp3</guid>
       <pubDate>Wed, 24 May 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 5/24(수) 가계부채 역대 최대폭 감소.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 가계부채 역대 최대폭 감소
- 2. 대우조선 간판 내리고, ‘한화오션’ 출범
- 3. 테슬라 인도 전기차공장, 끝내 무산
-
-출연: 양효걸 기자, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230524.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230524.mp3</guid>
-      <pubDate>Wed, 24 May 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 5/23(화) 퇴직연금 중간정산 관련 질문</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 오는 8월에 새로운 전셋집으로 이사를 하게 되었습니다
-저는 현재 아내와 함께 같은 회사에 재직 중인 상황인데요, 부족한 전세자금 마련을 목적으로 아내와 저 모두 이번에 퇴직연금 중간정산을 하려고 생각 중입니다.
-
-현재 아내 명의로 주택이 하나 있는 상태이고, 이 주택을 구입할 때 아내는 퇴직연금 중간정산을 이미 한 번 했었습니다. 그리고 새로 이사하려는 전셋집은 제 이름으로 계약을 할 계획입니다.
-
-이런 상황에서 아내와 저 둘 다 퇴직연금 중간정산을 통해 전세자금 마련이 가능할까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230523.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230523.mp3</guid>
-      <pubDate>Tue, 23 May 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
