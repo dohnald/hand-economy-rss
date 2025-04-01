@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/1(화) 보험 판매수수료 | 美 상호관세 우려 | 밸류업 딜레마</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 개편 앞둔 보험 판매수수료.. 업계 반발 이유는?
+2) 美 상호관세 우려에 하락장 지속.. 韓 충격은 더 ↑
+3) 중소기업, 대출길 막혔다.. 원인은 밸류업 딜레마
+- 김치형 경제뉴스 큐레이터
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250401.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250401.mp3</guid>
+      <pubDate>Tue, 01 Apr 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/31(월) 진화한 챗GPT 이미지 (김덕진 소장) | 한국 문화재를 지킨 재력가 (김재원 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -83,6 +98,15 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250329.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250329.mp3</guid>
       <pubDate>Sat, 29 Mar 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - LAST DANCE 2</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - LAST DANCE 2]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250328_2222.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250328_2222.mp3</guid>
+      <pubDate>Fri, 28 Mar 2025 23:13:00 +0900</pubDate>
     </item>
     <item>
       <title>커피타임 - LAST DANCE 1</title>
@@ -27240,36 +27264,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230525.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230525.mp3</guid>
       <pubDate>Thu, 25 May 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 5/25(목) 일본 지방소멸의 현주소.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-역시나 박정호 시즌 Ⅱ
-일본 지방소멸의 현주소
-- 오승훈 아나운서
-
-2)
-책크리스트
-타인의 고통 + 호모 엠파티쿠스가 온다
-- 장동석 출판평론가 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230525.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230525.mp3</guid>
-      <pubDate>Thu, 25 May 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 5/25(목) 전세사기 특별법, 국회 통과 임박.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 전세사기 특별법, 국회 통과 임박
- 2. 공정위, ‘5G 과장광고’ 통신사에 ‘과징금 300억’
- 3. 사라진 꿀벌 이어 ‘아까시 나무’도 자취 감춘다
-
-출연: 김현우 소장, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230525.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230525.mp3</guid>
-      <pubDate>Thu, 25 May 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
