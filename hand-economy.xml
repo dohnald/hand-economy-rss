@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (2부) 잠시만 안녕 [끝]</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (2부) 잠시만 안녕 [끝]]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250404_222.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250404_222.mp3</guid>
+      <pubDate>Fri, 04 Apr 2025 16:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (1부) 한번 더 이별</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (1부) 한번 더 이별
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250404_111.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250404_111.mp3</guid>
+      <pubDate>Fri, 04 Apr 2025 16:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 4/4(금) 美상호관세 논란 | 유료방송 생존전략 | 흑자 스타트업</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27211,36 +27230,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230530.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230530.mp3</guid>
       <pubDate>Tue, 30 May 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 5/30(화) ‘엔비디아’ 상승세, 뭐가 다르길래?.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-공부왕 이종훈
-음악 산업의 축복이자 재앙: 카세트테이프
-- 이종훈 작가
-
-2)
-키워드 경제
-'엔비디아' 상승세, 뭐가 다르길래?
-- 김덕진 소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230530.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230530.mp3</guid>
-      <pubDate>Tue, 30 May 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 5/30(화) 2년 긴축에도 가계빚 ‘세계 최고 수준’ .. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 2년 긴축에도 가계빚 ‘세계 최고 수준’ 
- 2. ‘디폴트 일단락’.. 미국, 부채한도 협상 합의
- 3. 선진국 유입 이민자수 역대 최대치
-
-출연: 양효걸 기자, 남궁민 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230530.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230530.mp3</guid>
-      <pubDate>Tue, 30 May 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
