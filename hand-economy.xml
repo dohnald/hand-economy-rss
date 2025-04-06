@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 4/5(토) 중국이 우주연합을 구축하려는 이유 (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+ 중국이 우주연합을 구축하려는 이유
+- 박정호 명지대 교수
+w. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250405.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250405.mp3</guid>
+      <pubDate>Sat, 05 Apr 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (2부) 잠시만 안녕 [끝]</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27215,21 +27228,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230531.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230531.mp3</guid>
       <pubDate>Wed, 31 May 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 5/30(화) 계약한지 10년 지난 상가, 추가 연장계획은?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 10년 전쯤, 부모님이 사시던 주택을 상가로 용도 변경하여 임대했습니다. 올해 8월이면 5년에 5년을 더해, 10년 임대 만기가 돌아옵니다. 
-2, 3년 뒤에는 건물을 허물고 주택을 새로 건축해서 임대할 계획을 갖고 있습니다.
-그런데 현재 임차인과 계약을 종료하고 상가를 비워두었다가 건축을 하면 별 문제가 없겠지만, 새로 건축을 할 시기가 명확히 정해지지 않아서 2~3년 정도 임대를 계속하려고 합니다.
-
-이런 상황에서, 기존 임차인과 1년 단위로 계약을 한다면 상가임대차 보호법에서 말하는 최소 기간 5년에 속하는 건 아닌지 궁금합니다. 또, 저희가 건물을 매도하거나 새로 건축을 하게 된다면, 현재 임차인의 권리금은 어떻게 되는 것인지도 알고 싶습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230530.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230530.mp3</guid>
-      <pubDate>Tue, 30 May 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
