@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/7(월) 반트럼프 시위 | K-보안업체 호실적 | 일본 온천수 부족</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美 전역, 반트럼프 시위 열려.. 中·유럽은 보복 준비
+2) K-보안업체들, 해외서 호실적 냈다.. 배경은?
+3) 日, 심야온천 막는다.. 관광객 급증에 물부족 걱정
+- 조미현 한국경제신문 기자
+- 정지서 연합인포맥스 기자
+
+[친절한 경제]
+인버스 ETF는 어떻게
+설계된 상품인가요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250407.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250407.mp3</guid>
+      <pubDate>Mon, 07 Apr 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/6(일) 식량주권의 핵심, 우리 종자산업의 미래는? (강병철 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27212,19 +27230,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230531.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230531.mp3</guid>
       <pubDate>Wed, 31 May 2023 11:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 5/31(수) 네덜란드가 ‘농업 강국’이라고?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1, 2)
-역시나 박정호 시즌 Ⅱ
-네덜란드가 ‘농업 강국’이라고?
-- 오승훈 아나운서
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230531.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230531.mp3</guid>
-      <pubDate>Wed, 31 May 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
