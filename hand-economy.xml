@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/8(화) 요동치는 세계 증시, 관세 패닉 계속될까?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[이슈 인터뷰]
+요동치는 세계 증시, 관세 패닉 계속될까?
+w. 김학균 전무 (신영증권 리서치 센터장)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250408.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250408.mp3</guid>
+      <pubDate>Tue, 08 Apr 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/8(화) AI에도 표준이 생깁니다 (김덕진 소장) | 조선 노비들에 대한 오해 (김재원 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27204,19 +27215,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230601.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230601.mp3</guid>
       <pubDate>Thu, 01 Jun 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 6/1(목) 중소기업 60%, 번 돈으로 대출이자도 못 낸다.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 중소기업 60%, 번 돈으로 대출이자도 못 낸다
-2. 넥슨 2대 주주 된 기획재정부, 무슨 일?
-3. 대학교 패싱하고 취업하는 미국 청년 늘어나
-
-출연: 김현우 소장, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230601.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230601.mp3</guid>
-      <pubDate>Thu, 01 Jun 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
