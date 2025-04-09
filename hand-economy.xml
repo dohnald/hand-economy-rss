@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/9(수) 한화에어로 유증 축소 | 한은 정년연장 반대</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 한화에어로, 유상증자 축소했다.. 승계 논란에 사과
+2) 한은, “정년연장 보단 퇴직 후 재고용”
+- 김치형 경제뉴스 큐레이터
+- 손석우 경제뉴스 큐레이터
+
+[친절한 경제]
+미국이 기축통화국을 유지하면서
+무역흑자도 낼 수 있나요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250409.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250409.mp3</guid>
+      <pubDate>Wed, 09 Apr 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/8(화) 산불을 막으려면 길이 필요합니다 (박영대 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27192,21 +27209,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230602.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230602.mp3</guid>
       <pubDate>Fri, 02 Jun 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 6/2(금) 공정위, 빅테크 갑질 막는 ‘온라인플랫폼법’ 추진.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1. 공정위, 빅테크 갑질 막는 ‘온라인플랫폼법’ 추진
- 2. 4세대 실손 갈아탔다가, 보험료 폭탄 맞을 수도
- 3. 제주도, 카센터 폐업 속출
-+ 친절한 경제
-
-출연: 김현우 소장, 이상은 기자, 박세훈 작가
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230602.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230602.mp3</guid>
-      <pubDate>Fri, 02 Jun 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
