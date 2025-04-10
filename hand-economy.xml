@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/10(목) 미중갈등과 환율·유가 | 자동차 산업 지원 | IMA 상품 도입</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 관세 90일 유예에 증시 폭등.. 환율·유가는 롤러코스터
+2) 정부 “자동차 산업에 긴급 지원”.. 전기차 보조금도 ↑
+3) 원금 손실 없는 ‘IMA 상품’ 나온다.. 내용은?
+- 박세훈 작가
+- 손석우 경제뉴스 큐레이터
+- 김현우 행복자산관리연구소 소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250410.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250410.mp3</guid>
+      <pubDate>Thu, 10 Apr 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/9(수) 트럼프 관세폭탄 맞은 자동차 (권용주 교수) | 맞춤형 치료의 시대가 옵니다 (김태희 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27191,15 +27206,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230602_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230602_2.mp3</guid>
       <pubDate>Fri, 02 Jun 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 고일대로 고였다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230602_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230602_1.mp3</guid>
-      <pubDate>Fri, 02 Jun 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
