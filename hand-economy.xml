@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (5부) 회장집과 사내 유치원 (끝)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (5부) 회장집과 사내 유치원 (끝)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250411_555.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250411_555.mp3</guid>
+      <pubDate>Fri, 11 Apr 2025 16:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (4부) 대통령 집무실</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (4부) 대통령 집무실]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250411_444.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250411_444.mp3</guid>
+      <pubDate>Fri, 11 Apr 2025 16:34:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (3부) 동경견문록</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27155,37 +27173,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230607.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230607.mp3</guid>
       <pubDate>Wed, 07 Jun 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 6/6(화) 자녀가 받은 상금, 종합소득세 신고를 해야 할까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 고등학생인 저희 딸이 작년에 대회에서 상금 50여 만원을 받았습니다.
-그런데 며칠 전에 국세청으로부터 종합소득세와 지방세 환급액 만 오천원 정도가 있으니 환급받으라는 우편을 받았습니다. 종합소득세 신고를 하고나면 환급을 받을 수 있다고 하더라구요.
-
-남편은 이걸 보더니, 환급액도 얼마 안 되는데 복잡하게 꼭 신고할 필요도 없고, 환급도 안 받으면 그만이라고 하는데요. 정말 신고를 안 해도 불이익은 없는 걸까요? ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230606.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230606.mp3</guid>
-      <pubDate>Tue, 06 Jun 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 6/6(화) '이직'의 시대 - 평생직장은 없다.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-공부왕 이종훈
-소니 vs 필립스, CD전쟁
-- 이종훈 작가
-
-2)
-키워드 경제
-'이직'의 시대 - 평생직장은 없다
-- 남궁민 뉴스큐레이터 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230606.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230606.mp3</guid>
-      <pubDate>Tue, 06 Jun 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
