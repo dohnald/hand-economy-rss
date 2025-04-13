@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 4/12(토) 트럼프가 던진 관세폭탄, 회수될 수 있을까?(박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+트럼프가 던진 관세폭탄, 회수될 수 있을까?
+- 박정호 명지대 교수
+w. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250412.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250412.mp3</guid>
+      <pubDate>Sat, 12 Apr 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/11(금) 한국인 주방의 역사 (이종훈 작가) | 일본 샐러리맨의 변심 | 美 레스토랑 파산 | 미국인 애국소비 (한경제 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27160,23 +27173,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230607.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230607.mp3</guid>
       <pubDate>Wed, 07 Jun 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 6/7(수) 첨단 산업의 작은 거인 - ‘룩셈부르크’.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-역시나 박정호 시즌 Ⅱ
-첨단 산업의 작은 거인 - ‘룩셈부르크’
-- 오승훈 아나운서
-
-2)
-억울한 경제
-흡연시간도 근로시간에 포함될까?
-- 장내석 노무사]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230607.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230607.mp3</guid>
-      <pubDate>Wed, 07 Jun 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
