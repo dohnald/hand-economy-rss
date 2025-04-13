@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 4/13(일) 이 시대에 필요한 리더십, 답은 역사에 있다 (임용한 박사)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+ 이 시대에 필요한 리더십, 답은 역사에 있다
+- 임용한 박사 (역사학자)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250413.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250413.mp3</guid>
+      <pubDate>Sun, 13 Apr 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/12(토) 트럼프가 던진 관세폭탄, 회수될 수 있을까?(박정호 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27161,18 +27172,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230607.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230607.mp3</guid>
       <pubDate>Wed, 07 Jun 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 6/7(수) 현금영수증 발급, 누구 명의로 할까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 저는 부모님이 자영업을 하고 계시는 사회초년생입니다.
-평소 마트나 식당을 가서 현금 결제를 하면 꼭 현금영수증을 발급받으려 하는데요, 제가 취업하기 전까지는 현금영수증을 발급 받을 때 부모님 사업자 번호를 눌러서 입력했습니다. 그런데 제가 직장을 다니고 나서부터는 제 연말정산도 신경을 써야 하는 것 같더라구요. 앞으로 현금을 쓰게 되면, 제 이름으로 현금영수증을 발급받는 것과, 부모님의 사업자번호를 입력하는 것 중 어떤 것이 더 유리한지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230607.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230607.mp3</guid>
-      <pubDate>Wed, 07 Jun 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
