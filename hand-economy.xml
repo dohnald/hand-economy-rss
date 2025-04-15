@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/15(화) 선박 탄소세 도입 | 주인 찾은 티몬 | 구글 지도 데이터</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1) IMO, 선박 탄소세 승인.. 韓 조선업계엔 호재
+2) 트럼프 “자동차 부품 관세, 시간 더 필요해”
+3) 오아시스, 티몬 인수한다.. 큐텐그룹 상황은?
+4) 구글, 또 지도 데이터 요청했다.. IT업계 긴장 ↑
+- 김치형 경제뉴스 큐레이터
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250415.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250415.mp3</guid>
+      <pubDate>Tue, 15 Apr 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/14(월) 엔비디아 위협하는 구글 AI칩 (김덕진 소장) | 신군부의 주택정책 (김재원 쌤)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27149,21 +27164,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230609.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230609.mp3</guid>
       <pubDate>Fri, 09 Jun 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 6/8(목) 분양계약 해지 위약금 관련 질문</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 분양아파트 계약 해지 위약금 관련 문의 드리려고 합니다.
-저는 미분양된 4억원짜리 아파트를, 계약금 5%인 2천만원만 내면 계약이 가능하다고 해서, 계약서를 작성하고 초기 계약금 500만원을 입금 한 뒤, 2주후에 1500만원을 더 보내주기로 하였습니다.
-그런데 자금적인 여유나 사정이 안 되어 계약 해지를 하고 싶다고 분양업자에 문의하니 해지는 안 된다고 하더라구요. 그리고 만약 끝까지 입금이 안 되면, 원 분양가 4억의 10%인 4천만원을 위약금으로 부담할 수 있다는 얘기까지 들었습니다. 현재 계약금 5%도 아직 다 넣지 않은 상태인데도 현재 정당계약 상태인가요? 
-
-이대로 계약금 잔금 1500만원을 입금 안하면 정말 4억의 10%인 4천만원을 부담하게 되는걸까요? 너무 답답해서 문의드립니다. 해결방법 좀 알려주세요..]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230608.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230608.mp3</guid>
-      <pubDate>Thu, 08 Jun 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
