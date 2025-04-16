@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 4/16(수) 중국이 희토류를 무기화 할 수 있는 진짜 이유 (김동환 원장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+중국이 희토류를 무기화 할 수 있는 진짜 이유
+- 김동환 국제 전략자원연구원 원장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250416.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250416.mp3</guid>
+      <pubDate>Wed, 16 Apr 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 4/16(수) 연장 계약을 할 때 부동산 중개 업소를 꼭 통해야 하나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27143,15 +27154,6 @@ MP3와 디지털 음원의 등장
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230611.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230611.mp3</guid>
       <pubDate>Sun, 11 Jun 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 수국에서 피어난 통찰</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230609_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230609_2.mp3</guid>
-      <pubDate>Fri, 09 Jun 2023 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
