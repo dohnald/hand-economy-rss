@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 4/21(월) ‘바이브 코딩’의 혁신 (김덕진 소장) | 서울 재개발의 명암 (김재원 쌤)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+‘바이브 코딩’의 혁신
+- 김덕진 IT커뮤니케이션 연구소장
+
+2부
+[역사의 재원쌤]
+서울 재개발의 명암
+- 김재원 역사커뮤니케이터 (가톨릭대 겸임교수)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250421.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250421.mp3</guid>
+      <pubDate>Mon, 21 Apr 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 4/21(월) 결혼한 딸에게 주택을 증여할 때 고려할 점은?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27098,27 +27115,6 @@ Q&A 타임: 휴일수당 어떻게 다 받을까?.. 외
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230616.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230616.mp3</guid>
       <pubDate>Fri, 16 Jun 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 6/16(금) 사상 초유의 반도체공장 '복붙 실패'.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-Review & Preview
-- Re : 반도체공장 복제 & 제 2의 주가조작?
-- Pre : 3분기 전기요금 & 부산 엑스포
-양효걸 기자
-
-2)
-글로벌 리포트
-- 독일 정부 사상 첫 국가안보전략 마련
-- 중국 기업에서 점점 돈 빼는 외국인
-- 인도로 몰려가는 글로벌 기업
-- 비욘세가 스웨덴의 5월 인플레 높였다?
-어예진 소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230616.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230616.mp3</guid>
-      <pubDate>Fri, 16 Jun 2023 11:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
