@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 4/22(화) 트럼프의 외교 정책, 세 가지에 핵심이 있습니다 (조한범 박사)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+트럼프의 외교 정책, 세 가지에 핵심이 있습니다
+- 조한범 박사 (통일연구원 석좌연구위원)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250422.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250422.mp3</guid>
+      <pubDate>Tue, 22 Apr 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 4/22(화) 무직이어도 버팀목 전세자금 대출을 연장할 수 있나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27109,15 +27120,6 @@ Q&A 타임: 휴일수당 어떻게 다 받을까?.. 외
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230616_3.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230616_3.mp3</guid>
       <pubDate>Fri, 16 Jun 2023 12:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 승찬쓰가 불러온 재앙</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230616_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230616_2.mp3</guid>
-      <pubDate>Fri, 16 Jun 2023 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
