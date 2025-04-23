@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 4/23(수) 정치 테마주의 운명 (김대종 교수) | 북극이 움직인다? (이창욱 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[주가 왜 이래]
+정치 테마주의 운명
+- 김대종 세종대 경영학과 교수
+
+2부
+[사이언스가 머니]
+북극이 움직인다?
+- 이창욱 과학동아 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250423.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250423.mp3</guid>
+      <pubDate>Wed, 23 Apr 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 4/23(수) 레버리지 인버스ETF에 투자했는데 수익률이 이상해요.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27109,19 +27126,6 @@ Q&A 타임: 휴일수당 어떻게 다 받을까?.. 외
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230619.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230619.mp3</guid>
       <pubDate>Mon, 19 Jun 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 6/19(월) '역대급 엔저'.. 한국 경제에는 악재.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. '역대급 엔저'.. 한국 경제에는 악재
-2. 중국, 18조 규모 '특별국채'로 경기부양 시도
-+ 친절한 경제
-
-출연: 안승찬 기자, 양효걸 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230619.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230619.mp3</guid>
-      <pubDate>Mon, 19 Jun 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
