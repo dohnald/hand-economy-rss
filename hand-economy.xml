@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/23(수) 트럼프 관세 발언 | MBK 탈세 의혹 | 中 희토류 제3자 수출 금지</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 트럼프 “대중 관세율 크게 낮아질 것”.. 발언 주목
+2) 국세청, MBK 탈세 혐의 조사한다.. 내용은?
+3) 中 “희토류 제품, 미국에 수출 말 것”.. 韓 충격도 ↑
+- 김치형 경제뉴스 큐레이터
+- 손석우 경제뉴스 큐레이터
+
+[친절한 경제]
+미국은 기축통화국인데
+왜 재정적자를 걱정하나요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250423.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250423.mp3</guid>
+      <pubDate>Wed, 23 Apr 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/22(화) 트럼프의 외교 정책, 세 가지에 핵심이 있습니다 (조한범 박사)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27111,15 +27129,6 @@ Q&A 타임: 휴일수당 어떻게 다 받을까?.. 외
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230618.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230618.mp3</guid>
       <pubDate>Sun, 18 Jun 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 김손상은 취재 중</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230616_3.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230616_3.mp3</guid>
-      <pubDate>Fri, 16 Jun 2023 12:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
