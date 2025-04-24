@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/24(목) 은행 점포폐쇄 제동 | 전력 직구제 | 상하이 모터쇼</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 政, 은행 점포폐쇄 절차 강화.. 딜레마 빠진 은행들
+2) 기업들 “한전 전기료 비싸”.. 전기 직접구매 나선다
+3) 차세대 배터리 선보인 중국..배터리 시장의 미래는?
+- 나수지 한국경제신문 기자
+- 손석우 경제뉴스 큐레이터
+- 신재근 한국경제TV 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250424.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250424.mp3</guid>
+      <pubDate>Thu, 24 Apr 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/23(수) 정치 테마주의 운명 (김대종 교수) | 북극이 움직인다? (이창욱 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27109,23 +27124,6 @@ Q&A 타임: 휴일수당 어떻게 다 받을까?.. 외
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230619.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230619.mp3</guid>
       <pubDate>Mon, 19 Jun 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 6/19(월) 예상 밖의 불황.. 중국 증시 향방은?.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-증시 열렸다
-예상 밖의 불황.. 중국 증시 향방은?
-- 정광우 대표
-
-2)
-신기방기 레드칩
-'사우디 파워'의 원천 - 아람코
-- 신기주 부대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230619.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230619.mp3</guid>
-      <pubDate>Mon, 19 Jun 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
