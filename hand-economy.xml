@@ -16,6 +16,33 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/25(금) 한국 경제 역성장 | 체코 원전 수주 | 임장비 추진 | 특별공급제 실효성</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 한국, 1분기 경제성장률 '-0.2%'.. 수출 위기 커진다
+2) 체코-한수원, 최종 계약만 남았다.. 원전 수주 기대감 ↑
+3) 공인중개사들 "집 보여줄 때 돈 받겠다".. 임장료 논란
+4) 수요-공급 안 맞는 특별공급 청약.. 제도 개선책은?
+- 박세훈 작가
+- 신재근 한국경제TV 기자
+- 김현우 행복자산관리연구소 소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250425.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250425.mp3</guid>
+      <pubDate>Fri, 25 Apr 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 4/24(목) 관세협상 포문 연 일본의 상황은? (이기태 박사)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+관세협상 포문 연 일본의 상황은?
+- 이기태 박사 (세종연구소 선임연구위원)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250424.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250424.mp3</guid>
+      <pubDate>Thu, 24 Apr 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 4/24(목) 양도소득세 신고시 경비로 인정받을 수 있는 항목은?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27089,37 +27116,6 @@ Q&A 타임: 휴일수당 어떻게 다 받을까?.. 외
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230620.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230620.mp3</guid>
       <pubDate>Tue, 20 Jun 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 6/20(화) 국가가 소금을 독점해야 했던 이유.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-공부왕 이종훈
-국가가 소금을 독점해야 했던 이유
-- 이종훈 작가
-
-2)
-키워드 경제
-한국인의 '해외여행' 사랑 
-- 남궁민 뉴스큐레이터 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230620.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230620.mp3</guid>
-      <pubDate>Tue, 20 Jun 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 6/20(화) 밀 가격 내렸는데, 라면 값은 왜 안 내리나?.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 밀 가격 내렸는데, 라면 값은 왜 안 내리나?
-2. 유럽 천연가스 가격 또 급등
-3. 미국, 이스라엘에 반도체 32조 투자
-4. 일본 반도체, 러시아 대량 불법유입
-
-출연: 양효걸 기자, 남궁민 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230620.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230620.mp3</guid>
-      <pubDate>Tue, 20 Jun 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
