@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 4/27(일) 미국 빅테크는 어떤 인재들을 뽑을까? (신재은 대표)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+미국 빅테크는 어떤 인재들을 뽑을까?
+- 신재은 대표 (‘실리콘밸리 프로세스의 힘’ 저자)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250427.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250427.mp3</guid>
+      <pubDate>Sun, 27 Apr 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/26(토) 노르웨이가 안보를 걱정하기 시작했습니다 (박정호 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27100,22 +27111,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230623.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230623.mp3</guid>
       <pubDate>Fri, 23 Jun 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 6/23(금) 업종별 최저임금 차등적용안 부결.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 업종별 최저임금 차등적용안 부결
-2. 임차권 등기, 앞으로 수월해진다
-3. 2027년부터 국민연금 적자 전환 전망
-4. 영국 기준금리, 금융위기 이후 최고수준
-5. 현물 ETF 상장 전망에 비트코인 다시 급등
-+친절한 경제
-
-출연: 김현우 소장, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230623.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230623.mp3</guid>
-      <pubDate>Fri, 23 Jun 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
