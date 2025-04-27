@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 4/26(토) 노르웨이가 안보를 걱정하기 시작했습니다 (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+노르웨이가 안보를 걱정하기 시작했습니다
+- 박정호 명지대 교수
+w. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250426.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250426.mp3</guid>
+      <pubDate>Sat, 26 Apr 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (3부) 일단 시작하면 짧게는 못해요</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27103,21 +27116,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230623.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230623.mp3</guid>
       <pubDate>Fri, 23 Jun 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 6/22(목) 투잡으로 창업할 때 고려할 점 알려주세요!</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 소개]
-
-안녕하세요? 저희는 둘 다 직장을 다니고 있는 맞벌이 부부입니다.
-요즘 무인샵이 유행이라 투잡으로 무인샵을 해볼 생각으로 알아보는 중인데요, 처음으로 개인사업자를 하려다보니 공부할 게 많네요. 저는 연봉 6천만 원 정도에 앞으로 20년은 이 직장을 계속 다니다가 은퇴할듯하고, 아내는 연봉 2500만 원 정도에 얼마나 길게 일할지는 불확실한 상태입니다.
-
-종합소득세 때문에 아내 명의로 사업자를 낼까 하다가, 아내가 회사를 그만두게 되면 건강보험이 지역가입자로 전환되어 보험료가 많이 나올까 걱정도 됩니다. 어떻게 하는 게 유리할까요?
-직장인이 사업자를 내서 투 잡을 할 때 유의해야 할 점, 그리고 개인사업자를 처음 낼 때 알아두면 좋을 꿀팁도 알려주세요.!]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230622.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230622.mp3</guid>
-      <pubDate>Thu, 22 Jun 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
