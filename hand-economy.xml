@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 4/28(월) 세액공제 상품과 공제회 중 무엇을 해야 할까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요? 이번에 연말정산을 해보니 고민이 생겨 문의 드립니다. 저는 공무원으로 재직 중인 미혼 40대 여성으로, 기존에 연금저축보험에 20만 원씩 10년간 완납하였고, 현재는 공무원 행정공제회에 노후자금 목적으로 70만 원씩 저축하고 있습니다. 행정공제회가 다른 연금이나 노후대비 상품보다 나을 것 같아 유지 중인데, 이번에 주변 사람들이 연말정산으로 환급 받은 금액을 보니 고민이 됩니다. 저는 미혼이라 인적공제 대상이 없다보니 연말정산 환급금이 거의 0원에 가까워서요. 이런 경우 IRP를 가입해서 한 달에 50~60만 원 정도를 납입하는 것이 좋은지, 아니면 행정공제만을 유지하는 것이 괜찮은지 알고 싶습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250428.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250428.mp3</guid>
+      <pubDate>Mon, 28 Apr 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 4/28(월) SKT 해킹 파장 | 프랜차이즈 차액가맹금</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27095,20 +27105,6 @@ MSG는 죄가 없다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230623_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230623_1.mp3</guid>
       <pubDate>Fri, 23 Jun 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 6/23(금) 임대차보호법 위반한 집주인이 사망했을 때 손해배상은?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 저는 2019년 9월에 전셋집을 계약해 살다가, 2021년에 만기가 되면서 연장을 하고 싶었지만, 임대인의 부인께서 전화로 자기의 아들이 들어올 예정이라며 이사를 요구했습니다. 어쩔 수 없이 2021년 10월에 2억 원의 대출을 받아 근처로 이사를 가게 됐습니다. 
-그런데 집주인 아들이 입주한다던 집은 계속 불이 꺼진 채였고, 이사를 마친 다음 달, 그 집이 매매로 부동산 사이트에 올라온 것을 봤습니다. 그리고 올해 2월에는 전세계약을 한 것도 확인했습니다. 임대차조정위원회를 통해 손해배상을 요구했지만, 임대인 측에서 응하지 않겠다 합니다.
-
-이럴 때는 민사소송밖에 없다고 하는데요, 언제인지 모르나 집주인은 병환으로 사망했고 상속은 부인과 아들이 받았습니다. 이런 경우 임대인은 사망했는데 손해배상 소송이 가능한지요? 변호사를 선임하면 비용도 많이 들고 기간도 오래 걸린다고 들었는데요, 변호사를 통하지 않고도 소송이 가능한지도 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230623.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230623.mp3</guid>
-      <pubDate>Fri, 23 Jun 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
