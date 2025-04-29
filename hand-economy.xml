@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 4/29(화) AI 기업들이 일본으로 몰리고 있습니다 (서병수 위원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+AI 기업들이 일본으로 몰리고 있습니다
+- 서병수 애널리스트]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250429.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250429.mp3</guid>
+      <pubDate>Tue, 29 Apr 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 4/29(화) 부모님께 생활비를 드리는 것도 증여세를 내야 하나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27100,18 +27111,6 @@ MSG는 죄가 없다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230626.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230626.mp3</guid>
       <pubDate>Mon, 26 Jun 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 6/26(월) 예금보호한도 ‘1억’으로 상향조정 추진.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 예금보호한도 '1억'으로 상향조정 추진
-2. 러시아 용병, '전쟁 중 쿠데타' 시도
-
-출연: 안승찬 기자, 양효걸 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230626.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230626.mp3</guid>
-      <pubDate>Mon, 26 Jun 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
