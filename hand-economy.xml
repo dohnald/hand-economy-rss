@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/29(화) 정부 조세지출 축소 | 美 공급쇼크 우려 | 나라사랑카드 입찰 경쟁</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 정부, 감세 혜택 줄인다.. 조세특례들 사라질까
+2) 美, 독립기념일용 불꽃놀이 못 구한다.. 관세 여파
+3) 美, 중국발 화물량 확 줄었다.. 관세 역풍 시작될까
+4) 은행들, 나라사랑카드 입찰 노린다.. 경쟁 이유는?
+- 김치형 경제뉴스 큐레이터
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250429.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250429.mp3</guid>
+      <pubDate>Tue, 29 Apr 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/28(월) 아첨꾼이 된 챗지피티? (김덕진 소장) | 초기 신도시 개발의 역사 (김재원 쌤)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27104,15 +27120,6 @@ MSG는 죄가 없다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230625.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230625.mp3</guid>
       <pubDate>Sun, 25 Jun 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 이 자유로움은 어디서 온 것인가</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230623_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230623_2.mp3</guid>
-      <pubDate>Fri, 23 Jun 2023 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
