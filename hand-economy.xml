@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 5/1(목) 美 경제 역성장 | 근로소득세 부담 | 치매머니 | 보험 수수료 개편 </title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 미국 1분기 GDP, 3년 만에 역성장.. 美 반응은?
+2) 근로소득세 연 10% 늘었다.. 정계, 개편 논의
+3) 日, 치매 환자 자금 묶인다.. ‘치매머니’ 대책은?
+4) 보험 판매수수료, 7년 분납으로 개편.. 이유는?
+- 손석우 경제뉴스 큐레이터
+- 서은영 경제뉴스 큐레이터
+- 김현우 행복자산관리연구소 소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250501.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250501.mp3</guid>
+      <pubDate>Thu, 01 May 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/30(수) 한국 식품 회사의 미래 (박상준 위원) | 책임감을 흐리는 과학적 요인 (김태희 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27092,23 +27108,6 @@ MSG는 죄가 없다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230627.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230627.mp3</guid>
       <pubDate>Tue, 27 Jun 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 6/27(화) '설탕'이 바꾼 한국 근현대사.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-공부왕 이종훈
-'설탕'이 바꾼 한국 근현대사
-- 이종훈 작가
-
-2)
-키워드 경제
-'유튜브 수익화' 더 쉬워진다
-- 김덕진 소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230627.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230627.mp3</guid>
-      <pubDate>Tue, 27 Jun 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
