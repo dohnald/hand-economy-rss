@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 5/2(금) 추경안 합의 | 중소기업 범위 확대 | 빈집 관리 계획 | 방문요양사 처우</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 여야, 13.8조 추경안 합의.. 경제성장률 올린다
+2) 정부 “매출 1800억까지 중소기업”.. 개편 효과는?
+3) 전국 빈집들, 플랫폼으로 관리한다.. 활용 방안은?
+4) 수요 급증한 방문요양보호사.. “처우 개선 시급하다”
+- 신재근 한국경제TV 기자
+- 김현우 행복자산관리연구소 소장
+- 손석우 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250502.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250502.mp3</guid>
+      <pubDate>Fri, 02 May 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 5/1(목) 트럼프 행정부를 설득할 우리의 전략은? (이태호 고문)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27080,24 +27096,6 @@ MSG는 죄가 없다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230628.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230628.mp3</guid>
       <pubDate>Wed, 28 Jun 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 6/28(수) 상가 임대 전 체크리스트.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-억울한 경제
-상가 임대 전 체크리스트
-- 조세영 변호사 
-
-2)
-신기방기 레드칩
-뉴트로 바람타고 돌아온 '랄프로렌'
-- 신기주 부대표
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230628.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230628.mp3</guid>
-      <pubDate>Wed, 28 Jun 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
