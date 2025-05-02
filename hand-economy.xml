@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 5/2(금) 계약갱신 요구권을 두 번 쓸 수 있나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 같은 집에 살면서 계약갱신 요구권을 2번 사용할 수 있는지 궁금합니다. 2019년도에 첫 번째 계약 후, 2021년도에 계약갱신권을 사용하여 보증금 5%를 증액하는 조건으로 계약을 연장했습니다. 그로부터 2년 후, 2023년도에 계약이 끝날 때엔, 주변 시세에 맞춰 보증금 16%를 인상하는 조건으로 계약을 체결해서 살고 있는데요, 올해 계약 종료시점에서 다시 한 번 계약갱신 요구권을 쓸 수 있는 걸까요? 인터넷에서 찾아보니 보증금을 올려 새롭게 계약을 체결했으니 갱신권 사용이 가능하다는 의견도 있고, 동일한 집에 임대인과 임차인이 같을 경우엔 쓸 수 없다는 의견도 있어 문의 드립니다. 참고로 같은 집에 임대인과 임차인의 변동 없이 6년 동안 거주 중입니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250502.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250502.mp3</guid>
+      <pubDate>Fri, 02 May 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 5/2(금) 추경안 합의 | 중소기업 범위 확대 | 빈집 관리 계획 | 방문요양사 처우</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27082,20 +27092,6 @@ MSG는 죄가 없다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230628.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230628.mp3</guid>
       <pubDate>Wed, 28 Jun 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 6/28(수) 연금저축 수익 인출시 세금 관련 질문</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요! 저는 작년까지 매년 400만원씩 3년째 연금저축을 납입했습니다.
-납입된 연금은 모두 세액공제를 받았는데요, 현재까지 원금은 1200만원이 납입된 상태이고 전부 국내에 상장된 ETF에 투자 중입니다. 최근 살펴보니 다행히 수익이 나서 전체 평가 금액이 1350만원 정도로 나오고 있습니다.
-
-이 경우, 만약 ETF를 모두 매도한 다음, 연금계좌에 원금인 1200만원만 남겨두고, 수익인 150만원을 찾게 되면 비과세인지 아니면, 중도인출로 간주하여 세금이 나오는지 궁금합니다. 세금이 나온다면 얼마를 내야 하는지도 알려주세요~]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230628.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230628.mp3</guid>
-      <pubDate>Wed, 28 Jun 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
