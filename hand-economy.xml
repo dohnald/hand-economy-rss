@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 5/5(월) AI가 직장 상사가 된다? (김덕진 소장) | 엇갈린 신도시의 운명 (김재원 쌤)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+AI가 직장 상사가 된다?
+- 김덕진 IT커뮤니케이션 연구소장
+
+2부
+[역사의 재원쌤]
+엇갈린 신도시의 운명
+- 김재원 역사커뮤니케이터 (가톨릭대 겸임교수)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250505.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250505.mp3</guid>
+      <pubDate>Mon, 05 May 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 5/5(월) 자녀통장에 2천만 원을 넘게 넣으면 증여세를 내나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27050,19 +27067,6 @@ MSG는 죄가 없다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230703.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230703.mp3</guid>
       <pubDate>Mon, 03 Jul 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 7/3(월) 무역수지, 16개월만에 흑자 전환.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 무역수지, 16개월만에 흑자 전환
-2. 주가조작 처벌 강화 개정안, 국회 통과
-+친절한 경제
-
-출연: 안승찬 기자, 양효걸 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230703.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230703.mp3</guid>
-      <pubDate>Mon, 03 Jul 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
