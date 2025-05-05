@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 5/5(월) 워런버핏 은퇴 선언 | K콘텐츠의 양극화 | 완구 인증 제도</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 워런버핏 “연말에 은퇴한다”.. 트럼프 정책에도 일침
+2) 양극화되는 K콘텐츠 생태계.. 제작비 폭등한 배경은?
+3) 국내 완구업계, ‘KC 인증’에 부담 ↑.. 역차별 논쟁도
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자
+
+[친절한 경제]
+(1) 특례시는 일반 시와 뭐가 다른가요?
+(2) ‘트럼프 풋’은 무슨 뜻인가요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250505.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250505.mp3</guid>
+      <pubDate>Mon, 05 May 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 5/4(일) 인도 vs 파키스탄, 전면전 임박했다? (이광수 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27052,15 +27070,6 @@ MSG는 죄가 없다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230702.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230702.mp3</guid>
       <pubDate>Sun, 02 Jul 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 자세히 보니 얍실하다, 그도 그렇다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230630_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230630_2.mp3</guid>
-      <pubDate>Fri, 30 Jun 2023 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
