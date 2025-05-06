@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 5/6(화) 아시아 금융안전망 | 대만달러 강세 | 외국 영화 관세 | 장애인용 키오스크</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) “아시아 금융안전망 다지자”.. CMIM, 기금화 추진
+2) 급등하는 아시아 통화.. 배경은?
+3) 트럼프 “외국 영화에 100% 관세”.. 한국 영향은?
+4) 의무화 앞둔 장애인용 키오스크.. 쟁점은?
+- 김치형 경제뉴스 큐레이터
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250506.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250506.mp3</guid>
+      <pubDate>Tue, 06 May 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 5/5(월) AI가 직장 상사가 된다? (김덕진 소장) | 엇갈린 신도시의 운명 (김재원 쌤)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27050,23 +27066,6 @@ MSG는 죄가 없다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230703.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230703.mp3</guid>
       <pubDate>Mon, 03 Jul 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 7/3(월) 국내·외 반도체 주식 전망.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-증시 열렸다
-국내·외 반도체 주식 전망
-- 바바리안리서치 정희석 이사
-
-2)
-신기방기 레드칩
-상업용 우주관광 시대 개막 - '버진 그룹'
-- 신기주 부대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230703.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230703.mp3</guid>
-      <pubDate>Mon, 03 Jul 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
