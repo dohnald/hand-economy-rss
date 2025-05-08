@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 5/8(목) 미중 금리 정책 | 달러원 환율 | 수도권 데이터센터</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美 연준, 금리 또 동결.. 中은 돈 풀어 내수 살린다
+2) 연휴 중 환율, 증권사마다 큰 차이.. 이유는?
+3) 데이터센터 부지값 폭등.. 원인은 정책?
+- 박세훈 작가
+- 김현우 행복자산관리연구소 소장
+- 손석우 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250508.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250508.mp3</guid>
+      <pubDate>Thu, 08 May 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 5/7(수) 체코원전 계약의 운명은? (허민호 위원) | 신약 재창출의 세계 (이창욱 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27043,23 +27058,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230705.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230705.mp3</guid>
       <pubDate>Wed, 05 Jul 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 7/5(수) 권고사직, 거부할 수 있다.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-역시나 박정호 시즌 Ⅱ
-그렇게 마카오는 도박의 도시가 됐다
-출연 : 오승훈 아나운서
-
-2)
-억울한 경제
-권고사직, 거부할 수 있다
-출연 : 장내석 노무사]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230705.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230705.mp3</guid>
-      <pubDate>Wed, 05 Jul 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
