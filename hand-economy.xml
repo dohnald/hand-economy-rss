@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (5부) 또 또승찬</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (5부) 또 또승찬]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250509_555.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250509_555.mp3</guid>
+      <pubDate>Fri, 09 May 2025 21:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (4부) 세금의 달｜기숙학원 부모들</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (4부) 세금의 달｜기숙학원 부모들]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250509_444.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250509_444.mp3</guid>
+      <pubDate>Fri, 09 May 2025 21:15:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (3부) 위기의 주범</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26999,29 +27017,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230707_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230707_2.mp3</guid>
       <pubDate>Fri, 07 Jul 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 전공 선택과 필수 교양</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230707_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230707_1.mp3</guid>
-      <pubDate>Fri, 07 Jul 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 7/7(금) 전세계약 대항력을 유지하려면 어떻게 해야할까요? </title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요~ 제 이름으로 전세계약을 한 집에 저와 24살인 자녀가 함께 전입신고 되어있습니다. 곧 재계약을 하게 되는데요, 제가 다른 지방으로 가게 되어 자녀만 두고 주소를 옮겨야 할 것 같습니다.
-이럴 경우 누구 이름으로 전세계약을 해야 할까요? 제 이름으로 계약을 하고 제가 이사를 가면 전세금을 못 받을 수 있다고 해서요..
-
-만약 자녀이름으로 계약을 할 경우 자녀가 확정일자를 받은 상태로 실거주하면 대항력이 생기지만, 증여문제가 생길 수 있다고 들었습니다. 그럼 자녀한테서 차용증을 받으면 될까요? 부모 자식간 연이자 1000만원까지는 안줘도 된다고 들었는데 사실인가요? 부동산 중개업소에서는 일단 제 이름으로 계약을 하고 나중에 전세권설정을 하면 된다고 하던데... 어떻게 하는게 좋을지 모르겠습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230707.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230707.mp3</guid>
-      <pubDate>Fri, 07 Jul 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
