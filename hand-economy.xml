@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 5/12(월) AI 로맨스스캠을 피하는 법 (김덕진 IT커뮤니케이션연구소장)｜한강을 건넌 부자들 (재원쌤)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+AI 로맨스스캠을 피하는 법
+- 김덕진 IT커뮤니케이션 연구소장
+
+2부
+[역사의 재원쌤]
+한강을 건넌 대한민국 부자들
+- 김재원 역사커뮤니케이터 (가톨릭대 겸임교수)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250512.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250512.mp3</guid>
+      <pubDate>Mon, 12 May 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 5/12(월) 유주택인 상태에서 부모님 집으로 전입을 하면?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27001,20 +27018,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230711.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230711.mp3</guid>
       <pubDate>Tue, 11 Jul 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 7/11(화) 압구정에 '미니 신도시' 재건축.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 압구정에 '미니 신도시' 재건축
-2. 국민연금 기금운용위, 투자전문가 늘린다
-3. 중국 물가지수 '0%'.. 디플레이션 우려 확산
-4. 한은 기준금리 동결 전망 우세
-
-출연: 양효걸 기자, 남궁민 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230711.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230711.mp3</guid>
-      <pubDate>Tue, 11 Jul 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
