@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 5/13(화) 미중 관세 전쟁 휴전｜세종시 경제｜스테이블코인</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1) 미중, 상호관세 대폭 낮춘다... 시장은 환호
+2) 집값 들썩이는 세종시, 경제 자립은 낙제점?
+3) 스테이블 코인 활용 ↑... 통화 시스템 영향은?
+- 김치형 경제뉴스큐레이터
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250513.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250513.mp3</guid>
+      <pubDate>Tue, 13 May 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 5/12(월) AI 로맨스스캠을 피하는 법 (김덕진 IT커뮤니케이션연구소장)｜한강을 건넌 부자들 (재원쌤)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27001,23 +27015,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230711.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230711.mp3</guid>
       <pubDate>Tue, 11 Jul 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 7/11(화) 대체 다시다는 누구의 고향의 맛일까?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-공부왕 이종훈
-대체 다시다는 누구의 고향의 맛일까?
-- 이종훈 작가
-
-2)
-키워드 경제
-자동차에서 건강 관리받는 미래
-- 김아람 팀장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230711.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230711.mp3</guid>
-      <pubDate>Tue, 11 Jul 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
