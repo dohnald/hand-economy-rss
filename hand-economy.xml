@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 5/13(화) 타협한 미중, 환율의 미래 (문홍철 DB증권 팀장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+극적인 미중 합의, 환율의 미래
+- 문홍철 DB증권 자산전략팀장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250513.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250513.mp3</guid>
+      <pubDate>Tue, 13 May 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 5/13(화) 육아휴직할 때 연말정산</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26997,19 +27008,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230712.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230712.mp3</guid>
       <pubDate>Wed, 12 Jul 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 7/12(수) 퇴직 연금 알아서 굴려주는 ‘디폴트 옵션’ 시행.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 퇴직 연금 알아서 굴려주는 ‘디폴트 옵션’ 시행
-2. 심해 광물 두고 맞붙은 중국 vs 프·독
-3. 역전세 심화.. 빌라임대사업자 퇴로 없다
-
-출연: 양효걸 기자, 서은영 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230712.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230712.mp3</guid>
-      <pubDate>Wed, 12 Jul 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
