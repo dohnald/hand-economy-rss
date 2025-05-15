@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 5/15(목) 지분형모기지와 대선 (채상욱 대표)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부 
+지분형모기지와 대선
+- 채상욱 채부심 대표]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250515.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250515.mp3</guid>
+      <pubDate>Thu, 15 May 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 5/15(목) 연금저축과 IRP, 어디에 납부하는게 좋을까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26979,20 +26990,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230714.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230714.mp3</guid>
       <pubDate>Fri, 14 Jul 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 7/13(목) 집주인의 역월세 제안, 받아들여도 될까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요! 현재 전세를 사는 제 동생이 최근 이사를 고민하던 중에, 임대인 쪽에서 새로운 세입자를 구하기도 어렵고, 사정상 전세보증금을 낮춰주기도 힘드니, 전세대출이자를 역으로 지원해 주겠다며 전세를 연장해서 사는 것이 어떻겠냐는 권유를 받았다고 합니다.
-문제는 은행에서 전세대출연장은 가능하지만, 현재 보증금에서 2천만 원을 낮추지 않으면 보증보험은 가입할 수 없다고 한답니다. 임대인은 돈을 구할 수가 없어서 보증금은 낮춰줄 수가 없는 상황이라고 하구요.
-
-그래서 생각해 본 방법은 2가지인데요, 첫 번째는 보증보험 없이 지내는 것이고, 두 번째는 동생이 2천만원을 임대인에게 빌려주는 겁니다. 만약 임대인이 동의하면, 2천만 원을 낮춘 금액으로 계약서를 수정하고, 보증보험 가입도 가능하다고 들었습니다. 어제 임대인께 두 번째 방법을 제안했더니 일단 답변은 긍정적이라고 하는데요, 이렇게 할 경우, 어떤 부분을 주의해야 할지 알고 싶습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230713.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230713.mp3</guid>
-      <pubDate>Thu, 13 Jul 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
