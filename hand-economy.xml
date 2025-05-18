@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 5/17(토) 교황의 나라, 바티칸 (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+교황의 나라, 바티칸시국
+- 박정호 명지대 교수 
+with 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250517.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250517.mp3</guid>
+      <pubDate>Sat, 17 May 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (5부) 자유와 심판</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26959,22 +26971,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230718.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230718.mp3</guid>
       <pubDate>Tue, 18 Jul 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 7/17(월) 사회초년생을 위한 재테크 알려주세요!</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 매일 출퇴근길에 손경제 유니버스를 듣고 있는 팬입니다. 
-이번에 97년생 막내처제가 대기업에 입사했습니다. 처제로선 처음 받는 월급이고, 혼자 떨어져 살아야 해서 형부인 제가 마치 아빠처럼 걱정도 되고 그러네요. 저도 나름 재테크에 관심이 있는지라 이것저것 조언을 주고 있는데요, 일단 보험가입과 주택청약종합저축가입, 청년도약계좌 가입 정도까지는 알려줬습니다.
-
-처제의 성향은 안정형입니다. 그래서 주식이나 원금손실을 동반한 투자는 약간 두려움을 갖고 있는 것 같아요.
-처제가 아직 사회초년생이라 목돈을 만들 때까지는 안정적으로 돈을 모았으면 하는 바람입니다.
-사회초년생을 위한 재테크와 돈 모으기 방법을 알려주셨으면 합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230717.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230717.mp3</guid>
-      <pubDate>Mon, 17 Jul 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
