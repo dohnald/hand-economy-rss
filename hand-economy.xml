@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 5/18(일) 진짜 비싼 럭셔리만 잘 팔리는 이유 (이윤정 작가)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+진짜 비싼 럭셔리만 잘 팔리는 이유
+- 이윤정 '언베일' 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250518.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250518.mp3</guid>
+      <pubDate>Sun, 18 May 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 5/17(토) 교황의 나라, 바티칸 (박정호 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26957,20 +26968,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230718.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230718.mp3</guid>
       <pubDate>Tue, 18 Jul 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 7/18(화) 문턱 더 높아진 은행 대출.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 문턱 더 높아진 은행 대출
-2. 중국 경제는 계속 먹구름
-3. 해외 대체투자, 손실위험 확산
-4. 흑해곡물협정 종료.. 곡물가격 또 오르나
-
-출연: 양효걸 기자, 남궁민 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230718.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230718.mp3</guid>
-      <pubDate>Tue, 18 Jul 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
