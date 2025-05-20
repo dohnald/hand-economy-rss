@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 5/20(화) 캐나다의 내부 분열 (최준영 율촌 전문위원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+캐나다에 분열의 씨앗이 움트고 있습니다 
+- 최준영 전문위원 (법무법인 율촌)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250520.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250520.mp3</guid>
+      <pubDate>Tue, 20 May 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 5/20(화) 기본공제 대상자가 되기 위한 소득기준은?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26950,19 +26961,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230719_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230719_1.mp3</guid>
       <pubDate>Wed, 19 Jul 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 7/19(수) 상속등기 안 했다가 세금 폭탄을 맞았습니다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-저는 2주 전 지방세 과세 예고 통지를 받았습니다. 남편이 암으로 사망한 지 10년째인데 그때 남편으로부터 상속받은 건물이 있던 게 문제였습니다. 당시 애들도 어리고 저도 너무 힘들어서 명의변경을 못했는데, 지금까지도 그 상태로 두고 제 앞으로 나오는 재산세만 납부를 했습니다. 매년 재산세를 내고 있으니 무슨 문제가 있을 것이라곤 꿈에도 생각 못 했는데, 그 10년 동안 시청에서 아무런 통보도 없다가 얼마 전 세금을 내라는 고지서를 보내온 겁니다. 취득세와 지방교육세, 농특세로 810여만 원과 10년 동안 쌓인 가산금 760여만 원을 더 해 총 1,600만 원에 가까운 세금을 내라는 통지를 받았습니다. 
-
-저는 사망하면 상속세와 재산세만 내면 되는 줄 알았고 그 외에 세금을 내야되는 것도 몰랐는데, 시청에서는 저에게 고지할 의무가 없으니 자기네 잘못이 아니라네요. 갑자기 너무 큰 부담인데 가산세까지 내야만 할까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230719.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230719.mp3</guid>
-      <pubDate>Wed, 19 Jul 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
