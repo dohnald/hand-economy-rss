@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 5/20(화) 미 감세안 하원 통과 | 달러?채권 쌓는 예보 | 엔비디아, 대만 ‘AI 거점’</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 미 감세안 하원 통과.. 재정 적자 우려 ↑
+2) 예보, 기금으로 달러?채권 쌓는다.. 배경은?
+3) 엔비디아, 대만에 제2본사 세운다.. AI 거점화
+- 김치형 경제뉴스큐레이터
+- 정지서 연합인포맥스 기자
+- 손석우 경제뉴스큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250520.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250520.mp3</guid>
+      <pubDate>Tue, 20 May 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 5/19(월) 인공지능 코딩 에어전트 (김덕진 IT커뮤니케이션연구소장)｜강남의 탄생 (재원쌤)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26952,20 +26967,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230719.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230719.mp3</guid>
       <pubDate>Wed, 19 Jul 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 7/19(수) 2024년 최저임금 ‘9860원’.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 2024년 최저임금 '9860원'
-2. 코픽스 두 달 연속 상승
-3. 대형 유통업체 '경영간섭 금지' 개정안 통과
-4. 美반도체협회, 대중 수출제한 공개반대
-
-출연: 양효걸 기자, 서은영 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230719.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230719.mp3</guid>
-      <pubDate>Wed, 19 Jul 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
