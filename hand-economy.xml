@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 5/21(수) 해외주식 양도소득은 꼭 신고를 해야 되나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 해외주식 양도소득신고와 관련해서 궁금한 점이 있습니다. 이번 달에 신고를 해야 하는데 처음이여서 전혀 아는 바가 없어 걱정이네요. 저는 2024년도에 해외주식 양도소득이 공제금액인 250만원보다 훨씬 적은 상태입니다. 찾아보기로는 해외주식 양도소득이 공제금액인 250만원 이하여도 신고하는게 낫다고 하던데, 꼭 신고하여야 하나요?
+만약 신고를 해야한다면 5월에 종합소득세 신고를 할 때 같이 기재해서 신고를 하면 되는 걸까요?
+또, 초등학생 아들의 증권계좌도 있는데요, 아들의 양도소득도 저와 비슷합니다. 아들도 신고를 해야 될까요?
+지금은 신고 대상이 아니더라도, 차후에 아들의 양도소득이 250만원이 넘어서 반드시 신고해야하는 경우 어떻게 신고해야 되는지 방법도 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250521.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250521.mp3</guid>
+      <pubDate>Wed, 21 May 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 5/21(수) 우주산업 엿보는 삼성  | 외국인 의료 관광 | 스트레스DSR</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26957,19 +26970,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230720.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230720.mp3</guid>
       <pubDate>Thu, 20 Jul 2023 11:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 7/20(목) 한국거래소 독점 깨진다.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 9월부터 운전자보험 만기 '최대 20년' 
-2. 한국거래소 독점 깨진다
-3. 중국, 부동산도 위기.. 완다그룹 디폴트 우려
-
-출연: 김현우 소장, 서은영 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230720.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230720.mp3</guid>
-      <pubDate>Thu, 20 Jul 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
