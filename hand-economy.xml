@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 5/21(수) 우주산업 간보는 삼성  | 외국인 의료 관광 | 스트레스DSR</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 투자, R&D, 인재 영입.. 삼성, 우주 산업 넘보나
+2) 외국인 의료 관광 사상 최대.. 전년 대비 약 2배
+3) 7월부터 스트레스 DSR 3단계.. 수도권 주담대 ↓
+- 김치형 경제뉴스큐레이터
+- 손석우 경제뉴스큐레이터
+
+[친절한 경제]
+생산자물가지수란?
+- 청취자 이동복]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250521.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250521.mp3</guid>
+      <pubDate>Wed, 21 May 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 5/20(화) 캐나다의 내부 분열 (최준영 율촌 전문위원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26952,15 +26970,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230720.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230720.mp3</guid>
       <pubDate>Thu, 20 Jul 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>알콜타임 - 시광이형의 시크릿 해설서</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230719_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230719_1.mp3</guid>
-      <pubDate>Wed, 19 Jul 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
