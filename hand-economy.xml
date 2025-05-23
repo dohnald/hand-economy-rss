@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (2부) 그의 알리바이</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (2부) 그의 알리바이]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250523_222.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250523_222.mp3</guid>
+      <pubDate>Fri, 23 May 2025 18:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (1부) 호텔경제학</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (1부) 호텔경제학]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250523_111.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250523_111.mp3</guid>
+      <pubDate>Fri, 23 May 2025 18:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 5/23(금) 10년 전에 가입한 일시납 종신보험을 유지해야 될까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26944,36 +26962,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230724.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230724.mp3</guid>
       <pubDate>Mon, 24 Jul 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 7/24(월) 높아진 중금리대출 문턱, 카드론 찾는 서민.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 높아진 중금리대출 문턱, 카드론 찾는 서민
-2. 미국 산업계, 연이은 파업에 몸살
-+친절한 경제
-
-출연: 안승찬 기자, 양효걸 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230724.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230724.mp3</guid>
-      <pubDate>Mon, 24 Jul 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 7/23(일) 제주도보다 작은 섬나라 ‘싱가포르’는  어떻게 독립했을까?.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-주간 손경제 플러스: 키워드 경제
-이젠 권리가 되어버린 미국의 '팁 문화'
-- 남궁민 뉴스큐레이터
-
-2)
-지리(地理)는 경제사(史)
-제주도보다 작은 섬나라 '싱가포르'는 어떻게 독립했을까?
-- 한영준 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230723.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230723.mp3</guid>
-      <pubDate>Sun, 23 Jul 2023 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
