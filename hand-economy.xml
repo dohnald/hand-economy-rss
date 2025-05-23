@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 5/23(금) 한화, 차세대 태양광 개발 | 편의점, 사상 첫 역성장 | 스테이블 코인 환치기 적발</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 한화, 세계 최초 ‘탠덤 패널‘ 국제인증… 상용화 눈앞
+2) ‘출점 포화‘ 편의점, 매출·점포수 모두 역성장
+3) 관세청, 580억 규모 ‘코인 환치기’ 적발
+- 서영태 연합인포맥스 기자
+- 박세훈 작가
+- 김현우 행복자산관리연구소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250523.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250523.mp3</guid>
+      <pubDate>Fri, 23 May 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 5/22(목) 위고비 필요없다? 뱃살은 이렇게 녹이는 겁니다 (오상우 동국대 가정의학과 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26956,15 +26971,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230721_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230721_2.mp3</guid>
       <pubDate>Fri, 21 Jul 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 1기다림 = 4우회전</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230721_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230721_1.mp3</guid>
-      <pubDate>Fri, 21 Jul 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
