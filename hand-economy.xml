@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 5/23(금) 10년 전에 가입한 일시납 종신보험을 유지해야 될까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 날마다 손경제 상담소를 열심히 듣고 있는 청취자입니다. 늘 머릿속에서만 고민을 하다가 너무 궁금해서 사연을 남겨봅니다.
+다름 아닌 종신보험에 대한 고민인데요, 저희 아들이 2014년 1월에 모 생명보험사의 종신보험을 일시납으로 가입했습니다. 일시납 보험료는 2,200만원이었고, 나중에 연금으로 변경도 된다해서 가입했다고 하는데요, 이게 맞는 걸까요?
+아들은 1987년 1월생으로, 앞으로 집도 사야 되고 아이들도 키워야하는데, 넉넉한 편도 아닌 상황에서 이 종신보험을 그냥 유지하는게 맞는지 너무 고민입니다. 10년 전 가입한 일시납 종신보험, 과연 도움이 되는 상품일까요? ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250523.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250523.mp3</guid>
+      <pubDate>Fri, 23 May 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 5/23(금) 한화, 차세대 태양광 개발 | 편의점, 사상 첫 역성장 | 스테이블 코인 환치기 적발</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26962,15 +26974,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230723.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230723.mp3</guid>
       <pubDate>Sun, 23 Jul 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 승chance, 성공적</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230721_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230721_2.mp3</guid>
-      <pubDate>Fri, 21 Jul 2023 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
