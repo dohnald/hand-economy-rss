@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 5/26(월) 자율주행 전쟁의 서막 (김아람 IT커뮤니케이션 연구소 이사)｜강남의 탄생 (재원쌤)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+자율주행 전쟁의 서막
+- 김아람 IT커뮤니케이션 연구소 이사
+
+2부
+[역사의 재원쌤]
+부자들은 계속 강남에 남을까
+- 김재원 역사커뮤니케이터 (가톨릭대 겸임교수)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250526.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250526.mp3</guid>
+      <pubDate>Mon, 26 May 2025 20:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 5/26(월) 이전 임차인이 변경한 시설물도 원상복구해야 되나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26936,23 +26953,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230726.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230726.mp3</guid>
       <pubDate>Wed, 26 Jul 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 7/26(수) '바그너 그룹'의 실체.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-억울한 경제
-'권고사직'과 '부당해고'는 한 끗 차이
-- 장내석 노무사
-
-2)
-신기방기 레드칩
-알고보니 대기업? '바그너 그룹'의 실체
-- 신기주 대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230726.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230726.mp3</guid>
-      <pubDate>Wed, 26 Jul 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
