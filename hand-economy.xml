@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 5/26(월) 이전 임차인이 변경한 시설물도 원상복구해야 되나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+ 안녕하세요. 아버지께서 15년 전에 검도장을 인수하셔서 현재까지 운영 중입니다. 그런데 이전 주인이 천장에 있던 마감재를 떼어내고 사용했던 것 같습니다. 저희가 인수를 할 때는 그 사실을 모르고 지금까지 사용을 해왔었던 거구요. 코로나 이후로 검도장이 잘 안 돼서 폐업을 준비 중인데, 저희가 천장보수를 해줘야 하는 걸까요?
+ 임대차 계약서에는 '계약 종료시 모든 시설을 원상복구 해야 한다.'라고 적혀 있습니다. 보수를 하려면 비용이 천만원 정도라는데, 저희가 떼어낸 것도 아닌 시설을 복구해야 된다면 억울할 것 같습니다.
+ 또, 코로나 이후에 너무 힘들어서 부채도 많이 생기는 바람에 현재는 새출발기금을 신청해서 지원받고 있는 중인데요, 폐업을 할 때 도움을 받을 수 있는 제도가 있을지도 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250526.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250526.mp3</guid>
+      <pubDate>Mon, 26 May 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 5/26(월) 트럼프, 무역전쟁 재시동 | 기아, ‘배터리 구독’ 중단 | 中, 희토류 수출 허가</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26941,19 +26953,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230726.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230726.mp3</guid>
       <pubDate>Wed, 26 Jul 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 7/26(수) 한국식 해외부동산 투자의 함정.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 한국식 해외부동산 투자의 함정
-2. 밀 선물 가격, 심상찮다
-3. 금감원, '사모 전환사채' 제도개선 착수
-
-출연: 양효걸 기자, 서은영 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230726.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230726.mp3</guid>
-      <pubDate>Wed, 26 Jul 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
