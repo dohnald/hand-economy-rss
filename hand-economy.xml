@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 5/28(수) 미국 자산의 패권이 흔들리고 있습니다 (이윤수 대표) | 미국은 왜 미터 대신 인치랑 마일을 쓸까? (이창욱 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[11부
+[주가 왜 이래]
+미국 자산의 패권이 흔들리고 있습니다
+- 이윤수 대표(에릭의 거장연구소)
+
+2부
+[사이언스가 머니]
+미국은 왜 미터 대신 인치랑 마일을 쓸까?
+- 이창욱 기자 (과학동아)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250528.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250528.mp3</guid>
+      <pubDate>Wed, 28 May 2025 20:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 5/28(수) 부모님 명의 전세보증금을 자녀가 내면 증여인가요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26923,20 +26940,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230728.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230728.mp3</guid>
       <pubDate>Fri, 28 Jul 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 7/28(금) '2023 세법개정안' 발표.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. '2023 세법개정안' 발표
-2. 서울시 '외국인 가사근로자' 시범 사업
-3. EU도 기준금리 0.25%p 인상
-+ 친절한 경제
-
-출연: 김현우 소장, 이상은 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230728.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230728.mp3</guid>
-      <pubDate>Fri, 28 Jul 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
