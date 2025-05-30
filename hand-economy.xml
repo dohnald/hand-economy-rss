@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (4부) 곤란한 부탁 (끝)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (4부) 곤란한 부탁 (끝)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20250530_444.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20250530_444.mp3</guid>
+      <pubDate>Fri, 30 May 2025 18:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (3부) 인생 강연</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (3부) 인생 강연]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20250530_333.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20250530_333.mp3</guid>
+      <pubDate>Fri, 30 May 2025 18:15:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (2부) 공권력의 알람</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26896,35 +26914,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230801.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230801.mp3</guid>
       <pubDate>Tue, 01 Aug 2023 11:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 8/1(화) '철근 누락' 아파트 공개 후폭풍.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. '철근 누락' 아파트 공개 후폭풍
-2. 오늘부터 LPG(액화석유가스) 가격 내린다
-3. 탈탄소 정책에 역행하는 영국
-4. 상반기 우리나라 자동차 수출 역대 최고
-
-출연: 양효걸 기자, 남궁민 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230801.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230801.mp3</guid>
-      <pubDate>Tue, 01 Aug 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 7/31(월) 미성년자 자녀 증여 관련 질문</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 아이를 위해 두 개의 적금을 가입해 두었는데요, 올해 11월과 내년 4월에 만기가 되어 각각 육백 만원과 천만 원이 나올 예정입니다. 이 적금을 타게 되면 자녀 명의로 주식에 투자해주려고 생각하고 있습니다. 그땐 증여세 신고를 해야 할텐데 궁금한 점이 있어 사연을 보냅니다. 
-
-미성년자에게 증여를 해줄 때는 10년 단위로 2천만 원까지 세금이 없는 걸로 알고 있는데, 그렇다면 11월에 한 번, 내년 4월에 한 번, 이렇게 두 차례로 나눠서 신고하는 것이 유리한지, 아니면 내년 4월에 한꺼번에 신고하는 것이 유리한지 궁금합니다.
-그것도 아니면 돈을 조금 더 모아서 2천만 원이 되면 그 때 한 번에 증여해 주는 것이 더 나을까요?
-참고로 아이는 아직 10살 미만입니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230731.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230731.mp3</guid>
-      <pubDate>Mon, 31 Jul 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
