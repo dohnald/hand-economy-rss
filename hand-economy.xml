@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (2부) 공권력의 알람</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (2부) 공권력의 알람]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20250530_222.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20250530_222.mp3</guid>
+      <pubDate>Fri, 30 May 2025 18:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (1부) 몸값</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (1부) 몸값]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20250530_111.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20250530_111.mp3</guid>
+      <pubDate>Fri, 30 May 2025 18:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 5/30(금) 농어촌 주택을 취득할 때 세금은?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26907,36 +26925,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230731.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230731.mp3</guid>
       <pubDate>Mon, 31 Jul 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 7/31(월) 美 물가 안정세 판단 근거.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[10
-증시 열렸다
-美 물가 안정세 판단 근거
-- 정광우 대표
-
-2)
-신기방기 레드칩
-호텔 산업의 과현미.. 힐튼 월드와이드 홀딩스
-- 신기주 대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230731.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230731.mp3</guid>
-      <pubDate>Mon, 31 Jul 2023 11:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 7/31(월) 日 '마이너스 금리' 기조 바꾸나.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 日 '마이너스 금리' 기조 바꾸나
-2. 올해 계약 서울아파트 40% 미등기
-+ 친절한 경제
-
-출연: 안승찬 기자, 양효걸 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230731.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230731.mp3</guid>
-      <pubDate>Mon, 31 Jul 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
