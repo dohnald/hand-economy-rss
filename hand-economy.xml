@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 6/1(일) 중국 전기차 전부 망하고  얘네만 살아남을 겁니다 (권용주 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+중국 전기차 전부 망하고 얘네만 살아남을 겁니다 
+- 권용주 교수(국민대 자동차·운송디자인학과)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250601.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250601.mp3</guid>
+      <pubDate>Sun, 01 Jun 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 5/31(토) 규제가 안 없어지는 건 정치 탓이 아닙니다 (박정호 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26898,20 +26909,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230802.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230802.mp3</guid>
       <pubDate>Wed, 02 Aug 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 8/2(수) 음식점 '주류 가격 자율화' 시행.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 음식점 '주류 가격 자율화' 시행
-2. 미국의 中 반도체 수출 규제.. 먹혔다
-3. 홍콩H지수 관련 ELS, 투자 13조원, 손실 40%
-4. 무역 수지, 두 달 연속 흑자
-
-출연: 양효걸 기자, 서은영 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230802.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230802.mp3</guid>
-      <pubDate>Wed, 02 Aug 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
