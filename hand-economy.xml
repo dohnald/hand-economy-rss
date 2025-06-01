@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 5/31(토) 규제가 안 없어지는 건 정치 탓이 아닙니다 (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+규제가 안 없어지는 건 정치 탓이 아닙니다
+- 박정호 명지대 교수
+WITH. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250531.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250531.mp3</guid>
+      <pubDate>Sat, 31 May 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 5/30(금) 세계로 뻗어나가는 K-과자 (이종훈 작가) | 美 대학, AI 대신 종이시험 | 미국 대학가의 쇠퇴 | 힙해진 인도 성지순례 (한경제 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26900,20 +26912,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230802.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230802.mp3</guid>
       <pubDate>Wed, 02 Aug 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 8/1(화) 건보료 때문에 자동차 명의를 어떻게 할지 고민이에요</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 저는 현재 정년퇴직이 3년 정도 남아 있고, 조만간 자동차를 새로 구입하려고 합니다. 그런데 퇴직 후 건강보험료 때문에 자동차 명의를 어떻게 해야 할지 고민이 됩니다. 자동차 가액이 4,000만 원이 넘으면 의료보험료가 많이 나온다면서, 다른 동료는 자동차를 자녀와 공동명의로 한다고 하네요.
-
-지금 구입하는 자동차가 4000만원이 넘더라도, 퇴직시점에 감가상각이 되면 4000만원이 안 될 수도 있는데 꼭 공동명의로 해야 하는지 고민입니다.
-건강보험에 반영되는 자동차가액이 구입시점인지, 아니면 지역가입자로 전환되는 시점인지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230801.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230801.mp3</guid>
-      <pubDate>Tue, 01 Aug 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
