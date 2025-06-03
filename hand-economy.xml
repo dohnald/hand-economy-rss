@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 6/3(화) 할머니가 손녀에 주는 용돈, 증여신고는 어떻게?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 저희 어머니가 작년 4월부터 내년 3월까지 미성년자인 제 딸의 통장으로 10만원씩 용돈을 자동이체 걸어 놓으셨다고 합니다. 총 360만원인데 홈텍스에서 증여세 신고 하려고 보니 날짜를 하루 지정해서 이체내역도 첨부하던데, 매달 들어올 때마다 신고를 해야되나요? 또, 사회 통념상 인정되는 생활비, 교육비 같은 건 비과세라고 하던데, 그럼 통상적으로 인정되지 않는 돈은 소액이라도 모두 신고해야 될까요?
+제가 성인이 된 후 부모님께서 조금씩 도와주신 돈도 있었는데 그건 어떻게 해야되나 걱정이 되네요. 지금까지 증여신고는 생각도 안 했는데, 지금이라도 신고를 해야 되는 건지, 제 생각으로는 10년 동안 5천만원은 안 넘는것 같기는 하지만 증여신고는 한 적이 없어서 이제라도 제대로 해 보려고 합니다. 지금까지 받은 건 한 번에 해도 되는 걸까요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250603.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250603.mp3</guid>
+      <pubDate>Tue, 03 Jun 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 6/3(화) 금융사 국고채 보이콧 | 단통법 폐지 | 캐나다 원유 수입 | 불법대출 무효 판결</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26902,23 +26913,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230803.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230803.mp3</guid>
       <pubDate>Thu, 03 Aug 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 8/3(목) 초전도체, 왜 난리인가.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-이과식 경제
-초전도체, 왜 난리인가
-- 이독실 과학평론가
-
-2)
-책크리스트
-장하준의 경제학 레시피
-- 김치형 경제뉴스큐레이터]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230803.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230803.mp3</guid>
-      <pubDate>Thu, 03 Aug 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
