@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 6/3(화) 금융사 국고채 보이콧 | 단통법 폐지 | 캐나다 원유 수입 | 불법대출 무효 판결</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 금융사, 공정위 담합 조사에 ‘국고채 보이콧’
+2) 내달 단통법 폐지… 통신사 ‘지원금 경쟁‘ 불붙나
+3) 한국도 캐나다 원유 수입.. “싼데 다루기 어려워”
+4) 법원, ‘폭행·협박‘ 불법 대출에 ”갚을 필요 없다“
+- 조미현 한국경제신문 기자
+- 나수지 한국경제신문 기자
+- 서은영 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250603.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250603.mp3</guid>
+      <pubDate>Tue, 03 Jun 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/2(월) 오픈AI 한국 지사 (김덕진 IT커뮤니케이션연구소장)｜강남 신화가 무너질 뻔했던 순간 (재원쌤)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26903,19 +26919,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230803.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230803.mp3</guid>
       <pubDate>Thu, 03 Aug 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 8/3(목) 경남은행서 500억대 PF대출 횡령 발생.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 경남은행서 500억대 PF대출 횡령 발생 
-2. 피치, 미국 신용등급 한 단계 강등
-3. 국내 금융사 해외 부실자산 사례 속출
-
-출연: 김현우 소장, 서은영 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230803.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230803.mp3</guid>
-      <pubDate>Thu, 03 Aug 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
