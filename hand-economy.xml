@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 6/5(목) 개인간에 빌린 돈에 붙는 이자도 세금을 내나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 최근에 전세금을 마련하기 위해서 은행에서 대출을 알아보다가, 친척 형님께 빌리게 됐습니다.
+개인간 대출은 금리가 4.6%라고 알고 있어서, 해당 내용을 포함한 차용증도 당연히 작성했구요. 
+지난 달부터 형님께 매달 4.6%에 해당하는 이자를 송금해드리고 있는데요, 궁금한 점이 생겼습니다.
+은행에서 만기가 된 저축은 15.4% 세금을 뗀 후 지급하고, 그런 이자소득은 자동으로 합산돼서 연간 금융소득이 2천만원이 넘는 경우 종합소득세 신고를 하잖아요? 그런데, 제가 형님께 보내드리는 이자는 15.4%에 해당되는 원천징수 세금을 내지 않아도 되는지, 또 형님의 금융소득에는 포함되지 않는지 궁금해졌습니다.
+형님께서 저한테 받는 이자는 국세청에 별도로 금융소득으로 신고하고, 이자소득세 또한 납부해야 하는 것인지 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250605.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250605.mp3</guid>
+      <pubDate>Thu, 05 Jun 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 6/5(목) 李 비상경제 TF 가동 | 체코 원전 수주 | 中 희토류 수출 통제 | 가짜 코인거래소 사기</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26907,15 +26921,6 @@ N번의 창업 실패를 겪고 다시 일어선 김정수 대표는
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230804_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230804_2.mp3</guid>
       <pubDate>Fri, 04 Aug 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 수줍게, 안녕</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230804_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230804_1.mp3</guid>
-      <pubDate>Fri, 04 Aug 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
