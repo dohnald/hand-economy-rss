@@ -16,7 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>협찬인가 - 서울대의 위용</title>
+      <title>커피타임 - (2부) '호'초게 [끝]</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (2부) 킵초게 말고 '호'초게]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_250606_222.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_250606_222.mp3</guid>
+      <pubDate>Fri, 06 Jun 2025 18:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (1부) 늦바람</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (1부) 늦바람]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_250606_111.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_250606_111.mp3</guid>
+      <pubDate>Fri, 06 Jun 2025 18:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>협찬인가 - 서울대를 믿으셔야 합니다</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
       <description><![CDATA[리트머스 : https://litmers.com/
@@ -26916,33 +26934,6 @@ N번의 창업 실패를 겪고 다시 일어선 김정수 대표는
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230808.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230808.mp3</guid>
       <pubDate>Tue, 08 Aug 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 8/8(화) 근원물가 4.5% 상승.. IMF 이후 최대폭.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 근원물가 4.5% 상승.. IMF 이후 최대폭
-2. 미국 10년채 금리 급등 
-3. 기후위기에 ‘폭염 보험’ 내놓은 보험사들
-
-출연: 양효걸 기자, 남궁민 경제뉴스큐레이터, 박세훈 작가 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230808.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230808.mp3</guid>
-      <pubDate>Tue, 08 Aug 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 8/7(월) DC형 퇴직연금을 IRP로 받으면, 가입상품이 그대로 옮겨지나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 저는 DC형 퇴직연금에 가입 중인데요, 이번 8월을 기준으로 다른 회사로 이직을 할 예정입니다. 퇴직하면 DC계좌에 있던 퇴직금이 IRP로 들어올텐데, 대출을 갚기 위해 모두 일시금으로 수령하려고 합니다. 그런데, 현재 DC계좌의 적립금은 여러 ETF와 정기 예금으로 들어가 있는 상태입니다. DC계좌에서 IRP 계좌로 퇴직금이 들어올 땐, 상품들이 그대로 옮겨지는 것인지, 아니면 모두 현금화해서 들어오는 것인지 궁금합니다.
- DC계좌에 있는 예금의 만기가 아직 남아있는데, 만약 상품이 그대로 옮겨지는 거라면 예금 만기가 된 이후에 일시금으로 수령하고 싶은데 가능할까요?
-
- 그리고, 세금도 궁금합니다. 10년 근속했고, 원금 9천만원에 수익이 천만원이라면 퇴직소득세는 어느 정도 나올까요? 무슨 공제를 해줘서 세금이 많지는 않을 거 같은데, 어떤 분은 연금으로 받지 않으면 세금이 많다고 해서 고민이 되네요.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230807.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230807.mp3</guid>
-      <pubDate>Mon, 07 Aug 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
