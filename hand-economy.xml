@@ -16,6 +16,43 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>협찬인가 - 서울대의 위용</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[리트머스 : https://litmers.com/
+출연문의: hand-economy@naver.com
+--------------------------------------------------------------
+다양한 산업과 직업의 뒷이야기를 파헤쳐 보는 
+이것은 협찬인가, 콘텐츠인가
+ 
+이번 화의 주인공은 
+'당신을 위한 IT 컨설팅 파트너'
+리트머스의 김응진 대표, 서성규 이사입니다. 
+
+리트머스는 다양한 기업을 위해 
+소프트웨어를 대신 만들어주는 외주 개발사인데요. 
+코딩 없는 개발 방식을 활용하고 
+베트남의 IT인재들과 협업하는 덕분에 
+경쟁사 대비 1/5의 가격을 자랑하고 있습니다.
+개발 속도도 매우 빨라서 한두 달이면 
+제품을 받아볼 수 있습니다. 
+
+단순히 외형만 그럴싸한 소프트웨어가 아니라
+사업이 할 때마다 더 많은 기능을 탑재할 수 있도록
+기초가 탄탄한 개발을 중시하는데요. 
+
+프로젝트를 이끄는 인재들이
+대부분 '서울대학교' 출신이라서요.
+국내 최고 수준의 열의와 성실함을 바탕으로
+최상의 서비스를 제공하리라 믿어 의심치 않습니다. 
+
+리트머스, 씨그로, 서성규 이사, 
+그리고 김응진 대표까지 모두모두 흥해라!!!!]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250606_000.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_250606_000.mp3</guid>
+      <pubDate>Fri, 06 Jun 2025 18:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 6/6(금) 계약갱신권 사용 후 해지시 중개보수는 누구 부담인가요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26906,23 +26943,6 @@ N번의 창업 실패를 겪고 다시 일어선 김정수 대표는
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230807.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230807.mp3</guid>
       <pubDate>Mon, 07 Aug 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 8/7(월) 미국 신용등급 강등의 여파.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-증시 열렸다
-미국 신용등급 강등의 여파
-- 정광우 대표
-
-2)
-신기방기 레드칩
-부동의 점유율 1위 - 혼다 오토바이
-- 신기주 대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230807.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230807.mp3</guid>
-      <pubDate>Mon, 07 Aug 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
