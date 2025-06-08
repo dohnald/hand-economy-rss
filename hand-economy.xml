@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 6/7(토) 미국이 US스틸에 집착하는 진짜 이유 (박정호 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+미국이 US스틸에 집착하는 진짜 이유
+- 박정호 명지대 교수
+WITH. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250607.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250607.mp3</guid>
+      <pubDate>Sat, 07 Jun 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/6(금) 제과업계 모방의 역사 (이종훈 작가) | 개도국 송금경제 위축 | 중국 긱이코노미 | 일본 빙하기 세대 (한경제 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26919,21 +26931,6 @@ N번의 창업 실패를 겪고 다시 일어선 김정수 대표는
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230809.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230809.mp3</guid>
       <pubDate>Wed, 09 Aug 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 8/8(화) 자영업자, 개인연금 가입해야 할까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 매일 손경제상담소를 듣고 있는 만 52세 자영업자입니다.
-국민연금 예상 수령액이 그리 많은 것도 아니라서, 지금이라도 개인연금을 들어야 하나 고민입니다. 그래서 몇군데 은행에 알아보니 어떤 은행은 월 납입액이 50만원이 훌쩍 넘고, 어떤 은행은 나이가 많아 가입이 안 된다고 하더라구요. 왜 이런 차이가 있는 걸까요?
-가입이 가능한 곳은 10년 이상은 넣어야 한다고 하던데, 10년을 넣고 나면 연금을 받을 수 있는 나이는 제가 임의로 정할 수 있는지도 궁금합니다. 한편으로는 10년 납입을 하더라도 연금개시일까지 적립 기간이 짧기 때문에 적금을 드는 것과 크게 차이가 없을 것 같다는 생각도 들어서 고민이 됩니다.
-
-또, "연금"과 "연금저축"이 있던데 그 차이는 무엇인지.. 뒤늦게 알아보려 하니 어디서부터 시작해야 할지 막막하네요. 연금이 아니라도 노후에 조금이나마 도움이 될 수 있는 더 좋은 방법이 있는지도 알고 싶습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230808.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230808.mp3</guid>
-      <pubDate>Tue, 08 Aug 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
