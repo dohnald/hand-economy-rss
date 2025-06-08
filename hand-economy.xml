@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 6/8(일) 결국 인공지능을 돌리는 건 천연가스가 될 겁니다 (서병수 애널리스트)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+결국 인공지능을 돌리는 건 천연가스가 될 겁니다
+- 서병수 애널리스트]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250608.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250608.mp3</guid>
+      <pubDate>Sun, 08 Jun 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/7(토) 미국이 US스틸에 집착하는 진짜 이유 (박정호 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26917,20 +26928,6 @@ N번의 창업 실패를 겪고 다시 일어선 김정수 대표는
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230809.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230809.mp3</guid>
       <pubDate>Wed, 09 Aug 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 8/9(수) 혼인증여공제는 부의 대물림?.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 특례보금자리론 흥행, 금리상승 이어지나
-2. 혼인증여공제는 부의 대물림 지원 정책?
-3. 상반기 경상수지 흑자.. 수입 하락폭 큰 탓
-4. 중국 수출, 코로나 초기수준 급감
-
-출연: 양효걸 기자, 서은영 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230809.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230809.mp3</guid>
-      <pubDate>Wed, 09 Aug 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
