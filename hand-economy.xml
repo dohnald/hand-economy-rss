@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 6/9(월) AI 트렌드리포트 (김덕진 소장) | '쓰레기섬' 난지도 변천사 (김재원 역사학자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+'황금손'이 분석한 AI 혁명
+- 김덕진 IT커뮤니케이션연구소장
+
+2부
+[역사의 재원쌤]
+서울 쓰레기섬의 환골탈태
+- 김재원 역사커뮤니케이터 (가톨릭대 겸임교수)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250609.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250609.mp3</guid>
+      <pubDate>Mon, 09 Jun 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 6/9(월) 국민연금을 받는 근로소득자인데, 세금이 부담됩니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26902,29 +26919,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230810.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230810.mp3</guid>
       <pubDate>Thu, 10 Aug 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>협찬인가 - 너에게 향을 보낸다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[다양한 산업과 직업의 속이야기를 파헤쳐보는 (이것은 협찬인가 콘텐츠인가)
- 
-이번 화의 주인공은 시향지 배송 서비스를 하는 '퍼퓸 투데이(perfume today)'의 김정수 대표님 입니다.
-
-N번의 창업 실패를 겪고 다시 일어선 김정수 대표는
-2년 전, 고객이 원하는 향수를 뿌린 시향지를 배송하는 '퍼퓸 투데이'를 창업했습니다.
-
-무엇보다도 고객에게 맞는, 고객이 원하는 종류의 향기 추천이 강점입니다.
-
-많은 투자를 유치해, 이젠 향기 전문 데이터 기업으로 전환을 목표로 하고 있습니다.
-
-관심있는 청취자는 아래 홈페이지에서 구경 및 구매 가능합니다.
-(smartstore.naver.com/effortoflife)
-  
-(이것은 협찬인가 콘텐츠인가) 출연 문의는 hand-economy@naver.com 입니다.  ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230809.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230809.mp3</guid>
-      <pubDate>Wed, 09 Aug 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
