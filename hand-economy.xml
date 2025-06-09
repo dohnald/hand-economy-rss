@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 6/9(월) 빚 탕감 | 스테이블코인</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 이재명표 '배드뱅크' 검토.. 도덕적 해이 우려도 有
+2) 스테이블코인 발행사 서클, 상장 이틀 만에  247% 폭등
+3) 정책실장에 코인 친화 인사… '원화스테이블' 탄력받나
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자
+
+[친절한 경제]
+경제는 나쁜데
+왜 주가는 오르나요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250609.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250609.mp3</guid>
+      <pubDate>Mon, 09 Jun 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/8(일) 결국 인공지능을 돌리는 건 천연가스가 될 겁니다 (서병수 애널리스트)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26910,24 +26928,6 @@ N번의 창업 실패를 겪고 다시 일어선 김정수 대표는
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230809.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230809.mp3</guid>
       <pubDate>Wed, 09 Aug 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 8/9(수) 올여름, 파업의 바람이 분다.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-역시나 박정호 시즌 Ⅱ
-보이지 않는 신분제의 나라 '태국'
-- 오승훈 아나운서
-
-2)
-억울한 경제
-올 여름, 파업의 바람이 분다
-- 장내석 노무사
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230809.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230809.mp3</guid>
-      <pubDate>Wed, 09 Aug 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
