@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 6/13(금) 부동산TF | 은값 상승 | 中, 넥슨 인수설 | 예스24 해킹</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 정부, 부동산TF 회의 가동.. 규제 지역 지정할까?
+2) 은값 13년만 최고치.. 금 대체에 산업 수요도 ↑
+3) 텐센트, 20조 원에 넥슨 인수 검토
+4) ‘닷새째 먹통’ 예스24, 협조 없이 사태 키웠다
+- 박세훈 작가
+- 서영태 연합인포맥스 기자
+- 김현우 행복자산관리연구소 소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250613.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250613.mp3</guid>
+      <pubDate>Fri, 13 Jun 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/12(목) 미중 무역협상이 증시에 가져올 영향은 (이선엽 대표)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26900,20 +26916,6 @@ Reveiw & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230814.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230814.mp3</guid>
       <pubDate>Mon, 14 Aug 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 8/14(월) 국내 이란 동결자산 70억 달러, 이체 시작.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 국내 이란 동결자산, 이체 시작
-2. 중국 지도부의 '여름 비밀회의'
-3. 주담대 금리 소폭 반등
-+친절한 경제
-
-출연: 안승찬 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230814.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230814.mp3</guid>
-      <pubDate>Mon, 14 Aug 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
