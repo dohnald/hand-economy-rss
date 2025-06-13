@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (2부) 한번 더 패배</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (2부) 한번 더 패배]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_250613_2222.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_250613_2222.mp3</guid>
+      <pubDate>Fri, 13 Jun 2025 18:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (1부) 호기심 천국</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (1부) 호기심 천국]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_250613_1111.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_250613_1111.mp3</guid>
+      <pubDate>Fri, 13 Jun 2025 18:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>협찬인가 - 위험한 후배</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26908,35 +26926,6 @@ Reveiw & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230815.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230815.mp3</guid>
       <pubDate>Tue, 15 Aug 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 8/15(화) 험난한 세상, 재난 극복기.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-공부왕 이종훈
-버스의 시초.. 요금 인상 즈음에
-- 이종훈 작가
-
-2)키워드 경제
-험난한 세상, 재난 극복기
-- 남궁민 큐레이터]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230815.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230815.mp3</guid>
-      <pubDate>Tue, 15 Aug 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 8/15(화) 정부, 한은에서 100조 빌려 썼다.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. '50년 만기 주담대' 규제 시동
-2. 정부, 한은에서 100조 빌려 썼다
-3. CJ와 쿠팡의 '택배 전쟁'
-
-출연: 서은영 경제뉴스큐레이터, 남궁민 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230815.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230815.mp3</guid>
-      <pubDate>Tue, 15 Aug 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
