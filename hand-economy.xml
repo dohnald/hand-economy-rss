@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 6/16(월) 초지능 AI (김덕진 소장) | 서울 지하철의 역사 (김재원 역사학자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+메타가 사활 건 '초지능 AI'
+- 김덕진 IT커뮤니케이션연구소장
+
+2부
+[역사의 재원쌤]
+서울 지하철이 만든 돈의 길
+- 김재원 역사커뮤니케이터 (가톨릭대 겸임교수)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250616.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250616.mp3</guid>
+      <pubDate>Mon, 16 Jun 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 6/16(월) 양도세 예정신고가 뭔가요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26900,20 +26917,6 @@ Reveiw & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230817.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230817.mp3</guid>
       <pubDate>Thu, 17 Aug 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 8/17(목) 달러 강세·중국발 악재에 환율 급상승.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 중국발 악재에 환율 급상승
-2. 지지부진한 기업 구조조정 촉진법
-3. 'LH 주도' 도심복합사업 난항
-4. (어제 이어서..) '배당성장주 ETF'에 투자 몰려
-
-출연: 김현우 소장, 서대웅 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230817.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230817.mp3</guid>
-      <pubDate>Thu, 17 Aug 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
