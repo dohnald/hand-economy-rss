@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 6/17(화) 민생회복지원금 | 원-위안 동조화 | 中 뚫은 LG엔솔 | 김 수출 10억 달러</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 민생회복지원금 ‘최대 50만원’ 차등지급 검토
+2) 한은 “원화, 최근 위안화 동조 강해져“.. 배경은?
+3) LG엔솔, ‘철옹성’ 中 완성차와 조단위 계약
+4) ‘세계 1위’ K-김, 사상 첫 10억 달러 수출 전망
+- 김치형 경제뉴스 큐레이터
+- 조미현 한국경제신문 기자
+- 서영태 연합인포맥스 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250617.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250617.mp3</guid>
+      <pubDate>Tue, 17 Jun 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/16(월) 초지능 AI (김덕진 소장) | 서울 지하철의 역사 (김재원 역사학자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26900,23 +26916,6 @@ Reveiw & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230817.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230817.mp3</guid>
       <pubDate>Thu, 17 Aug 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 8/17(목) 맨해튼 프로젝트.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-이과식 경제
-맨해튼 프로젝트
-- 이독실 과학평론가
-
-2)
-책크리스트
-프로메테우스의 금속
-- 김치형 경제뉴스큐레이터]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230817.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230817.mp3</guid>
-      <pubDate>Thu, 17 Aug 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
