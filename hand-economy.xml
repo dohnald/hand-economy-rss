@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 6/18(수) 2차 전지 전망 (임성균 배터리다이브 전문위원) | 운동 증강 기술 (김태희 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[주가 왜 이래]
+배터리 업계엔 언제 볕이 들까
+- 임성균 배터리다이브 전문위원
+
+2부
+[사이언스가 머니]
+가제트 만능 팔을 갖고 싶나요
+- 김태희 과학동아 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250618.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250618.mp3</guid>
+      <pubDate>Wed, 18 Jun 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 6/18(수) 일시적 2주택 기한내에 재건축 예정 주택을 팔아야할까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26899,15 +26916,6 @@ X로 뭉쳐지는 '일론머스크'의 기행
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230818_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230818_2.mp3</guid>
       <pubDate>Fri, 18 Aug 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 유사 옥수수 행위</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230818_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230818_1.mp3</guid>
-      <pubDate>Fri, 18 Aug 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
