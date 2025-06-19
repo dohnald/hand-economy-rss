@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 6/19(목) 美 기준금리 동결 | 부동산 대책 | 美 출장길 막혔다</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美연준, 금리 또 동결… 관세 리스크에 인하 보류
+2) 정부, 부동산 과열에 ‘은행 자본 규제’ 카드 만지작
+3) 美 무비자 입국거부에 韓 기업 인력 수급 ‘빨간불’
+- 박세훈 작가
+- 조미현 한국경제신문 기자
+- 손석우 경제뉴스큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250619.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250619.mp3</guid>
+      <pubDate>Thu, 19 Jun 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/18(수) 2차 전지 전망 (임성균 배터리다이브 전문위원) | 운동 증강 기술 (김태희 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26907,15 +26922,6 @@ X로 뭉쳐지는 '일론머스크'의 기행
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230820.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230820.mp3</guid>
       <pubDate>Sun, 20 Aug 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 어미母진우</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230818_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230818_2.mp3</guid>
-      <pubDate>Fri, 18 Aug 2023 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
