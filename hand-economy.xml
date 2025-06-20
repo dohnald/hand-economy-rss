@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 6/20(금) 배드뱅크 | 제조업 데이터 | 장기보유주택 매도</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 정부, 배드뱅크 설치해 소상공인 빚 16조 탕감
+2) 韓 제조업 데이터에 美 AI기업들 ‘군침’ 흘린다
+3) 고령층, 서울에 20년 이상 보유 주택 내놓는다
+- 박세훈 작가
+- 서영태 연합인포맥스 기자
+- 김현우 행복자산관리연구소 소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250620.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250620.mp3</guid>
+      <pubDate>Fri, 20 Jun 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/19(목) 한일 '7광구' 협정 종료 임박, 우리에게 최선의 방안은? - 심상민 연구원 (아산정책연구원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26900,23 +26915,6 @@ X로 뭉쳐지는 '일론머스크'의 기행
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230821.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230821.mp3</guid>
       <pubDate>Mon, 21 Aug 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 8/21(월) 美 잭슨홀 미팅 전망.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-증시 열렸다
-美 잭슨홀 미팅 전망
-- 정광우 대표
-
-2)
-신기방기 레드칩
-'에비앙'은 이렇게 유명해졌다
-- 신기주 대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230821.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230821.mp3</guid>
-      <pubDate>Mon, 21 Aug 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
