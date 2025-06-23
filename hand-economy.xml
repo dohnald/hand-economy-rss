@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 6/23(월) AI가 만든 1인 유니콘 시대 (김덕진 소장) | 서울 영등포구 변천사 (김재원 역사학자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+1인 유니콘의 시대가 온다
+- 김덕진 IT 커뮤니케이션 연구소장
+
+2부
+[쩐설의김선생]
+식민지 조선의 실리콘밸리
+- 김재원 역사학자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250623.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250623.mp3</guid>
+      <pubDate>Mon, 23 Jun 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 6/23(월) 집주인이 바뀌어도 구두로 맺은 합의가 유효한가요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26953,24 +26970,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230824.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230824.mp3</guid>
       <pubDate>Thu, 24 Aug 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 8/24(목) 관성의 법칙을 이천년 동안 몰랐던 이유.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-이과식 경제
-관성의 법칙을 이천년 동안 몰랐던 이유
-- 이독실 과학평론가
-
-2)
-책크리스트
-투명인간 + 생명경제로의 전환
-장동석 출판평론가 
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230824.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230824.mp3</guid>
-      <pubDate>Thu, 24 Aug 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
