@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 6/25(수) 성공이 운빨이라는 걸 과학이 입증했습니다 - 이창욱 과학동아 기자</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1.2부
+성공이 운빨이라는 걸 과학이 입증했습니다 
+- 이창욱 과학동아 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250625.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250625.mp3</guid>
+      <pubDate>Wed, 25 Jun 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 6/25(수) 혼인신고 세액공제는 언제 받을 수 있나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26951,15 +26962,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230825_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230825_2.mp3</guid>
       <pubDate>Fri, 25 Aug 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 그건 아마 니가 생각한 색깔은 아닐 거야</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230825_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230825_1.mp3</guid>
-      <pubDate>Fri, 25 Aug 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
