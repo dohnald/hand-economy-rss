@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 6/25(수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250625.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250625.mp3</guid>
+      <pubDate>Wed, 25 Jun 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 6/25(수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26941,21 +26950,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230825_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230825_1.mp3</guid>
       <pubDate>Fri, 25 Aug 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 8/25(금) TDF 상품도 안전자산에 포함되나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. IRP계좌를 만들어서 화사에서 지원해주는 연금과 제 돈을 합쳐 연 900만원을 납입하고 있는데요, 안전자산을 30% 이상 의무적으로 보유해야 되더라구요. 
-그래서 저는 예금상품 30%와 나머지 70%는 ETF와 펀드 등으로 운용하고 있습니다.
-최근 디폴트옵션을 선택할 때 TDF상품과 예금상품이 함께 묶여있는 것으로 골랐는데요, 이때 TDF상품은 안전자산에 포함이 되는 건가요? 그렇지 않다면 현재 보유중인 예금상품이 만기기 됐을 때 어떻게 되는걸까요? 
-
-펀드나 ETF가 수익이 올라서 70% 비율을 초과하면 안전자산만 매수가 가능한 것 같더라구요.. 마지막으로 IRP계좌를 통한 적립금 운용과 관련한 주의점이나 꼭 숙지해야 할 사항들도 알려주세요!]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230825.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230825.mp3</guid>
-      <pubDate>Fri, 25 Aug 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
