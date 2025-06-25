@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 6/25(수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250625.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250625.mp3</guid>
+      <pubDate>Wed, 25 Jun 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/24(화) 이스라엘-이란 전쟁이 보여준 최첨단 무기의 신세계 - 김민석 국방안보포럼 연구위원</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26947,26 +26956,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230825.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230825.mp3</guid>
       <pubDate>Fri, 25 Aug 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 8/25(금) 잭슨홀 미팅에 쏠린 눈.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-Review & Preview
-- Re : 잭슨홀에 쏠린 눈.. 외
-- Pre : 美 상무부 장관, 중국 방문.. 외
-양효걸 기자
-
-2)
-글로벌 리포트
-- 미국, 고금리에 소형 주택 속출
-- 지방정부 부채 감당 안 되는 중국
-- 회사 CEO가 총리로 뽑힌 태국
-어예진 소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230825.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230825.mp3</guid>
-      <pubDate>Fri, 25 Aug 2023 11:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
