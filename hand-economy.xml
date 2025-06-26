@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 6/26(목) 닛산 경영위기 | 엔비디아 실적 | 단기임대제도 | 러시아 추가 제재</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1)  배달료 줄어든다? 민주당, 배달앱 수수료 상한제 추진
+2) “사실상 대출” 지적에 대기업 자금줄 ‘PRS’ 제동 걸렸다
+3) “스테이블코인, 코인런 우려”… 한은·BIS 잇단 경고
+- 손석우 경제뉴스 큐레이터
+- 나수지 한국경제신문 기자
+- 서영태 연합인포맥스 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250626.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250626.mp3</guid>
+      <pubDate>Thu, 26 Jun 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/25(수) 성공이 운빨이라는 걸 과학이 입증했습니다 - 이창욱 과학동아 기자</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26953,15 +26968,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230827.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230827.mp3</guid>
       <pubDate>Sun, 27 Aug 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 자기의 비린내</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230825_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230825_2.mp3</guid>
-      <pubDate>Fri, 25 Aug 2023 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
