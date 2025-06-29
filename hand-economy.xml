@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 6/29(일) 우리 직장 최악의 문제는 출구전략의 부재입니다 - 이철승 교수(서강대 사회학과)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+우리 직장 최악의 문제는 출구전략의 부재입니다 
+- 이철승 교수(서강대 사회학과)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250629.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250629.mp3</guid>
+      <pubDate>Sun, 29 Jun 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/28(토) 스테이블 코인의 시대, 유동성 쓰나미가 몰려온다? - 박정호 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26923,20 +26934,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230830.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230830.mp3</guid>
       <pubDate>Wed, 30 Aug 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 8/30(수) 중고거래도 현금영수증을 발급받을 수 있나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 가끔씩 중고거래 플랫폼을 이용해서 중고 물품을 합리적인 가격으로 구매하고 있습니다.
-그런데 필요한 물건 중에는 다소 비싼 물건도 간혹 있습니다. 하지만 중고거래 플랫폼에는 카드로 결제할 수 있는 시스템이 없다보니, 부담이 되더라도 별 수 없이 현금을 주고 구매할 수밖에 없는 경우가 대부분입니다. 
-
-그럼 현금을 사용한 소득공제라도 받고 싶은데, 만약 이렇게 현금을 주고 중고 물품을 사는 경우 판매자에게 현금영수증을 끊어달라고 이야기를 해도 되는 건지, 판매자가 어렵다고 하면 어쩔 수 없이 수긍해야 하는 건지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230830.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230830.mp3</guid>
-      <pubDate>Wed, 30 Aug 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
