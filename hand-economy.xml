@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 6/30(월) 마소-오픈AI 동맹 균열 (김덕진 소장) | 정주영 일대기 (김재원 역사학자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+마소 VS 오픈AI, 균열이 시작됐다?
+- 김덕진 소장 (IT커뮤니케이션 연구소)
+
+2부
+[쩐설의 김선생]
+한반도 최고의 아웃풋, 정주영
+- 김재원 역사학자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250630.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250630.mp3</guid>
+      <pubDate>Mon, 30 Jun 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 6/30(월) 노란우산우산공제를 어떻게 받아야 할까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26903,23 +26920,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230831.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230831.mp3</guid>
       <pubDate>Thu, 31 Aug 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 8/31(목) 아인슈타인은 왜 특별한가?.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-이과식 경제
-아인슈타인은 왜 특별한가?
-- 이독실 과학평론가
-
-2)
-책크리스트
-돈으로 살 수 없는 것들
-- 김치형 경제뉴스큐레이터]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230831.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230831.mp3</guid>
-      <pubDate>Thu, 31 Aug 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
