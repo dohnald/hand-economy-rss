@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 6/30(월) 노란우산우산공제를 어떻게 받아야 할까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 현재 편의점을 운영 중인데, 요새 경기도 안 좋고 나이도 들어서 폐업을 고민 중에 있습니다. 그러다 노란우산공제에 대해 궁금한 점이 있어 사연 보냅니다. 
+저희는 2012년에 노란우산을 가입하게 되었습니다. 가입기간이 길어지다보니 납입한 금액도 많아지고 이자도 천만원이 넘어가고 있습니다. 만약 폐업을 하게 되었을 경우 이 돈을 일시금으로 받아야 할지, 분할해서 받아야 할지 고민입니다. 세금부분이나 건강보험료 때문에 걱정이 되네요.
+분할해서 받을 경우 장점은 무엇이고, 분할기간은 어느 정도로 하는게 좋은지도 궁금합니다.
+어떤 사람은 폐업하면서 세금이나 건강보험 폭탄을 맞았다고 들어서요.. 납입할 때보다 받을 때가 중요한 것 같은데 도무지 알 수가 없습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250630.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250630.mp3</guid>
+      <pubDate>Mon, 30 Jun 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 6/30(월) 6.27 부동산 대책, 분석과 전망</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26907,21 +26920,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230831.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230831.mp3</guid>
       <pubDate>Thu, 31 Aug 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 8/31(목) 주택연금 지급한도 상향 조정.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 주택연금 지급한도 상향 조정
-2. 내년 전기차 보조금 소폭 축소
-3. 美 구인건수, 2년 5개월만에 최저치
-4. 특례보금자리론 금리, 두 달 연속 상승
-5. 독일, 경기부양용 법인세 감세 나서
-
-출연: 김현우 소장, 서은영 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230831.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230831.mp3</guid>
-      <pubDate>Thu, 31 Aug 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
