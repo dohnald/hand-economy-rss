@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 7/1(화) 관세 유예 만료 D-7 | 부동산 대책 가이드라인 | 전기차 전환지원금</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 상호관세 유예 만료 D-7.. 연장 가능성은?
+2) '6.27' 가이드라인 발표.. 신생아 대출 완화도 취소
+3) 전기차 전환지원금 신설.. 최대 200만원 추가 지원
+4) 오늘부터 헬스장·수영장 비용도 소득공제
+- 김치형 경제뉴스 큐레이터
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250701.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250701.mp3</guid>
+      <pubDate>Tue, 01 Jul 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/30(월) 마소-오픈AI 동맹 균열 (김덕진 소장) | 정주영 일대기 (김재원 역사학자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26906,20 +26922,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230901.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230901.mp3</guid>
       <pubDate>Fri, 01 Sep 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 8/31(목) 공무원연금 대상자가 국민연금 지원을 받을 수 있나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-저는 약 18년 간 공무원으로 근무하다 퇴직하고, 최근 한 민간기업에 취업했습니다. 
-공무원으로 10년 이상 근무했으니 공무원연금 대상자이고, 만 60세가 되는 2034년부터 연금 수령 예정입니다. 공무원 퇴직 후에는 국민연금 가입이 안 되는 걸로 알았는데, 국민연금 의무가입 대상자가 아니더라도 임의 가입이 가능하다는 사실을 알게 된 2년 전부터 매달 25만원의 국민연금보험료를 납부하고 있습니다.
-
-그러던 중 최근 민간기업에 취업한 건데요, 다른 사람들은 회사에서 보험료 절반을 부담해 주는데 저는 지원을 못 받더라구요. 회사에서도 제가 공무원연금 대상자라는 사실을 알고 있어서 그런지 입사할 때 국민연금 이야기는 한 적이 없고 저도 물어볼 생각을 못해서 지나갔는데, 혹시 회사로부터 국민연금 보험료 일부를 지원받을 수 있을까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230831.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230831.mp3</guid>
-      <pubDate>Thu, 31 Aug 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
