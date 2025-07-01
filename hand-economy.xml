@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/1(화) 수능 설계자가 말하는 대한민국 입시의 병폐 - 박도순 고려대 명예교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+수능 설계자가 말하는 대한민국 입시의 병폐
+- 박도순 고려대 명예교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250701.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250701.mp3</guid>
+      <pubDate>Tue, 01 Jul 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 7/1(화) 계약갱신 요구 거절 뒤 집을 팔면 안 되나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26897,27 +26908,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230901(1).mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230901(1).mp3</guid>
       <pubDate>Fri, 01 Sep 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 9/1(금) 10/2 임시공휴일 지정.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-Review & Preview
-- Re : 10/2 임시공휴일 지정.. 외
-- Pre : 특례보금자리론 금리 인상.. 외
-양효걸 기자
-
-2)
-글로벌 리포트
-- 친중 중동국가 차단하는 미국
-- 쿠데타에 쫓겨나는 아프리카 민주주의
-- 스위스 차명 계좌, 이젠 불가능?
-- 스스로 보험금 쌓는 석탄 회사들
-어예진 소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230901(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230901(1).mp3</guid>
-      <pubDate>Fri, 01 Sep 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
