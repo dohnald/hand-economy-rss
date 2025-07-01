@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 7/1(화) 계약갱신 요구 거절 뒤 집을 팔면 안 되나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 아파트 전세를 주고 있는데, 현재 세입자와의 계약기간이 만료되면 계약을 종료할 예정입니다. 현재 세입자는 계약갱신청구권을 사용하겠다고 했지만, 제가 실거주를 해야 하는 상황이라 거절하였습니다.
+그랬더니 제게 내용증명서류를 보내겠다고 하네요. 내용증명의 목적은 허위로 계약갱신 거절이 밝혀질 경우 추후 민사소송에 활용하기 위해서라고 합니다. 현재 세입자가 나가고 나면 제가 이 아파트에 실제로 거주할 예정인데요. 내용증명을 보낸다고 하니 혹시나 문제가 있을까봐 걱정입니다. 실제로 거주를 할 예정이지만 살다가보면 저도 예상치 못한 사정으로 이 집을 매도해야 할 수도 있을텐데요, 만약 매도를 하게 된다면 매도가 인정되는 구체적인 사유가 있는 건가요? 아니면, 저의 사정과 상관없이 매도할 경우 무조건 세입자에게 피해보상을 해야 하는 건가요? 또한, 이 집을 매도하기 위해서 실 거주 해야하는 의무기간이 있는 건지도 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250701.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250701.mp3</guid>
+      <pubDate>Tue, 01 Jul 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/1(화) 관세 유예 만료 D-7 | 부동산 대책 가이드라인 | 전기차 전환지원금</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26907,21 +26918,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230901(1).mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230901(1).mp3</guid>
       <pubDate>Fri, 01 Sep 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 9/1(금) 갈수록 커지는 세수 펑크.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 갈수록 커지는 세수 펑크
-2. 50년 만기 주담대, DSR은 40년으로 계산?
-3. 버스터미널 줄폐업에 재산세 감면 혜택
-4. EU, 러시아산 가스 수입 대폭 증가
-+친절한 경제
-
-출연: 김현우 소장, 이상은 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230901.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230901.mp3</guid>
-      <pubDate>Fri, 01 Sep 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
