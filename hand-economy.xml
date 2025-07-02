@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 7/2(수) 개인파산 후에도 증여를 받거나 돈을 빌릴 수 있나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 저희 친형이 어쩌다보니 개인파산을 하게 되었고, 이후엔 가족과 함께 월세를 살며 매월 일정금액을 변제하고 있습니다. 어머니는 힘들어 하는 형에게 따로 방을 얻을 수 있는 돈을 주려고 하십니다.
+파산을 신청한 형에게 증여가 가능한지, 증여를 하려면 세금은 어떻게 되는지도 궁금합니다. 만약 증여가 되지 않는다면 빌려줄 생각도 하시는데요, 가족간에도 차용증을 작성하고 돈을 빌려줄 수 있다고 들었는데, 파산 중인 상황에서도 돈을 빌려주는 것이 가능할까요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250702.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250702.mp3</guid>
+      <pubDate>Wed, 02 Jul 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/2(수) 약가 인하 정책 | 대기업 빚 돌려막기 | 태광산업 교환사채</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26904,15 +26915,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230901_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230901_2.mp3</guid>
       <pubDate>Fri, 01 Sep 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 시광이형 왔다. 적어라.</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230901_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230901_1.mp3</guid>
-      <pubDate>Fri, 01 Sep 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
