@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 7/3(목) 카드론 규제 | 트럼프 감세안 | 현대로템 K2 수출 | 건대CGV 펀드 상폐</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 카드론도 규제 포함… 서민 급전 창구 사라진다
+2) 트럼프 감세안에 반도체 웃고 전기차 울었다
+3) 현대로템, 폴란드에 K2 수출… 역대 최대 9조 규모
+4) ‘건대CGV 펀드’ 상장 폐지… 부동산 펀드 주의사항은
+- 박세훈 작가
+- 손석우 경제뉴스큐레이터
+- 김현우 행복자산관리연구소 소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250703.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250703.mp3</guid>
+      <pubDate>Thu, 03 Jul 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/2(수) 은행주 전망 (최정욱 하나증권 연구원) | 네오디뮴 자석 (박동현 과학동아 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26912,17 +26928,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230904.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230904.mp3</guid>
       <pubDate>Mon, 04 Sep 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 9/3(일) [연작 특집] 퓨처경제학 1회 - 볼 것의 미래</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[연작 특집 - 퓨처경제학 1회
-'볼 것의 미래'
-출연: 바바리안리서치 정희석 이사]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230903.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230903.mp3</guid>
-      <pubDate>Sun, 03 Sep 2023 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
