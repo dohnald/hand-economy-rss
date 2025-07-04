@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (2부) 사회적 지능</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (2부) 사회적 지능]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20250704_222.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20250704_222.mp3</guid>
+      <pubDate>Fri, 04 Jul 2025 19:03:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (1부) 코스피와 집값</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (1부) 코스피와 집값]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20250704_111.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20250704_111.mp3</guid>
+      <pubDate>Fri, 04 Jul 2025 19:01:00 +0900</pubDate>
+    </item>
+    <item>
       <title>협찬인가 - 때려치우고 싶은 날</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26918,31 +26936,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230906.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230906.mp3</guid>
       <pubDate>Wed, 06 Sep 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 9/6(수) 정부, 내년부터 개인투자 전용 국채 발행.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 정부, 내년부터 개인투자 전용 국채 발행
-2. 양극재로 번 돈, 중국으로 빠진다
-3. 화웨이 7나노 생산.. 미국 견제 실패했나
-
-출연: 양효걸 기자, 서은영 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230906.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230906.mp3</guid>
-      <pubDate>Wed, 06 Sep 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 9/5(화) 세액공제가 필요없어진 IRP, 언제 수령할까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 어머니가 6년 전에 가입하신 IRP가 있습니다. 
-당시 개인사업자라서 세액공제를 받으려고 매월 20만원씩 납입을 하셨는데요, 지금은 더 이상 세액공제를 받을 필요가 없으십니다. 그래서 이걸 해지하려고 하니까, IRP는 연금으로만 받아야 하는 거라며, 해지하면 지금까지 받은 세액공제까지 전부 토해내야 하는 거라고 하더라구요. 세금을 토해내지 않으려면 10년에 걸쳐 연금으로 받으면 되고 금액도 원하는 대로 뺄 수 있긴 한데, 1년에 1500만원을 넘기지 말라고 합니다. 어떻게 받는 게 가장 좋을까요? 당장에 생활비로 쓸 생각은 아니고, 해지해서 그 돈으로 예금을 하신다고 하셨는데, 어떤 식으로 하는 게 더 나은 방법일지 알려주시면 좋겠습니다. ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230905.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230905.mp3</guid>
-      <pubDate>Tue, 05 Sep 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
