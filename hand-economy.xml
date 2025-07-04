@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (4부) 하지만 늦었죠?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (4부) 하지만 늦었죠?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20250704_444.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20250704_444.mp3</guid>
+      <pubDate>Fri, 04 Jul 2025 19:11:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (3부) 불편한 이야기</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (3부) 불편한 이야기]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20250704_333.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20250704_333.mp3</guid>
+      <pubDate>Fri, 04 Jul 2025 19:07:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (2부) 사회적 지능</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26904,38 +26922,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230906.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230906.mp3</guid>
       <pubDate>Wed, 06 Sep 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 9/6(수) 전액인출한 변액보험, 다시 납입해야 할까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-직장생활 하면서 회사에 찾아오는 보험상품을 하나씩 가입해 둔 게 어느덧 만기가 되었습니다.
-저축보험의 낮은 이율로 목돈을 계속 넣어둬야 할지 고민 중인데요, 한 달에 10~20만원씩 넣은 거라 상품별 납입액이 아주 크진 않지만 그래도 목돈이라 앞으로 어떻게 해야할 지 조언을 구하고 싶습니다.
-총 세 가지 상품인데, 하나는 연 이율 2%짜리 저축보험이구요, 다른 하나는 연 이율 3%짜리 종신보험입니다. 
-
-가장 고민은 변액 유니버셜 보험인데요, 작년에 전액 인출해서 썼는데 6개월 안에 돈을 넣지 않으면 해지된다고 하더라구요. 비과세 계좌라는데, 돈을 다시 납입하고 유지할지, 아니면 해지를 할지 고민이 됩니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230906.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230906.mp3</guid>
-      <pubDate>Wed, 06 Sep 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 9/6(수) 그린란드는 얼마나 초록초록하길래.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-역시나 박정호
-자원의 보고, 그린란드
-- 오승훈 아나운서
-
-2)
-억울한 경제
-여성인력 활용법, '모성보호방안'
-- 장내석 노무사]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230906.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230906.mp3</guid>
-      <pubDate>Wed, 06 Sep 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
