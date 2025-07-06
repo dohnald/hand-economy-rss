@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/5(토) 서울 집값 잡으려면 여기서 멈추면 안 됩니다 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+서울 집값 잡으려면 여기서 멈추면 안 됩니다 
+- 박정호 명지대 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250705.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250705.mp3</guid>
+      <pubDate>Sat, 05 Jul 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/4(금) 항공권 가격의 비밀 (이종훈 작가)ㅣ미-말레이 쓰레기 전쟁 | 中, 티베트 문화 침투 | 日 성씨 찾기 운동 (한경제 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26909,19 +26920,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230907.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230907.mp3</guid>
       <pubDate>Thu, 07 Sep 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 9/7(목) 사우디·러 감산 연장에 국제유가 또 상승.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 사우디·러 감산 연장에 국제유가 또 상승
-2. 경기, 지분적립형 공공주택 도입
-3. EU, '빅테크 특별규제' 삼성만 제외
-
-출연: 김현우 소장, 서은영 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230907.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230907.mp3</guid>
-      <pubDate>Thu, 07 Sep 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
