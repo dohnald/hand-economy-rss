@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 7/8(화) 부모님이 보험료를 내주신 보험의 세금은?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요, 오랫 동안 가입한 저축성 보험 때문에 고민이 있어 사연 남겨 봅니다. 저는 2014년에 어머니께서 가입해 주신 저축성 보험을 2021년에 물려받아서 지금까지 유지 중입니다. 만기는 2029년인데요, 물려주시기 전까지는 어머니가 보험료를 내시다가, 물려받은 뒤부터는 제가 보험료를 내고 있습니다. 가입은 어머니가 해주셨지만 가입시점부터 계약자, 피보험자, 수익자 모두 제 이름으로 되어있었습니다. 보험의 이율은 3.8% 수준이고 저축성보험 비과세 조건인 모두 충족한 상태입니다. 이 보험을 계속 유지할지, 중도해지해서 다른 금융상품에 투자하는게 나을지 고민인데요, 어떤 기준으로 판단을 해야할까요?
+또, 만약 중도해지시 과세당국에서 증여로 볼 수 있을까요? 작년에 태어난 아이가 있는데, 증여로 본다면 혼인출산 증여공제를 적용받을 수 있을지도 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250708.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250708.mp3</guid>
+      <pubDate>Tue, 08 Jul 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/8(화) 트럼프, 25% 관세 통보 | 식품 할인행사 | 쌀값 급등 | 에어컨 냉매 값↑ | 중국 광산 사재기</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26917,15 +26928,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230910.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230910.mp3</guid>
       <pubDate>Sun, 10 Sep 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 마크롱과 메르켈</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230908_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230908_2.mp3</guid>
-      <pubDate>Fri, 08 Sep 2023 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
