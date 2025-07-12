@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/11(금) 대한민국 급식 변천사 (이종훈 작가) | 멕시코 반미시위 | 독일 징병제 부활 검토 | 금이 키운 아프리카 군사정권 (한경제 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[공부왕 이종훈]
+대한민국 급식 변천사
+- 이종훈 아이러브스포츠 작가
+
+2부
+[글로벌리포트]
+독일, 징병제 부활시킨다?
+- 한경제 한국경제신문 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250711.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250711.mp3</guid>
+      <pubDate>Fri, 11 Jul 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (4부) 여름휴가</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26884,19 +26901,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230915.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230915.mp3</guid>
       <pubDate>Fri, 15 Sep 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 9/14(목) 사망보험금을 줄이면 변액보험 적립률이 올라가나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 저는 54세 여성 청취자입니다. 
-내년 3월이면 10년 납입이 끝나는 변액 유니버설 종신보험을 가입하고 있습니다. 그런데 현재 적립률을 확인해 보니 69%도 채 안 됩니다. 설계사 분께서는 사망보험금이 5억원이라서 적립률이 낮다며 사망보험금을 3억으로 낮추면 적립률이 높아질 거라고 합니다. 해약도 못하고 울며 겨자먹기로 유지하기는 하는데 사망보험금을 줄이는게 나을까요? 참고로 전 사망보험금이 딱히 필요하지 않습니다. 그냥 살아있을 때 쓸 목적이거든요. 우편으로 안내장이 왔는데 너무 복잡해서 무슨 말인지 하나도 모르겠습니다.
-안내장이 무슨 내용인지, 앞으로 어떻게 해야될지 제발 알려주세요~]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230914.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230914.mp3</guid>
-      <pubDate>Thu, 14 Sep 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
