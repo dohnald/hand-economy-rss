@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/14(월) 오픈AI의 위기 (김덕진 소장) | 정주영 일대기Ⅲ (김재원 역사학자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+오픈AI 무너지기 직전?
+- 김덕진 IT커뮤니케이션연구소 소장
+
+2부
+[쩐설의 김선생]
+정주영 Ⅲ: 포니와 중동 신화
+- 김재원 역사하자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250714.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250714.mp3</guid>
+      <pubDate>Mon, 14 Jul 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 7/14(월) 예전에 가입한 청약예금을 전환해도 될까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26888,15 +26905,6 @@ OTT 폭풍 속 영화관의 생존법
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230915_3.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230915_3.mp3</guid>
       <pubDate>Fri, 15 Sep 2023 12:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 어디선가 반갑잖은 전화벨이 울리고</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230915_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230915_2.mp3</guid>
-      <pubDate>Fri, 15 Sep 2023 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
