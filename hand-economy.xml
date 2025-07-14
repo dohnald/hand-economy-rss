@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 7/14(월) 예전에 가입한 청약예금을 전환해도 될까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 2002년 7월에 주택청약예금 통장을 가입한 뒤 현재까지 보유 중입니다.
+그런데 이번에 주택청약종합저축 통장으로 전환을 해도 된다는 얘기를 들어서 궁금한 점이 있습니다. 현재 제가 가지고 있는 주택청약예금은 민영주택에만 청약이 가능하고 공공주택에는 청약이 불가능한데, 주택청약종합저축으로 전환하면 어떻게 되는 걸까요?
+전환을 하더라도 민영주택 청약시 가점은 그대로 유지되면서 공공주택 청약도 가능해진다고 하던데, 그럼 전환하는게 유리한 건가요?
+만약 전환한다면 월 납입금은 얼마로 해야할까요? 참고로 현재 수원에 거주 중이고 통장에 들어있는 예치금은 500만원입니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250714.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250714.mp3</guid>
+      <pubDate>Mon, 14 Jul 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/14(월) EU·멕시코 관세 | 크립토위크 | 아트테크 사기</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26884,15 +26897,6 @@ OTT 폭풍 속 영화관의 생존법
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230915_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230915_2.mp3</guid>
       <pubDate>Fri, 15 Sep 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) '빠유'로 할 수 있는 이야기 모음zip.</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230915_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230915_1.mp3</guid>
-      <pubDate>Fri, 15 Sep 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
