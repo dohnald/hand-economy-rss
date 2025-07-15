@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/15(화) 유럽 진출한 K-원전, 중·러를 넘어서야 합니다 - 최준영 전문위원 (법무법인 율촌)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+유럽 진출한 K-원전
+중·러를 넘어서야 합니다
+- 최준영 전문위원 (법무법인 율촌)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250715.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250715.mp3</guid>
+      <pubDate>Tue, 15 Jul 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 7/15(화) 부모님의 재산을 남동생이 모두 상속받는게 맞나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26894,19 +26906,6 @@ OTT 폭풍 속 영화관의 생존법
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230918.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230918.mp3</guid>
       <pubDate>Mon, 18 Sep 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 9/18(월) 美 완성차 빅3, 동시 파업 돌입.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 美 완성차 빅3, 동시 파업 돌입
-2. 인공보석 등장에 다이아몬드값 급락
-+ 친절한 경제
-
-출연: 안승찬 기자, 양효걸 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230918.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230918.mp3</guid>
-      <pubDate>Mon, 18 Sep 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
