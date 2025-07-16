@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/16(수) 우리가 저축한 주택 청약이 집값을 올리고 있습니다 - 박준 교수(서울시립대 국제도시과학대학원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+우리가 저축한 주택 청약이 
+집값을 올리고 있습니다 
+- 박준 교수(서울시립대 국제도시과학대학원)
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250716.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250716.mp3</guid>
+      <pubDate>Wed, 16 Jul 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 7/16(수) 주택임대사업자인데, 부모님이 무상거주해도 되나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26894,19 +26907,6 @@ OTT 폭풍 속 영화관의 생존법
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230919.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230919.mp3</guid>
       <pubDate>Tue, 19 Sep 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 9/19(화) 세수결손 역대 최대 예측.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 세수결손 역대 최대 예측
-2. ‘레지던스’ 관련 규정 일부 조정
-3. 인터넷은행이 빠진 ‘건전성 딜레마’
-
-출연: 양효걸 기자, 남궁민 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230919.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230919.mp3</guid>
-      <pubDate>Tue, 19 Sep 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
