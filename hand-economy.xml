@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 7/16(수) 주택임대사업자인데, 부모님이 무상거주해도 되나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 저는 현재 주택임대사업자로 서울에 아파트를 한 채 갖고 있는데요, 세입자가 10월에 나간다고 해서, 그 집에 시골에 계신 시어머니를 모셔올 계획입니다.
+시어머니는 혼자 시골에 계시는데 점점 주변 친구들이 돌아가시거나, 요양원으로 들어가셔서 그 빈자리가 너무 크게 느껴지시는 것 같아서 서울로 모시려고 합니다. 
+그런데 주택임대사업자이면 가족 간에도 표준임대차 계약서를 쓰고 보증금과 월세를 받아야 한다고 하더라구요.
+어머니 생활비를 4명의 자식들이 조금씩 드리는 상황인데, 보증금부터 월세까지 법의 테두리 안에서 어떻게 정리를 하면 되는 걸까요? 내년 11월이 주택임대사업자 만료인데, 만료 이후에는 보증금과 월세 없이 모셔도 되는 걸까요? 그냥 모시면 되는 줄 알았다가 법적인 제약이 있다는 것에 당황스럽고 머리가 복잡합니다. ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250716.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250716.mp3</guid>
+      <pubDate>Wed, 16 Jul 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/16(수) SGI, 장애 복구 지연 | 日 국채금리 급등 | 中 수출길 열린 엔비디아 | 유튜브 라이트 요금제</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26894,21 +26907,6 @@ OTT 폭풍 속 영화관의 생존법
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230919.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230919.mp3</guid>
       <pubDate>Tue, 19 Sep 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 9/18(월) 월급이 매달 달라요.. 최저임금법 위반 아닌가요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 저는 중소기업에서 근무하다 규모가 좀 더 큰 회사의 정규직으로 취업해 1년 정도 근무 중인 손경제 애청자입니다. 어렵게 이직을 했지만 요즘 고민이 생겼습니다.
-
-저희 회사는 수당을 얼마나 받는지에 따라 매달 월급이 다르게 나옵니다. 수당이 없는 달은 세전 180만원 정도구요, 수당이 있어 월급이 많이 나오는 달은 세전 250만원 정도 됩니다. 월급이 적은 달은 이전에 다니던 중소기업보다 수령액이 적습니다. 게다가 중소기업 재직 당시엔 소득세 감면 혜택도 있었는데, 지금은 그런 혜택도 받지 못하고 있구요.
-
-정규직의 최저임금을 계산할 땐 연봉으로 계산하는 건가요? 물어보니, 계약직은 법 때문에 최저임금을 맞춰주지만, 정규직은 매달 맞춰줄 필요가 없다고 하는데, 이 말이 맞는지도 궁금합니다. 소중하게 얻은 기회인데 제가 너무 배부른 생각일까 고민이 되어 사연보냅니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230918.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230918.mp3</guid>
-      <pubDate>Mon, 18 Sep 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
