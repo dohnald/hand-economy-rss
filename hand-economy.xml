@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/18(금) 대한민국 급식 변천사Ⅱ (이종훈 작가) | 장벽 쌓는 유럽 | 이탈리아 커피값 급등 | 유선전화 생명력 (한경제 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[공부왕 이종훈]
+세계가 부러워하는 K-급식
+- 이종훈 아이러브스포츠 작가
+
+2부
+[글로벌리포트]
+국경 없는 유럽, 이제 끝?
+- 한경제 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250718.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250718.mp3</guid>
+      <pubDate>Fri, 18 Jul 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (4부) 아이디어</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26855,21 +26872,6 @@ K-영화관의 변천사
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230922_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230922_1.mp3</guid>
       <pubDate>Fri, 22 Sep 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 9/22(금) 결혼 전 청약 취소, 결혼 후에도 영향이 있나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 매일 청취만 하다가 이렇게 글을 남기게 되었습니다.
-제가 얼마 전 특별공급으로 청약을 신청했다가 당첨이 됐는데, 마음에 들지 않아 결국 취소를 했습니다. 
-
-그런데 이렇게 취소를 하면 5년 정도는 당첨에 제한이 있다고 하더라구요.
-남자친구와 결혼을 앞두고 있는데, 결혼을 하게 되면 재당첨 제한이 남자친구에게도 해당되는 건지 걱정이 됩니다. 청약을 신청할 수 있는 주택도 다양한데, 어떻게 적용되는지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230922.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230922.mp3</guid>
-      <pubDate>Fri, 22 Sep 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
