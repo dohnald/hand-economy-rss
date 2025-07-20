@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/20(일) 인공지능 시대에 필요한 교육, 그시절 밥상교육이 옳았습니다 - 폴킴 교수 (전 스탠포드 교육대학원 부학장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1.2부
+인공지능 시대에 필요한 교육, 그시절 밥상교육이 옳았습니다 
+- 폴킴 교수 (전 스탠포드 교육대학원 부학장)
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250720.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250720.mp3</guid>
+      <pubDate>Sun, 20 Jul 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/19(토) 큰 돈 되는 이벤트 한국에선 망하는 이유 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26867,15 +26879,6 @@ K-영화관의 변천사
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230924.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230924.mp3</guid>
       <pubDate>Sun, 24 Sep 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) RG? RG!</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230922_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230922_2.mp3</guid>
-      <pubDate>Fri, 22 Sep 2023 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
