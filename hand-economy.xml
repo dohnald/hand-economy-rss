@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/19(토) 큰 돈 되는 이벤트 한국에선 망하는 이유 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+큰 돈 되는 이벤트 
+한국에선 망하는 이유
+- 박정호 명지대 교수
+W. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250719.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250719.mp3</guid>
+      <pubDate>Sat, 19 Jul 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/18(금) 대한민국 급식 변천사Ⅱ (이종훈 작가) | 장벽 쌓는 유럽 | 이탈리아 커피값 급등 | 유선전화 생명력 (한경제 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26863,15 +26876,6 @@ K-영화관의 변천사
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230922_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230922_2.mp3</guid>
       <pubDate>Fri, 22 Sep 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 에피소드 발골력</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230922_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230922_1.mp3</guid>
-      <pubDate>Fri, 22 Sep 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
