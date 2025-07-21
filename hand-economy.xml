@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 7/21(월) 국가대표 AI | 스위스 프랑 | 美, 태아 선별 논란</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) "국대 AI" 공모, 2곳 남겨 GPU 몰아준다
+2) 달러 약세에 ‘안전자산’ 스위스 프랑 뜬다
+3) 美 스타트업 유전자 검사, 태아 선별 논란
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자
+
+[친절한 경제]
+주식 판 돈은
+왜 이틀 뒤 나오나요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250721.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250721.mp3</guid>
+      <pubDate>Mon, 21 Jul 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/20(일) 인공지능 시대에 필요한 교육, 그시절 밥상교육이 옳았습니다 - 폴킴 교수 (전 스탠포드 교육대학원 부학장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26862,23 +26880,6 @@ K-영화관의 변천사
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_0925.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_0925.mp3</guid>
       <pubDate>Mon, 25 Sep 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 9/24(일) 서로 이름이 바뀐 ‘그린란드’와 ‘아이슬란드’</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-주간 손경제 플러스: 책크리스트
-모비딕 + 석유전쟁
-- 장동석 출판평론가 
-
-2)
-지리(地理)는 경제사(史)
-서로 이름 바뀐 '그린란드'와 '아이슬란드'
-- 한영준 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230924.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230924.mp3</guid>
-      <pubDate>Sun, 24 Sep 2023 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
