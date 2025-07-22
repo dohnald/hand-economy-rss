@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/22(화) 우리도 EU 같은 한일 경제 공동체가 필요합니다 - 박성빈 교수 (아주대 일본정책연구센터장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+우리도 EU 같은 한일 경제 공동체가 필요합니다 
+- 박성빈 교수 (아주대 일본정책연구센터장)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250722.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250722.mp3</guid>
+      <pubDate>Tue, 22 Jul 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 7/22(화) 거주지 외 다른 지역에 청약을 넣을 수 있나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26862,23 +26873,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230926.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230926.mp3</guid>
       <pubDate>Tue, 26 Sep 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 9/26(화) 국가도 서로 이별한다.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-공부왕 이종훈
-K-영화관의 변천사
-- 이종훈 작가
-
-2)
-키워드 경제
-국가도 서로 이별한다
-- 남궁민 경제뉴스큐레이터 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230926.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230926.mp3</guid>
-      <pubDate>Tue, 26 Sep 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
