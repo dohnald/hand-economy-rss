@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 7/22(화) 감액배당 과세 | RE100 막는 전력구매제 | 에어비앤비 규제</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 감액배당, 대주주한테만 세금 매기나
+2) 재생에너지 쓰면, 값싼 구역전기 못 쓴다
+3) 공유 숙박 플랫폼, 세 달 뒤 불법 숙소 퇴출 
+- 김치형 경제뉴스 큐레이터
+- 조미현 한국경제신문 기자
+- 정지서 연합인포맥스 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250722.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250722.mp3</guid>
+      <pubDate>Tue, 22 Jul 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/21(월) 챗GPT 에이전트 (김덕진 소장) | 정주영 일대기Ⅳ (김재원 역사학자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26863,21 +26878,6 @@ K-영화관의 변천사
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230926.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230926.mp3</guid>
       <pubDate>Tue, 26 Sep 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 9/25(월) 퇴직연금을 도입하면 쌓인 퇴직금은 어떻게 되나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 손경제 유니버스를 매일 잘 듣고 있는 50대 직장인입니다. 
-회사가 최근 퇴직연금을 도입해서, 퇴직연금 계좌로 매월 25만원 씩 입금이 되고 있습니다.
-제가 알기로는 1년에 한 번씩 한 달치 급여만큼 입금이 되어야 하는 것으로 알고 있는데, 혹시 제가 잘못 알고 있는 걸까요? 매월 입금되는 것이 맞다면, 세전 한 달치 월급을 12개월로 나누어서 입금해 주는 거겠죠?
-만약, 중간에 월급이 인상되면 인상된 급여로 계산해서 처리되는지도 궁금합니다.
-끝으로, 퇴직급여를 도입하기 전까지 쌓였던 퇴직금은 어떻게 되는지도 알려주세요!]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economyconsult_0925.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economyconsult_0925.mp3</guid>
-      <pubDate>Mon, 25 Sep 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
