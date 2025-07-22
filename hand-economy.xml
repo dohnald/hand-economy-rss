@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 7/22(화) 거주지 외 다른 지역에 청약을 넣을 수 있나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 부산에서 태어나 40년 넘게 거주하다가, 공무원인 아내는 직장 때문에 대전으로 이사하고 저는 작년 7월에 직장근처인 창원으로 이사 했습니다.
+무주택자라서 부산에 청약을 신청하고자하는데, 그러려면 최근 2년 동안 부산에 거주를 해야 한다고 들었습니다. 그렇다면 제가 다시 부산으로 집 주소를 옮기고 2년 뒤에야 청약 신청을 할 수 있는 건가요?
+혹시 다른 방법은 없는지 궁금합니다. 
+그리고 만약 부산이 아닌 다른 지역에 청약을 신청하려면, 마찬가지로 그 지역으로 주소를 옮기고 2년이 지나야 신청할 수 있는건가요?
+혹시 예외적으로 거주를 하지 않아도 되는 조건이 있는지도 알고 싶습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250722.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250722.mp3</guid>
+      <pubDate>Tue, 22 Jul 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/22(화) 감액배당 과세 | RE100 막는 전력구매제 | 에어비앤비 규제</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26865,19 +26879,6 @@ K-영화관의 변천사
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230926.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230926.mp3</guid>
       <pubDate>Tue, 26 Sep 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 9/26(화) 주담대 갈아타기 쉬워진다.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 주담대 갈아타기 쉬워진다
-2. 정부, “생활숙박시설 주택 아냐”
-3. 겨울 앞두고 경유값 상승 신호
-
-출연: 양효걸 기자, 남궁민 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230926.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230926.mp3</guid>
-      <pubDate>Tue, 26 Sep 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
