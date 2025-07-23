@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/23(수) 가상자산 상승 배경 (백훈종 스매시파이 대표) | 아주 새로운 색 '올로' (이창욱 과학동아 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[주가 왜 이래]
+비트·이더·리플 왜 다 오르나
+- 백훈종 스매시파이 대표
+
+
+2부
+[사이언스가 머니]
+세상에 없던 색깔 '올로'
+- 이창욱 과학동아 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250723.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250723.mp3</guid>
+      <pubDate>Wed, 23 Jul 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 7/23(수) 예탁증권제도가 무엇인가요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26859,19 +26877,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230927.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20230927.mp3</guid>
       <pubDate>Wed, 27 Sep 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 9/27(수) 기초연금은 누가 받을 수 있나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하십니까? 기초연금을 받을 수 있는 자격에 대해 자세히 알고 싶습니다.
-
-예를 들어, 소득은 얼마까지 있어도 괜찮은지, 은행 예금이나 부동산은 얼마까지 보유하고 있으면 연금을 받을 수 있는지 궁금합니다. 만약 기초연금을 받게 되면, 은행에 예적금 같은 걸 가입해서 재산을 늘리는 건 할 수 없는지도 알고 싶습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230927.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230927.mp3</guid>
-      <pubDate>Wed, 27 Sep 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
