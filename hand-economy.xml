@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 7/23(수) 예탁증권제도가 무엇인가요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 저희 어머니께서 어떤 회사의 비상장주식을 3500만원 어치를 매수해서 갖고 계시는데요, 최근 그 주식에 관련된 안내문자를 받으셨습니다.
+내용은 통일주권 발행절차를 진행한다면서, 예탁증권제도 도입을 추진하게 되었으니 홈페이지에서 내용을 확인하고 관련서류를 제출하라는 내용입니다. 홈페이지에서 관련 서류를 확인해보니, 증권계좌 캡쳐 화면과 신분증을 보내라고 하는데요, 이 회사가 실제로 존재하는 회사인지, 진짜 비상장 주식이 있기는 한 건지, 그리고 문자의 내용대로 예탁증권제도 도입이란 걸 하려면 해당 서류가 필요한 게 맞는 것인지 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250723.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250723.mp3</guid>
+      <pubDate>Wed, 23 Jul 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/23(수) 대주주 양도세 기준 복원 | 자동차보험 개정 | ‘탈런던‘하는 英 기업들 | 민생쿠폰 당근거래</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26861,23 +26872,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230927.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20230927.mp3</guid>
       <pubDate>Wed, 27 Sep 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 9/27(수) 명절은 ‘유급’휴일입니다.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-신기방기 레드칩
-월스트리트의 황제, JP모건
-- 신기주 대표
-
-2)
-억울한 경제
-명절은 ‘유급’휴일입니다
-- 장내석 노무사 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230927.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230927.mp3</guid>
-      <pubDate>Wed, 27 Sep 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
