@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/24(목) 미국 원전주 랠리, 시작에 불과하다? - 서병수 애널리스트</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+미국 원전주 랠리, 시작에 불과하다? 
+- 서병수 애널리스트]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250724.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250724.mp3</guid>
+      <pubDate>Thu, 24 Jul 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 7/24(목) 전세보증보험 가입 가능여부를 미리 알 수 있는 방법은?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26867,15 +26878,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230929.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230929.mp3</guid>
       <pubDate>Fri, 29 Sep 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - 가짜 고마움</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230928_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20230928_1.mp3</guid>
-      <pubDate>Thu, 28 Sep 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
