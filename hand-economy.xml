@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 7/25(금) 성장률 반등 | 한미 협상 | 전세보증 개선안 | 밈주식 열풍</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 2분기 성장률 0.6% 반등… 역성장 벗어났다
+2) 한미 ‘2+2 협의’ 취소… 산업장관 협상은 예정대로
+3) 전세보증 개선 두고 “보증 축소해야” vs “임차인 부담“
+4) 하룻밤새 급등락.. 다시 시작된 밈주식 열풍
+- 박세훈 작가
+- 김현우 행복자산관리연구소 소장
+- 서영태 연합인포맥스 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250725.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250725.mp3</guid>
+      <pubDate>Fri, 25 Jul 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/24(목) 미국 원전주 랠리, 시작에 불과하다? - 서병수 애널리스트</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26866,18 +26882,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231001.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231001.mp3</guid>
       <pubDate>Sun, 01 Oct 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 9/29(금) 추석 특집 - 돈이 되는 '달' 이야기</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[추석 특집 - 달과 경제]
-돈이 되는 '달' 이야기  
-
-출연: 이독실 과학 평론가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230929.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20230929.mp3</guid>
-      <pubDate>Fri, 29 Sep 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
