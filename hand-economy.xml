@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/28(월) 메타 AI (김덕진 소장) | 정주영 일대기Ⅴ(김재원 역사학자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+메타의 AI는 뭔가 다르다
+- 김덕진 소장 (IT커뮤니케이션 연구소)
+
+2부
+[쩐설의김선생]
+정주영 Ⅴ: 현대家 왕자의 난
+- 김재원 역사학자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250728.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250728.mp3</guid>
+      <pubDate>Mon, 28 Jul 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 7/28(월) 이사를 가야하는데 보증금을 못 돌려준다고 합니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26833,24 +26850,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231005(1).mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231005(1).mp3</guid>
       <pubDate>Thu, 05 Oct 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>협찬인가 - 방심하면 길을 잃는다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[다양한 산업과 직업의 속이야기를 파헤쳐보는 (이것은 협찬인가 콘텐츠인가) 
- 
-이번 화의 주인공은 조사료 수입 판매 업체 '인터피드'의 이현길 대표, 남미라 실장님 입니다.
-
-조사료는 초식동물이 먹는 사료이며, 여러가지 이유로 미국산이 가축은 물론 축주도 선호한다고 합니다.
-
-사업은 자리를 잡아서 큰 욕심은 없으신데, 본인이 하는 사료 관련 유튜브가 흥했으면 좋겠다고 하는데요.
-현재 1400명 구독자를 자랑하는 유튜브 '피드맨'(www.youtube.com/@feedman_) 많은 사랑 부탁드립니다.
- 
-(이것은 협찬인가 콘텐츠인가) 출연 문의는 hand-economy@naver.com 입니다.  ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20231004.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20231004.mp3</guid>
-      <pubDate>Wed, 04 Oct 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
