@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 7/29(화) 국민성장펀드 150조 | 삼성-테슬라 23조 계약 | 마스가(MASGA) 프로젝트</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) ‘100조 → 150조+α’ 국민성장펀드 판 키운다
+2) 삼성전자, 테슬라와 23조 규모 파운드리 수주
+3) 정부, 美에 수십조 조선업 협력 마스가(MASGA) 제안
+- 김치형 경제뉴스 큐레이터
+- 하수정 경제뉴스 큐레이터
+- 정지서 연합인포맥스 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250729.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250729.mp3</guid>
+      <pubDate>Tue, 29 Jul 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/28(월) 메타 AI (김덕진 소장) | 정주영 일대기Ⅴ(김재원 역사학자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26836,20 +26851,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231005.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231005.mp3</guid>
       <pubDate>Thu, 05 Oct 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 10/5(목) 美 10년채 금리, 16년 만에 최고치.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 美 10년채 금리, 16년 만에 최고치
-2. 메모리 가격 다시 반등하나  
-3. 청약 당첨 후 취소 ‘사전방지책’ 만든다
-4. 9월 소비자물가지수 3.7%
-
-출연: 김현우 소장, 서은영 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231005(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231005(1).mp3</guid>
-      <pubDate>Thu, 05 Oct 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
