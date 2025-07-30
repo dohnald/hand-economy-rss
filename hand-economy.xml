@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/30(수) 자동차 산업 전망 (유지웅 연구위원) | 난기류 급증 (박동현 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[주가 왜 이래]
+日·EU는 선방, 현대차 어쩌나
+- 유지웅 연구위원
+
+2부
+[사이언스가 머니]
+비행기가 더 위험해집니다
+- 박동현 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250730.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250730.mp3</guid>
+      <pubDate>Wed, 30 Jul 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 7/30(수) 1주택이면서 분양권을 갖고 있는데, 잔금대출이 될까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26825,21 +26842,6 @@ DTI규제를 고려한다면 그냥 특례보금자리론으로만 대출을 받
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231006_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231006_1.mp3</guid>
       <pubDate>Fri, 06 Oct 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 10/6(금) 20대 청년이 청약에 도전하려면?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-매일 아침 손경제를 들으며 출근길을 함께 하고 있습니다. 얼마 전 상담소에서 청약통장에 대한 사연을 듣다가, 청약으로 한 곳에서 오래 거주하고 싶어 사연을 보냅니다. 
-
-저는 무주택자이고 현재 남동생과 서울에 같이 거주하고 있으며 세대원으로 있습니다. 95년생으로 2009년 5월에 주택청약 종합저축을 가입해, 매달 2만원씩 납입해서 현재 342만원이 있습니다. 그런데 라디오를 듣고 관련 서적들을 보니 지역에 따른 최소 납입금액이 있고, 일정 금액은 넣어두는 것이 좋다고 들었습니다. 
-
-청약통장은 한 달에 10만원을 초과해선 납입이 안 되지만, 중지를 시켰다가 한 번에 내면 낸 것으로 인정된다고 알고 있습니다. 그럼 저는 차라리 중지를 하고 내년을 바라보며 한 번에 돈을 내는 것이 나을까요? 아니면 현재부터라도 10만원씩 납입을 하는 것이 좋을까요? 올해 하반기부터 청약을 넣어보고자 간절히 여쭤봅니다!]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231006.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231006.mp3</guid>
-      <pubDate>Fri, 06 Oct 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
