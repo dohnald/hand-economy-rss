@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 7/31(목) 잔금지급일이 변경되면 신고를 따로 해야 되나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 7월말 아내와 공동명의로 50%씩 가지고 있는 주택을 매도할 예정입니다.
+계약은 6월에 했구요, 관할 주민센터에 계약서를 바탕으로 거래 신고를 했습니다. 그런데 만약 잔금일이 예정보다 당겨질 경우 거래 신고를 다시해야 하나요? 아니면 수정신고만 해도 될까요?
+어떤 방법으로든 신고를 해야 한다면 언제까지 해야 되는지, 어떠한 변경 사유들이 발생했을 때 추가 신고를 해야 하는지 궁금합니다. 
+추가로, 아내와 공동명의다 보니 증여세가 걱정인데요, 잔금을 받을 때 각자의 통장에 반반씩 나누어 받는 게 향후 증여세 이슈에서 안전할 수 있는지도 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250731.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250731.mp3</guid>
+      <pubDate>Thu, 31 Jul 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/31(목) 관세협상 타결 | 소액임차인 기준 | 면세점 셧다운 | 美 관세 환급</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26841,15 +26854,6 @@ DTI규제를 고려한다면 그냥 특례보금자리론으로만 대출을 받
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231008.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231008.mp3</guid>
       <pubDate>Sun, 08 Oct 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 오다썼다 나빌레라</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231006_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231006_2.mp3</guid>
-      <pubDate>Fri, 06 Oct 2023 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
