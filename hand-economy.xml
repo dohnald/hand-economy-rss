@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 7/31(목) 관세협상 타결 | 소액임차인 기준 | 면세점 셧다운 | 美 관세 환급</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) "400조 투자하고 관세는 15%".. 한미 협상 타결
+2) 美 기준금리 5연속 동결
+3) 전세사기 구제 위해 ‘소액 임차인‘ 기준 조정
+4) 면세점 셧다운 오나… 인천공항과 임대료 갈등
+5) 트럼프, 관세 수입으로 인당 82만원 환급 검토
+- 박세훈 작가
+- 김현우 행복자산관리연구소 소장
+- 손석우 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250731.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250731.mp3</guid>
+      <pubDate>Thu, 31 Jul 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/30(수) 자동차 산업 전망 (유지웅 연구위원) | 난기류 급증 (박동현 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26833,15 +26850,6 @@ DTI규제를 고려한다면 그냥 특례보금자리론으로만 대출을 받
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231006_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231006_2.mp3</guid>
       <pubDate>Fri, 06 Oct 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부)  아맞다 주례</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231006_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231006_1.mp3</guid>
-      <pubDate>Fri, 06 Oct 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
