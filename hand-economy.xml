@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 8/4(월) 국세청이 가족간 이체를 감시한다는게 사실인가요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요, “8월부터는 국세청이 AI를 통한 세무조사를 시작해서 특히 가족간 돈거래를 주의해야한다”는 내용의 콘텐츠들이 많이 나오고 있더라고요. 그러면서 이를 대비하기 위한 팁들까지 안내해주고 있는데요, 정기적으로 송금을 해선 안 되고, 송금을 할 땐 송금메모를 남겨두고 차용증을 남겨야 한다는 내용입니다. 이런 것들을 다 지키면 아무 문제가 없을까요? 저희 부부는 돈을 합쳐서 관리해야 더 빨리 모을 수 있다고 생각해서, 매월 월급을 한 사람에게 모두 다 송금하고, 모인 돈에서 용도에 맞게 각자의 계좌로 다시 송금하는 방식을 취하고 있습니다. 투자를 해서 수익이 난 돈도 각자의 계좌로 송금했다가 다시 모아서 투자를 하고 있구요. 이렇게 정기적으로 매월 비슷한 패턴으로 송금을 해도 되는 것인지 걱정입니다. 1년간 송금한 내역을 다 더해보니 연간 6천만원이 살짝 넘는 수준이더라구요. 10년간 부부간 증여한도가 6억원이라고 알고 있는데, 이 기준도  넘길 것 같아서 걱정입니다. ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250804.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250804.mp3</guid>
+      <pubDate>Mon, 04 Aug 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/4(월) 美 고용쇼크 | 생활형 숙박시설 규제 | 세제개편안 갈등</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26792,23 +26802,6 @@ DTI규제를 고려한다면 그냥 특례보금자리론으로만 대출을 받
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231012.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231012.mp3</guid>
       <pubDate>Thu, 12 Oct 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 10/12(목) 노벨경제학상은 노벨상이 아니다?.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-이과식 경제
-노벨경제학상은 노벨상이 아니다?
-- 이독실 과학평론가
-
-2)
-책크리스트
-사랑의 기술 + 다시, 사람에 집중하라
-- 장동석 출판평론가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231012.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231012.mp3</guid>
-      <pubDate>Thu, 12 Oct 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
