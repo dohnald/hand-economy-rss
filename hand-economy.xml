@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/4(월) 美 고용쇼크 | 생활형 숙박시설 규제 | 세제개편안 갈등</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美 고용쇼크에 금리인하 기대↑… ’빅컷‘ 관측도
+2) 생활형 숙박시설 9만호, 두달 뒤 불법된다
+3) 대주주 양도세 강화.. 거센 반발에 재검토?
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자
+
+[친절한 경제]
+미국 통계 지표는
+왜 맨날 수정되나요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250804.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250804.mp3</guid>
+      <pubDate>Mon, 04 Aug 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/3(일) 中 대학이 계속해서 천재를 양성하는 비결 - 백서인 교수 (한양대 글로벌 문화통상학부)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26791,20 +26809,6 @@ DTI규제를 고려한다면 그냥 특례보금자리론으로만 대출을 받
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231012.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231012.mp3</guid>
       <pubDate>Thu, 12 Oct 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 10/12(목) 가계대출 상승 → 시중은행 금리 줄인상.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 가계대출 상승 → 시중은행 금리 줄인상 
-2. 조세심판원, "오피스텔 종부세 부과는 부당"
-3. 유럽서 천연가스 선물 급등
-4. 8월 경상수지 흑자
-
-출연: 김현우 소장, 서은영 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231012.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231012.mp3</guid>
-      <pubDate>Thu, 12 Oct 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
