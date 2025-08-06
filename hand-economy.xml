@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/6(수) 삼성전자와 반도체 (이주완 연구위원) | 유아기 기억상실 (김태희 과학동아 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[주가 왜 이래] 
+상승세 탄 삼성전자, 더 오르나
+- 이주완 박사 (반도체 애널리스트)
+
+2부
+[사이언스가 머니]
+어릴 적 기억은 어디로 갔을까
+- 김태희 과학동아 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250806.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250806.mp3</guid>
+      <pubDate>Wed, 06 Aug 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 8/6(수) 주택담보대출을 받은 후 실거주를 해야 하는 기간은?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26788,24 +26805,6 @@ PB(프라이빗 브랜드)의 경제학
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231016.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231016.mp3</guid>
       <pubDate>Mon, 16 Oct 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 10/15(일) 도쿄가 일본의 수도가 된 이유.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-주간 손경제 플러스: 키워드 경제
-인간이 지워진다
-- 김덕진 소장
-
-2)
-지리(地理)는 경제사(史)
-도쿄가 일본의 수도가 된 이유
-- 한영준 기자
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231015.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231015.mp3</guid>
-      <pubDate>Sun, 15 Oct 2023 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
