@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/7(목) 中 무비자 입국 | 中제조 해외 이전 재검토 | 인구구조와 가계부채</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 중국인 단체관광객 한시적 무비자 입국 허용
+2) 우회 수출 막힌 中 제조업, 동남아 이전 전략 재검토
+3) KDI "가계부채 급증, 근본 원인은 인구구조"
+- 하수정 경제뉴스 큐레이터
+- 박세훈 작가
+- 김현우 행복관리연구소 소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250807.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250807.mp3</guid>
+      <pubDate>Thu, 07 Aug 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/6(수) 삼성전자와 반도체 (이주완 연구위원) | 유아기 기억상실 (김태희 과학동아 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26792,19 +26807,6 @@ PB(프라이빗 브랜드)의 경제학
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231016.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231016.mp3</guid>
       <pubDate>Mon, 16 Oct 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 10/16(월)  25학년도부터 의대 정원 ‘1000명’ 더 는다.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 25학년도부터 의대 정원 ‘1000명’ 더 는다
-2. 이·팔 전쟁, 국내 첨단산업 영향은?
-+친절한 경제
-
-출연: 안승찬 기자, 양효걸 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231016.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231016.mp3</guid>
-      <pubDate>Mon, 16 Oct 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
