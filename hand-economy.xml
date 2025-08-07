@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/7(목) DDP는 도시 개발 역사의 오점입니다 - 김경민 교수(서울대 도시계획학과)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+DDP는 도시 개발 역사의 오점입니다 
+- 김경민 교수(서울대 도시계획학과)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250807.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250807.mp3</guid>
+      <pubDate>Thu, 07 Aug 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 8/7(목) 20년 전에 섰던 보증이 아직도 남아 있습니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26789,19 +26800,6 @@ PB(프라이빗 브랜드)의 경제학
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231017.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231017.mp3</guid>
       <pubDate>Tue, 17 Oct 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 10/16/(월) 신용회복위원회의 채무조정제도가 궁금해요</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 일하면서 잘 듣고 있습니다. 제 동생이 카드론 빚과 저축은행 대출이 있습니다. 연체는 아직 안 된 상태인데, 갚기가 어려울 것 같아 신용회복 위원회에서 상담을 받았습니다. 10년 동안 나눠 갚을 수 있게 조정해 준다는데, 문제는 저축은행에서 합의를 거부하고 당장 갚으라고 할 수도 있답니다. 그 금액이 제법 큰 돈이라 갚을 능력이 안 되는데요, 아직 거치기간이 3년 정도 남아있고 만기상환식입니다. 이렇게 기간이 남아있어도 갚으라고 독촉할 수 있는걸까요? 만약 그렇다면 워크아웃 신청을 못 할 것 같은데, 그러면 또 연체될 것 같고...
-이러지도 저러지도 못하고 있습니다. 만약 워크아웃을 신청했는데 저축은행에서 돈을 당장 갚으라고 하면 어떻게 해야 할까요?
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231016.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231016.mp3</guid>
-      <pubDate>Mon, 16 Oct 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
