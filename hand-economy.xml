@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 8/8(금) 부부 공무원은 연금을 어떻게 받는게 좋을까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 저희는 부부 공무원입니다. 회사에는 부부 공무원들이 많아 퇴직 후 연금에 대해 이런저런 의견들이  많은데요, 손경제 상담소의 의견도 궁금해 글을 남깁니다.
+부부 공무원이 퇴직을 한 뒤 ‘둘 다 연금으로 받는 경우’와 ‘둘 다 일시금으로 받는 경우’, 그리고 ‘한 명은 연금, 한 명은 일시금’으로 받는 3가지 경우를 고려해 볼 수 있는데요, 각각의 장단점이 무엇인지 궁금합니다.
+세금 문제와 배우자 사망 시 유족연금 지급률, 재직기간 등의 여러 변수를 고려했을 때 어느 선택이 가장 합리적인지 알고 싶습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250808.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250808.mp3</guid>
+      <pubDate>Fri, 08 Aug 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/8(금) 티메프 방지법 | ’헐값’ 항공권 | 日 추가 관세 | 6월 경상수지</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26785,24 +26797,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231017.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231017.mp3</guid>
       <pubDate>Tue, 17 Oct 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 10/17(화) PB(프라이빗 브랜드)의 경제학.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-공부왕 이종훈
-국내 제약산업의 역사
-- 이종훈 작가
-
-2)
-키워드 경제
-PB(프라이빗 브랜드)의 경제학
-- 남궁민 경제뉴스큐레이터 
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231017.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231017.mp3</guid>
-      <pubDate>Tue, 17 Oct 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
