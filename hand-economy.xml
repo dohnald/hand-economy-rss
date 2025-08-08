@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/8(금) 티메프 방지법 | ’헐값’ 항공권 | 日 추가 관세 | 6월 경상수지</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 티메프방지법, 플랫폼 두고 애먼 PG사 잡는다?
+2) 일본 가는데 만 오천 원.. 저가항공사 출혈 경쟁
+3) 일본관세 두고 혼선.. 기존에 15% 더해질 수도
+4) 6월 경상수지 역대 최대 흑자… 관세 이후는?
+- 김현우 행복관리연구소 소장
+- 서영태 연합인포맥스 기자
+- 박세훈 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250808.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250808.mp3</guid>
+      <pubDate>Fri, 08 Aug 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/7(목) DDP는 도시 개발 역사의 오점입니다 - 김경민 교수(서울대 도시계획학과)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26787,19 +26803,6 @@ PB(프라이빗 브랜드)의 경제학
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231017.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231017.mp3</guid>
       <pubDate>Tue, 17 Oct 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 10/17(화) 2억 4천 이하 주택, 청약시 무주택 간주.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 2억 4천 이하 주택, 청약시 무주택 간주
-2. 시중금리 부담에 집값 반등세 주춤
-3. 유류세 감면 연말까지 연장
-
-출연: 양효걸 기자, 남궁민 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231017.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231017.mp3</guid>
-      <pubDate>Tue, 17 Oct 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
