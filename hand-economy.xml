@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/8(금) 한국의 젓가락질 문화 (이종훈 작가) | 프랑스 반값 아파트 | 할리우드의 쇠퇴 | 카카오 가격 급등 (한경제 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[공부왕이종훈]
+한국의 젓가락질 문화 
+- 이종훈 아이러브스포츠 작가
+
+2부
+[글로벌리포트]
+프랑스 반값 아파트 | 할리우드의 쇠퇴 | 카카오 가격 급등
+- 한경제 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250808.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250808.mp3</guid>
+      <pubDate>Fri, 08 Aug 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (5부) 그래도 행운아들</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26746,20 +26763,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231019.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231019.mp3</guid>
       <pubDate>Thu, 19 Oct 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 10/19(목) 피치, “올해 한국 경제성장률 1.0%”.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 신탁 재건축 규제 나선 서울시
-2. 주담대 신규 금리↑, 갈아타기용 금리↓
-3. 피치, “올해 한국 경제성장률 1.0%”
-4. 중국 성장률, 시장 예상치 상회
-
-출연: 김현우 소장, 서은영 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231019.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231019.mp3</guid>
-      <pubDate>Thu, 19 Oct 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
