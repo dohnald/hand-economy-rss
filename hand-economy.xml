@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/11(월) 오픈AI, GPT-5 공개 (김덕진 소장) | 하와이 이주 동포 (김재원 역사학자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+오픈AI, GPT-5 공개했다
+- 김덕진 IT커뮤니케이션연구소 소장
+
+2부
+[역사의재원쌤]
+'천국의 섬' 하와이로 간 동포들
+- 김재원 역사학자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250811.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250811.mp3</guid>
+      <pubDate>Mon, 11 Aug 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 8/11(월) 10년 임대 분양전환 민간임대주택이 뭔가요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26736,20 +26753,6 @@ PB(프라이빗 브랜드)의 경제학 2탄
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231020_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231020_1.mp3</guid>
       <pubDate>Fri, 20 Oct 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 10/20(금) 임대인이 법인인 주택, 경매로 넘어간다면?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 손경제 유니버스의 열혈 청취자입니다~
-임대인이 법인인 아파트에 살고있는 전세세입자이고, 한번 연장하여 3년 6개월 정도 살고 있는데요, 요즘 건설 경기가 불안한 마음에 문의드립니다.
-
-전세 계약 당시 부채 말소 확인 후 계약했고, 입주시 전입신고 및 확정일자도 완료해 놓은 상태입니다. 그런데 만약에 중간에 법인이 문제가 생겨서 경매가 진행되면 경우에 따라 순위가 뒤로 밀리는 것은 아는데… 경매 진행 후 전세보증금을 받을 때까지 무작정 퇴거불응이 가능한 건지 만에 하나 강제퇴거 당하는 경우가 있는지 궁금합니다. 현재 집이 마음에 들어 내년에 재계약을 진행하려니, 최악의 상황에서 혹시나 강제퇴거를 당하는 건 아닌가 불안하네요.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231020.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231020.mp3</guid>
-      <pubDate>Fri, 20 Oct 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
