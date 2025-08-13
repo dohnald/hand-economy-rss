@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/13(수) CPTPP | 주식물납제도 개편 | 美 소비자물가지수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 정부, 관세 대응 위해 CPTPP 가입 추진
+2) 세금 대신 받은 주식, 정부가 주주권 행사한다
+3) 美 소비자물가 상승률 2.7%… 금리 미칠 영향은
+- 김치형 경제뉴스 큐레이터
+- 하수정 경제뉴스 큐레이터
+
+[친절한 경제]
+상한가나 하한가
+예외 사례도 있나요?
+- 청취자 김시형, 정진주 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250813.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250813.mp3</guid>
+      <pubDate>Wed, 13 Aug 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/12(화) 전례없는 핵무기 경쟁, 핵 감축 시대 끝났습니다 - 조성렬 교수(경남대 군사학과)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26749,23 +26768,6 @@ PB(프라이빗 브랜드)의 경제학 2탄
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231023.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231023.mp3</guid>
       <pubDate>Mon, 23 Oct 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 10/22(일) 중동 지도 이해하기..외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-주간 손경제 플러스: 신기방기 레드칩
-이유있는 못생김, 버켄스탁
-- 신기주 대표
-
-2)
-지리(地理)는 경제사(史)
-중동 지도 이해하기.. 이슬람 극단주의의 역사적 배경
-- 한영준 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231022.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231022.mp3</guid>
-      <pubDate>Sun, 22 Oct 2023 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
