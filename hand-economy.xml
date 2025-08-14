@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 8/14(목) 고속버스도 대중교통 소득공제가 되나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 저는 최근 대전에서 광주로 발령을 받아서 평일엔 광주에서 근무하고, 주말마다 대중교통을 이용해 대전의 본가로 이동하고 있습니다. 집 근처에는 고속버스터미널이 가까워서 주로 고속버스를 이용해 광주-대전을 오가고 있는데요, 연말정산시 대중교통 소득공제가 가능하다는 얘기를 듣고 확인해보니, 시외버스는 공제가 된다고 하고, 고속버스는 공제 대상에서 제외된다는 의견도 있어서 혼란스럽습니다.
+문제는 대전과 광주 사이에는 시외버스 노선이 없고 고속버스만 운행되기 때문에, 어쩔 수 없이 고속버스를 이용하고 있습니다. 이 경우, 연말정산시 고속버스 요금에 대해 소득공제를 받을 수는 없는 건가요? 
+또, 기차를 이용하게 될 경우 여러 가지 열차의 종류 중 어떤 게 대중교통 소득공제 대상이 되는지도 궁금합니다. 교통비 부담이 적지 않아서, 연말정산 공제를 최대한 활용하고 싶습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250814.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250814.mp3</guid>
+      <pubDate>Thu, 14 Aug 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/14(목) 가계부채 증가폭 ↓ | 청약 커트라인 | 홈플러스 폐점 | 호주 희토류 산업</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26752,19 +26764,6 @@ PB(프라이빗 브랜드)의 경제학 2탄
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231024.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231024.mp3</guid>
       <pubDate>Tue, 24 Oct 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 10/24(화) 금감원, 카카오 창업주 ‘시세조종 의혹’ 조사.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 전국 ‘무량판’ 아파트 전수조사 결과는?
-2. 금감원, 카카오 창업주 ‘시세조종 의혹’ 조사
-3. 일본 10년물 금리, 10년만에 최고치
-
-출연: 양효걸 기자, 남궁민 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231024.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231024.mp3</guid>
-      <pubDate>Tue, 24 Oct 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
