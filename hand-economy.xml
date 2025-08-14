@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/14(목) AI의 속마음을 읽는 AI가 나왔습니다 - 최재식 교수(카이스트 AI대학원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+AI의 속마음을 읽는 AI가 나왔습니다 
+- 최재식 교수(카이스트 AI대학원)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250814.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250814.mp3</guid>
+      <pubDate>Thu, 14 Aug 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 8/14(목) 고속버스도 대중교통 소득공제가 되나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26747,23 +26758,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231024.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231024.mp3</guid>
       <pubDate>Tue, 24 Oct 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 10/24(화) 가을하늘이 공활한 이유.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-이과식 경제
-가을 하늘이 공활한 이유
-- 이독실 과학평론가
-
-2)
-키워드 경제
-PB(프라이빗 브랜드)의 경제학 2탄
-- 남궁민 경제뉴스큐레이터 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231024.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231024.mp3</guid>
-      <pubDate>Tue, 24 Oct 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
