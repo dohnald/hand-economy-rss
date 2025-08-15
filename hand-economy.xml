@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/15(금) 집 없으면 손주 볼 확률↓ | 네이버웹툰-디즈니 | ELD</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 자가 보유자 출산확률 70% 더 높다.. 출산 불평등
+2) 네이버 웹툰, 디즈니 협업 소식에 주가 급등
+3) "원금 보장에 금리 최대 10%" ELD가 뭐길래
+- 서영태 연합인포맥스 기자
+- 박세훈 작가
+- 김현우 행복자산관리연구소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250815.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250815.mp3</guid>
+      <pubDate>Fri, 15 Aug 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/14(목) AI의 속마음을 읽는 AI가 나왔습니다 - 최재식 교수(카이스트 AI대학원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26746,18 +26761,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231025.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231025.mp3</guid>
       <pubDate>Wed, 25 Oct 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 10/24(화) 소액임차보증금이란?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-어제는 다중주택에 임차인으로서 계약을 맺을 때 확인해봐야 할 내용들에 대해서 알아봤습니다. 
-요약하자면 다중주택은 마치 기숙사나 고시원처럼 개별 취사시설은 갖출 수 없고, 일반적으로 전세보증보험 가입이 어렵다는 점, 또~ 다가구주택과 마찬가지로 건물 하나를 한 채의 주택으로 보기 때문에, 앞서 전입한 세입자들의 보증금이 얼마 있는지를 꼼꼼하게 살펴봐야 한다는 내용이었죠. 그리고 보증금이 일정금액 이하면 우선적으로 변제받을 수 있는 ‘소액임차보증금’이란 게 있는데, 이건 오늘 자세히 설명해 드리겠다고 예고해드렸구요. 그래서 오늘은 소액임차보증금이란 건 뭐고, 어떤 식으로 변제받을 수 있는지 알려드리겠습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231024.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231024.mp3</guid>
-      <pubDate>Tue, 24 Oct 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
