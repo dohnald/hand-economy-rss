@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/17(일) 트럼프가 차린 판에 한일이 놀아났습니다 - 이창민(한국외대 융합일본지역학부)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+트럼프가 차린 판에 한일이 놀아났습니다 
+- 이창민(한국외대 융합일본지역학부)
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250817.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250817.mp3</guid>
+      <pubDate>Sun, 17 Aug 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/16(토) 중국경제의 골든타임 딱 3년 남았습니다 - 박정호 교수(명지대)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26709,21 +26721,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231027.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231027.mp3</guid>
       <pubDate>Fri, 27 Oct 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 10/27(금) '소아·분만' 필수 의료수가 대폭 인상.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. '소아·분만' 필수 의료수가 대폭 인상
-2. 3분기 경제성장률 0.6%
-3. 美 3분기 성장률 4.9%
-4. 유럽중앙은행 정책금리 동결
-5. 주택구입 목적 퇴직연금 중도인출↑
-
-출연: 김현우 소장, 이상은 기자, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231027.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231027.mp3</guid>
-      <pubDate>Fri, 27 Oct 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
