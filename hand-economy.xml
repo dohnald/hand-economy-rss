@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/18(월) 크롬 노리는 퍼플렉시티 (김덕진 소장) | 미주의 조선인들 (재원쌤)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[.1부
+[텍코노미]
+크롬 인수를 노리는 퍼플렉시티
+- 김덕진 IT커뮤니케이션연구소 소장
+
+2부
+[쩐설의 김선생]
+망국의 이민자들, 독립의 발판이 되다
+- 재원쌤]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250818.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250818.mp3</guid>
+      <pubDate>Mon, 18 Aug 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 8/18(월) 친정엄마께 돈 갚을 때 차용증 써야 할까요</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26710,15 +26727,6 @@ JP모건 CEO 주식 매각의 신호?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231027_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231027_2.mp3</guid>
       <pubDate>Fri, 27 Oct 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 왕꼰대의 눈물</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231027_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231027_1.mp3</guid>
-      <pubDate>Fri, 27 Oct 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
