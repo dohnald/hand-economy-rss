@@ -16,6 +16,26 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/18(월) 대만GDP | 쿠팡 in 대만 | 연차휴가 개편 | 공휴일 요일제</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 대만 1인당 GDP 4만불 뚫는다.. 내년 한국 추월
+2) 로켓에 홀린 대만.. 쿠팡, 이커머스 1위
+3) 연차휴가 개편 검토.. '6개월부터?20일'
+4) 공휴일 요일제로 바꾸면 소비 2조원 는다
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자
+
+[친절한 경제]
+부동산 PF 부실 터지면
+여파가 어디까지 번지나요?
+- 청취자 정승일 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250818.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250818.mp3</guid>
+      <pubDate>Mon, 18 Aug 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/17(일) 트럼프가 차린 판에 한일이 놀아났습니다 - 이창민(한국외대 융합일본지역학부)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26701,26 +26721,6 @@ JP모건 CEO 주식 매각의 신호?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231027.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231027.mp3</guid>
       <pubDate>Fri, 27 Oct 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 10/27(금) 혼돈의 국내 증시.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-Review & Preview
-- Re : 혼돈의 국내 증시.. 외
-- Pre : 연금개혁안 발표.. 외
-양효걸 기자
-
-2)
-글로벌 리포트
-- 미국은 고성장, 유럽은 제자리 걸음
-- 다시 러시아로 돌아오는 러시아인들
-- 인터넷 차단 세계 1위, 인도
-어예진 소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231027.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231027.mp3</guid>
-      <pubDate>Fri, 27 Oct 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
