@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/20(수) 13F 거장의 포트폴리오 (이윤수 대표)｜학명의 정치학 (이창욱 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[주가 왜 이래]
+투자 거장들이 보는 미국 주식의 미래
+- 이윤수 대표(에릭의 거장연구소)
+
+2부
+[사이언스가 머니]
+한국 풀 이름에 다케시마가 들어간 이유
+- 이창욱 기자(과학동아)
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250820.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250820.mp3</guid>
+      <pubDate>Wed, 20 Aug 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 8/20(수) 방학을 연차로 대체하면 연차수당 못 받나요</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26711,20 +26729,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231031.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231031.mp3</guid>
       <pubDate>Tue, 31 Oct 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 10/31(화) 아시아나, 화물 매각 결론 못 내.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 아시아나, 화물 매각 결론 못 내
-2. 美-中 정상회담 추진
-3. 사상 최고가 찍은 금값
-4. 인터넷 은행 신용대출, 고신용자가 이자 더 낸다
-
-출연: 양효걸 기자, 남궁민 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231031.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231031.mp3</guid>
-      <pubDate>Tue, 31 Oct 2023 08:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
