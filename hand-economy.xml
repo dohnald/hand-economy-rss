@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 8/20(수) </title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250820.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250820.mp3</guid>
+      <pubDate>Wed, 20 Aug 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/20(수) 국민연금 개편 | 원전 수출 합의 | 인텔 | 모아주택 </title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26715,19 +26724,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231031.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231031.mp3</guid>
       <pubDate>Tue, 31 Oct 2023 08:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 10/30(월) 묵시적 계약갱신에 대해 자세히 알려주세요!</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요, 손경제 팟캐스트를 들으며 조금씩 경제 공부를 해나가고 있습니다.
-내년 2월 말에 제가 살고 있는 월세집 계약이 만기가 됩니다. 아직 취업 준비 중이라 집 계약이 끝나기 전에 취업이 된다면 이 집에 더 있고 싶고, 취업이 안 된다면 본가로 들어가려고 고민 중에 있습니다. 
-이전에 손경제 상담소에서 들은바로는, '묵시적 계약 갱신' 이라고 해서 '계약이 만료되기까지 2~6개월 사이에 집주인이 나가달라거나 계약 내용을 변경하자는 별도의 요청이 없으면 자동으로 계약이 갱신된다'고 했었던 것 같습니다. 그렇다면, 지금 상황에서 집주인에게 계약을 연장하고 싶다는 말을 따로 하지 않아도 되고, 계약서도 다시 쓰지 않아도 되는 걸까요? 만약 아니라면, 또 2년 단위로 계약을 해야하는건지, 그리고 나서 몇 개월만 지내고 이 집에서 나가는 것도 가능한지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231030(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231030(1).mp3</guid>
-      <pubDate>Mon, 30 Oct 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
