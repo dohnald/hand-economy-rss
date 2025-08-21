@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/21(목) 인도의 속사정｜상생페이백｜문신 합법화</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제 뉴스]
+1) 관세 압박 무시하는 인도, 우유 때문이다?
+2) '상생페이백' 작년보다 더 쓴 돈 20% 환급
+3) 문신사 합법화 코앞.. 조단위 시장 양성화
+- 박세훈 작가
+- 김현우 소장
+- 하수정 경제뉴스큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250821.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250821.mp3</guid>
+      <pubDate>Thu, 21 Aug 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/20(수) 13F 거장의 포트폴리오 (이윤수 대표)｜학명의 정치학 (이창욱 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26712,23 +26727,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231031.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231031.mp3</guid>
       <pubDate>Tue, 31 Oct 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 10/31(화) 유명인 사칭 투자방 활개.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-공부왕 이종훈
-국내 제약산업의 역사 3탄
-출연 : 이종훈 작가
-
-2)
-키워드 경제
-유명인 사칭 투자방 활개
-출연 : 김덕진 소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231031.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231031.mp3</guid>
-      <pubDate>Tue, 31 Oct 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
