@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/21(목) 우크라이나 전쟁, 종전이 임박했나 - 이문영 교수(서울대 통일연구원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+우크라이나 전쟁, 종전이 임박했나
+- 이문영 교수(서울대 통일연구원)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250821.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250821.mp3</guid>
+      <pubDate>Thu, 21 Aug 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 8/21(목) 요양병원에 입원했을 때 보험비</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26710,19 +26721,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231101.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231101.mp3</guid>
       <pubDate>Wed, 01 Nov 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 11/1(수) 카카오모빌리티 분식회계 의혹.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 일본중앙은행, 10년물 금리 1% 초과 용인
-2. 카카오모빌리티 분식회계 의혹
-3. 주택 착공 반토막.. 공급난 우려
-
-출연: 양효걸 기자, 서은영 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231101(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231101(1).mp3</guid>
-      <pubDate>Wed, 01 Nov 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
