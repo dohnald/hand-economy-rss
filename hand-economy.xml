@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 8/21(목) 요양병원에 입원했을 때 보험비</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+40대 주부입니다. 작년 1월경 갑작스레 유방암 진단을 받았는데요. 수술을 하고 항암 치료를 받았습니다. 이후 제가 가입한 보험사 두 곳에서 진단비와 수술비, 항암치료비도 모두 지급받았습니다. 대학병원에서는 입원을 길게 할 수 없다고 해서 퇴원했지만, 여전히 몸이 안 좋아 요양병원에 입원해서 치료를 이어나갔습니다. 그런데 제가 가입한 암 입원일당이 더 이상 지급이 안 된다더라고요. 그래서, 전에는 지급했는데 왜 이젠 안 하냐고 하니 직접적인 치료가 아니어서 그렇다는 답변을 받았습니다. 그렇지 않아도 몸이 안 좋아서 아이들도 못 돌보는데, 보험까지 이러니 정말 답답합니다. 이게 맞는 건가요? ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250821.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250821.mp3</guid>
+      <pubDate>Thu, 21 Aug 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/21(목) 인도의 속사정｜상생페이백｜문신 합법화</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26713,20 +26723,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231101(1).mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231101(1).mp3</guid>
       <pubDate>Wed, 01 Nov 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 10/31(화) 적금 만기 시, 이자 손해를 피하려면?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요.
-제가 적금 계좌를 몇 개 들고 있는데 오늘도 적금 만기라서 어플에 [만기시 자동해지]를 신청해서 만기된 적금의 원금과 세후이자를 받았습니다. 그리고 12월에도 만기가 돌아오는 적금이 하나 있는데, 문득 궁금증이 생기더라구요. 어차피 원금은 같은데, 만기자동해지를 신청한 경우와 신청하지 않았을 때 이자가 달라지는지, 달라진다면 어떻게? 왜? 달라지는건지 알고 싶습니다.
-
-그리고 혹시나 적금이 만기가 됐을 때 이자를 많이 받는 방법이 따로 있는지도 알려주시면 감사하겠습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231031.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231031.mp3</guid>
-      <pubDate>Tue, 31 Oct 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
