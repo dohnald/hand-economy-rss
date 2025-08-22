@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/22(금) 외국인 토허제｜개인용 국채｜쌀 수급</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 외국인 대상, 수도권 토지거래허가구역 지정
+2) 퇴직연금 계좌에서 개인투자용 국채 담는다
+3) K-푸드 인기에 가공식품용 쌀 수급 차질
+- 박세훈 작가
+- 나수지 한국경제신문 기자
+- 서영태 연합인포맥스 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250822.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250822.mp3</guid>
+      <pubDate>Fri, 22 Aug 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/21(목) 우크라이나 전쟁, 종전이 임박했나 - 이문영 교수(서울대 통일평화연구원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26704,23 +26719,6 @@ Review & Preview
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231101.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231101.mp3</guid>
       <pubDate>Wed, 01 Nov 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 11/1(수) 인사평가의 계절.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-역시나 박정호 시즌 Ⅱ
-사는 곳이 연봉을 결정한다 - 실리콘밸리
-- 오승훈 아나운서
-
-2)
-억울한 경제
-인사평가의 계절
-- 장내석 노무사]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231101.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231101.mp3</guid>
-      <pubDate>Wed, 01 Nov 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
