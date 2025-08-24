@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title> [플러스] 8/23(토) 나라 곳간이 텅 빈 뜻밖의 이유 - 박정호 교수(명지대)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+나라 곳간이 텅빈 뜻밖의 이유
+- 박정호 교수(명지대)
+W. 오승훈 아나운서
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250823.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250823.mp3</guid>
+      <pubDate>Sat, 23 Aug 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>협찬인가 - 들려라 참깨</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26676,27 +26689,6 @@ AI가 스타트업 다 죽인다!
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231103.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231103.mp3</guid>
       <pubDate>Fri, 03 Nov 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 11/3(금) '김포→서울' 추진, 부동산 들썩.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-Review & Preview
-- Re : '김포→서울' 추진, 부동산 들썩.. 외
-- Pre : '위워크' 다음주 파산 신청.. 외
-양효걸 기자
-
-2)
-글로벌 리포트
-- 미국도 의사 부족하다
-- 사우디 2034년 월드컵 유치 확정적
-- 전기 도둑 잡느라 바쁜 파키스탄
-- 태국, 'No Go Korea?'
-어예진 소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231103.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231103.mp3</guid>
-      <pubDate>Fri, 03 Nov 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
