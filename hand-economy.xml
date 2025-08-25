@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 8/25(월) 가상자산 회사에 투자하는 아버지</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+안녕하세요! 저희 아버지께서 은퇴 자금으로 모 회사에 투자를 하고 계십니다. 이 회사에 대해 찾아보니 암호화폐를 운영하면서 몇 가지 토큰을 발행한다고 합니다. 그런데 이 회사가 정말 믿을 수 있는 회사인지 궁금합니다. 혹시 믿을만한 곳이 아니라면 투자를 말리고 싶은데, 투자 위험성에 대해서 아버지께 어떻게 설명해 드려야 할지 걱정이 되고 궁금합니다. 게다가 이 회사를 사칭하는 곳도 있다고 하더라구요. 일반 개인 투자자들이 그런 곳들을 어떻게 구별해낼 수 있을지 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250825.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250825.mp3</guid>
+      <pubDate>Mon, 25 Aug 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/25(월) 노란봉투법 | 미국 정부와 인텔 | 해상풍력 | 잭슨홀 미팅 </title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26689,15 +26699,6 @@ AI가 스타트업 다 죽인다!
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231105.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231105.mp3</guid>
       <pubDate>Sun, 05 Nov 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 내년 경제 천기누설</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231103_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231103_2.mp3</guid>
-      <pubDate>Fri, 03 Nov 2023 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
