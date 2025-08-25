@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/25(월) 휴머노이드 가격 경쟁 (김아람 이사)｜커피 문화의 역사(재원쌤)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[테코노미]
+휴머노이드 가격 경쟁
+- 김아람 IT커뮤니케이션연구소 이사
+
+2부
+[쩐설의 재원쌤]
+커피 문화의 역사
+- 재원쌤 (역사커뮤니케이터)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250825.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250825.mp3</guid>
+      <pubDate>Mon, 25 Aug 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 8/25(월) 가상자산 회사에 투자하는 아버지</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26681,24 +26698,6 @@ AI가 스타트업 다 죽인다!
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231106.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231106.mp3</guid>
       <pubDate>Mon, 06 Nov 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 11/5(일) 우동과 소바만큼 다른 '간사이'와 '간토'.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1)
-주간 손경제 플러스: 신기방기 레드칩
-디즈니에 짐이 돼버린 방송국 ABC
-- 신기주 대표
-
-2) 
-지리(地理)는 경제사(史)
-우동과 소바만큼 다른 '간사이'와 '간토'
-- 한영준 기자
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231105.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231105.mp3</guid>
-      <pubDate>Sun, 05 Nov 2023 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
