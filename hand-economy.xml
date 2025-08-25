@@ -16,6 +16,27 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/25(월) 노란봉투법 | 미국 정부와 인텔 | 해상풍력 | 잭슨홀 미팅 </title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 기업계 우려 속 '노란봉투법' 통과.. 영향은?
+2) 미국 정부, 인텔 지분 약 10% 인수 확정
+3) 트럼프, 70% 진행된 풍력 발전소 건설 중단
+4) 연준, '잭슨홀 미팅'서 금리 인하 강하게 시사
+- 조지원 서울경제신문 기자
+- 조미현 한국경제신문 기자
+
+[친절한 경제]
+AI 데이터센터는 왜
+수도권에 지어야 하죠?
+- 청취자 한경희 씨
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250825.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250825.mp3</guid>
+      <pubDate>Mon, 25 Aug 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/24(일) 트럼프가 다시 강경해진 이유 - 이선엽 AFL 파트너스 대표</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26677,15 +26698,6 @@ AI가 스타트업 다 죽인다!
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231103_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231103_2.mp3</guid>
       <pubDate>Fri, 03 Nov 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 가왕을 향해</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231103_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231103_1.mp3</guid>
-      <pubDate>Fri, 03 Nov 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
