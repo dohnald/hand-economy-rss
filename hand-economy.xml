@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/27(수) 상법 개정의 효과 (천중범 변호사)｜말라리아의 부활 (김소연 과학동아 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[주가 왜 이래]
+상법 개정의 효과
+- 천중법 한국 기업거버넌스포럼 부회장
+
+2부
+[사이언스가 머니]
+말라리아의 부활
+- 김소연 과학동아 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250827.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250827.mp3</guid>
+      <pubDate>Wed, 27 Aug 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 8/27(수) 소액으로 국민연금 임의 가입</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26682,18 +26699,6 @@ AI가 스타트업 다 죽인다!
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231108.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231108.mp3</guid>
       <pubDate>Wed, 08 Nov 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 11/7(화) 이미 서명해버렸는데.. 전세 재계약 중도해지 가능할까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[안녕하세요. 역전세가 많은 요즘 전세금 반환 관련 궁금증이 있어 문을 두드립니다.
-방송에서 들은 바로는 전세금을 낮춰 재계약을 했을 경우엔 새로운 계약으로 보고, 중도해지 시 계약기간 만기까지 전세금을 돌려받기 어렵다고 들었는데요. 저는 첫 2년 계약 후 묵시적 갱신을 1년 한 뒤, 보증금 인상 없이 2년 재계약을 기존 계약서에 일자를 바꿔 작성 했어요. 또 이때 특약에 추후 계약갱신청구권을 행사하지 않는다는 문구를 적었구요. 그런데 사정이 생겨 재계약 만료 기간이 많이 남은 시점에서 이사를 가게 되었는데요,
-이 경우 계약갱신청구권을 사용한 것으로 보거나, 기존 계약의 연장으로 보아 재계약기간 중 중도해지 시 전세 보증금 반환이 가능한지, 아니면 계약 만료 일까지 보증금 반환이 어려운지 궁금합니다. 
-항상 실생활에 도움 되는 좋은 정보 알려주셔서 감사합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231107.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231107.mp3</guid>
-      <pubDate>Tue, 07 Nov 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
