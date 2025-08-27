@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 8/27(수) 소액으로 국민연금 임의 가입</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민 사연]
+
+안녕하세요. 최근 건강 문제로 갑작스럽게 40대 초에 퇴사를 했습니다. 지금까지 국민연금을 10년 넘게 납입했기 때문에, 더 이상 납입을 하지 않아도 앞으로 15년 정도 뒤에는 연금을 받을 수 있는데요. 그런데 임의가입에 대한 안내문을 받고 나서 고민이 되네요. 앞으로 한동안은 소득이 없을 것 같아서, 임의가입을 한다면 최소 금액을 납입할 것 같은데요, 과거에 냈던 보험료와는 차이가 큽니다. 직장을 다니면서는
+한 달에 약 30만원 정도의 보험료를 내왔는데요, 임의가입을 하면 9만원씩 보험료를 내게 될 것 같습니다. 이렇게 하면 가입기간은 늘어나겠지만, 전체 납부기간 동안의 평균소득액이 줄어들텐데, 어떻게 하는게 유리한지 국민연금 관련 정보를 찾아봐도 잘 모르겠습니다. 도와주세요.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250827.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250827.mp3</guid>
+      <pubDate>Wed, 27 Aug 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/27(수)  공급대책 | 서울 사회주택 | 대미투자 문서화 | 인도 관세</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26682,23 +26694,6 @@ AI가 스타트업 다 죽인다!
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231107.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231107.mp3</guid>
       <pubDate>Tue, 07 Nov 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 11/7(화) 프랑스 대혁명은 가발 때문에 일어났다? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[공부왕 이종훈]
-프랑스 대혁명은 가발 때문에 일어났다?
-- 이종훈 작가
-
-2부
-[키워드 경제]
-주택시장의 애물단지, 빌라
-- 남궁민 경제뉴스큐레이터]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231107.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231107.mp3</guid>
-      <pubDate>Tue, 07 Nov 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
