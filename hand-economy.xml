@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/28(목) 일본 금융판 지각변동, 제4의 메가뱅크 옵니다 - 서병수 애널리스트</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+일본 금융판 지각변동, 제4의 메가뱅크 옵니다 
+- 서병수 애널리스트]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250828.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250828.mp3</guid>
+      <pubDate>Thu, 28 Aug 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 8/28(목) 아버지께서 공모주 투자사기를 당하셨습니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26681,20 +26692,6 @@ AI가 스타트업 다 죽인다!
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20231108.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20231108.mp3</guid>
       <pubDate>Wed, 08 Nov 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 11/8(수) 가족에게 주택 무상으로 임대중.. 세금을 내야 하나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 상담]
-
-안녕하세요. 손경제를 수년째 애청하고 있는 청취자입니다.
-현재 제 명의로 된 아파트에서 저와 부모님, 동생이 함께 거주 중입니다. 그런데 제가 내년에 결혼하면서 남편 명의로 된 집으로 이사를 갈 계획이고, 남은 가족 3명은 제 명의의 아파트에 그대로 거주하려 합니다.
-이렇게 되면 전입신고로 인한 제 명의 집의 세대주 변경이 될텐데, 제가 선정을 따로 하게되는 건가요?
-결과적으로 제가 가족에게 무상임대하는 상황이 되는데.. 무상임대에 따른 세금 부과가 어떻게 되는지 궁금합니다. 그리고 세금을 내지 않기 위해서는 임대차계약을 따로 작성해야하는지, 작성한다면 금액을 어떻게 책정하는게 좋을지, 중개업소를 통해야할지 여쭙고 싶습니다. 참고로 아파트 시세는 9억원 정도이며, 공시지가는 6억원 입니다. 부모님은 현재 은퇴하셔서 소득이 없고, 동생은 30살로 직장생활 중 입니다. 감사합니다]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231108.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231108.mp3</guid>
-      <pubDate>Wed, 08 Nov 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
