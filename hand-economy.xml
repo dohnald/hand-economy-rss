@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/28(목) 트럼프, 연준 이사 해임 | 주택연금 개편 | 레미콘 트럭</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 트럼프, 리사 쿡 이사 해임… 연준 장악 본격화
+2) 저가 주택에 연금 더 준다… 주택연금 제도 개편
+3) 레미콘 믹스 트럭 수 2년 더 동결한다
+4) 갱신권 안 쓰고 보증금 올려준 세입자들
+- 하수정 경제뉴스 큐레이터
+- 김현우 행복자산관리연구소 소장
+- 박세훈 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250828.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250828.mp3</guid>
+      <pubDate>Thu, 28 Aug 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/27(수) 상법 개정의 효과 (천중범 변호사)｜말라리아의 부활 (김소연 과학동아 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26685,20 +26701,6 @@ AI가 스타트업 다 죽인다!
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231108.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231108.mp3</guid>
       <pubDate>Wed, 08 Nov 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 11/8(수) 일회용 종이컵, 플라스틱 빨대 계속 쓴다 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 미중 정상회담 앞두고 中, 또 희토류 단속
-2. 일회용 종이컵, 플라스틱 빨대 계속 쓴다 
-2. 첨단 반도체 제조장비 만든 캐논, ASML에 도전
-3. 에어비앤비 각종 규제로 실적 전망 어두워
-
-출연: 양효걸 기자, 서은영 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231108.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231108.mp3</guid>
-      <pubDate>Wed, 08 Nov 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
