@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/30(토) 일본에게 우리는 슈퍼을입니다 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+일본에게 우리는 슈퍼을입니다 
+- 박정호 명지대 교수
+With. 오승훈 아나운서]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250830.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250830.mp3</guid>
+      <pubDate>Sat, 30 Aug 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/29(금) 유치원과 어린이집 (이종훈 작가) | 보이차의 몰락 | 우편의 종말 | 베네수엘라 암호화폐 (한경제 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26651,19 +26663,6 @@ AI가 스타트업 다 죽인다!
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231112.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231112.mp3</guid>
       <pubDate>Sun, 12 Nov 2023 07:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 -1 밤사, 옥타곤, 세시방, 양양 클럽까지 유흥문화답사기</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[-밤과 음악사이, 옥타곤, 세시방? 지역 혁신 양양클럽까지
--이진우와 배철수의 조우
--저녁 8시로 가는 손경제 플러스 3프로 티비에 정면 도전?
--디톡스 시작! 박정호의 큰 그림
--다작배우 이진우, 내친 김에 작사까지 도전?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/COFFEETIME1110-1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/COFFEETIME1110-1.mp3</guid>
-      <pubDate>Fri, 10 Nov 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
