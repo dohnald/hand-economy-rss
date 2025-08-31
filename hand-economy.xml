@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/31(일) 유럽이 트럼프에게 탈탈 털린 이유 - 강유덕 교수(한국외대 LT학부)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+유럽이 트럼프에게 탈탈 털린 이유 
+- 강유덕 교수(한국외대 LT학부)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250831.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250831.mp3</guid>
+      <pubDate>Sun, 31 Aug 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/30(토) 일본에게 우리는 슈퍼을입니다 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26645,24 +26656,6 @@ AI가 스타트업 다 죽인다!
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231113.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231113.mp3</guid>
       <pubDate>Mon, 13 Nov 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 11/12(일) 가발이 프랑스 대혁명을 초래했다? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[공부왕 이종훈]
-가발이 프랑스 대혁명을 초래했다?
--이종훈 작가
-
-2부
-[지리는 경제다]
-인도랑 파키스탄은 왜 자꾸 싸워?
-- 파이낸셜뉴스 한영준 기자
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231112.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231112.mp3</guid>
-      <pubDate>Sun, 12 Nov 2023 07:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
