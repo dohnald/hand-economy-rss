@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/1(월) AI 이미지 끝판왕 '나노바나나' (김덕진 IT커뮤니케이션연구소장) | 한국 커피의 역사 (역사의 재원쌤)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+포토샵 시대 끝낼 '나노바나나'
+- 김덕진 IT커뮤니케이션연구소장
+
+2부
+[쩐설의김선생]
+한국인이 커피의 노예가 된 이유
+- 역사의 재원쌤]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250901.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250901.mp3</guid>
+      <pubDate>Mon, 01 Sep 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 9/1(월) 계약갱신 요구를 할 수 있는지 궁금합니다</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26644,17 +26661,6 @@ AI가 스타트업 다 죽인다!
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231114.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231114.mp3</guid>
       <pubDate>Tue, 14 Nov 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 11/13(월) 계약할 때마다 확정일자를 받아야 할까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 4년 전 12월에 현재 거주하는 아파트로 전세계약 후, 첫 번째 확정일자를 받고 거주하고 있습니다. 2년 전에는 5% 보증금을 증액하고, 새로 두 번째 확정일자를 받았구요. 올 12월에 보증금을 올리면서 재계약을 하려고 하는데, 임대인이 두 번째 계약 이후 시점에 담보대출을 받았더라구요. 아무래도 걱정이 돼서 보증금 증액 대신 월세를 내기로 했습니다. 그런데 최초 전입시 보증금 중 일부를 전세자금 대출로 하였고, 이에 대한 연장이 필요합니다. 만약, 12월 재계약시 새로 계약서를 쓰고 이에 대한 세 번째 확정일자를 받게 될 경우에는 임대인이 받은 담보대출과 비교하여 우선변제권이 확보되지 않는 것인지 궁금합니다. 또 올 12월부터 시작되는 재계약 내용을 두 번째 전세계약서에 수기로 기재하는 경우, 두 번째 확정일자가 그대로 유지되는 것인지도 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231113.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231113.mp3</guid>
-      <pubDate>Mon, 13 Nov 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
