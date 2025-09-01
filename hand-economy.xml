@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/1(월) ‘트럼프 관세’ 불법 | 3분기 경제성장률 | 강릉 대가뭄</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 2심도 “트럼프 관세 불법”… 대법원서 결판 난다
+2) 한국경제 반등 조짐… 3분기 성장률 1%대 전망
+3) 강릉, ’역대 최악‘ 가뭄에 저수율 15% 무너졌다
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자
+
+[친절한 경제]
+사모펀드와 헤지펀드
+어떤 차이가 있나요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250901.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250901.mp3</guid>
+      <pubDate>Mon, 01 Sep 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/31(일) 유럽이 트럼프에게 탈탈 털린 이유 - 강유덕 교수(한국외대 LT학부)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26643,19 +26661,6 @@ AI가 스타트업 다 죽인다!
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231113.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231113.mp3</guid>
       <pubDate>Mon, 13 Nov 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 11/13(월) 정부, 대주주 주식 양도소득세 완화하나 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 정부, 대주주에 대한 주식 양도소득세 완화하나
-2. 무디스, 미국 신용등급 전망 하향
-+ 친절한 경제
-
-출연: 안승찬, 양효걸기자, 이진우]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231113.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231113.mp3</guid>
-      <pubDate>Mon, 13 Nov 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
