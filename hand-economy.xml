@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 9/1(월) 계약갱신 요구를 할 수 있는지 궁금합니다</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+ 안녕하세요. 저는 내년 2월에 계약이 만료가 되는 전세세입자입니다. 입주 당시 임대인은 매매 의사가 있었고, 이 때문에 묵시적 갱신은 없는 것으로 한다는 특약을 넣었습니다. 그런데 새로운 전셋집을 구하기가 어려운 상황이라 갱신청구권을 쓰고 싶습니다.
+ 묵시적 갱신은 없다는 특약이 있고, 전세 들어오기 전부터 임대인은 매매를 해야 한다고 했는데 제가 이제 와서 갱신청구권을 쓴다고 해도 될까요? 갱신청구권을 쓴다고 하면 제가 거짓말을 하게 된 꼴인데, 이게 가능할지와 가능하다면 임대인과 불화는 없을지 걱정이 됩니다. 참고로 본인이 직접 들어와 거주할 계획은 없는 것으로 알고 있습니다. 갱신청구권은 전화나 문자 혹은 내용증명만으로도 성립하는 건지, 집주인이 동의를 해야 성립이 되는 건지 궁금합니다. 만약 갱신권을 사용한다고 의사 표현을 했는데 매매가 돼서 집주인이 바뀌면 또 어떻게 할까요? 전세를 찾기 힘든 상황에서 임차인인 제가 할 수 있는 가장 현명한 방법을 알고 싶습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250901.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250901.mp3</guid>
+      <pubDate>Mon, 01 Sep 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/1(월) ‘트럼프 관세’ 불법 | 3분기 경제성장률 | 강릉 대가뭄</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26644,23 +26655,6 @@ AI가 스타트업 다 죽인다!
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231113.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231113.mp3</guid>
       <pubDate>Mon, 13 Nov 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 11/13(월) 초저가 공습! 차이나 이커머스의 대약진 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[증시 열렸다!]
-오늘 증시 상황은?
-- 바바리안리서치 정희석 이사
-
-2부
-[신기방기 레드칩]
-초저가 공습! 차이나 이커머스의 대약진
-- 신기주 카운트 대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231113.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231113.mp3</guid>
-      <pubDate>Mon, 13 Nov 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
