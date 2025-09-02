@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/2(화) 재개발 재건축이 항상 계획보다 늦어지는 이유 - 윤석양 전 조합장(개포주공 4단지 재건축 조합)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+재개발 재건축이 항상 계획보다 늦어지는 이유 
+- 윤석양 전 조합장(개포주공 4단지 재건축 조합)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250902.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250902.mp3</guid>
+      <pubDate>Tue, 02 Sep 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 9/2(화) 소득공제를 위해선 신용카드와 현금을 어떻게 써야 하나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26647,17 +26658,6 @@ ISA에 대한 질문이 있습니다. ISA는 1년에 2천만원씩 총 5년까�
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231115.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231115.mp3</guid>
       <pubDate>Wed, 15 Nov 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 11/14(화) 자동차 명의 나누면 건보료 낮아지나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-저는 건강보험 지역가입자이고 남편이 세대주로 일괄 보험료를 내고 있습니다. 지역가입자는 소득과 재산에 따라 건강보험료가 달라지는데, 이 중 자동차도 관계가 있더라고요. 조만간 차량을 바꿀까 생각 중인데, 차량을 등록할 때 부부공동명의로 하면 건강보험료가 오르지 않게 할 수 있다는 말을 들었습니다. 정말 이 말이 맞는 걸까요? 아니면, 다른 부동산처럼 그냥 하나의 재산으로 보고 건강보험료를 더 내라고 하는 건가요? 답답한 속을 뻥 뚫어주실 답변 기다리겠습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231114.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231114.mp3</guid>
-      <pubDate>Tue, 14 Nov 2023 11:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
