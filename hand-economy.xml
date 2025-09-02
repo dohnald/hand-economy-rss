@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/2(화) 의무공개매수제 | 중국 개발은행 | 코레일·SR 통합</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 금융위, 주주 보호 위해 ‘의무공개매수제’ 추진
+2) ‘李 공약‘ 공정배상기금, 정부 반대에 막혔다
+3) 中, SCO 회의서 러시아·인도에 개발은행 제안
+4) 코레일·SR 통합 논의 격화… 찬반 갈렸다
+- 김치형 경제뉴스 큐레이터
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250902.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250902.mp3</guid>
+      <pubDate>Tue, 02 Sep 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/1(월) AI 이미지 끝판왕 '나노바나나' (김덕진 IT커뮤니케이션연구소장) | 한국 커피의 역사 (역사의 재원쌤)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26647,20 +26663,6 @@ AI가 스타트업 다 죽인다!
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231114(1).mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231114(1).mp3</guid>
       <pubDate>Tue, 14 Nov 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 11/14(화) 주 69시간제 사실상 철회 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 주 69시간제 사실상 철회
-2. 온실가스 배출없는 '백색수소' 상업화 가능성
-3. 한전 드디어 흑자나나?
-4. 미-인도네시아 니켈 협정 맺나 
-
-출연: 양효걸 기자, 남궁민 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231114.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231114.mp3</guid>
-      <pubDate>Tue, 14 Nov 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
