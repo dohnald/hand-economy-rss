@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 9/3(수) 연금저축과 IRP를 어떻게 수령하는게 좋을까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+ 안녕하세요, 저는 현재 급여소득자로 2008년 1월에 가입한 '연금저축계좌'와 2019년 11월에 가입한 '개인형 IRP 계좌'에 매월 일정 금액을 적립하고 있습니다. 모두 합쳐 연 900만원 이상을 불입하고 있고, 연말정산에서 13.2%의 세액공제를 받고 있습니다.
+ 2026년 7월이 되면 두 계좌 모두 연금개시 신청이 가능하다고 들었는데요, 각 계좌별로 연금개시는 어떤 방식으로 하는 것이 가장 효율적인지 궁금합니다. 그리고 연금개시 후에도 계좌에 계속 불입을 할 수 있는지, 만약 불입이 가능하다면 계속해서 연말정산 세액공제를 받을 수 있는지도 궁금합니다. 연금개시 후에도 정년까지 5년 이상 남아 있어서 연말정산시 세액공제가 매우 중요하거든요.
+ 참고로, 2021년 12월에 가입한 ISA계좌가 있고, 2035년 7월부터는 사학연금을 수령할 예정입니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250903.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250903.mp3</guid>
+      <pubDate>Wed, 03 Sep 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/3(수) 美 주택비상상태 | 트럼프家 코인 | 택시 산업 재편</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26646,23 +26658,6 @@ ISA에 대한 질문이 있습니다. ISA는 1년에 2천만원씩 총 5년까�
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231115.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231115.mp3</guid>
       <pubDate>Wed, 15 Nov 2023 11:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 11/15(수) 독일 부동산 대폭락! 한국의 운명은? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[역시나 박정호]
-독일 부동산 대폭락! 한국의 운명은?
-- 오승훈 아나운서
-
- 2부
-[억울한 경제]
-'깡통전세' 공인중개사의 책임
-- 조세영 변호사]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231115.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231115.mp3</guid>
-      <pubDate>Wed, 15 Nov 2023 11:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
