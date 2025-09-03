@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/3(수) 美 주택비상상태 | 트럼프家 코인 | 택시 산업 재편</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 미국 정부, 주택 공급난에 비상사태 선포 검토
+2) 트럼프 일가, 코인 상장으로 7조 벌었다
+3) 한은 “로보택시 시대, 개인택시 선제적 대책 필요"
+- 김치형 경제뉴스 큐레이터
+- 노유정 한국경제신문 기자
+
+[친절한 경제]
+대체거래소를 만들어놓고
+왜 거래량을 제한하나요?
+- 청취자 김남표 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250903.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250903.mp3</guid>
+      <pubDate>Wed, 03 Sep 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/2(화) 재개발 재건축이 항상 계획보다 늦어지는 이유 - 윤석양 전 조합장(개포주공 4단지 재건축 조합)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26644,20 +26663,6 @@ ISA에 대한 질문이 있습니다. ISA는 1년에 2천만원씩 총 5년까�
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231115.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231115.mp3</guid>
       <pubDate>Wed, 15 Nov 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 11/15(수) 미국 10월 소비자 물가지수 상승 둔화 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[11/15(수) 손경제
-
-1. 미국 10월 소비자 물가지수 상승 둔화
-2. 새마을금고, 전문경영인 체제 도입
-3. 지식산업센터 공실 대란, 부동산 시장 뇌관되나? 
-4. 아르헨티나 물가상승률 32년 만에 최고치]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231115.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231115.mp3</guid>
-      <pubDate>Wed, 15 Nov 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
