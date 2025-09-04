@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 9/4(목) 가치가 없는 콘도회원권 때문에 기초연금을 못 받습니다.</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+ 안녕하세요. 저희 부모님이 IMF 외환위기 당시 부도가 났던 모 대기업 건설사로부터 지급받을 대금을 받지 못하게 되면서, 그 대신 해당 건설사의 콘도회원권을 받으셨습니다. 현재 해당 콘도는 다른 리조트로 인수되면서 사용가치도 없고 회원관리도 안 되는 바람에 사용하지도 못하고 있구요. 그런데 이 콘도 회원권 때문에 기초연금 대상이 되지 못하니 처분 후 신청하라는 설명을 들었습니다. 이런 콘도 회원권은 어디에서 팔수 있을까요? 회원권 거래소라는 사설 사이트들이 많던데 믿을 수 있는건지도 의심스럽습니다. 만약 팔지 못한다면 자녀인 제 명의로 증여한다면 증여세는 어떤 기준으로 내야할까요? 현재 회원권으로 인한 세금은 1년에 몇천원정도만 내고 계시다는데, 제가 증여받으면 재산세나 건강보험 등에 어떤 불이익이 생기는지도 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250904.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250904.mp3</guid>
+      <pubDate>Thu, 04 Sep 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/4(목) 대체거래소 규제 유예 | 빵값 논란 | 금 사상 최고가</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26640,19 +26650,6 @@ ISA에 대한 질문이 있습니다. ISA는 1년에 2천만원씩 총 5년까�
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231116.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231116.mp3</guid>
       <pubDate>Thu, 16 Nov 2023 11:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 11/16(목) 퇴직연금 운용 자유도 커진다 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1.퇴직연금 운용 자유도 커진다
-2.재개발 입주권 승계 취득세 더 내라?
-3.일본, 전 분기 대비 마이너스 성장
-
-출연: 김현우 소장, 서은영 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231116.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231116.mp3</guid>
-      <pubDate>Thu, 16 Nov 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
