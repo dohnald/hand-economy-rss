@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 9/5(금) 상이연금도 건강보험료 부과 대상인가요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+ 안녕하세요! 저는 부사관으로 27년 복무하다 임무수행간 다쳐서 장해등급을 받고 전역한 뒤 상이연금을 받고 있습니다. 현재는 직장생활을 하고 있어서 직장건강보험 가입자인데 퇴직 후에는 어떻게 되는지 궁금합니다. 군인연금을 받으면 지역가입자로 전환된다고 하는데, 상이연금 수급자도 지역의료 가입자로 전환되는걸까요? 상이연금으로 받는 돈은 연간 2천만원이 넘긴 하지만, 소득으로 분류되지 않아 세금은 내지 않고 있습니다. 또, 제가 국가유공자라 보훈부에서 보상금으로 매월 지급받고 있는데 이것도 건보료에 포함되는 걸까요?
+ 이와는 별개로, 노후를 위해 직장생활하면서 연금보험과 연금저축, IRP, 종신보험도 가입하고 있는데요, 개인연금은 종류에 따라 건강보험료에 영향을 주는 것과 그렇지 않은 것이 있다고 들었는데 정확히 어떻게 구분하는 건지도 궁금합니다. ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250905.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250905.mp3</guid>
+      <pubDate>Fri, 05 Sep 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/5(금) 포스코, HMM 인수 검토 | 새마을금고 위기 | 연대책임 소송</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26638,15 +26649,6 @@ ISA에 대한 질문이 있습니다. ISA는 1년에 2천만원씩 총 5년까�
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231117.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231117.mp3</guid>
       <pubDate>Fri, 17 Nov 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[쌍화탕타임] 주천 김현우가 대만서 사온 누가쿠키와 혼돈의 재개발 승계 취득세</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231116_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231116_1.mp3</guid>
-      <pubDate>Thu, 16 Nov 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
