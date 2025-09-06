@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/5(금) US오픈 경제효과 (이종훈 작가) | 원주민 멸종위기 | 유럽 교도소 부족 | 시카고 사기범죄 기승 (한경제 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[공부왕이종훈]
+US오픈, 코트 위에서 돈이 움직인다
+- 이종훈 아이러브스포츠 작가
+
+2부
+[글로벌리포트]
+원주민 멸종위기 | 유럽 교도소 부족 | 시카고 사기범죄 기승
+- 한경제 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250905.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250905.mp3</guid>
+      <pubDate>Fri, 05 Sep 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (5부) 선생님들의 선생님</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26608,18 +26625,6 @@ ISA에 대한 질문이 있습니다. ISA는 1년에 2천만원씩 총 5년까�
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231120_4.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231120_4.mp3</guid>
       <pubDate>Fri, 17 Nov 2023 12:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 동창회, 동문회에 유대감 못 느끼는 사람들</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 손경제 플러스는 저녁 8시 5분, 손경제 상담소는 오후 1시 55분 부터
-- 멀어진 손경제 플러스에 집 판 느낌 든 이진우
-- 고3 아빠 이진우 + 최초로 주례 본 이진우
-- 갑자기 결혼 불똥 튄 김현우 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231120_3.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231120_3.mp3</guid>
-      <pubDate>Fri, 17 Nov 2023 12:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
