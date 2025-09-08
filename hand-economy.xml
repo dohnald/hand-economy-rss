@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/8(월) 한국형 제조AI (김덕진) | 육식의 역사 (재원쌤)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+제조 AI 패권을 노리는 K-기업
+- 김덕진 IT커뮤니케이션연구소장
+
+2부
+[쩐설의 김선생]
+한반도 육식의 역사
+- 역사의 재원쌤]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250908.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250908.mp3</guid>
+      <pubDate>Mon, 08 Sep 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 9/8(월) 금융소득 종합과세 대상자의 ISA 가입기준은?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26597,28 +26614,6 @@ ISA에 대한 질문이 있습니다. ISA는 1년에 2천만원씩 총 5년까�
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231121.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231121.mp3</guid>
       <pubDate>Tue, 21 Nov 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 11/20(월) 韓 기업부채 증가속도 세계 2위? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓 잡은 경제]
-韓 기업부채 증가속도 세계 2위,
-무늬만 신사업? '나이롱 회사' 잡는다,
-與 "상속세 건드릴 때 됐다" 개편 급물살?
-- 정지서 연합인포맥스 기자
-- 신인규 한국경제TV 기자
-
- 2부
-[증시 열렸다!]
-요주의 일정: 엔비디아 실적, FOMC 의사록,
-월마트 "디플레 온다" 경기 침체 임박?,
-샘 알트만 해고! 오픈AI 일반 지능 완성?
-- 이효석 업라이즈 이사]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231120.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231120.mp3</guid>
-      <pubDate>Mon, 20 Nov 2023 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
