@@ -86,6 +86,15 @@ US오픈, 코트 위에서 돈이 움직인다
       <pubDate>Fri, 05 Sep 2025 18:04:00 +0900</pubDate>
     </item>
     <item>
+      <title>커피타임 - (3부) 유튜브 1타</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (3부) 유튜브 1타]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_250905_33333.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_250905_33333.mp3</guid>
+      <pubDate>Fri, 05 Sep 2025 18:03:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (2부) 큰돈의 덧없음</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26611,19 +26620,6 @@ ISA에 대한 질문이 있습니다. ISA는 1년에 2천만원씩 총 5년까�
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231120.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231120.mp3</guid>
       <pubDate>Mon, 20 Nov 2023 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 11/20(월) 내년부터 아마존에서 현대차 산다 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 내년부터 아마존에서 현대차 산다
-2. 정부, 슈링크플레이션 조사 착수 
-+ 친절한 경제
-
-출연: 안승찬, 양효걸기자, 이진우]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231120.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231120.mp3</guid>
-      <pubDate>Mon, 20 Nov 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
