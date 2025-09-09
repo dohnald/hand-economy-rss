@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/9(화) 여행업의 가치사슬, AI가 싹 다 바꿀겁니다 - 김종윤 대표(야놀자 클라우드)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+여행업의 가치사슬, AI가 싹 다 바꿀겁니다 
+- 김종윤 대표(야놀자 클라우드)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250909.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250909.mp3</guid>
+      <pubDate>Tue, 09 Sep 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 9/9(화) 부동산펀드 분리과세를 새로 설정할 수 있나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26595,26 +26606,6 @@ K-POP 전성시대! 근데 벌써 위기?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231122.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231122.mp3</guid>
       <pubDate>Wed, 22 Nov 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 11/21(화) 부동산 공시가격 재검토.. 세금은? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓 잡은 경제]
-횡재세는 없지만 '상생금융' 있다?
-부둥산 공시가격 재검토.. 세금은?
-달러 환율 2개월만에 최저치! 배경은?
-- 신수정 이데일리 기자
-- 신인규 한국경제TV 기자
-
- 2부
-[대가들의 투자노트]
-워런 버핏의 50배 주식, 코카콜라
-- 신기주 카운트 대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231121.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231121.mp3</guid>
-      <pubDate>Tue, 21 Nov 2023 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
