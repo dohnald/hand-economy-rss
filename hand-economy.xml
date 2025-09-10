@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/10(수) 뉴스테이 만기 임박 | 에이트코홀딩스 주가 폭등 | 위메프 파산 수순</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 임대 기간 만료 앞둔 뉴스테이, 대책 없이 표류
+2) 월드코인 모으겠단 기업, 주가 30배 폭등
+3) 위메프 결국 파산 수순… 회생절차 폐지 결정
+- 김치형 경제뉴스 큐레이터 
+- 노유정 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250910.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250910.mp3</guid>
+      <pubDate>Wed, 10 Sep 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/9(화) 여행업의 가치사슬, AI가 싹 다 바꿀겁니다 - 김종윤 대표(야놀자 클라우드)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26590,22 +26604,6 @@ K-POP 전성시대! 근데 벌써 위기?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231122.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231122.mp3</guid>
       <pubDate>Wed, 22 Nov 2023 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 11/22(수)  내년 부동산 공시가격 현실화율 동결 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[11/22(수) 손경제
-
-1. 내년 공시가격 현실화율 동결
-2. '챗GPT'의 올트먼 해고 후폭풍, 오픈AI 위기
-3. 가계부채, 지난 3분기 사상 최대치
-4. 아르헨티나 새 대통령, 공기업 다 팔겠다?
-
- - 양효걸, 서은영, 박세훈, 이진우]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231122.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231122.mp3</guid>
-      <pubDate>Wed, 22 Nov 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
