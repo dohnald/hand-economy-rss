@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 9/11(목) ISA를 해지하고 재가입하는 것이 좋을까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+ 안녕하세요. 4년 전쯤 서민형 ISA를 가입해서 배당주에 투자하고 있습니다.
+5년이 다 되어 가는 시점에서 해지를 하고 새로 가입을 하는 것이 좋을지, 아니면 계속 유지를 하는 것이 좋을지 고민입니다. 정확한 가입일은 2021년 10월이고, 만기일은 10년 뒤인 2031년 10월로 설정했습니다. 
+ 매년 2천만원씩 5%의 배당금을 받는다고 가정한다면, 10년간 받을 수 있는 배당금은 4천만원인데요, 서민형이니 400만원에 대해서 비과세 혜택을 받을 수 있다고 알고 있습니다. 계산해보면 약 2600만원의 15.4%가 400만원이니까, 2600만원은 세금을 감면받고, 나머지 1400만원은 9.9%의 세율로 계산해서 138만원 정도의 세금을 내고 나면, 세후 3862만원 수익을 가져갈 수 있을 것 같은데요, 5년 단위로 재가입 하는 것으로 계산하면 총 수익은 세후 3846만원입니다. 그럼 재가입하는게 더 유리한데, 이렇게 계산하는게 맞는 건가요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250911.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250911.mp3</guid>
+      <pubDate>Thu, 11 Sep 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/11(목) 코스피 최고치 | KT 해킹 | 프랑스 긴축 반대 시위 | 아르헨 폭락</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26588,18 +26600,6 @@ openAI 사태는 샘 알트만의 자작극?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231123.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231123.mp3</guid>
       <pubDate>Thu, 23 Nov 2023 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 11/23(목) 사업소득이 생긴 배우자에 대한 연말정산과 건강보험</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요, 손에 잡히는 경제를 15년 이상 듣고 있는 열혈 애청자 입니다. 저는 현재 서울에서 직장을 다니고 있고, 연말정산 때 아내와 두 아이를 공제 대상자로 신고하고 있습니다. 건강보험에는 3명 다 피부양자로 등재돼 있구요. 그런데 아내가 올해 1월부터 인터넷 강의 관리교사로 일을 하게 됐는데요, 근로자 신분은 아니고 사업소득자라고 합니다. 급여는 월 200~250정도 받고 있고, 세금은 3.3%만 내고 있습니다. 이런 경우 올해 연말정산에선, 아내를 공제대상에서 제외해야 되는지 궁금합니다. 또, 아내가 연말정산을 할 땐 본인 이름으로 된 카드와 현금영수증도 포함되는 건가요?
-건강보험은 아내가 별도로 공단에 신고를 해야 되는 건지, 그러면 건강보험료는 얼마나 내야하는지도 궁금합니다. 추가로, 아내가 다른 사업도 준비 중에 있는데요, 현재 직업으로 받는 소득과 개인사업으로 벌어들이는 사업을 합계해서 신고하고 경비처리가 가능한지도 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231123.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231123.mp3</guid>
-      <pubDate>Thu, 23 Nov 2023 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
