@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/11(목) 코스피 최고치 | KT 해킹 | 프랑스 긴축 반대 시위 | 아르헨 폭락</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) ‘대주주 기준‘ 유지 기대.. 코스피 사상 최고치
+2) KT 무단 소액결제로 1.7억 피해… 불법 기지국에 당했다
+3) 프랑스 전역서 긴축 예산 반대 시위
+4) 아르헨, '전기톱 대통령' 흔들리자 주가 폭락
+- 박수익 비즈니스워치 기자
+- 하수정 경제뉴스 큐레이터 
+- 박세훈 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250911.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250911.mp3</guid>
+      <pubDate>Thu, 11 Sep 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/10(수) 트럼프에 맞불 놓는 인도, 경제는 괜찮을까? - 김찬완 소장(한국외대 인도연구소)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26584,20 +26600,6 @@ openAI 사태는 샘 알트만의 자작극?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231123.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231123.mp3</guid>
       <pubDate>Thu, 23 Nov 2023 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 11/23(목) 전 세계 부동산  시장 침체 전망 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 전 세계 부동산 시장 침체 전망
-- 국내 산업 활성 위해, 유턴 기업 여부 상관 없이 인센티브 강화해야
-- 최대 암호화폐 거래서 바이낸스, 5조원 대 벌금
-- 중국인들의 두리안 사랑에 우리 나라 커피값 오른다?
-
-출연: 김현우 소장, 서은영 경제뉴스큐레이터, 박세훈 작가, 이진우]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231123.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231123.mp3</guid>
-      <pubDate>Thu, 23 Nov 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
