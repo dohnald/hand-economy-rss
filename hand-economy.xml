@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/12(금) 탈원전 논란 | 금리와 집값 | 사망보험 거래</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 李, 신규 원전에 신중론… 업계 “탈원전 시즌2“
+2) 한은 "금리 인하, 성장률 대신 집값만 올렸다"
+3)'사망보험 거래' 첫 등장… 금융위도 예의 주시
+- 조지원 서울경제신문 기자
+- 서영태 연합인포맥스 기자
+- 김현우 행복자산관리연구소 소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250912.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250912.mp3</guid>
+      <pubDate>Fri, 12 Sep 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/11(목) 中증시 상승랠리 끝? 진짜 승부처가 옵니다 - 전병서 소장(중국경제금융연구소)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26576,22 +26591,6 @@ openAI 사태는 샘 알트만의 자작극?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231124_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231124_1.mp3</guid>
       <pubDate>Fri, 24 Nov 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 11/24(금) 3분기 가계 소득 늘었지만 지출도 늘어 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 3분기 가계 소득 늘었지만 지출도 늘어
-- 변액 보험 가입 시 유의 사항은
-- 영국 정부, 대규모 감세 정책
-- 아르헨티나 주가 급등, 투자는 신중해야
-
-+ 친절한 경제
-
-출연: 김현우 소장, 박세훈 작가, 이진우]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231124.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231124.mp3</guid>
-      <pubDate>Fri, 24 Nov 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
