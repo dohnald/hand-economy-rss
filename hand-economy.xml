@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[경제콘서트] 퇴직연금 마스터 클래스</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[MBC × 하나증권 "퇴직연금 마스터클래스" IRP 계좌 개설 이벤트
+
+연내에 아래 링크(모바일 전용)를 통해 
+하나증권 IRP를 개설한 모든 분에게
+하나증권 금융투자상품권 1만원을 드립니다.
+
+https://myip.kr/odtQI
+
+※서른한 번째 경제콘서트는 자산관리의 명가, 
+하나증권의 지원을 받아 개최되었습니다. ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250914.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250914.mp3</guid>
+      <pubDate>Sun, 14 Sep 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/13(토) 아주 투명한 공급대책, 서울은 또 답이 없습니다 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26591,25 +26609,6 @@ UAW “테슬라·현대차도 노조 만들자!”
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231128.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231128.mp3</guid>
       <pubDate>Tue, 28 Nov 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 11/27(월) 은행이 채권을 찍으면 내 대출금리가 오른다? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓 잡은 경제]
-'미래기획단' 신설, 삼성이 그리는 미래는?
-은행권 다시 채권 찍는다.. 시장 영향은?
-- 정지서 연합인포맥스 기자
-- 신인규 한국경제TV 기자
-
- 2부
-[증시 열렸다]
-쏟아지는 불황 신호! 침체의 서막?
-- 이효석 업라이즈 이사]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231127.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231127.mp3</guid>
-      <pubDate>Mon, 27 Nov 2023 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
