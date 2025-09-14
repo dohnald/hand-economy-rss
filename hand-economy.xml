@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/13(토) 아주 투명한 공급대책, 서울은 또 답이 없습니다 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+아주 투명한 공급대책, 서울은 또 답이 없습니다 
+- 박정호 명지대 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250913.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250913.mp3</guid>
+      <pubDate>Sat, 13 Sep 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>협찬인가 - 지옥에서 귀환한 1/3</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26599,18 +26610,6 @@ UAW “테슬라·현대차도 노조 만들자!”
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231127.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231127.mp3</guid>
       <pubDate>Mon, 27 Nov 2023 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 11/27(월) 연금저축보험을 IRP로 옮기는 게 좋을까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요, 저는 현재 공무원으로, 정년퇴직 후 4년 뒤부터 공무원연금이 개시됩니다. 그래서 퇴직 후 재취업하지 않는 한 4년간은 소득이 없습니다. 가지고 있는 개인연금은 연금저축보험인데, 자세히 알아보지도 않고 가입한데다가, 수익률도 저조하여 IRP계좌로 이전하려고 생각 중입니다.
-그런데 기존 연금저축보험을 IRP로 이전하려면 55세가 돼야한다더라구요. 아직 55세 미만이라 이전이 안 되니, 일단은 IRP계좌를 개설해서 납입하다가 55세가 되면 연금저축보험을 IRP에 합칠까 하는데요, 이런 방법이 최선인지 확신도 없고 퇴직시점까지 10년도 남지 않아 IRP 가입 후 원금손실이 있을까 걱정도 됩니다. 차라리 그냥 은행 예적금이 낫지 않을까 싶기도 한데요. 얼마 남지 않은 재직기간동안 어떻게 준비해야 현명한 선택일지 고민입니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231127.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231127.mp3</guid>
-      <pubDate>Mon, 27 Nov 2023 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
