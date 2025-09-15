@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/15(월) 오라클의 성공 비결 (김덕진 소장) | K-치킨의 역사 (재원햄)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+구닥다리 서버 회사의 기적
+- 김덕진 IT커뮤니케이션연구소 소장
+
+2부
+[쩐설의김선생]
+세계를 곧 휩쓸 K-치킨의 역사
+- 역사의 재원쌤]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250915.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250915.mp3</guid>
+      <pubDate>Mon, 15 Sep 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 9/15(월) 연금저축의 과세제도에 대해 궁금합니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26592,23 +26609,6 @@ UAW “테슬라·현대차도 노조 만들자!”
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231129.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231129.mp3</guid>
       <pubDate>Wed, 29 Nov 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 11/28(화) 천재 혹은 바보, 손정의의 10초 투자법 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[이슈 플러스]
-신냉전 시대, 우리나라의 길
-- 반길주 고려대 일민국제관계연구원 연구교수
-
- 2부
-[대가들의 투자노트]
-촌재 혹은 바보, 손정의의 10초 투자법
-- 신기주 카운트 대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231128.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231128.mp3</guid>
-      <pubDate>Tue, 28 Nov 2023 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
