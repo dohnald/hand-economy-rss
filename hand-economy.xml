@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/15(월) 관세 협상과 통화스와프 | HMM, 中조선에 발주</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 정부, 현금 투자하란 美에 통화스와프 제안
+2) HMM, 소형 컨테이너선 中에 발주… 이유는?
+- 조미현 한국경제신문 기자
+- 정지서 연합인포맥스 기자
+
+[친절한 경제]
+왜 어떤 나라는 달러를
+법정화폐로 쓰나요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250915.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250915.mp3</guid>
+      <pubDate>Mon, 15 Sep 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[경제콘서트] 퇴직연금 마스터 클래스</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26595,20 +26612,6 @@ UAW “테슬라·현대차도 노조 만들자!”
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231128.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231128.mp3</guid>
       <pubDate>Tue, 28 Nov 2023 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 11/28(화) 내년부터 외국 인력, 음식점에서 일한다 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 내년부터 외국 인력, 음식점에서 일한다
-2. 머니마켓펀드 MMF에 자금 모인다
-3. 채권 판매량 증가 
-4. 믿었던 유커, 한국 안 오는 이유는
-
-출연: 양효걸 기자, 남궁민 경제뉴스큐레이터, 박세훈 작가, 이진우]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231128.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231128.mp3</guid>
-      <pubDate>Tue, 28 Nov 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
