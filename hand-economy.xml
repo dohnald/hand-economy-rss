@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/16(화) 산재사망 처벌 강화 | 농산물 유통구조 개선 | K-리커머스 열풍</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 산재 사망 3명 넘는 사업장, 영업익 5% 과징금
+2) 온라인 도매 키워 농산물 유통비 줄인다
+3) K-콘텐츠 인기 타고 K-중고품도 세계 공략
+- 김치형 경제뉴스 큐레이터
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250916.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250916.mp3</guid>
+      <pubDate>Tue, 16 Sep 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/15(월) 오라클의 성공 비결 (김덕진 소장) | K-치킨의 역사 (재원햄)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26596,19 +26611,6 @@ UAW “테슬라·현대차도 노조 만들자!”
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231129.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231129.mp3</guid>
       <pubDate>Wed, 29 Nov 2023 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 11/29(수) 주식거래도 네이버? 투자자 보호 책임은 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[11/29(수) 손경제
-
-1. 주식거래도 네이버로? 투자자 보호 책임은
-2. 기업의 워크 아웃 허용하는 법안 논의
-3. 다음 달부터 주택담보대출 온라인 대환 대출 가능 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231129.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231129.mp3</guid>
-      <pubDate>Wed, 29 Nov 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
