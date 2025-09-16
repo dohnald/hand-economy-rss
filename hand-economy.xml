@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/16(화) 고꾸라진 K-뷰티, 성장은 끝났나 - 박종대 연구원(메리츠증권)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+고꾸라진 K-뷰티, 성장은 끝났나 
+- 박종대 연구원(메리츠증권)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250916.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250916.mp3</guid>
+      <pubDate>Tue, 16 Sep 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 9/16(화) 할아버지가 손자에게 준 용돈도 증여신고를 해야하나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26594,23 +26605,6 @@ UAW “테슬라·현대차도 노조 만들자!”
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231130.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231130.mp3</guid>
       <pubDate>Thu, 30 Nov 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 11/29(수) 직구 2.0시대! 우리 기업이 위험하다 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[키워드 경제]
-직구 2.0시대! 우리 기업이 위험하다
-- 남궁민 경제뉴스큐레이터
-
- 2부
-[공부왕 이종훈]
-해외 이주 노동의 역사: 월남과 중동
-- 이종훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231129.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231129.mp3</guid>
-      <pubDate>Wed, 29 Nov 2023 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
