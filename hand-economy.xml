@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/17(수) 경기도형 적금주택 | 美·中 틱톡 매각 합의 | 네이버웹툰X디즈니</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 정부, ‘경기도형 적금주택‘ 도입 고려… 분양가 나눠 낸다?
+2) 美·中 틱톡 매각 합의… 미국이 사업권 갖는다
+3) 네이버웹툰, 디즈니 전용 만화 플랫폼 개발한다
+- 김치형 경제뉴스 큐레이터
+- 노유정 한국경제신문 기자
+
+[친절한 경제]
+관세는 수입업자 몫인데
+왜 수출기업이 손해보나요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250917.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250917.mp3</guid>
+      <pubDate>Wed, 17 Sep 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/16(화) 고꾸라진 K-뷰티, 성장은 끝났나 - 박종대 연구원(메리츠증권)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26589,22 +26607,6 @@ UAW “테슬라·현대차도 노조 만들자!”
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231130.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231130.mp3</guid>
       <pubDate>Thu, 30 Nov 2023 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 11/30(목) 중도상환 수수료 부담 줄어든다 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[11/30(목) 손경제
-
-- 중도상환수수료 부담 줄어든다
-- 재건축 초과이익 환수 완화
-- 생활형숙박시설 이행강제금 피하는 각종 우회로 등장
-- OECD, 우리 경제 성장율 2.3%로 상향 전망
-
-출연: 김현우 소장, 서은영 경제뉴스큐레이터, 박세훈 작가, 이진우]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231130.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231130.mp3</guid>
-      <pubDate>Thu, 30 Nov 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
