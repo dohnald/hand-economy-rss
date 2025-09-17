@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/17(수) 팝마트 성공의 비결 (하수정 큐레이터) | 소행성 채굴 (김태희 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업되는 기업]
+'라부부 신드롬' 팝마트, 다음 행보는?
+- 하수정 경제뉴스 큐레이터
+
+2부
+[사이언스가 머니]
+황금 소행성 찾아 골드러시 떠난다
+- 김태희 과학동아 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250917.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250917.mp3</guid>
+      <pubDate>Wed, 17 Sep 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 9/17(수) 퇴직금을 어떻게 관리해야 될지 모르겠어요.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26588,27 +26605,6 @@ UAW “테슬라·현대차도 노조 만들자!”
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231201.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231201.mp3</guid>
       <pubDate>Fri, 01 Dec 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 11/30(목) 갈팡질팡 미중관계, 실상은? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[11/30(목) 손경제플러스
-
-1부
-[갓 잡은 경제]
-한국은행 7번째 기준금리 동결, 
-티빙-웨이브 손잡고 넷플 잡는다?,
-12월 중도상환수수료 없다!
-- 양효걸 MBC 기자
-
- 2부
-[이슈플러스]
-갈팡질팡 미중관계, 실상은?
--박승찬 용인대 중국학과 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231130.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231130.mp3</guid>
-      <pubDate>Thu, 30 Nov 2023 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
