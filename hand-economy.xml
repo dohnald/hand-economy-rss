@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/18(목) 2026 부동산 트렌드, 지금 알아야 앞서갑니다 - 김경민 교수(서울대 도시계획과)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+2026 부동산 트렌드, 지금 알아야 앞서갑니다 
+- 김경민 교수(서울대 도시계획과)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250918.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250918.mp3</guid>
+      <pubDate>Thu, 18 Sep 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 9/18(목) 퇴직연금 현물이전을 신청했는데 현금화가 됐습니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26593,18 +26604,6 @@ UAW “테슬라·현대차도 노조 만들자!”
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231201.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231201.mp3</guid>
       <pubDate>Fri, 01 Dec 2023 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 손경제 플러스 되찾을 플랜 세운 욕망 이진우 선생</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 지각에 관대한 이진우, 사리판별 어쩔?
-- 지각 위기일발 박정호
-- 이진우의 사진 大굴욕 사건
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231201_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231201_2.mp3</guid>
-      <pubDate>Fri, 01 Dec 2023 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
