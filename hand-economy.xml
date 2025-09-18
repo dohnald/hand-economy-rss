@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/18(목) 美 기준금리 인하 | 한국거래소 수수료 수익↓ | 주 4.5일제 입법 추진 | 강남·용산 토허제 연장</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美연준, 금리 0.25%P 인하… 연내 두차례 추가인하 시사
+2) 한국거래소, 수수료 수익 19% 급감… 경쟁체제에 타격
+3) ‘주 4.5일제’ 입법 추진… 올해 안에 국회로 간다
+4) ‘연식 아닌 사용개월로’… 車보험 감가상각 개선된다
+5) 서울시, 강남 3구·용산구 '토허제' 1년 3개월 연장
+- 김치형 경제뉴스 큐레이터
+- 하수정 경제뉴스 큐레이터
+- 조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250918.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250918.mp3</guid>
+      <pubDate>Thu, 18 Sep 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/17(수) 팝마트 성공의 비결 (하수정 큐레이터) | 소행성 채굴 (김태희 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26591,20 +26608,6 @@ UAW “테슬라·현대차도 노조 만들자!”
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231201_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231201_1.mp3</guid>
       <pubDate>Fri, 01 Dec 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 12/1(금) 1기 신도시, 30층 재건축 되나 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 한국은행 금리 동결
-- '1기 신도시 30층 재건축' 노후계획도시 특별법 국회 소위 통과
-- 신혼부부 3억까지 증여세 공제
-
-
-+ 친절한 경제]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231201.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231201.mp3</guid>
-      <pubDate>Fri, 01 Dec 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
