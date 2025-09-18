@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 9/18(목) 퇴직연금 현물이전을 신청했는데 현금화가 됐습니다.</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+ 안녕하세요. 기존에 다니던 회사에서 퇴직금을 받게 되었는데요, 퇴직연금 수령 방법으로 ‘일시금’과 ‘현물이전’ 중 현물이전을 선택했습니다. 그리고 회사의 퇴직연금이 가입돼 있던 은행에서 IRP계좌를 개설해서 퇴직금 수령을 신청했습니다. 그런데 갑자기 퇴직연금에서 보유하고 있던 상품 매도 알림 문자가 오더라구요. 알아보니, 은행직원 실수로 일시금으로 처리하는 바람에 기존에 상품이 모두 매도가 된 것이었습니다. 당시 쌓여있던 퇴직금은 누적 8000만원 정도인데요, 6000만원은 초저위험 상품으로, 500만원은 S&P500에, 나머지는 예금으로 운용 중이었습니다. 손실이 난 상품은 없는 상태였구요. 
+ 그래서 IRP계좌로 8000만원 상당의 현금이 지급될 예정인데요, 은행에서는 수익금이 확정돼서 지급될 뿐, 수수료 손해는 없고, 기존 퇴직연금처럼 다시 운용하면 된다고 합니다. 정말 손해는 없는 건지, 혹시나 나중에 55세 이후 연금으로 수령할 때의 불이익은 없는지 궁금합니다. 또, 개인연금은 연간 1500만원을 초과해서 수령하면 세금을 많이 내야 한다던데, 퇴직금이 일시금으로 처리된게 문제는 없는지도 알고 싶습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250918.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250918.mp3</guid>
+      <pubDate>Thu, 18 Sep 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/18(목) 美 기준금리 인하 | 한국거래소 수수료 수익↓ | 주 4.5일제 입법 추진 | 車보험 특약 개선</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26594,19 +26605,6 @@ UAW “테슬라·현대차도 노조 만들자!”
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231201_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231201_2.mp3</guid>
       <pubDate>Fri, 01 Dec 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 필라멘트가 끊어진 천재를 아시오?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 외모 컴플렉스 극복 중인 이진우
-- 인생은 내가 욕했던 선배들을 이해하는 과정?
-- 엑스포가 대체 뭡니까
-- 관피아에 대해 소신 발언하는 박정호
-- 나이 들수록 총기 있어지는 사람들]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231201_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231201_1.mp3</guid>
-      <pubDate>Fri, 01 Dec 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
