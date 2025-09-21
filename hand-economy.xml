@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/21(일) 트럼프, 이번엔 호주? 동맹값이 또 올랐습니다 - 서병수 애널리스트</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+트럼프, 이번엔 호주? 동맹값이 또 올랐습니다 
+- 서병수 애널리스트]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250921.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250921.mp3</guid>
+      <pubDate>Sun, 21 Sep 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/20(토) 관세전쟁 후엔 항상 '진짜' 전쟁이 났습니다 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26586,19 +26597,6 @@ LH 혁신, 민간도 공공주택 시행
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231204.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231204.mp3</guid>
       <pubDate>Mon, 04 Dec 2023 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 12/4(월)비대면 진료, 휴일- 야간에 누구나 가능 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 비대면 진료, 휴일- 야간에 누구나 가능
-- 한국 배터리, 中 지분 25% 넘으면 美 보조금 못 받아
-+ 친절한 경제
-
-출연: 안승찬, 양효걸기자, 이진우]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231204.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231204.mp3</guid>
-      <pubDate>Mon, 04 Dec 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
