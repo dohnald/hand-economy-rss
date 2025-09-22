@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/22(월) 글로벌 반도체 시장, 장단기 업황 분석 - 이형수 대표(HSL파트너스)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+글로벌 반도체 시장, 장단기 업황 분석 
+- 이형수 대표(HSL파트너스)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250922.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250922.mp3</guid>
+      <pubDate>Mon, 22 Sep 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/21(일) 트럼프, 이번엔 호주? 동맹값이 또 올랐습니다 - 서병수 애널리스트</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26587,16 +26598,6 @@ LH 혁신, 민간도 공공주택 시행
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231204.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231204.mp3</guid>
       <pubDate>Mon, 04 Dec 2023 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 12/4(월)임대료 깎아줘놓고 다시 달라는 건물주</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-안녕하세요. 저희 어머니는 법인이 임대인인 상가를 임차해서 가게를 운영하고 있습니다. 어머니는 코로나 기간 중 6개월 동안 월세를 할인받았고, 임대인은 착한 임대인 제도를 통해 세금감면을 받은 것으로 알고 있는데요, 지금 와서 그때 6개월 동안 깎아주었던 월세를 다시 돌려달라고 한답니다. 월세가 밀린 거라고 하면서요. 월세를 돌려줘야 한다면, 임대인은 세금감면 받고 임차인은 월세를 다시 다 내야 되는건데, 이게 맞는 건가요? 돌려주지 않으면 혹시나 불이익이 있을지 걱정이네요. 이런 경우에 저희 어머니는 어떻게 대처해야 하는지 알고 싶습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231204.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231204.mp3</guid>
-      <pubDate>Mon, 04 Dec 2023 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
