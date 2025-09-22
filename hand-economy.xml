@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/22(월) '제로클릭' 시대, 구글의 위기? (김덕진 소장) | 우리 술의 역사 (재원쌤)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+'제로클릭'에 구글이 흔들립니다
+- 김덕진 IT커뮤니케이션연구소 소장
+
+2부
+[쩐설의 김선생]
+한국에서 소주만 살아남은 이유
+- 역사의 재원쌤]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250922.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250922.mp3</guid>
+      <pubDate>Mon, 22 Sep 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 9/22(월) 연금목적의 변액종신보험, 괜찮을까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26577,20 +26594,6 @@ LH 혁신, 민간도 공공주택 시행
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231205.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231205.mp3</guid>
       <pubDate>Tue, 05 Dec 2023 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 12/5(화)  중국發 요소수 대란 사태 우려 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1. 중국發 요소수 대란 사태 우려
-2. 연봉 8천만원도 월세 세액 공제
-3. 11월 물가지수 3.3% 상승
-4. 미국 부부들, 이자 때문에 이혼 못한다?
-
-출연: 양효걸 기자, 남궁민 경제뉴스큐레이터, 박세훈 작가, 이진우]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231205.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231205.mp3</guid>
-      <pubDate>Tue, 05 Dec 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
