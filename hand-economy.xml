@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/23(화) 한·태국 CEPA | 간병비 급여화 | 도시광산 산업</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 한·태국, 경제동반자협정 7차협상… 新시장 개척할까
+2) 간병비, 내년부터 건보로 70% 지원… 환자·요양병원 수는 ↓
+3) 폐자원서 뽑은 핵심광물, 국내 못 쓰고 해외로 나간다]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250923.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250923.mp3</guid>
+      <pubDate>Tue, 23 Sep 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/22(월) '제로클릭' 시대, 구글의 위기? (김덕진 소장) | 우리 술의 역사 (재원쌤)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -74,8 +86,8 @@
 관세전쟁 후엔 항상 '진짜' 전쟁이 났습니다 
 - 박정호 명지대 교수
 W. 오승훈 아나운서]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250920.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250920.mp3</guid>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250920(1).mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250920(1).mp3</guid>
       <pubDate>Sat, 20 Sep 2025 20:05:00 +0900</pubDate>
     </item>
     <item>
@@ -26584,16 +26596,6 @@ LH 혁신, 민간도 공공주택 시행
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231205.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231205.mp3</guid>
       <pubDate>Tue, 05 Dec 2023 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 12/5(화) 이직했는데 4대보험료가 중복 납입됐어요!</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-안녕하세요. 저는 올해 8월에 이직을 하였는데, 공백없이 퇴사 후 바로 입사했습니다. 전직장의 8월 급여명세서를 보니 국민연금과 건강보험료가 정상적으로 공제되었더라구요. 그런데 현직장에 8월 급여명세서를 보니 똑같이 국민연금과 건강보험료가 공제되어 있습니다. 국민연금과 보험료를 전직장에서도 내고, 현 직장에서도 낸 거죠. 같은 달에 이렇게 직장이 바뀌었다고 두번 떼가는 것이 맞는 건가요? 그리고 금액은 작지만 고용보험도 두 번 납입된 것 같습니다. 이런 경우 반환 청구를 해야 하는 것인지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231205.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231205.mp3</guid>
-      <pubDate>Tue, 05 Dec 2023 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
