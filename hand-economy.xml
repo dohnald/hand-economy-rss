@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/23(화) 네팔의 반정부 시위, 현상황은 이렇습니다 - 오영훈 연구원(서울대 비교문화연구소)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+네팔의 반정부 시위, 현상황은 이렇습니다 
+- 오영훈 연구원(서울대 비교문화연구소)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250923.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250923.mp3</guid>
+      <pubDate>Tue, 23 Sep 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 9/23(화) 국민연금 추후납부와 임의계속가입 중 뭐가 유리할까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26572,21 +26583,6 @@ LH 혁신, 민간도 공공주택 시행
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20231206.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20231206.mp3</guid>
       <pubDate>Wed, 06 Dec 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 12/6(수) 전국 아파트 매매 8개월 만에 최저 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[12/6(수) 손경제
-
-- 전국 아파트 매매 8개월 만에 최저
-- LH 저격한 SH, "후분양이 더 저렴, 분양 원가 공개해라"
-- 미국, '리튬 로또' 맞았다 
-
-출연: 양효걸 기자, 서은영 기자,박세훈 작가 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231206.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231206.mp3</guid>
-      <pubDate>Wed, 06 Dec 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
