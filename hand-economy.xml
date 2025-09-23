@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 9/23(화) 국민연금 추후납부와 임의계속가입 중 뭐가 유리할까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+ 안녕하세요. 1971년생 남자입니다. 요즘 국민연금에 관심이 많아 찾아보다가 궁금한 게 생겼습니다.
+ 현재기준 65세에 받을 수 있는 노령연금 예상금액이 97만원 가량 되는데, 60세가 되면 임의계속가입으로 5년간 9만원씩 추가로 납부하려고 합니다. 그런데 알아보니까 2000년 1월부터 2008년 사이에 총 49개월의 납부유예기간이 있더라구요. 49개월치 추납 보험료를 9만원씩 낼 수도 있는데, 추납과 임의 계속가입 둘 다 하면 좋겠지만, 만약 하나만 해야한다면 추납이 좋은지 임의계속가입이 좋은지 모르겠습니다. 각각 노령연금이 얼마나 증가되는지 알고 싶습니다. 
+ 또 추납을 분할납부할 수도 있고, 그러면 이자가 있다는데 얼마나 되는지도 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250923.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250923.mp3</guid>
+      <pubDate>Tue, 23 Sep 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/23(화) 한·태국 CEPA | 간병비 급여화 | 도시광산 산업</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26575,27 +26587,6 @@ LH 혁신, 민간도 공공주택 시행
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231206.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231206.mp3</guid>
       <pubDate>Wed, 06 Dec 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 12/05(화) 타이어왕국에서 벌어진 형제의 난</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[12/5(화) 손경제플러스
-
-1부
-[갓 잡은 경제]
-타이어 왕국에서 벌어진 형자의 난
-세계는 지금 저출생과 전쟁중?
-- 신수정 이데일리 기자
-- 신인규 한국경제TV 기자
-
-2부
-[대가들의 투자노트]
-버핏의 단짝, 찰리 멍거를 기억하며
-- 신기주 카운트 대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231205.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231205.mp3</guid>
-      <pubDate>Tue, 05 Dec 2023 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
