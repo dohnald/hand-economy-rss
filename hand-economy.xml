@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/24(수) 日기업 '돈키호테'의 성공 전략 (하수정 큐레이터) | 드론의 역사 (박동현 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업되는 기업]
+'日 여행 필수코스' 돈키호테, 한국 온다?
+- 하수정 경제뉴스 큐레이터
+
+2부
+[사이언스가 머니]
+드론의 역사 : 전장을 바꾼 하늘의 지배자
+- 박동현 과학동아 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250924.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250924.mp3</guid>
+      <pubDate>Wed, 24 Sep 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 9/24(수) 퇴직금 지급소송에서 승소했을 때 세금은?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26555,23 +26572,6 @@ LH 혁신, 민간도 공공주택 시행
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231207.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231207.mp3</guid>
       <pubDate>Thu, 07 Dec 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 12/06(수) '빼갈'의 귀환, 고량주 열풍 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[키워드경제]
-'빼갈'의 귀환, 고량주 열풍
-- 남궁민 경제뉴스큐레이터
-
-2부
-[책크리스트]
-'한국형 가치투자' 국내 증시에 투자하라?
-- 김치형 경제전문기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231206.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231206.mp3</guid>
-      <pubDate>Wed, 06 Dec 2023 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
