@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/25(목) 中, 개도국 특혜 포기 | 파월, 주식 과열 경고 | 美주식 주간거래 재개</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 중국, WTO 개도국 특혜 포기… 韓에 희소식?
+2) “증시 상당히 고평가” 파월 경고에 美증시 흔들
+3) 美증시 주간거래, 11월부터 재개… 투자자 보호 강화
+- 박세훈 작가
+- 하수정 경제뉴스 큐레이터
+- 박수익 비즈니스 워치 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250925.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250925.mp3</guid>
+      <pubDate>Thu, 25 Sep 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/24(수) 日기업 '돈키호테'의 성공 전략 (하수정 큐레이터) | 드론의 역사 (박동현 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26557,21 +26572,6 @@ LH 혁신, 민간도 공공주택 시행
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231207.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231207.mp3</guid>
       <pubDate>Thu, 07 Dec 2023 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 12/7(목)  토지임대부주택 10년 살면 개인 매도 가능 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[12/7(목) 손경제
-
-- 토지임대부주택, 10년 살면 개인에게 매도 가능
-- 사우디로 옮기면 30년간 법인세 면제
-- 미, 반도체 보조금 집행 지연
- 
-출연: 김현우 소장, 서은영 경제뉴스큐레이터, 박세훈 작가, 이진우]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231207.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231207.mp3</guid>
-      <pubDate>Thu, 07 Dec 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
