@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/25(목) 프랑스가 재정 위기에 빠진 진짜 이유 - 박종훈 지식경제연구소장</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+프랑스가 재정 위기에 빠진 진짜 이유 
+- 박종훈 지식경제연구소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250925.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250925.mp3</guid>
+      <pubDate>Thu, 25 Sep 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 9/25(목) 계약갱신 요구권을 쓸 수 있는 시점은?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26561,23 +26572,6 @@ LH 혁신, 민간도 공공주택 시행
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231208.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231208.mp3</guid>
       <pubDate>Fri, 08 Dec 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 12/07(목) "정부는 긴축, 빚은 국민이 내라?" 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓 잡은 경제]
-요소 끊은 中, 아직 '216발' 남았다?
-- 양효걸 MBC 기자
-
-2부
-[이슈 플러스]
-"정부 긴축? 성장 희생하겠단 것"  
-- 홍춘욱 프리즘 투자자문대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231207.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231207.mp3</guid>
-      <pubDate>Thu, 07 Dec 2023 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
