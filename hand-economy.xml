@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 9/25(목) 계약갱신 요구권을 쓸 수 있는 시점은?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+ 안녕하세요. 현재 살고 있는 전세집의 계약 만료가 내년 4월이고, 실거주를 목적으로 지난 5월에 다른 곳의 집을 매수 했습니다. 그런데 제가 산 집의 세입자가 갱신권을 사용해서 27년 5월에 계약이 끝날 예정입니다.
+그래서 저도 현 전세집에 대해서 갱신권을 사용해서 이사 시기를 맞출 계획이었습니다.
+ 그러다가 개인적인 사정이 생겨서 27년 5월에 실거주가 불확실해졌습니다. 전세를 한 번 더 연장해서 살아야 되는 상황이 돼 버린 건데요, 그래서 가급적 현재 거주중인 집의 집주인이 아무 얘기를 안 하면 일단 이번엔 묵시적 갱신을 하고 싶습니다. 그렇게 2년을 살고, 다음 2년은 갱신권을 사용해서 연장하려구요. 
+ 여기서 고민이, 갱신권은 계약 만료 6개월 전부터 2개월 전까지 요구해야 되는 것으로 알고 있는데요, 만약 갱신권 사용 가능 시점이 지난 시점에서, 집주인이 계약만료를 언급하면 갱신권도 못쓰고 묵시적 갱신도 되지 않아서 그냥 계약만료일에 나가야 하는 걸까요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250925.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250925.mp3</guid>
+      <pubDate>Thu, 25 Sep 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/25(목) 中, 개도국 특혜 포기 | 파월, 주식 과열 경고 | 美주식 주간거래 재개</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26562,16 +26575,6 @@ LH 혁신, 민간도 공공주택 시행
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231207.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231207.mp3</guid>
       <pubDate>Thu, 07 Dec 2023 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 12/7(목)  임차 1년 갱신 특약, 꼭 지켜야 할까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-안녕하세요. 현재 월세로 2년 넘게 거주중인데 계약서를 쓸 때 특약사항에 "임차인은 계약만기 2개월 전에 갱신여부를 고지하여야 하며, 고지가 없을 경우 계약기간은 1년간 연장된 것으로 한다." 라고 해두었습니다. 이런 경우에는 현재 연장된 계약을 묵시적 갱신으로 보지 않는 건가요? 그렇다면 1년의 계약기간을 다 채우고 나가야 하는 건지 궁금합니다. 인터넷에 글을 올렸더니 의견이 나뉘어서 뭐가 맞는지 모르겠습니다. 임대아파트 공고가 올라와서 신청하려고 하는데 계약기간을 다 채우고 나가야 되는 건지 몰라서 고민이 됩니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231207.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231207.mp3</guid>
-      <pubDate>Thu, 07 Dec 2023 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
