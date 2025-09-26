@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/26(금) 네이버, 두나무 편입 | 中 기술주 주목 | 고리2호기 | 환율 1400원↑ | 구리값 급등</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 네이버, 두나무 계열사 편입… 원화 스테이블코인 진출
+2) 중국 기술주 청신호? 캐시 우드, 알리바바 재매수
+3) 고리2호기, ‘계속운전’ 결정 보류… 다음달 재논의
+4) 원달러 환율 1400원 돌파… 美금리·한미협상 영향
+5) 구리, 인도네시아 광산 사고에 가격 급등
+- 서영태 연합인포맥스 기자
+- 유준호 매일경제신문 기자
+- 박세훈 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250926.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250926.mp3</guid>
+      <pubDate>Fri, 26 Sep 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/25(목) 프랑스가 재정 위기에 빠진 진짜 이유 - 박종훈 지식경제연구소장</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26555,23 +26572,6 @@ LH 혁신, 민간도 공공주택 시행
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231208_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231208_1.mp3</guid>
       <pubDate>Fri, 08 Dec 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 12/8(금) 트위치, 비싼 망사용료에 한국서 철수 예정  外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[12/8(금) 손경제
-
-- 트위치, 비싼 망사용료에 한국서 철수 예정
-- 개인채무자 보호법, 오히려 대출 문턱 높이나
-- 원.달러 환율 상승 
-
-* 친절한 경제 
- 
-출연: 김현우 소장, 이상은 한국경제신문 기자, 박세훈 작가, 이진우]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231208.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231208.mp3</guid>
-      <pubDate>Fri, 08 Dec 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
