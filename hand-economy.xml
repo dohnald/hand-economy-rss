@@ -25,6 +25,15 @@
       <pubDate>Sat, 27 Sep 2025 15:04:00 +0900</pubDate>
     </item>
     <item>
+      <title>커피타임 - (3부) 프랑스 현상황</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (3부) 프랑스 현상황]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_250927_333.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_250927_333.mp3</guid>
+      <pubDate>Sat, 27 Sep 2025 15:03:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (2부) 독서의 허상</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26550,18 +26559,6 @@ LH 혁신, 민간도 공공주택 시행
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231210.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231210.mp3</guid>
       <pubDate>Sun, 10 Dec 2023 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 12/09(토) 젠트리피케이션에 부자되는 원주민(?) 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[역시나 박정호]
-젠트리피케이션의 모든 것
-- 오승훈 아나운서]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231209.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231209.mp3</guid>
-      <pubDate>Sat, 09 Dec 2023 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
