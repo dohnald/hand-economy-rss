@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/28(일) '음의 소득세' 도입해야 불평등이 해결될 겁니다 - 김현철 교수(연세대 의대·홍콩과기대 경제학과)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+'음의 소득세' 도입해야 불평등이 해결될 겁니다 
+- 김현철 교수(연세대 의대·홍콩과기대 경제학과)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250928.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250928.mp3</guid>
+      <pubDate>Sun, 28 Sep 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/27(토) 안전자산 끝판왕이 결국 금일 수밖에 없는 이유 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26540,20 +26551,6 @@ LH 혁신, 민간도 공공주택 시행
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231211.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231211.mp3</guid>
       <pubDate>Mon, 11 Dec 2023 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 12/11(월) 1회 치료에 29억, 유전자 가위 치료제 美 승인 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 1회 치료에 29억, 유전자 가위 치료제 美 승인
-- EU, 세계 첫 AI 규제법 합의 "안면인식" 통계
-
-+ 친절한 경제
-
-출연: 안승찬 기자, 양효걸 기자, 이진우]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231211.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231211.mp3</guid>
-      <pubDate>Mon, 11 Dec 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
