@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/29(월) 카톡 업데이트 사태 (김덕진 소장) | 면 요리의 역사 (재원쌤)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+카톡 업데이트 참사? 의도는 이랬습니다
+- 김덕진 IT커뮤니케이션연구소 소장
+
+2부
+[쩐설의김선생]
+인류는 언제부터 면을 뽑아 먹었을까? 
+- 재원쌤
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250929.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250929.mp3</guid>
+      <pubDate>Mon, 29 Sep 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 9/29(월) 어떤 카드를 사용해야 혜택을 많이 받을 수 있을까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26533,19 +26551,6 @@ LH 혁신, 민간도 공공주택 시행
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231212.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231212.mp3</guid>
       <pubDate>Tue, 12 Dec 2023 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 12/12(화) 재건축 상가 '지분 쪼개기' 금지되나 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 재건축 상가 ‘지분 쪼개기’ 금지되나
-- 日, TSMC 효과 어디까지? 엔비디아는 베트남으로? 
-- 부동산 PF 우려 현실화, 금융-건설사 신용도 떨어져
-
-출연: 양효걸 기자, 남궁민 경제뉴스큐레이터, 송현서 서울신문 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231212.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231212.mp3</guid>
-      <pubDate>Tue, 12 Dec 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
