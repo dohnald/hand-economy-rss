@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/01(수) 차세대 공룡기업 'Canva' 창업기 (하수정 큐레이터) | 제주 해녀의 진화 (김소연 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업되는 기업]
+100번의 퇴짜를 이겨낸 소녀 기업가
+- 하수정 경제뉴스 큐레이터
+
+2부
+[텍코노미]
+제주 해녀에겐 특별한 DNA가 있다?
+- 김소연 과학동아 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251001.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251001.mp3</guid>
+      <pubDate>Wed, 01 Oct 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 10/1(수) 가입하고 있는 변액연금을 어떻게 해야 할까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26512,23 +26529,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231214.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231214.mp3</guid>
       <pubDate>Thu, 14 Dec 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 12/12(수) 웨딩플래너에게 조공을? 요즘 결혼 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[키워드경제]
-웨딩플래너한테 조공을? 요즘 결혼
-- 남궁민 경제뉴스큐레이터
-
-2부
-[공부왕 박종훈]
-플러그와 콘센트는 누가 발명했나요
-- 박종훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231213.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231213.mp3</guid>
-      <pubDate>Wed, 13 Dec 2023 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
