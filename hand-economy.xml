@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/2(목) 네팔 시위의 불길이 인도네시아로 번졌습니다 - 엄은희 객원연구원(서울대 아시아연구소)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+네팔 시위의 불길이 인도네시아로 번졌습니다 
+- 엄은희 객원연구원(서울대 아시아연구소)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251002.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251002.mp3</guid>
+      <pubDate>Thu, 02 Oct 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 10/2(목) 새 집으로 전입신고를 해야되는데 계약기간이 남아있어요.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26522,18 +26533,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231215.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231215.mp3</guid>
       <pubDate>Fri, 15 Dec 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 12/14(목) 2025년, 다시 부동산이 들썩인다 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[이슈플러스]
-2024 to 2040 한국 부동산
-- 김경민 서울대 환경대학원 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231214.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231214.mp3</guid>
-      <pubDate>Thu, 14 Dec 2023 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
