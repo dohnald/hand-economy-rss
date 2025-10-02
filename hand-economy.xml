@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/02(목) 미국 셧다운 | 美 전기차 보조금 폐지 | ELS 과징금 소송</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 미국, 7년 만에 셧다운… 임시예산안 부결에 장기화 우려
+2) 美 전기차 세액공제 폐지… 전기차 수요 위축 불가피
+3) 국민은행, ELS 소송서 승소… 은행권 과징금 폭탄 피하나
+- 박세훈 작가
+- 박수익 비즈니스워치 기자
+- 김치형 경제뉴스 큐레이터
+
+※진행: 안승찬 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251002.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251002.mp3</guid>
+      <pubDate>Thu, 02 Oct 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/01(수) 차세대 공룡기업 'Canva' 창업기 (하수정 큐레이터) | 제주 해녀의 진화 (김소연 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -25,7 +42,7 @@
 - 하수정 경제뉴스 큐레이터
 
 2부
-[텍코노미]
+[사이언스가머니]
 제주 해녀에겐 특별한 DNA가 있다?
 - 김소연 과학동아 기자]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251001.mp3" type="audio/mpeg" length="" />
@@ -26516,19 +26533,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231214.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231214.mp3</guid>
       <pubDate>Thu, 14 Dec 2023 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 12/14(목) 전국 아파트 매매 8개월 만에 최저 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 美, 연준 금리동결, 내년 3차례 인하 예고
-- 은행권 '임금피크제' 적법 판결
-- '직방 금지법'.. '직방'도 '타다' 전철밟나
-
-출연: 김현우 소장, 서은영 경제뉴스큐레이터, 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231214.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231214.mp3</guid>
-      <pubDate>Thu, 14 Dec 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
