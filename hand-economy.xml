@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 10/3(금) 퇴직금의 일부만 IRP에 넣어도 되나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+ 안녕하세요. 이번에 회사에서 희망퇴직을 하게 돼서 대략 1억5천만원 정도의 위로금과 퇴직금을 받게 되는데요, IRP계좌로 들어온다고 알고 있고, 일시 수령하면 세금이 25%나 된다는 이야기를 들었습니다.
+ 55세 이후에 연금으로 수령하면 세금을 적게 내게 된다는 건 대략적으로 알고 있는데요, 세금을 아끼기 위해 55세 이후 연금으로 받는 것도 좋지만, 지금 30대 후반이라 15년 이상의 투자 가능 기간 동안 시드머니를 활용하지 못하게 되는 게 너무 아깝다는 생각도 듭니다.
+ 하지만 전액을 당장 인출해야 하는 건 아니라서 약 5천만원 정도만 미리 받거나 아니면 먼저 지금은 3천만원, 6개월쯤 뒤에 또 3천만원... 이런 식으로 부분 인출을 하고 싶은데 이런 상황에서도 여전히 높은 세금을 내야 하는 건지도 궁금합니다. ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251003.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251003.mp3</guid>
+      <pubDate>Fri, 03 Oct 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/3(금) 코스피 3500 돌파 | 한국거래소 수수료↓ | 수도권 집값 추이 | EU, 철강 관세 인상ㅣ美 의약품 관세 유예?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26523,17 +26535,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231215_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231215_2.mp3</guid>
       <pubDate>Fri, 15 Dec 2023 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부)  ‘삼가 고인의 명복을 빕니다’를 대체할 말은?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 호불호 나뉘는 단톡방, 그래도 딸을 위해 리액션은 재깍재깍~
-
-- 대안없는 명분을 강조한 주장은 결국 어려운 사람에게 간다?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231215_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231215_1.mp3</guid>
-      <pubDate>Fri, 15 Dec 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
