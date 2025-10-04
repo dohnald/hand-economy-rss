@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/3(금) 2025 한국프로야구, 역대급 매출에 샐러리캡 제도 바뀐다? - 이종훈 작가</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+2025 한국프로야구, 역대급 매출에 샐러리캡 제도 바뀐다? 
+- 이종훈 아이러브스포츠 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251003.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251003.mp3</guid>
+      <pubDate>Fri, 03 Oct 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 10/3(금) 퇴직금의 일부만 IRP에 넣어도 되나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26524,17 +26535,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231215_3.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231215_3.mp3</guid>
       <pubDate>Fri, 15 Dec 2023 12:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 스테로이드 투혼으로 무사히 끝난 경콘</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[이진우의 ‘요시다 유니’ 전시 후기
-
-싱크로나이즈도 하는 박정호, 멀리서 보면 삼계탕?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231215_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231215_2.mp3</guid>
-      <pubDate>Fri, 15 Dec 2023 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
