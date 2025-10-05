@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/5(일) 경량문명 기업들이 시장을 지배할 겁니다 - 송길영 작가</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+경량문명 기업들이 시장을 지배할 겁니다 
+- 송길영 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251005.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251005.mp3</guid>
+      <pubDate>Sun, 05 Oct 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (4부) 명절에 못 쉬는 사람</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26496,21 +26507,6 @@ MLB의 기묘현 연봉 체계
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231218.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231218.mp3</guid>
       <pubDate>Mon, 18 Dec 2023 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 12/18(월)  '조각투자 1호', 열매컴퍼니 투자계약증권 효력발생 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[12/18(월) 손경제
-
-- '조각투자 1호', 열매컴퍼니 투자계약증권 효력발생 
-- 한국 경제, 저생산성과 인구감소로 2040년에 역성장?
-- 프랑스서 현대 코나는 보조금, 기아는 못 받는 이유  
- 
-출연: 양효걸 기자, 안승찬 기자, 송현서 기자, 김치형 진행]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231218.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231218.mp3</guid>
-      <pubDate>Mon, 18 Dec 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
