@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/6(월) 추석특집ㅣ인생 밸런스 게임, 이진우 vs 박정호</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[추석특집] 인생 밸런스 게임, 이진우 vs 박정호
+- 이진우 기자
+- 박정호 교수
+- 김현우 소장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251006.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251006.mp3</guid>
+      <pubDate>Mon, 06 Oct 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/6(월) 추석특집ㅣAI시대, 대한민국 교육의 미래 - 김정호 교수(KAIST 전자 및 전기공학부)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26487,26 +26500,6 @@ AI 덕에 '블루칼라 전성시대' 온다,
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231219.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231219.mp3</guid>
       <pubDate>Tue, 19 Dec 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 12/18 (월) 오타니는 돈 필요 없어요? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓 잡은 경제]
-한전 배당하면 내 대출금리 오른다?
-설탕값 달달해진다?
-- 정지서 연합인포맥스 기자
-- 신인규 한국경제TV 기자
-
-2부
-[이슈 플러스]
-"오타니는 돈 필요없어"
-MLB의 기묘현 연봉 체계
-- 이종훈 '플레이볼' 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231218.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231218.mp3</guid>
-      <pubDate>Mon, 18 Dec 2023 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
