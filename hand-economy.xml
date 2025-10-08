@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 10/8(수) ISA의 비과세 계산방식이 궁금합니다.</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+ 안녕하세요. 올해 초부터 경제에 관심을 갖고 투자를 시작해보고 있는데요. 다행히 ISA는 이미 만들어 놓은지 3년이 지나 1년은 연장을 했고, 이전에 입금한 이력이 없어 현재는 납입 한도가 8천만원, 내년까지 연장하면 최대 한도인 1억원이 됩니다. 서민형으로 가입해서 비과세 한도는 400만원이구요.
+일반계좌에 꾸준히 ETF를 사모았더니 현재 차익이 3백만원 이상 발생하고, 그동안 배당금도 소폭 있는 상황인데요. 만약 매매차익도 비과세 한도에 포함된다면 이번에 모두 차익을 실현하고 새로 ISA 계좌를 만드는 것이 좋은 걸까요? 매매차익이 비과세 한도에 포함되지 않는다면 납입 한도가 넉넉한 지금 통장을 만기 연장하고 좋은 가격에 사놓은 배당주들을 유지하고 싶습니다. 원천징수를 기준으로 내년까지는 서민형 ISA 계좌가 연장이 충분히 가능한 상황이고요. 
+ 정리하면, ISA의 비과세 한도에 ETF 매매 차익도 포함이 되는 것인지와, 포함이 안 되다면 제가 고민한 내용과 결론이 합리적인지에 대해 알고 싶습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251008.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251008.mp3</guid>
+      <pubDate>Wed, 08 Oct 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/8(수) 추석특집ㅣAI 교육 전략 - 김정호 교수(KAIST 전자 및 전기공학부)	</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26446,44 +26458,6 @@ AI 덕에 '블루칼라 전성시대' 온다,
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231220.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231220.mp3</guid>
       <pubDate>Wed, 20 Dec 2023 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>협찬인가 - 인테리어에 진심인 이준석, 경제 정책 팔러오다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[다양한 산업과 직업의 속 이야기를 파헤쳐 보는 (이것은 협찬인가 콘텐츠인가)
-
-이번 화의 주인공은 정당인 이준석 전 국민의힘 대표입니다. 
-
-요즘 핫한 경제 이슈인 주식양도 거래세와 
-
-부동산 정책과 종부세 - 양도세,
-
-동남아시아에서 살던 경험에서 바라본 해외 인력 유입 문제, 
-
-고갈되는 국민연금 문제와
-
-재건축 인테리어 분리 분양까지 
-
-다양한 이슈에 대한 생각을 들어볼 수 있습니다. 
-
-당 대표 법카 한도와 같은 깨알같은 정당인이라는 직업의 세계와
-인테리어에 진심인 ‘생활인’ 이준석의 소소한 이야기도
-들으실 수 있습니다. 
-
-인터뷰 전문을 듣고 싶으시다면 유튜브 MBC 라디오 시사에 있습니다. 
-(택시요금제, 초중교 책임교육, 지방소멸 문제,대학 필수화 탈피 제안 등 다양한 이슈에 대한 흥미로운 토론이 이어집니다)
-(@mbcradio_sisa)
- 
-
-경제 정책 방문 판매에 나선 이준석! 
-(feat. 김현우, 박세훈)
-유쾌하고 솔직한 토론, 함께해 주세요 
-
-(이것은 협찬인가 콘텐츠인가) 출연 문의는 hand-economy@naver.com 입니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20231220.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20231220.mp3</guid>
-      <pubDate>Wed, 20 Dec 2023 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
