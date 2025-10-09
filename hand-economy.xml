@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/9(목) 호르몬이 변하면 입맛도 변합니다 - 최명환 교수(서울대 생명과학부)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+호르몬이 변하면 입맛도 변합니다
+- 최명환 교수(서울대 생명과학부)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251009.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251009.mp3</guid>
+      <pubDate>Thu, 09 Oct 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 10/9(목) 매도인이 다운계약서를 요구합니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26443,17 +26454,6 @@ AI 덕에 '블루칼라 전성시대' 온다,
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231221_.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231221_.mp3</guid>
       <pubDate>Thu, 21 Dec 2023 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 12/21(목) 중도금 선납을 할까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 손경제를 꾸준히 듣고 있는 애청자입니다. 이번에 청약에 당첨되었는데요, 중도금 납부에 대한 고민이 생겼습니다. 원래는 중도금 대출을 받아 이자를 나중에 낼 생각을 하고 있었습니다. 근데 확인해보니 중도금 대출이자율이 4.4%정도 되더라구요. 금리가 너무 높은 거 같아서, 가지고 있는 돈을 끌어모아 중도금 대출은 적게 받으려고 생각을 바꾸었습니다. 청약 계약 중에 상담사가 중도금 선납에 대한 이야기를 했는데요, 중도금을 사전에 먼저 내면 연 1.5%로 할인을 해준다는 내용이었습니다. 인터넷을 찾아보니 중도금 대출 선납 할인률이 5%인 곳도 있는거 같은데요, 건설사가 부도 위험이 없다면 선납할인이 이익인 듯 이야기하는 거 같습니다. 제 경우를 생각해보면 중도금을 선납하는 거보다 금리가 높은 단기 상품으로 보유하고 있다가 중도금 날짜에 맞추어 내는게 더 이득으로 보이는데.. 제가 생각하는게 맞을까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231221.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231221.mp3</guid>
-      <pubDate>Thu, 21 Dec 2023 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
