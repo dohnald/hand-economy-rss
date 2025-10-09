@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/9(목) 美·日 증시 사상최고치 | 소라2 출시 논란 | 세계 TOP5 국중박</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美·日 나란히 사상최고치… 글로벌 증시 날았다
+2) AI영상 SNS ‘소라‘ 출시… 우려에도 앱스토어 1위
+3) ‘케데헌’ 인기에 세계 톱5 바라보는 국립중앙박물관
+- 조미현 한국경제신문 기자
+- 하수정 경제뉴스 큐레이터
+- 박수익 비즈니스워치 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251009.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251009.mp3</guid>
+      <pubDate>Thu, 09 Oct 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/8(수) 명절에 쌓인 당독소, 당장 빼셔야 합니다 - 이진복 가정의학과 전문의</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26442,23 +26457,6 @@ AI 덕에 '블루칼라 전성시대' 온다,
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231221.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231221.mp3</guid>
       <pubDate>Thu, 21 Dec 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 12/20(수) 펜타닐이 다른 약을 압도한 경제적 이유 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[키워드 경제]
-'외로움'이 초래한 경제적 손실
-- 남궁민 경제뉴스큐레이터
-
-2부
-[책크리스트]
-펜타닐이 다른 마약을 압도한 이유
-- 김치형 '뉴스하이킥' 진행자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231220_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231220_2.mp3</guid>
-      <pubDate>Wed, 20 Dec 2023 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
