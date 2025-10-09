@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 10/9(목) 매도인이 다운계약서를 요구합니다.</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+ 안녕하세요. 이사를 가려고 집을 알아보다가 궁금한 점이 생겨서 고민상담 드립니다.
+ 지금 살고 있는 집을 팔고 다른 동네로 이사를 가려고 하는데요, 사고 싶은 매물이 5억 4천만원에 나와있더라구요. 그래서 연락을 주고 받았는데, 문제는 집을 팔고자하는 사람이 다운 계약서를 써주기를 원한다는 것입니다. 저는 5억 4천만원에 집을 매수하는 것인데, 매도인은 5억원으로 계약서를 써주기를 원하고 있습니다. 
+ 매도인은 왜 이렇게 가격을 낮춰서 써달라고 하는 걸까요? 이렇게 써달라하는 것은 불법 아닌가요?
+ 제 입장에선 실제 가격이 달라지는 건 아니니까 별 문제는 없는 것 같은데, 만약 이렇게 계약을 하게 된다면 저에게 불이익은 없을까요? 한번도 이런 경험이 없어 도움을 받고자 고민상담 드립니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251009.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251009.mp3</guid>
+      <pubDate>Thu, 09 Oct 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/9(목) 美·日 증시 사상최고치 | 소라2 출시 논란 | 세계 TOP5 국중박</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26441,22 +26454,6 @@ AI 덕에 '블루칼라 전성시대' 온다,
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231221.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231221.mp3</guid>
       <pubDate>Thu, 21 Dec 2023 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 12/21(목) 신혼부부, 신생아 대상 청약-대출 혜택 신설 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[12/21(목) 손경제
-
-- 신혼부부, 신생아 대상 청약-대출 혜택 신설
-- 홍해 위기로 물류대란 우려
-- 연체 채무자 보호 제도 국회 통과
-- 도시바 상장 폐지
- 
-출연: 김현우 소장, 서은영 경제뉴스큐레이터, 박세훈 작가, 김치형 진행]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231221.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231221.mp3</guid>
-      <pubDate>Thu, 21 Dec 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
