@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 10/10(금) 금융소득 종합과세에 대해 궁금합니다.</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+ 안녕하세요. 이자와 배당소득은 기본적으로 분리과세가 적용되어 15.4%의 세율로 과세가 종결되는 것으로 알고 있습니다. 하지만, 2천만원을 초과하는 경우 종합과세 대상이 되어 종합소득세 신고를 해야 하는 것으로 알고 있는데요. 각자의 소득 구간에 따라 종합소득세율은 상이하겠지만, 다른 근로소득까지 합산될 경우 15.4%보다 높기 때문에 2천만원을 넘기지 않게 주의해야 한다고 알고 있습니다. 
+ 궁금한 건, 배당과 이자소득이 2천만원을 넘길 경우 차익에 대해서만 종합소득세가 부과되는 건지, 그리고 금융소득종합과세 대상자가 되면 ISA가입을 할 때 제한이 있는 것으로 알고 있는데 이미 가입한 ISA의 경우는 문제가 없을지, 또 건강보험료는 얼마나 오르는지 궁금합니다. 
+ 앞으로 금융소득이 2천만원을 넘길 것으로 예상된다면 배우자 명의로 자산을 분배하거나, 배당금의 비중을 더 늘리는 등의 자세한 절세 방법을 알고 싶습니다. ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251010.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251010.mp3</guid>
+      <pubDate>Fri, 10 Oct 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/10(금) 주휴수당 판결 | 美, 중국 서빙 로봇 조사 | 주식 결제주기 단축</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26431,23 +26443,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231222_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231222_1.mp3</guid>
       <pubDate>Fri, 22 Dec 2023 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 12/22(금) '간병지옥 벗어나나' 요양병원도 간병비 건보 추진 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- '간병지옥 벗어나나' 요양병원도 간병비 건보 추진
-- '전동킥보드 사고', 일상배상책임보험금 못 받아  
-- 공유 킥보드 업체 '버드' 파산
-- 대주주 주식 양도세 기준 50억으로 완화
-
-
-# 친절한 경제
-
-출연: 김현우 소장, 박세훈 작가, 이상은 기자, 이진우 진행]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231222.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231222.mp3</guid>
-      <pubDate>Fri, 22 Dec 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
