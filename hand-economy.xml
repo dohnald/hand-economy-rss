@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/10(금) 주휴수당 판결 | 美, 중국 서빙 로봇 조사 | 주식 결제주기 단축</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 대법 ”격일 근로시 주휴수당도 절반만 지급“
+2) 美, 중국산 서비스 로봇에 안보 점검 나섰다
+3) 하루 만에 돈 받는다… 주식 결제주기 단축 추진
+- 유준호 매일경제신문 기자
+- 나수지 한국경제신문 기자
+- 서영태 연합인포맥스 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251010.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251010.mp3</guid>
+      <pubDate>Fri, 10 Oct 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/9(목) 호르몬이 변하면 입맛도 변합니다 - 최명환 교수(서울대 생명과학부)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26433,27 +26448,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231222.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231222.mp3</guid>
       <pubDate>Fri, 22 Dec 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 12/21(목) 제2의 둔촌주공 사태? 은평 재개발 중단 위기 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓 잡은 경제]
-사업자대출 최대 300만원 돌려준다?
-구독료 인상에 칼 빼든 방통위,
-AI 덕에 '블루칼라 전성시대' 온다,
-제2의 둔촌주공 사태? 대조1구역 중단 위기
-- 양효걸 MBC 기자
-
-2부
-[이슈 플러스]
-핵개인의 시대, 사회가 뒤집어진다
-- 송길영 작가
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231221_.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231221_.mp3</guid>
-      <pubDate>Thu, 21 Dec 2023 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
