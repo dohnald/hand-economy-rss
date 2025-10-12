@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/12(일) 김정은 타일러봤자 핵 절대 포기 안합니다 - 정성장 부소장(세종연구소)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+김정은 타일러봤자 핵 절대 포기 안합니다 
+- 정성장 부소장(세종연구소)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251012.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251012.mp3</guid>
+      <pubDate>Sun, 12 Oct 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/11(토) 서울공화국 대한민국? 그 서울조차 위기입니다 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26422,18 +26433,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231224.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231224.mp3</guid>
       <pubDate>Sun, 24 Dec 2023 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 12/23(토) 대만 교수 "삼성은 절대 우리 못 따라온다?" 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[역시나 박정호]
-다시 승천을 꿈꾸는 대만 경제
-with 오승훈 아나운서]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231223.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231223.mp3</guid>
-      <pubDate>Sat, 23 Dec 2023 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
