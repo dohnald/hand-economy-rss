@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/13(월) 美·中 관세전쟁 재개 | 삼성, 특허 침해로 6천억 배상 평결</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 미중 관세전쟁 재개… 희토류 제재 VS 100% 추가 관세
+2) ‘특허 괴물‘에 흔들리는 삼성… 이번엔 6천억 배상 평결
+- 정지서 연합인포맥스 기자
+- 나수지 한국경제신문 기자
+
+[친절한 경제]
+중앙은행이 국채 사주면
+정부 부채가 줄지 않나요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251013.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251013.mp3</guid>
+      <pubDate>Mon, 13 Oct 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/12(일) 김정은 타일러봤자 핵 절대 포기 안합니다 - 정성장 부소장(세종연구소)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26416,23 +26433,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/20231225ECONOMY.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/20231225ECONOMY.mp3</guid>
       <pubDate>Mon, 25 Dec 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 12/24(일) 신소재가 세상을 바꾼다? 외 </title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[주간 하이라이트]
-외로움의 경제학
-- 남궁민 경제뉴스큐레이터
-
-2부
-[테코노미]
-세상을 바꾼 신소재: 나일론
-- 이독실 과학평론가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231224.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231224.mp3</guid>
-      <pubDate>Sun, 24 Dec 2023 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
