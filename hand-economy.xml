@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/15(수) 글로벌 스트리밍 1위 '스포티파이'의 모든 것 (하수정 큐레이터) | 투자 거장들의 경고 "슈퍼 버블이 온다" (이윤수 대표)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업되는 기업]
+AI 음원의 절반이 삭제되고 있습니다
+- 하수정 경제뉴스 큐레이터
+
+2부
+투자거장들의 경고, 슈퍼 버블이 옵니다
+- 이윤수 대표(에릭의 거장연구소)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251015.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251015.mp3</guid>
+      <pubDate>Wed, 15 Oct 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 10/15(수) 해외주식에서 발생한 양도세 신고가 너무 복잡해요.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26406,18 +26422,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231227(1).mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231227(1).mp3</guid>
       <pubDate>Wed, 27 Dec 2023 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 12/27(수) 월급에서 뭔 돈이 이렇게 많이 빠져나가요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요, 최근에 취업 후 첫 월급을 받았는데요. 
-월급에서 공제되는 항목들이 있던데... 국민연금, 건강보험, 고용보험, 장기요양보험료가 24만원 정도 빠져나가더라구요. 소득세와 지방 소득세는 항목에는 적혀있는데 금액이 없었구요. 명세서를 확인해보고 검색해보고 해도 첫 월급을 받은 초년생이라 그런지 이런 항목들이 무엇이고, 금액은 어느 회사든 동일한지, 왜 빠져나가는지 등이 궁금합니다. 인터넷 정보도 있지만 손경제에 한 번 더 확인하고 싶어서요~ 아직 알아갈 경제 이야기들이 많은데 늘 챙겨들으며 하나씩 공부해가고 있습니다. 감사합니다~! ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231227.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231227.mp3</guid>
-      <pubDate>Wed, 27 Dec 2023 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
