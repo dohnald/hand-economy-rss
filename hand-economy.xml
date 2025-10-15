@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/15(수) 中, 한화오션 美자회사 제재 | 은값 고공행진</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 中, 한화오션 美자회사 5곳 제재… 조선업계 불길 번지나
+2) 골드바 이어 실버바도 품귀현상… 은값 상승세 이어질까
+- 김치형 경제뉴스 큐레이터
+- 노유정 한국경제신문 기자
+
+[친절한 경제]
+원화 스테이블 코인을
+외국인이 사면 왜 위험한가요?]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251015.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251015.mp3</guid>
+      <pubDate>Wed, 15 Oct 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/14(화) 농어촌 의료 공백, 지역 시스템부터 뜯어고쳐야 합니다 - 김현철 교수(연세대 의대·홍콩과기대 경제학과)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26403,25 +26420,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231227.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231227.mp3</guid>
       <pubDate>Wed, 27 Dec 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 12/26(화) 보이스피싱, 은행에 배상 요구한다? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓 잡은 경제]
-보이스피싱, 은행에 배상 요구한다?
-2023년 연말정산 무엇이 달라졌나
-- 신인규 한국경제TV 기자
-- 신수정 이데일리 기자
-
-2부
-[대가들의 투자노트]
-레이달리오, 사계절 맘편한 '올웨더'투자법
-- 신기주 카운트 대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231226.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231226.mp3</guid>
-      <pubDate>Tue, 26 Dec 2023 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
