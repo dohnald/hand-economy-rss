@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 10/15(수) 해외주식에서 발생한 양도세 신고가 너무 복잡해요.</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+ 안녕하세요. 여러 증권사에서 주식 거래를 하다가, 최근 한 곳으로 주식을 옮기는 과정에서 해외주식 양도 차익이 250만원이 넘게 발생했습니다. 연말에 양도소득세를 내야 할 것 같은데, 이전에 거래했던 다른 증권사들의 기록을 찾기 어려워 어떻게 해야 할지 막막합니다.
+제가 궁금한 점은 두 가지인데요, 첫 번째로, 제가 거래 내역을 모두 확인하기 어려운 상황이라면, 양도소득세는 어떻게 신고하고, 세금이 매겨지는 걸까요?
+ 두 번째로, 해외주식을 한 곳의 증권사로 옮기는 과정에서, 주식의 매입 가격이 입고 시점의 가격으로 설정되는 바람에 실제 손익을 정확히 알기 어렵습니다. 저도 정확한 손익을 모르는데, 국세청에서는 어떻게 양도 차익을 계산하는지 궁금합니다. ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251015.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251015.mp3</guid>
+      <pubDate>Wed, 15 Oct 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/15(수) 中, 한화오션 美자회사 제재 | 은값 고공행진</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26406,20 +26418,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231227.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231227.mp3</guid>
       <pubDate>Wed, 27 Dec 2023 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 12/27(수)  주택담보대출, 쉽게 갈아탄다  外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 주택담보대출, 쉽게 갈아 탄다 
-- 임대차 계약 연장 거부 시, 집주인이 실거주 입증 해야 
-- AI가 일자리 대체하나? 구글 대폭 구조 조정
-
-
-출연: 양효걸 기자, 김치형 경제뉴스큐레이터, 송현서 기자, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231227.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231227.mp3</guid>
-      <pubDate>Wed, 27 Dec 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
