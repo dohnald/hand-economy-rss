@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 10/16(목) 연금저축의 적절한 수령시기와 기간은?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+ 안녕하세요. 저는 2028년 12월 말일부로 퇴직 예정인 직장인입니다. 
+ 2021년 2월에 만기가 5년인 연금저축 펀드를 가입해서 지금까지도 매월 일정액을 적립하면서 세액공제를 받고 있는 중입니다. 이 펀드는 20년간 연금으로 수령하는 상품으로, 계약상 명시된 최초 연금수령 가능일은 납입이 종료되는 2026년 2월 부터로 되어 있습니다.
+ 그런데 저는 2028년에 퇴직할 때까진 계속 급여를 받기 때문에 따로 연금이 필요 없는 상황입니다. 이런 경우, 연금저축 펀드의 만기를 연장해서 퇴직 이후에 연금을 수령하는 것이 좋을까요?
+ 아니면 그냥 원래 만기대로 2026년 2월부터 20년간 연금을 받는 게 더 나은 선택일까요? 어떤 점을 고려해야 되는지 알고 싶습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251016.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251016.mp3</guid>
+      <pubDate>Thu, 16 Oct 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/16(목) 10.15 부동산 대책, 시장 판도가 달라졌습니다 - 김인만 소장(부동산 경제연구소)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26402,20 +26415,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231228.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20231228.mp3</guid>
       <pubDate>Thu, 28 Dec 2023 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 12/28(목)  태영건설 워크아웃 신청 초 읽기 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 태영건설 워크아웃 신청 초 읽기
-- 내년부터 스트레스 DSR 도입 
-- 경제 위기 아르헨, "공무원 줄이기, 고액권 발행"
-- 美, 일방적으로 대륙붕 확장 선언 
-
-출연: 김현우 소장, 박세훈 작가, 송현서 기자, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231228.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231228.mp3</guid>
-      <pubDate>Thu, 28 Dec 2023 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
