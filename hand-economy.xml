@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/17(금) 한미 관세협상 진전 | 최태원-노소영 이혼소송 | 유튜브 먹통 사태 | 독일, 은퇴자 잡는다</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 한미 관세협상 진전… 달러 조달 해법 보인다
+2) 대법, 최태원-노소영 1조4천억원 재산분할 파기 환송
+3) 유튜브, 전세계서 ‘먹통’… 보안 업데이트로 일시 오류
+4) 독일, 정년 후 일하면 월 330만까지 소득세 감면
+- 유준호 매일경제신문 기자
+- 박세훈 작가
+- 서영태 연합인포맥스 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251017.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251017.mp3</guid>
+      <pubDate>Fri, 17 Oct 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/16(목) 가자지구 전쟁 끝? 재공격 경고 떴습니다 - 김덕일 박사(고려대 중동·이슬람센터)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26397,24 +26413,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231229.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20231229.mp3</guid>
       <pubDate>Fri, 29 Dec 2023 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 12/28(목) 세계 경제의 적, 핵무기 확산되나? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓 잡은 경제]
-태영 워크아웃에 정부는 '확산 없다'
-신생아 특례 대출 받으려면
-- 양효걸 MBC 기자
-
-2부
-[이슈 플러스]
-핵무장 경쟁 다시 시작되나
-- 이세환 군사전문기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231228.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20231228.mp3</guid>
-      <pubDate>Thu, 28 Dec 2023 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
