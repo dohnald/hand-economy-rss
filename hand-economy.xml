@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/20(월) 성인용 챗GPT (김덕진 소장) | 한국 엑스포의 역사 (재원쌤)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+오픈AI, 성인용 챗GPT 내놓는다
+- 김덕진 IT커뮤니케이션연구소 소장
+
+2부
+[쩐설의 김선생]
+경복궁 한복판에서 열린 일제 박람회
+- 재원쌤]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251020.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251020.mp3</guid>
+      <pubDate>Mon, 20 Oct 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 10/20(월) 실손보험에 가입해야 되는지 궁금합니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26375,19 +26392,6 @@ FT의 예언, 바이든 재선하고 트위터는 파산한다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240102.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240102.mp3</guid>
       <pubDate>Tue, 02 Jan 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]1/2(화) 워크아웃 신청한 태영, 대주주 사재 출연은? 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 워크아웃 신청한 태영, 재주주 사재 출연은? 
-- 작년 우리나라 무역 성적표와 올해 전망은
-- HBM 완판, K-반도체 다시 웃을 수 있을까
-
-출연: 양효걸 기자, 남궁민 경제뉴스큐레이터, 김치형 경제뉴스큐레이터, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240102.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240102.mp3</guid>
-      <pubDate>Tue, 02 Jan 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
