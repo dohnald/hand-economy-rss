@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 10/20(월) 실손보험에 가입해야 되는지 궁금합니다.</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+ 안녕하세요. 현재 30대 후반이고, 여태껏 보험은 들어 본 적이 없습니다.
+ 그런데 주변에서, 이제 실손보험이라도 하나 들어야 하는 게 아니냐고 해서 고민이 됩니다. 반면에, 아직까지 보험이 없었으면 굳이 실손보험이나 다른 보험을 가입하느니 차라리 그 돈으로 저축을 하는 게 낫다는 의견도 있고요.
+ 올해 연말부터 5세대 실손보험이 판매되기 시간한다는 소리는 들었는데, 지금 가입을 해야 된지, 5세로 바뀐 이후에 가입해도 될지.. 답을 알고 싶습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251020.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251020.mp3</guid>
+      <pubDate>Mon, 20 Oct 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/20(월) 한미관세협상, 실질적 진전 있었다 | 정부 독점에 콩 수급 난항 | 20251020(월)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26376,21 +26388,6 @@ FT의 예언, 바이든 재선하고 트위터는 파산한다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240102.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240102.mp3</guid>
       <pubDate>Tue, 02 Jan 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 1/1(월) 리얼라이프 in 뉴욕, K in 뉴욕</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[신년특집]
-특파원 두 사람의
-"리얼라이프 in 뉴욕, K in 뉴욕"
-- 한국경제TV 신인규 기자
-- 한국경제신문 정소람 기자
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240101.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240101.mp3</guid>
-      <pubDate>Mon, 01 Jan 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
