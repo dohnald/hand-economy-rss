@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/22(수) 트럼프 아들도 투자한 '폴리마켓' (하수정 큐레이터) | 2025 노벨상 수상자 알아보기 (이창욱 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업되는 기업]
+트럼프 아들도 투자한 '폴리마켓'
+- 하수정 경제뉴스 큐레이터
+
+2부
+[사이언스가 머니]
+2025 노벨상 수상자 알아보기
+- 이창욱 과학동아 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251022.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251022.mp3</guid>
+      <pubDate>Wed, 22 Oct 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 10/22(수) 종신보험을 유지해야 될지 고민입니다.</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26353,24 +26370,6 @@ FT의 예언, 바이든 재선하고 트위터는 파산한다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240104.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240104.mp3</guid>
       <pubDate>Thu, 04 Jan 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 1/3(수) 2024년 트렌드 한방에 정리 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[키워드경제]
-세계 경제
-이 5개 선거로 결정납니다
-- 남궁민 경제뉴스큐레이터
-
-2부
-[책크리스트]
-2024년 트렌드 한방 정리
-- 김치형 경제뉴스큐레이터]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240103.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240103.mp3</guid>
-      <pubDate>Wed, 03 Jan 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
