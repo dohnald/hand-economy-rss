@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 10/24(금) 장기투자시에도 ISA가 유효한가요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+ 안녕하세요. 현재 ISA 계좌를 운용 중인 개인 투자자입니다. 2021년 5월 개설 후 주로 미국 지수 ETF 위주로 장기보유하고 있고, 사실상 매도는 거의 하지 않았습니다. 만기일을 조회해 보면 9999년으로 표시되어 있어서, 지금도 세제혜택이 유지는 걸로 보이지만, 실제로 3년의 의무가입기간 이후에도 ISA 세제혜택을 받을 수 있는지 궁금합니다.
+ 또, ISA를 해지하게 된다면, 그 돈을 연금저축 계좌로 이전하는 것이 유리할까요? 참고로 퇴직연금과 IRP에 매년 900만원씩 입금하면서 세액공제를 받고 있습니다. 과연 저처럼 장기보유 투자자에게도 ISA가 실질적인 절세 효과가 있는 건지 알고 싶습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251024.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251024.mp3</guid>
+      <pubDate>Fri, 24 Oct 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/24(금) 청산형 채무조정 제도 | 주간 집값통계 폐지 논란 | 중국에 의존하는 요소수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26349,21 +26360,6 @@ FT의 예언, 바이든 재선하고 트위터는 파산한다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240105_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240105_2.mp3</guid>
       <pubDate>Fri, 05 Jan 2024 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 사재 출연 소신 발언</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 농심 vs 오뚜기
-
-- 악플 단련 
-
- 
-
- ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240105_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240105_1.mp3</guid>
-      <pubDate>Fri, 05 Jan 2024 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
