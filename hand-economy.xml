@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/25(토) AI 다음에 올 혁신은 바로 이 세가지입니다 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+AI 다음에 올 혁신은 바로 이 세가지입니다 
+- 박정호 명지대 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251024.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251024.mp3</guid>
+      <pubDate>Sat, 25 Oct 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (5부) 건방진(?) 감사인사</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26320,24 +26331,6 @@ ELS 팔아야 고과점수.. 은행 책임은?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240108.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240108.mp3</guid>
       <pubDate>Mon, 08 Jan 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 1/7(일) 원자력, 당장 탄소는 줄이겠지만.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[주간 하이라이트]
-도너츠로 15배 번 피터린치
-- 신기주 카운트 대표
-
-2부
-[테코노미]
-원자력은 '안전하고 친환경?'
-아직 모른다
-- 이독실 과학평론가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240107.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240107.mp3</guid>
-      <pubDate>Sun, 07 Jan 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
