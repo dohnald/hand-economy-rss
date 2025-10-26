@@ -16,14 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>[플러스] 10/25(토) AI 다음에 올 혁신은 바로 이 세가지입니다 - 박정호 명지대 교수</title>
+      <title> [플러스] 10/25(토) AI 다음에 올 혁신은 바로 이 세가지입니다 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
       <description><![CDATA[1,2부
 AI 다음에 올 혁신은 바로 이 세가지입니다 
-- 박정호 명지대 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251024.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251024.mp3</guid>
+- 박정호 명지대 교수
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251025.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251025.mp3</guid>
       <pubDate>Sat, 25 Oct 2025 20:05:00 +0900</pubDate>
     </item>
     <item>
@@ -70,6 +71,24 @@ AI 다음에 올 혁신은 바로 이 세가지입니다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_251025_111.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_251025_111.mp3</guid>
       <pubDate>Fri, 24 Oct 2025 21:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 10/24(금) KBO 암표거래 기승 (이종훈 작가) | 루브르 절도사건 | 인도네시아 불법 담배 | 인도 소액대출의 위기 (한경제 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[공부왕이종훈]
+매크로로 10만장 싹쓸이... KBO 암표 주의보
+- 이종훈 아이러브스포츠 작가
+
+2부
+[글로벌리포트]
+루브르 절도사건 | 인도네시아 불법 담배 | 인도 소액대출의 위기
+- 한경제 한국경제신문 기자
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251024.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251024.mp3</guid>
+      <pubDate>Fri, 24 Oct 2025 20:05:00 +0900</pubDate>
     </item>
     <item>
       <title>[상담소] 10/24(금) 장기투자시에도 ISA가 유효한가요?</title>
@@ -26319,18 +26338,6 @@ ELS 팔아야 고과점수.. 은행 책임은?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240108.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240108.mp3</guid>
       <pubDate>Mon, 08 Jan 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]1/8(월) 태영, '890억원 태영 건설에 지원', 워크아웃 분수령 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 태영, '890억원 태영건설에 지원', 워크아웃 분수령 
-- 지역가입자 자동차에 부과하는 건강보험료 폐지
-
-출연: 양효걸 기자, 안승찬 기자, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240108.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240108.mp3</guid>
-      <pubDate>Mon, 08 Jan 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
