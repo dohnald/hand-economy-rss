@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/28(화) 대만이 한국 추월한다? TSMC만 있는 게 아닙니다 - 서병수 애널리스트</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+대만이 한국 추월한다? TSMC만 있는 게 아닙니다 
+- 서병수 애널리스트]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251028.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251028.mp3</guid>
+      <pubDate>Tue, 28 Oct 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 10/28(화) 부모님이 낸 보험료도 증여로 봐야 하나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26318,18 +26329,6 @@ youtube.com/@handy_economy]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240110.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240110.mp3</guid>
       <pubDate>Wed, 10 Jan 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 1/10(수) 임대소득이랑 금융소득, 건강보험료 더 내요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 평소 손경제를 애청하고 있는 40대 직장인입니다. 작년 11월에 보수 외 추가소득 건강보험료를 납부하라는 통지를 건강보험공단으로 부터 받았습니다. 아마도 2022년 금융소득이 2천만원을 초과하여 추가소득 건강보험료를 부과 받은 것 같습니다.
-이와 관련해서 궁금한 점이 있는데요, 주택임대소득이 있을 경우 2천만원 이하면 종합소득과 분리과세를 선택하여 신고를 하고 있는 걸로 알고 있습니다. 그런데 주택임대소득은 2천만원 이하이고, 금융소득소득이 2천만원을 초과하면 두 가지를 합산해서 건강보험료가 부과되는건지, 아니면 임대소득 따로, 금융소득 따로 보고 건강보험료가 부과되는 건지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240110.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240110.mp3</guid>
-      <pubDate>Wed, 10 Jan 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
