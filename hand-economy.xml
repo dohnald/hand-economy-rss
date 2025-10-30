@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/30(목) 관세협상 타결 | 美 기준금리 인하 | SK하이닉스 실적</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 한미 관세협상 타결… 현금투자 年 상한 200억 달러
+2) 美, 기준금리 0.25%p 인하… 양적긴축도 곧 종료 
+3) SK하이닉스, 사상 최대 실적… 매출 24조에 영업익 11조
+- 박수익 비즈니스워치 기자
+- 박세훈 작가
+- 하수정 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251030.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251030.mp3</guid>
+      <pubDate>Thu, 30 Oct 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/29(수) 보석제국 '드비어스'의 몰락 (하수정 큐레이터) | 한국에 오로라가 뜬다? (김태희 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26310,30 +26325,6 @@ CES2024 미리 만난 미래
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240112.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240112.mp3</guid>
       <pubDate>Fri, 12 Jan 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 1/11(목) 광물의 보고, 심해 채굴 시작되나 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓 잡은 경제]
-태영 워크아웃 결국 개시
-290만 명 신용사면된다
-비트코인ETF 승인
-광물의 보고, 심해 열린다
-- 양효걸 MBC 기자
-
-2부
-[이슈플러스]
-집값 하락, 이제 시작입니다
-- 이광수 광수네복덕방 대표
-
-이광수 대표 연장 인터뷰는
-손경제 유튜브 채널에서 만나보세요!
-youtube.com/@handy_economy]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240111.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240111.mp3</guid>
-      <pubDate>Thu, 11 Jan 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
