@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 10/30(목) 채권을 발행한 기업의 신용등급이 떨어지면?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+ 안녕하세요. 모 카드사의 채권을 보유하고 있습니다. 만기는 내년 4월인데, 매각설에다가 여러 가지 문제가 있다는 소식도 들리고 있어서 걱정이 됩니다. 채권을 투자할 당시엔 신용등급이 좋아서 샀었는데, 이런 상황이 되니 내년 만기때 원금을 받을 수 있을지 걱정이 되네요. 혹시나 해당 카드사의 상황이 지금보다 안 좋아져서 채권 만기 때 돈이 회수가 안 되면 구제받을 수 있는 방법이 있나요? 채권에 문제가 생기면 어디에 알아봐야 하는지도 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251030.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251030.mp3</guid>
+      <pubDate>Thu, 30 Oct 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/30(목) 관세협상 타결 | 美 기준금리 인하 | SK하이닉스 실적</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26308,23 +26318,6 @@ CES2024 미리 만난 미래
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240112_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240112_1.mp3</guid>
       <pubDate>Fri, 12 Jan 2024 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]1/12(금) 태영건설 워크아웃 개시 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 태영건설 워크아웃 개시
-- 한국은행 기준금리 동결
-- 美 소비자물가지수 오름세
-- 집값은 떨어지고 전세가는 오르고
-- 중국 관광객 감소로 면세점 매출 감소
-- CES에 동남아 전기차 주목
-- OTT 계정 사기주의보
-
-출연: 김현우 소장, 박세훈 작가, 송현서 기자, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240112.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240112.mp3</guid>
-      <pubDate>Fri, 12 Jan 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
