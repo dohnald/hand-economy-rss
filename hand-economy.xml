@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/31(금) 미중 정상회담 | 中 전기차 | 대만, 전국민 46만원 | 사망보험금 연금화</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 미중 정상회담, 관세 낮추고 희토류·대두 휴전
+2) 한미 반도체 관세 두고 입장차
+3) 中 전략산업서 빠진 전기차.. AI에 집중
+4) 대만, 전국민에 현금 46만원 지급
+5) 사망보험금, 살아있을 때 연금으로 받는다
+- 서영태 연합인포맥스 기자
+- 박세훈 작가
+- 나수지 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251031.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251031.mp3</guid>
+      <pubDate>Fri, 31 Oct 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/30(목) 이제는 환율이 움직일 시간입니다 - 김준송 대표(전 리먼브라더스 한국지사)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26307,17 +26324,6 @@ CES2024 미리 만난 미래
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240112_3.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240112_3.mp3</guid>
       <pubDate>Fri, 12 Jan 2024 12:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 나의 실수담</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 한번입니다... 나오세요...
-
-- 시간 많고 돈 없으면 가장 싼 비행기로 멀리 가라]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240112_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240112_2.mp3</guid>
-      <pubDate>Fri, 12 Jan 2024 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
