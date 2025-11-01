@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/31(금) MLB의 영업 비결 (이종훈 작가) | 하버드의 변심 | 마약국가 벨기에 | 대나무 빌딩 (한경제 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[공부왕이종훈]
+MLB 구단, 모기업이 없는 이유
+- 이종훈 아이러브스포츠 작가
+
+2부
+[글로벌리포트]
+벨기에가 마약국가가 됐습니다
+- 한경제 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251031.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251031.mp3</guid>
+      <pubDate>Fri, 31 Oct 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (4부) 번트왕</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26288,18 +26305,6 @@ with 오승훈 아나운서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240115.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240115.mp3</guid>
       <pubDate>Mon, 15 Jan 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]1/15(월) 중국 4분기 GDP 성장률 발표 예정 주목 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 중국 4분기 GDP 성장률 발표 예정 주목
-- 알리 위협에 LG생건에 손 내민 쿠팡
-
-출연: 유춘식 경제뉴스 큐레이터, 안승찬 기자, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240115.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240115.mp3</guid>
-      <pubDate>Mon, 15 Jan 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
