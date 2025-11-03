@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 11/3(월) APEC 결산 | 현금 쌓는 버핏 | 국민연금 수익</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 추가 공개된 미중 합의.. 韓 조선·자동차 안도
+2) 한중 70조 통화 스와프.. FTA 2단계도 논의
+3) 워런 버핏, 현금 보유량 또 늘렸다
+4) ‘호실적’ 국민연금, 올해만 200조 벌었다
+- 조미현 한국경제신문 기자
+- 정지서 연합인포맥스 기자
+
+[친절한 경제]
+우리나라 가계 자산, 부동산 비중 70% 넘는 이유는?
+- 청취자 문종훈 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251103.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251103.mp3</guid>
+      <pubDate>Mon, 03 Nov 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 11/2(일) 복지천국 스웨덴이 불평등한 나라가 된 이유 - 최준영 전문위원(법무법인 율촌)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26285,25 +26304,6 @@ with 오승훈 아나운서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240116.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240116.mp3</guid>
       <pubDate>Tue, 16 Jan 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 1/15(월) 대한항공-아시아나 합치면 우리 마일리지는? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓 잡은 경제]
-대한항공-아시아나 합병 급물살
-40년 악연.. 마소가 다시 애플 제치나
-- 정지서 연합인포맥스 기자
-- 신인규 한국경제TV 기자
-
-2부
-[증시열렸다]
-한국증시 아직 일본에 한참 뒤쳐졌다
-- 이선엽 신한투자증권 이사]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240115.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240115.mp3</guid>
-      <pubDate>Mon, 15 Jan 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
