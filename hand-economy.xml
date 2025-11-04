@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 11/4(화) 인도는 왜 미국 말고 중국과 손잡을까? - 맹현철 서울대 아시아연구소 연구원</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+인도는 왜 미국 말고 중국과 손잡을까? 
+- 맹현철 서울대 아시아연구소 연구원]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251104.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251104.mp3</guid>
+      <pubDate>Tue, 04 Nov 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 11/4(화) 변액연금을 해약했을 때 세금이나 건보료는?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26296,19 +26307,6 @@ with 오승훈 아나운서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240117.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240117.mp3</guid>
       <pubDate>Wed, 17 Jan 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 1/17(수) 일상생활 배상책임 보험 가입할 수 있나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 일상생활에서 일어날 수 있는 여러 가지 분쟁 등 사고에 대해 보상을 받을 수 있는 일상생활 배상책임 보험이 있다고 들었는데, 보험사에 문의하니 대부분 단독으로는 가입이 힘들더라구요.
-제가 알기로 보험료도 비싸지 않고, 여러 가지 경우에 대비할 수 있어서 가입해 두면 좋다고 들었는데, 어떻게 가입할 수 있는지, 자격이나 배상범위 등은 어떻게 되는지 알고 싶습니다.
-참고로 저는 실손보험, 운전자 보험 등 가입한 보험이 거의 없습니다. 40대 후반 가장으로서 저 같은 경우도 가입이 가능한지, 가족 중 누구를 피보험자로 가입을 해야 도움이 될 지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240117.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240117.mp3</guid>
-      <pubDate>Wed, 17 Jan 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
