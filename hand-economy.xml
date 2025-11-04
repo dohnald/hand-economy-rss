@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 11/4(화) SK하이닉스 신고가 | 국유재산 매각 중단 | K중고차 수출 붐</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 또 반도체 랠리.. 증권가 "PBR 말고 PER로 평가"
+2) 국유재산 매각 중단.. "헐값" 논란에 제도 바꾼다
+3) K-중고차 인기에 폐차 부품 품귀 현상 
+- 조미현 한국경제신문 기자
+- 정지서 연합인포맥스 기자
+- 김치형 뉴스크리에이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251104.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251104.mp3</guid>
+      <pubDate>Tue, 04 Nov 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 11/3(월) 젠슨황의 GPU 선물.. AI 판도 바꿀까 (김덕진 소장) | 우리가 배달의 민족이 되기까지 (재원쌤)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26295,25 +26310,6 @@ with 오승훈 아나운서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240117.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240117.mp3</guid>
       <pubDate>Wed, 17 Jan 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 1/16(화) 미국 택한 대만.. 시진핑 반응은?(이철 박사 인터뷰) 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓 잡은 경제]
-한화 승계 논란, RSU가 뭐길래?
-11번가-쿠팡 한판 붙었다
-- 신인규 한국경제tv 기자
-- 신수정 이데일리 기자
-
-2부
-[이슈플러스]
-미국 택한 대만, 시진핑 반응은?
-- 이철 박사]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240116.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240116.mp3</guid>
-      <pubDate>Tue, 16 Jan 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
