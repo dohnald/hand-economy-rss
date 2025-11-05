@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 11/5(수) 젠슨 황의 리더십 (하수정 큐레이터) | 이종이식 상용화 (박동현 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업되는 기업]
+사람들이 젠슨 황에 열광하는 이유
+- 하수정 경제뉴스 큐레이터
+
+2부
+[사이언스가 머니]
+돼지 장기 사람에 이식.. 불멸은 가능한가
+- 박동현 과학동아 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251105.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251105.mp3</guid>
+      <pubDate>Wed, 05 Nov 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 11/5(수) 보험사가 매각된다고 하는데 문제 없는 걸까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26298,17 +26315,6 @@ with 오승훈 아나운서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240118.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240118.mp3</guid>
       <pubDate>Thu, 18 Jan 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 1/18(목) 집주인이 전세 재계약을 계속 미룹니다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요! 올해 2월 말일에 전세계약 만료인 임차인입니다. 보증금은 3억원이구요. 작년 10월에 임대인에게 계속거주하겠다고 말했고 임대인도 알겠다고 했습니다. 기존에 있던 전세대출을 연장해야 돼서, 전세금을 얼마로 하실지 알아야 되니 1월초에 계약서를 쓰고 싶다고 12월 31일에 임대인에게 말했는데 답이 없었습니다. 재차 물어본 뒤 1월 9일에 돌아온 답은 "요새 전세가가 올라가고 있으니 2월말에 상의하고 계약서 쓰자"였습니다. 전세보증금이 얼마가 될지도 모르는 상황에서 대출은 어떻게 준비할 것이며, 계약서 쓰면서 보증금을 정하자는 게 맞는 건지 당황스럽습니다. 그때가서 임대인이 얼마를 부르건 계약을 해야 하나요? 아니면 나가겠다고 할 수나 있을까요? 대출심사에 보통 한 달은 걸리니 1월말에 쓰면 안되겠냐 청해도 2월말을 고수하십니다. 지금 시세가 2억 5천 정도라 임대인이 곤란한 건 압니다. 그러나 재계약 시점에 결정하겠다는건 공정한 거래인가요? 1월말에 계약서 쓰는 것에 임대인이 동의만 하면 많은 것이 해결인데, 방법이 없을까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240118.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240118.mp3</guid>
-      <pubDate>Thu, 18 Jan 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
