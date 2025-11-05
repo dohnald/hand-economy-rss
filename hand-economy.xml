@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 11/5(수) 보험사가 매각된다고 하는데 문제 없는 걸까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 2020년에 자녀이름으로 주식계좌를 만들었습니다. 실질적인 운영은 엄마인 제가 하고 있구요..
+국내주식으로 1400만원, 해외주식으로 500만원 정도 매수를 해서 현재까지 그대로 두고 있는데요, 주가가 많이 올라서 매도를 해볼까도 생각했는데 세금이 궁금해서 문의드립니다.
+첫 번째는 증여세인데요, 증여관련 신고를 해야한다는데 이건 어디서 어떻게 해야할까요?
+두 번째는 주식을 매도해서 이익이 생기는 것에 대한 세금신고는 어떻게 해야하는지 궁금합니다. 
+처음 계좌를 만들었을때는 아이가 성인이 되었을 때 조금이나마 보탬이 되고자하는 마음이었는데, 세금이 복잡해서 앞으로 어떻게 관리해야 하는지 고민입니다.
+그리고 자녀 명의로 연금저축도 가입되어 있는데요, 매월 10만원 이하로 적립하려고 했는데 이것 또한 증여한도를 넘게 되는 것 아닌가 걱정이 됩니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251105.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251105.mp3</guid>
+      <pubDate>Wed, 05 Nov 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/5(수) 철강 구조조정 | 백기 든 스타벅스 | 사라지는 영화관</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26294,20 +26309,6 @@ with 오승훈 아나운서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240118.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240118.mp3</guid>
       <pubDate>Thu, 18 Jan 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]1/18(목) 전세 대출도 'DSR' 규제 추진  外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 전세 대출도 'DSR' 규제 추진
-- 삼성, 인텔에 반도체 매출 1위 내줬다
-- EU 고비 넘은 대한항공-아시아나 합병, 다음 수순은 
-- 홍해 긴장 고조에 선박 보험료 10배 급등 
-
-출연: 서은영 경제뉴스큐레이터, 박세훈 작가, 김현우 행복자산관리연구소 소장, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240118.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240118.mp3</guid>
-      <pubDate>Thu, 18 Jan 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
