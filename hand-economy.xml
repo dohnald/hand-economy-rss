@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 11/6(목) 채권을 발행한 기업의 신용등급이 떨어지면?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 개인연금에 대해 궁금한 점이 있습니다. 개인연금으로 수령하는 금액이 연간 일정금액을 초과하면 세금, 건강보험료에 영향을 미치는 걸로 알고 있습니다. 이때 세제혜택을 받지 않은 원금은 연금수령액에 포함되지 않는다고 들었구요. 
+저는 개인 연금계좌가 여러 개이고 IRP도 있는데 연 1800만원을 채워서 납입하고 있고, ISA도 3년 만기 후 연금전환을 통해 더 넣고 있습니다. 종합소득세 신고시 세제혜택 받지 않은 원금을 따로 관리할 수 있도록 세액공제 받는 연금계좌를 지정하려했더니 세무사무소에서 따로 계좌 지정은 할 수 없다고 하더라구요.
+그럼 나중에 연금을 수령할 때 어떻게 확인 가능한지 궁금합니다. 
+또, ISA를 3년 채우고 연금계좌에 넣으면 최대 3천만원의 10%가 세액 공제 대상이 된다고 알고 있습니다.
+ISA해지 후 2개월 내에 연금전환을 하도록 되어있는데, 12월쯤 해지해서 12월에 3천, 다음해 1월에 3천씩 2회에 걸쳐 세액공제를 받는 게 가능한지도 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251106.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251106.mp3</guid>
+      <pubDate>Thu, 06 Nov 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/6(목) 관세 변론 개시 | 정년 연장 |  달러·원 환율 | 유럽 LNG</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26306,19 +26320,6 @@ with 오승훈 아나운서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240119_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240119_1.mp3</guid>
       <pubDate>Fri, 19 Jan 2024 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]1/19(금) 자동차 · 용종 보험도 플랫폼에서 비교 추천 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 자동차·용종 보험도 플랫폼에서 비교 추천
-- 일부 다주택자에게 중과된 양도세, 환급 받는다
-- 프랑스 정부 저출생 대책, 우리는?
-
-출연: 이상은 한국경제신문 기자, 김현우 행복자산관리연구소 소장, 박세훈 작가, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240119.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240119.mp3</guid>
-      <pubDate>Fri, 19 Jan 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
