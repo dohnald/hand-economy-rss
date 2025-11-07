@@ -16,6 +16,42 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - (4부) 잔잔바리</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (4부) 잔잔바리]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_251107_444.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_251107_444.mp3</guid>
+      <pubDate>Fri, 07 Nov 2025 19:04:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (3부) 운빨</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (3부) 운빨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_251107_333.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_251107_333.mp3</guid>
+      <pubDate>Fri, 07 Nov 2025 19:03:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (2부) 프리패스상</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (2부) 프리패스상]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_251107_222.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_251107_222.mp3</guid>
+      <pubDate>Fri, 07 Nov 2025 19:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (1부) 새로운 얼굴</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - (1부) 새로운 얼굴]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_251107_111.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_251107_111.mp3</guid>
+      <pubDate>Fri, 07 Nov 2025 19:01:00 +0900</pubDate>
+    </item>
+    <item>
       <title>협찬인가 - 여름에 늙는 손</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -29,7 +65,7 @@
       <pubDate>Fri, 07 Nov 2025 18:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>[상담소] 11/7(금) 부모님께 빌린 돈, 출산증여공제를 활용할 수 있나요?</title>
+      <title>[상담소] 11/7(금) 국민연금을 조기 수령해도 건강보험 피부양자 유지가 될까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
       <description><![CDATA[[고민사연]
@@ -69,7 +105,7 @@
       <pubDate>Thu, 06 Nov 2025 20:05:00 +0900</pubDate>
     </item>
     <item>
-      <title>[상담소] 11/6(목) 채권을 발행한 기업의 신용등급이 떨어지면?</title>
+      <title>[상담소] 11/6(목) 세액공제를 받지 않은 연금계좌를 분리할 수 있나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
       <description><![CDATA[[고민사연]
@@ -116,7 +152,7 @@ ISA해지 후 2개월 내에 연금전환을 하도록 되어있는데, 12월쯤
       <pubDate>Wed, 05 Nov 2025 20:05:00 +0900</pubDate>
     </item>
     <item>
-      <title>[상담소] 11/5(수) 보험사가 매각된다고 하는데 문제 없는 걸까요?</title>
+      <title>[상담소] 11/5(수) 증여와 주식매매차익에 대한 신 고는 어떻게 하는 건가요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
       <description><![CDATA[[고민사연]
@@ -26263,70 +26299,6 @@ K-웹툰을 망치는 '놈'들이 있습니다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240122.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240122.mp3</guid>
       <pubDate>Mon, 22 Jan 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]1/22(월) AI 기대감 S&amp;P500지수 사상 최고치 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- AI 기대감에 S&P500지수 사상 최고치
-- 美 기준금리 인하 늦어지나
-
-출연: 안승찬 언더스탠딩 기자, 하창완 헤르메스스탁 본부장, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240122.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240122.mp3</guid>
-      <pubDate>Mon, 22 Jan 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 1/21(일) 수소에너지, 실현만 되면 대박인 이유 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[주간하이라이트]
-'비열한 시장과 파충류의 뇌'를 읽고
-- 김치형 뉴스큐레이터
-
-2부
-[테코노미]
-수소경제, 실현만 되면 대박인 이유
-- 이독실 과학크리에이터
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240121.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240121.mp3</guid>
-      <pubDate>Sun, 21 Jan 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 1/20(토) 기준금리와 집값, 별 관계 없다? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[역시나 박정호]
-기준금리와 집값은 별 상관이 없다?
-with 오승훈 아나운서 
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240120.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240120.mp3</guid>
-      <pubDate>Sat, 20 Jan 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 1/19(금) 50년만에 서울 고도제한 완화.. 부동산 영향은? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓 잡은 경제]
-남산도 고도 완화.. 부동산 영향은?
-대학가 상권이 초토화된 이유
-- 정지서 연합인포맥스 기자
-- 신수정 이데일리 기자
-
-2부
-[글로벌리포트]
-한파에 멈춘 테슬라, 북유럽선 멀쩡?
-중국에선 35살만 돼도 짤립니다
-몰디브 망할 수도 있어요
-- 어예진 해담경제연구소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240119.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240119.mp3</guid>
-      <pubDate>Fri, 19 Jan 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
