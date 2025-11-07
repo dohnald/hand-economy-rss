@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 11/7(금) 국민연금 주식보유한도 | 머스크 1조달러 | 일본 희토류</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 국민연금, 주식 보유 한도 다 찼다.. 국내 증시 영향은?
+2) 테슬라, 머스크 1조 달러 보상안 통과
+3) 일본, 태평양 심해 ‘희토류’ 채굴 나선다
+- 김아름 머니투데이방송 기자
+- 서영태 연합인포맥스 기자
+- 박세훈 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251107.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251107.mp3</guid>
+      <pubDate>Fri, 07 Nov 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 11/6(목) 장기화되는 관세 전쟁, 미국에 불리합니다 - 박한진 한국외대 국제지역대학원 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26310,17 +26325,6 @@ with 오승훈 아나운서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240119_3.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240119_3.mp3</guid>
       <pubDate>Fri, 19 Jan 2024 12:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부)  내 앞의 숙제에 올인</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[손경제 플러스 1주년
-
-강의 개시 박작 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240119_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240119_2.mp3</guid>
-      <pubDate>Fri, 19 Jan 2024 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
