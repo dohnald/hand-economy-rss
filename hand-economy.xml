@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 11/7(금) 부모님께 빌린 돈, 출산증여공제를 활용할 수 있나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 저는 만 60세이고, 아내는 만 56세 입니다
+현재 퇴직하고 직장가입자인 자녀의 건강보험에 부부모두 피부양자로 등재되어 있습니다. 재산기준은 공시가격 기준 9억원 이하로 충족되는데 소득기준에 대해 궁금한게 있습니다.
+국민연금 조기수령을 고민중인데, 현재 기준 월 140만원 정도 수령할 것으로  예상됩니다
+그리고 사업자 등록 없이 사업소득 년 1천만원 정도 수령할 것 같은데, 그럼 연간 연금소득과 사업소득이 총 2천만원 초과할 것 같습니다. 이런 상황에서 피부양자를 계속  유지하는 방법이 없을까요? 참고로 배우자는 소득이 전혀 없습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251107.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251107.mp3</guid>
+      <pubDate>Fri, 07 Nov 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/7(금) 국민연금 주식보유한도 | 머스크 1조달러 | 일본 희토류</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26314,17 +26327,6 @@ with 오승훈 아나운서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240119.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240119.mp3</guid>
       <pubDate>Fri, 19 Jan 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 낙관주의</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 노력도 재능
-
-- 대만 영수증은 복권?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240119_3.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240119_3.mp3</guid>
-      <pubDate>Fri, 19 Jan 2024 12:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
