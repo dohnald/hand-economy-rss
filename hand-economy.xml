@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 11/7 금) MLB의 양극화 (이종훈 작가) | 맘다니 | 일본 살인곰 | 영국 판사의 가발 (한경제 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[공부왕이종훈]
+메이저리그도 양극화되고 있다?
+- 이종훈 아이러브스포츠 작가
+
+2부
+[글로벌리포트]
+일본 살인곰이 날뛰고 있습니다
+- 한경제 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251107.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251107.mp3</guid>
+      <pubDate>Fri, 07 Nov 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (4부) 잔잔바리</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26286,19 +26303,6 @@ K-웹툰을 망치는 '놈'들이 있습니다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240122.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240122.mp3</guid>
       <pubDate>Mon, 22 Jan 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 1/22(월) 청약 자금 마련, 종신보험 해약할까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-인녕하세요! 작년 11월 아파트 청약 당첨이 되어 2025년 11월 입주예정인데요. 잔금 마련하려고 보험 3건을 해지하려고 하니, 환급률이 30% 정도 밖에 안 돼 고민이 됩니다.
-가입할 땐 저축인 줄 알았는데 지금 보니 모두 종신보험으로 가입이 되어 있더라구요. 가입 당시 딱히 집을 마련할 생각도 없었고, 노후대비로 상품을 찾다가 가압하게 되었습니다.
-그런데 계획에 없던 청약에 당첨되다보니 아주 골치가 아픕니다. 지금 해지할지, 입주전까지 납입하다 해지할지, 약관대출을 받을지, 그것도 아니면 각각 만기까지 들고 있을지, 판단이 서질 않아 도움을 요청합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240122.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240122.mp3</guid>
-      <pubDate>Mon, 22 Jan 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
