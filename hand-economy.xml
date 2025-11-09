@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 11/8(토) 한중 통화스와프, 피할 길이 없었습니다 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+한중 통화스와프, 피할 길이 없었습니다 
+- 박정호 명지대 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251108.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251108.mp3</guid>
+      <pubDate>Sat, 08 Nov 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 11/7 금) MLB의 양극화 (이종훈 작가) | 맘다니 | 일본 살인곰 | 영국 판사의 가발 (한경제 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26284,25 +26295,6 @@ K-웹툰을 망치는 '놈'들이 있습니다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240123.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240123.mp3</guid>
       <pubDate>Tue, 23 Jan 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 1/22(월) 단통법 폐지되면 휴대폰 싸질까? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓 잡은 경제]
-반도체마저 밀렸다.. 한국 수출 어쩌나
-마트 의무휴업도 단통법도 폐지?
-- 정지서 연합인포맥스 기자
-- 신인규 한국경제TV 기자
-
-2부
-[증시 열렸다]
-고점 뚫은 S&P500, 더 갈까요?
-- 이선엽 신한투자증권 이사]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240122.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240122.mp3</guid>
-      <pubDate>Mon, 22 Jan 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
