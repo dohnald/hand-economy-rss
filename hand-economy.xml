@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 11/10(월) 제미나이 손잡은 애플 (김덕진 소장) | 아편전쟁 (재원쌤)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+애플은 AI를 포기하지 않았습니다
+- 김덕진 IT커뮤니케이션 연구소 소장
+
+2부
+[쩐설의 김선생]
+무역 전쟁의 원조, 아편전쟁
+- 재원쌤]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251110.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251110.mp3</guid>
+      <pubDate>Mon, 10 Nov 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 11/10(월) 주식시장이 너무 오른 것 같은데 투자해도 될까요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26277,20 +26294,6 @@ K-웹툰을 망치는 '놈'들이 있습니다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240124.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240124.mp3</guid>
       <pubDate>Wed, 24 Jan 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]1/24(수) '주담대 갈아타기' 열풍  外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- '주담대 갈아타기' 열풍
-- 日 증시 호황에 니케이 기반 ELS 발행액 급증 
-- 美 트럼프, 무역 전쟁 예고... ‘집권 땐 10% 관세’
-- 한전, 직원 임금 반납해서 희망퇴직금 마련? 
-
-출연: 서은영 경제뉴스큐레이터, 남궁민 경제뉴스큐레이터, 송현서 서울신문 기자, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240124.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240124.mp3</guid>
-      <pubDate>Wed, 24 Jan 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
