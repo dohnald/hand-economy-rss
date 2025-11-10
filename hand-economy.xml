@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 11/10(월) 원화결제 시스템 | 국민연금 국내주식 비중 | 美 해고 | 실적 시즌</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 역외 원화 결제 시스템 추진... 무역에 원화 쓴다?
+2) 국민연금, 국내주식 비중 확대 방안 검토
+3) 美 10월에만 15만 명 짤렸다.. 닷컴 버블 수준
+4) 관세 영향 없나.. 美 기업 실적 4년만 최고 성장세
+- 서영태 연합인포맥스 기자
+- 조미현 한국경제신문 기자
+
+[친절한 경제]
+미국은 왜 금리인하와 양적긴축을 동시에 하나요?
+- 청취자 이용우 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251110.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251110.mp3</guid>
+      <pubDate>Mon, 10 Nov 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 11/9(일) 인류는 이미 탈모를 극복했습니다 - 오지원 교수 (연세대 의과대학 모발연구학회 이사)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26281,17 +26300,6 @@ K-웹툰을 망치는 '놈'들이 있습니다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240123.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240123.mp3</guid>
       <pubDate>Tue, 23 Jan 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 1/23(화) 아버지와 공동명의 주택, 증여세는 어떻게 되나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 저는 아버지와 공동명의로 된 아파트를 소유하고 있습니다. 만약 아버지의 지분을 제가 증여받게 되는 경우 증여세는 어떻게 되는지 궁금합니다. 제 생각에는, 지분은 50:50이라서, 아파트 공시가격의 50%에 대해서만 증여세가 부과 될 거 같은데요, 제 생각대로 신고를 하고 납부를 하면 될까요? 그리고 저와 같은 경우에 증여세를 아낄 수 있는 방법이 있을까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240123.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240123.mp3</guid>
-      <pubDate>Tue, 23 Jan 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
