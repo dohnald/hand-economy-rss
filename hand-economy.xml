@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 11/12(수) 해외파견을 가면 실거주 의무에서 예외로 처리 될까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 내년에 결혼을 앞두고 있어 신혼집 마련을 위해 이곳저곳 알아보며 부동산 공부중입니다. 그러다가 고려하고 있던 신혼집의 위치가 이번 10.15 정책에서 토지거래 허가제로 묶이게 됐습니다. 토지거래허가 구역은 실거주 2년이 필요하고 저는 당연히 실거주 예정이지만, 요즘 회사에서 해외 주재원 파견 얘기가 나오고 있습니다. 출국 시점이나 자세한 내용등은 알 수 없는 단계지만, 아무래도 가게 된다면 내년이 유력합니다.
+만약 매매 후 실거주 중 2년 기간을 채우지 못하고 해외로 가게 되는 경우는 어떤 조치가 취해지나요? 관할 구청도 자세한 매뉴얼이 없어 모르고, 은행 역시 주담대 조기상환이 될까봐 확인해보니 모른다는 내용입니다.
+제가 해외를 가더라도 전세를 주거나, 매도를 하지 않을 생각이고, 여자친구가 지낼 수 있도록 하다가 귀국 후 계속 지낼 예정입니다. 이런 경우, 실거주 2년 기간에서 예외사항으로 처리가 될까요? 아니면 해외 파견의 가능성을 알았다는 것만으로도 매매를 하면 안 되는 걸까요? 도대체 어디다 누구한테 물어봐야 하는지 답답합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251112.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251112.mp3</guid>
+      <pubDate>Wed, 12 Nov 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/12(수) 장기투자 세제 혜택 | 중국 해외 투자 과세 | IPO</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26285,18 +26297,6 @@ W. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240126.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240126.mp3</guid>
       <pubDate>Fri, 26 Jan 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 1/25(목) K-웹툰이 NEXT 디즈니가 되려면</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[이슈 플러스]
-K-웹툰을 망치는 '놈'들이 있습니다
-- 이재민 만화문화연구소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240125.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240125.mp3</guid>
-      <pubDate>Thu, 25 Jan 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
