@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 11/13(목) 핵 잠수함 미국서 만들면 우리는 오리알 됩니다 - 임철균 한국전략문제연구소 전문연구위원</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+핵 잠수함 미국서 만들면 우리는 오리알 됩니다 
+- 임철균 한국전략문제연구소 전문연구위원
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251113.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251113.mp3</guid>
+      <pubDate>Thu, 13 Nov 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 11/13(목) 유기정기금 방식의 증여는 어떤 점이 유리한가요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26291,17 +26303,6 @@ W. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240126_4.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240126_4.mp3</guid>
       <pubDate>Fri, 26 Jan 2024 12:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 억울한 현우</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 단기 기억 상실
-
-- 이진우도 떱니다]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240126_3.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240126_3.mp3</guid>
-      <pubDate>Fri, 26 Jan 2024 12:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
