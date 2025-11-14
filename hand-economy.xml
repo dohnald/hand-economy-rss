@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 11/14(금) 셧다운 종료 | 건보료 조정 신청 | 고리 2호 연장 | 국채금리</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美 정부 셧다운 종료.. 43일 역대 최장
+2) 고리 2호기, 2033년까지 10년 운전 연장
+3) 지역 건보료, 조정 신청 확대.. 이자· 배당·연금도
+4) 한은 “금리 전환“ 언급하자 국채금리 들썩
+- 정지서 연합인포맥스 기자
+- 김아름 머니투데이방송 기자
+- 박세훈 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251114.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251114.mp3</guid>
+      <pubDate>Fri, 14 Nov 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 11/13(목) 핵 잠수함 미국서 만들면 우리는 오리알 됩니다 - 임철균 한국전략문제연구소 전문연구위원</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26290,19 +26306,6 @@ W. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240126.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240126.mp3</guid>
       <pubDate>Fri, 26 Jan 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (4부) 강의 스킬</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 잔소리 15분 들어야 다 듣을 수 있는 팟캐?
-
-- 요즘 강의료 시세
-
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240126_4.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240126_4.mp3</guid>
-      <pubDate>Fri, 26 Jan 2024 12:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
