@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 11/14(금) 시대별 대입 시험 (이종훈 작가) | 인도 데이터센터 | 나이지리아 부동산 | 프랑스 바게트 (한경제 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[공부왕 이종훈]
+시대별 대입 시험의 변화
+- 이종훈 작가
+
+2부
+[글로벌 리포트]
+글로벌 데이터센터가 인도로 향하는 이유
+- 한경제 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251114.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251114.mp3</guid>
+      <pubDate>Fri, 14 Nov 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - (5부) 죽일 놈의 건보료</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26255,25 +26272,6 @@ W. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240130.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240130.mp3</guid>
       <pubDate>Tue, 30 Jan 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 1/29(월) 눈물의 영끌족.. 경매 물건 급증 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓잡은경제]
-눈물의 영끌족, 경매 물건 쏟아진다
-싱가포르로 몰려가는 한국 부자들
-- 정지서 연합인포맥스 기자
-- 신인규 한국경제TV 기자
-
-2부
-[증시 열렸다]
-내려간 물가에 방긋 웃는 백악관
-- 이효석 HS아카데미 대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240129.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240129.mp3</guid>
-      <pubDate>Mon, 29 Jan 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
