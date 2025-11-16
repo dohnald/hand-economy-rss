@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 11/16(일) 동남아 범죄 생태계 뿌리 뽑기 어려운 이유 - 서준수 연구원 (한국외대 동남아연구소)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+동남아 범죄 생태계 뿌리 뽑기 어려운 이유 
+- 서준수 연구원 (한국외대 동남아연구소)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251116.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251116.mp3</guid>
+      <pubDate>Sun, 16 Nov 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 11/15(토) AI가 설령 버블이라도 더 크게 키워야 합니다 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26256,17 +26267,6 @@ W. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240130.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240130.mp3</guid>
       <pubDate>Tue, 30 Jan 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 1/30(화) 직장이 폐업된 후, 연말정산</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요? 항상 잘 듣고 있는 애청자입니다. 전 직장에서 근무하다가 경영이 어려워 23년 6월말 퇴사하였습니다. 그런데 회사가 폐업해서 근무 직원이 모두 퇴사를 한 상태라 근로소득 원천징수영수증을 발행해주지 않았습니다. 또, 1월과 2월 급여는 받았지만, 3월부터 6월까지의 급여와 퇴직금, 2022년 연말정산 환급금 등을 받지 못하여 노동부에 체불임금 진정을 넣어서 천만원을 받았습니다.. 이런 경우 저는 2023년 연말정산을 어떻게 해야 하나요? 전 회사 급여를 안 받은 것으로 하자니 연말정산간소화 서비스에선 "의료보험"과 "국민연금" 등은 납부한 것으로 되어 있더라구요. 실제로 의료보험은 납부가 돼 있고, 국민연금은 2달치가 미납되어 있는 상태로 파악 됩니다. 어떻게 해야 할까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240130.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240130.mp3</guid>
-      <pubDate>Tue, 30 Jan 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
