@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 11/18(화) 프리랜서 강사인데 대출신청시 소득금액이 이상합니다.</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 기존에 살던 월세 집을 전세로 변경해 재계약을 했습니다. 저는 당연히 보증금 한도까지 대출이 나올 줄 알았는데 은행에서 심사를 받아보니 제 소득이 생각했던 것 보다 너무 낮게 잡히더라고요.
+현재 저는 프리랜서 학원 강사로 일하고 있고, 계약은 용역계약으로 했지만 매달 월급을 받고 있고, 4대보험은 가입되어 있지 않습니다. 은행에서 소득이 낮게 잡히는 이유를 설명해주셨는데, 제가 생각한 월급은 다 수입금액으로 잡혀있고, 소득금액은 따로 잡히더라고요. 이 부분이 잘 이해가 가지 않습니다. 어떤 계산 방식으로 수입금액과 소득금액을 나누는지도 궁금하고, 5월에 종소세 신고를 뭔가 잘못했나 걱정도 됩니다. 5월에 신고할때는 그냥 홈택스에서 클릭 몇번만 해서 신고했던걸로 기억합니다.
+또, 전세보증금 대출을 받는다고 하더라도 돈이 부족할거 같은데 신용대출로 메꿔도 되는 걸까요? 그렇다면 같은 은행에서 대출을 받는게 유리한 것인지, 순서는 어떻게 진행하면 좋을지도 궁금합니다.
+11월 29일에 전세금을 내야하는데 예상 밖의 일이 생겨 너무 걱정이 큽니다. 제발 도와주세요.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251118.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251118.mp3</guid>
+      <pubDate>Tue, 18 Nov 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/18(화) 금산분리 완화 | 수도권 생활폐기물 | 미국 전기요금 | 트럼프 고물가대책</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26236,23 +26249,6 @@ W. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240201.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240201.mp3</guid>
       <pubDate>Thu, 01 Feb 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 1/31(수) 수축하는 세상, 제로섬이 시작된다.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[키워드경제]
-위험한 내기, ELS 잔혹사
-- 남궁민 작가
-
-2부
-[책크리스트]
-수축하는 세상, 제로섬이 시작된다
-- 김치형 뉴스큐레이터]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240131.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240131.mp3</guid>
-      <pubDate>Wed, 31 Jan 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
