@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 11/18(화) 금산분리 완화 | 수도권 생활폐기물 | 미국 전기요금 | 트럼프 고물가대책</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 첨단산업 규제 완화 추진.. 금산분리·증손회사 소유 제한 등
+2) 내년부터 수도권 생활폐기물 직매립 금지
+3) 美 데이터센터 밀집 지역, 전기요금 급등
+4) 고개드는 미국 물가.. 트럼프, 대책에 총력
+- 김치형 뉴스큐레이터
+- 조미현 한국경제신문 기자
+- 정지서 연합인포맥스 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251118.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251118.mp3</guid>
+      <pubDate>Tue, 18 Nov 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 11/17(월) 챗 GPT 새 버전 (김덕진 소장) | 아편전쟁 2편 (재원쌤)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26237,17 +26253,6 @@ W. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240131.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240131.mp3</guid>
       <pubDate>Wed, 31 Jan 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 1/31(수) 자동차 구입, 할부 VS 마통</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 제가 차량을 구매하려고 하는데 900만원 정도 부족합니다. 할부를 이용하려고 하니 중도상환 수수료가 있더라구요. 반면에 마이너스 통장은 중도상환수수료가 없던데, 그렇다면 마이너스 통장으로 대출을 받고 빠른 기간 내에 상환하는 게 더 나을 거 같아 보이는데 어떨까요? 은행에 알아보니 마이너스 통장 한도는 6천만원 이상 나옵니다. 그럼 6천만원으로 만드는게 나을까요 아니면, 필요한 금액만큼만 만드는게 나을까요? 한도가 얼마든 대출한 돈이 900만원으로 같으면 이자도 똑같은 건지, 인출 가능 금액이 높아지면 같은 돈을 대출 했더라도 이자가 많아지는지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240131.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240131.mp3</guid>
-      <pubDate>Wed, 31 Jan 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
