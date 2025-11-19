@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[상담소] 11/19(수) 청약통장을 깨고 적금을 가입하는게 유리할까요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[고민사연]
+안녕하세요. 청약통장을 10여년 째 유지 하고 있습니다. 불입금액은 6,500여만원 정도 되는데요, 처음엔 연말정산시 소득공제 받으려고 가입했다가 저축의 목적으로 월 50만원씩 넣고 있습니다. 
+현재 금리는 연 3.1%인데요, 최근 지역 상호금융에서 3.6%짜리 적금 상품을 찾았습니다. 그래서 청약통장에 돈을 넣는게 유리한지, 아니면 신규로 적금을 가입하는게 유리한지 알고 싶습니다.
+청약통장의 금리는 지금까지 납부했던 돈 전체에 3.1%가 적용되는 걸까요? 아니면 올해 납입하는 금액만 3.1% 적용되는 걸까요? 적금금리가 좀 더 높은데 적금을 가입하는게 유리한 걸까요? 만약 적금 가입이 유리하다면, 청약통장은 그대로 두는게 좋은지 해약하는게 좋은지도 궁금합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251119.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20251119.mp3</guid>
+      <pubDate>Wed, 19 Nov 2025 13:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/19(수) 론스타 승소 | 칩플렌이션 | 빅테크 CDS</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -29,8 +41,8 @@
 [친절한 경제]
 금의 가치는 영원한가요?
 - 청취자 이성연 씨]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251119(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251119(1).mp3</guid>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251119(2).mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251119(2).mp3</guid>
       <pubDate>Wed, 19 Nov 2025 08:30:00 +0900</pubDate>
     </item>
     <item>
@@ -40,8 +52,8 @@
       <description><![CDATA[1,2부
 종묘 앞 초고층 빌딩, 후손에 죄짓는 겁니다 
 - 김경민 서울대 도시계획학과 교수 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251118(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251118(1).mp3</guid>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251118(3).mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251118(3).mp3</guid>
       <pubDate>Tue, 18 Nov 2025 20:05:00 +0900</pubDate>
     </item>
     <item>
@@ -26239,19 +26251,6 @@ W. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240202.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240202.mp3</guid>
       <pubDate>Fri, 02 Feb 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/1(목) 3월 인하 없다는 파월, 그럼 언제?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[이슈 플러스]
-"3월 금리 인하 없다!"
-그러면 도대체 언제?
-- 박상현 하이투자증권 전문위원]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240201.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240201.mp3</guid>
-      <pubDate>Thu, 01 Feb 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
