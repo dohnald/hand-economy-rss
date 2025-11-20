@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 11/20(목) 엔비디아 실적 | IMA 인가 | 중일 갈등 | 우주 데이터센터</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 엔비디아 3분기 실적도 서프라이즈.. 버블론 일축
+2) 첫 IMA 사업자로 한투?미래에셋 선정.. IMA 계좌란?
+3) 중국 “일본산 수산물 수입 중지“ 한일령 본격화
+4) 우주에 데이터센터 짓는다.. 실현 가능성은?
+- 박수익 비즈니스워치 기자
+- 박세훈 작가
+- 하수정 뉴스큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251120.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251120.mp3</guid>
+      <pubDate>Thu, 20 Nov 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 11/19(수) 중국 패션 기업 '쉬인' (하수정 큐레이터) | 치매 치료제 (김소연 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26243,17 +26259,6 @@ W. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240202_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240202_2.mp3</guid>
       <pubDate>Fri, 02 Feb 2024 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 돈과 행복</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 심기 경호
-
-- 금연]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240202_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240202_1.mp3</guid>
-      <pubDate>Fri, 02 Feb 2024 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
