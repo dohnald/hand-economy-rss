@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 11/20(목) 다카이치 총리는 왜 중국의 역린을 건드렸나 - 오승희 국립외교원 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+다카이치 총리는 왜 중국의 역린을 건드렸나 
+- 오승희 국립외교원 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251120.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251120.mp3</guid>
+      <pubDate>Thu, 20 Nov 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 11/20(목) 알바생도 4대 보험을 가입해야 하나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26245,19 +26256,6 @@ W. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240202_4.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240202_4.mp3</guid>
       <pubDate>Fri, 02 Feb 2024 12:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 아파트 하자 보수</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 정치 유튜브
-
-- 말 안한다더니.. 결국
-
- ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240202_3.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240202_3.mp3</guid>
-      <pubDate>Fri, 02 Feb 2024 12:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
