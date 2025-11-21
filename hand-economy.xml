@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>협찬인가 - 오너 2세의 경영 수업</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA['협찬인가 콘텐츠인가'
+
+오늘의 주인공은 윤활액 자동주입기 전문 기업, 펄사루브입니다. 
+펄사루브는 독보적인 기술력으로 세계 1위의 자리를 위협하고 있는데요. 
+세계를 주름잡는 강소기업의 세계! 그리고 오너 2세들만의 세계까지!
+펄사루브 부사장님의 목소리로 만나보시죠. 
+
+펄사루브 웹사이트: https://pulsarlube.co.kr/
+협업문의: hand-economy@naver.com]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_251121_000.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_251121_000.mp3</guid>
+      <pubDate>Fri, 21 Nov 2025 18:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[상담소] 11/21(금) 증권사에 외화 현찰을 입금할 수 있나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26237,27 +26254,6 @@ W. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240203.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240203.mp3</guid>
       <pubDate>Sat, 03 Feb 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/2(금) 도요타 스캔들에 일본 경제 주춤? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓 잡은 경제]
-'혼합진료' 금지에 의료계 들썩
-도요타 쇼크에 일본 경제 휘청?
-- 정지서 연합인포맥스 기자
-- 김주영 머니투데이방송 기자
-
-2부
-[글로벌리포트]
-2024년 미국에 노예가 있다?
-우크라 이용해 지원금 뜯어낸 헝가리
-인도 버터치킨 원조 논란
-- 어예진 해담경제연구소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240202.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240202.mp3</guid>
-      <pubDate>Fri, 02 Feb 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
