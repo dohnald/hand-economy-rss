@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 11/21(금) 일본 금리 | 지방은행 위기 | 미성년자 카드</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 일본 200조 부양책 온다.. 국채 금리↑·엔화 ↓
+2) 지방은행, 저신용자 대출 몰려 악성채무 급증
+3) 미성년자 체크카드 연령 제한 폐지한다
+- 박세훈 작가
+- 서영태 연합인포맥스 기자
+- 김아름 머니투데이방송 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251121.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251121.mp3</guid>
+      <pubDate>Fri, 21 Nov 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 11/20(목) 다카이치 총리는 왜 중국의 역린을 건드렸나 - 오승희 국립외교원 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26243,19 +26258,6 @@ W. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240202.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240202.mp3</guid>
       <pubDate>Fri, 02 Feb 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (4부) 이번엔 제주다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 그로테스크한 이중성
-
-- 식비 절약법
-
-- 배달은 빌게이츠만 시켜라?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240202_4.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240202_4.mp3</guid>
-      <pubDate>Fri, 02 Feb 2024 12:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
