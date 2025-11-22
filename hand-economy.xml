@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 11/21(금) 축구 매치 에이전트는 누구 (이종훈 작가) | 중국산 버스 해킹 | 비트코인 난방 | 미국 대한 전공 통폐합 (한경제 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[공부왕 이종훈]
+축구 A매치 경기는 어떻게 성사될까
+- 이종훈 작가
+
+2부
+[글로벌 리포트]
+중국산 전자장치, 진짜 보안 뚫렸다
+- 한경제 기자 (한국경제신문)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251121.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251121.mp3</guid>
+      <pubDate>Fri, 21 Nov 2025 20:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>협찬인가 - 오너 2세의 경영 수업</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26214,26 +26231,6 @@ with 신인규 한국경제TV 기자]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240206.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240206.mp3</guid>
       <pubDate>Tue, 06 Feb 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/5(월) 용산 100층 랜드마크, 이번엔 실현될까 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-
-[갓 잡은 경제]
-이재용 '불법승계' 의혹 1심 무죄
-용산국제업무지구 개발 계획 발표
-- 정지서 연합인포맥스 기자
-- 추동훈 매일경제신문 기자
-
-2부
-[증시열렸다]
-밸류업인가 테마인가, 저PBR주 랠리
-- 이선엽 신한투자증권 이사]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240205.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240205.mp3</guid>
-      <pubDate>Mon, 05 Feb 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
