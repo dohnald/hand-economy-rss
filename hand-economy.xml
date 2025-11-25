@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 11/25(화) 모네의 명화에 담긴 관세 전쟁의 민낯 - 김치형 뉴스큐레이터</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+모네의 명화에 담긴 관세 전쟁의 민낯 
+- 김치형 뉴스큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251125.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251125.mp3</guid>
+      <pubDate>Tue, 25 Nov 2025 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/25(화) 국민연금 환헷지 | AI 거품론 | 은행 금리 경쟁 | 런던 관광세</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26202,18 +26213,6 @@ with 신인규 한국경제TV 기자]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240207.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240207.mp3</guid>
       <pubDate>Wed, 07 Feb 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/7(수) 금융소득 때매 건보 피부양자 자격 상실하면 어떡하죠?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요? 2년 전부터 ISA 계좌에서 원유 ETN에 3천만원 정도를 투자하고 있습니다. 당시엔 소규모 온라인 쇼핑몰을 하고 있던 때라 사업자 자격이었는데, 잘 되지 않아 작년에 폐업하고 현재는 직장인 남편 밑으로 건강보험 피부양자가 된 상태입니다. 금융소득이 일정금액을 넘으면 피부양자 자격을 상실하는 것으로 알고 있는데요, 국내상장 해외 ETN이나 EFT를 통한 거래 수익도 금융소득에 해당되는지 궁금합니다.
-추가로, 1회성 금융소득에 의해 피부양자 자격상실 이후, 다음해에 금융소득이 발생하지 않는다면 다시 피부양자 자격을 취득할 수 있을까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240207.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240207.mp3</guid>
-      <pubDate>Wed, 07 Feb 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
