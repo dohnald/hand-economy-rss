@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 11/26(수) 반도체 슈퍼을 ASML (하수정 큐레이터) | 난수가 중요한 이유 (이창욱 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업 되는 기업]
+반도체 전쟁의 키가 된 슈퍼을, ASML
+- 하수정 경제 뉴스큐레이터
+
+2부
+[사이언스가 머니]
+미래 암호 체계의 핵심, '난수 산업'
+- 이창욱 기자 (과학동아)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251126.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251126.mp3</guid>
+      <pubDate>Wed, 26 Nov 2025 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/26(수) 테슬라 FSD | 미국 금리인하</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26199,20 +26216,6 @@ with 신인규 한국경제TV 기자]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240208.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240208.mp3</guid>
       <pubDate>Thu, 08 Feb 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]2/8(목) 국내 최대 해운사 HMM 매각 협상, 결국 결렬  外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 국내 최대 해운사 HMM 매각 협상, 결국 결렬
-- 리츠 배당 확대법 통과, 상장 리츠에 관심 집중
-- 상업용 부동산 부실 여파로 뉴욕 커뮤니티 뱅코프 주가 폭락
-
-
-출연: 서은영 경제뉴스큐레이터, 박세훈 작가, 김현우 행복자산관리연구소 소장, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240208.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240208.mp3</guid>
-      <pubDate>Thu, 08 Feb 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
