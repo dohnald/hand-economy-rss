@@ -16,6 +16,26 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 11/27(목) 네이버-두나무 합병 | 홈플러스 매각 무산 | 자카르타</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 네이버-두나무 합병.. 20조 규모 핀테크 공룡 탄생
+2) 홈플러스, 공개매각 무산.. 청산 절차 밟나
+3) 인도네시아 자카르타, 세계 인구 1위 도시 등극
+- 조미현 한국경제신문 기자
+- 하수정 뉴스큐레이터
+- 박수익 비즈니스워치 기자
+
+[친절한 경제]
+주가가 계속 오르면 
+인버스 상품은 0이 될 수 있나요?
+- 청취자 유준철 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251127.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251127.mp3</guid>
+      <pubDate>Thu, 27 Nov 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 11/26(수) 반도체 슈퍼을 ASML (하수정 큐레이터) | 난수가 중요한 이유 (이창욱 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26204,18 +26224,6 @@ with 신인규 한국경제TV 기자]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240208.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240208.mp3</guid>
       <pubDate>Thu, 08 Feb 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/8(목) 처제 함께 산 주택, 처분 시 세금 어떡하죠?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 현재 저는 1세대 2주택 가구인데요, 12년 전에 구입한 다가구주택과 8년 전에 구입한 아파트를 갖고 있습니다. 이 중 다가구 주택은 지방에 있는 원룸 건물인데, 당시 처제와 반반씩 부담해서 3억원 조금 넘는 가격에 취득했던 것으로 기억합니다. 명의는 공동명의가 아닌 제 명의로 했고, 처제가 제 통장으로 입금해서 내역은 남아 있습니다. 그리고 그동안 월세는 매달 반씩 나눠서 처제 통장으로 보내줬구요. 
-그런데 이번에 다가구 건물을 매도하게 되었습니다. 그럼 매도대금을 반으로 나누어서 처제에게 돌려줘야 하는데, 매도로 인한 전체 수익은 8천만원 정도 됩니다. 매수시 저에게 입금한내역이 있으니 그냥 돌려줘도 될지, 혹시 다른 문제가 생기는 건 아닌지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240208.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240208.mp3</guid>
-      <pubDate>Thu, 08 Feb 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
