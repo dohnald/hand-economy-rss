@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 11/27(목) 인구 변화를 분석하면 부의 흐름이 보입니다 - 고우림 연구교수 (서울대 인구정책연구센터)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+인구 변화를 분석하면 부의 흐름이 보입니다 
+- 고우림 연구교수 (서울대 인구정책연구센터)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251127.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251127.mp3</guid>
+      <pubDate>Thu, 27 Nov 2025 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/27(목) 네이버-두나무 합병 | 홈플러스 매각 무산 | 자카르타</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26211,19 +26222,6 @@ with 신인규 한국경제TV 기자]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240209.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240209.mp3</guid>
       <pubDate>Fri, 09 Feb 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/8(목) 급변하는 정비사업 규제, 핵심은 이겁니다(김제경 소장)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[이슈플러스]
-급변하는 정비 규제,
-핵심은 이겁니다
-- 김제경 투미부동산컨설팅 소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240208.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240208.mp3</guid>
-      <pubDate>Thu, 08 Feb 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
