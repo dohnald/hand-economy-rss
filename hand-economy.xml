@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>협찬인가 - 기숙학원의 속사정</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[오늘 '협찬인가'의 주인공은 SN독학기숙학원의 윤석기 대표입니다.
+기숙학원은 한번쯤 들어봤는데.... "독학" 기숙학원은 뭐가 다를까요?
+SN학원에서 요즘 만들고 있는 수능 전문 AI, SnaGPT도 함께 만나보시죠.
+
+- SN독학기숙학원: www.snacademy.co.kr/
+- 출연문의: hand-economy@naver.com]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251128_000.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251128_000.mp3</guid>
+      <pubDate>Fri, 28 Nov 2025 18:01:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/28(금) 기준금리 동결 | 해외주식 양도세 논란 | 누리호 발사 성공</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26212,17 +26226,6 @@ with 신인규 한국경제TV 기자]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240209_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240209_2.mp3</guid>
       <pubDate>Fri, 09 Feb 2024 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 지휘자</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 올해 농사
-
-- 박작 강의 후토크]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240209_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240209_1.mp3</guid>
-      <pubDate>Fri, 09 Feb 2024 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
