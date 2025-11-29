@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 11/28(금) 과기부 2차관 인터뷰 (류제명 차관) | 미국 사형제 | 사우디 술 판매 | 프랑스 교육시스템 (한경제 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+AI 강국 향한 우리 정부의 로드맵은?
+- 류제명 과학기술정보통신부 2차관
+
+2부
+[글로벌 리포트]
+프랑스 교육 시스템 붕괴.. 연금 때문이라고?
+- 한경제 기자 (한국경제신문)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251128.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251128.mp3</guid>
+      <pubDate>Fri, 28 Nov 2025 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - 박빙이었다 [끝]</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26211,19 +26227,6 @@ with 신인규 한국경제TV 기자]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240209(1).mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240209(1).mp3</guid>
       <pubDate>Fri, 09 Feb 2024 20:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 친해질려면 실수를 해라?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 요즘 유튜브
-
-- 새해 복많이..
-
-- 체리피커]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240209_3.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240209_3.mp3</guid>
-      <pubDate>Fri, 09 Feb 2024 12:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
