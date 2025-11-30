@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 11/29(토) 반도체 대박 맞은 대만, 큰 걱정거리가 있습니다 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+반도체 대박 맞은 대만, 큰 걱정거리가 있습니다 
+- 박정호 명지대 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251129.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251129.mp3</guid>
+      <pubDate>Sat, 29 Nov 2025 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 11/28(금) 과기부 2차관 인터뷰 (류제명 차관) | 미국 사형제 | 사우디 술 판매 | 프랑스 교육시스템 (한경제 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26216,17 +26228,6 @@ with 오승훈 MBC 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240210.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240210.mp3</guid>
       <pubDate>Sat, 10 Feb 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/9(금) 세뱃돈 조금 주고 많이 준 척 하는 법</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[설 특집방송]
-세뱃돈의 경제학
-with 신인규 한국경제TV 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240209(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240209(1).mp3</guid>
-      <pubDate>Fri, 09 Feb 2024 20:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
