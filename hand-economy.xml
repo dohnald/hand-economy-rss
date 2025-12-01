@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 12/1(월) 제미나이 3.0 (김덕진 소장) | 강화도 조약 (재원쌤)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+제미나이가 챗GPT 압도한 비결
+- 김덕진 IT커뮤니케이션 연구소 소장
+
+2부
+[쩐설의 김선생]
+조선의 첫 번째 부당계약 '강화도 조약'
+- 재원쌤]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251201.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251201.mp3</guid>
+      <pubDate>Mon, 01 Dec 2025 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/1(월) 미국 블랙프라이데이 | 약가제도 개편</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26215,19 +26232,6 @@ with 오승훈 MBC 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240212.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240212.mp3</guid>
       <pubDate>Mon, 12 Feb 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]2/12(월) 비아그라가 치매 예방까지? '신약 재창출' 시대  外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 비아그라가 치매 예방까지?, '신약 재창출' 시대  
-- 일본 증시 34년 만에 최고치
-- 설 연휴 해외여행 수요 폭발
-
-출연: 안승찬 언더스탠딩 기자, 하창완 헤르메스스탁 본부장, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240212.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240212.mp3</guid>
-      <pubDate>Mon, 12 Feb 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
