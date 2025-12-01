@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/1(월) 미국 블랙프라이데이 | 약가제도 개편</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美 소비 둔화라더니.. 블랙프라이데이 매출 늘었다
+2) 반복되는 의약품 품절 사태.. 원인은 유통업체 난립?
+3) 희귀 질환 치료제 빨리 도입하고 복제약값 낮춘다
+- 조미현 한국경제신문 기자
+- 정지서 연합인포맥스 기자
+
+[친절한 경제]
+브라질 같은 나라들의 금리는 왜 이렇게 높은가요?
+- 청취자 권동우 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251201.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251201.mp3</guid>
+      <pubDate>Mon, 01 Dec 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 11/30(일) 인구 변화를 분석하면 부의 흐름이 보입니다 - 고우림 연구교수 (서울대 인구정책연구센터)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26210,23 +26228,6 @@ with 오승훈 MBC 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240212.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240212.mp3</guid>
       <pubDate>Mon, 12 Feb 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/11(일) 미래 자동차, 먼저 보고 왔습니다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[주간하이라이트]
-중고가 팔려야 새것도 팔린다?
-- 남궁민 작가
-
-2부
-[테코노미]
-미래자동차 먼저 보고 왔습니다.
-- 김덕진 IT커뮤니케이션연구소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240211.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240211.mp3</guid>
-      <pubDate>Sun, 11 Feb 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
