@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/2(화) 고환율 대응 | 일본 금리인상 | 증권거래세율 인상 | 자사주 소각 의무화</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) ‘고환율 대응’ 정부, 기업의 환전?해외투자 직접 본다
+2) 일본, 12월 금리 인상 신호.. 우리나라 영향은?
+3) 내년부터 증권거래세율 오른다.. 0.15%→0.2%
+4) 자사주 소각 의무화 논란.. ’경영상 목적‘은 예외?
+- 김치형 뉴스큐레이터
+- 정지서 연합인포맥스 기자
+- 박수익 비즈니스워치 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251202.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251202.mp3</guid>
+      <pubDate>Tue, 02 Dec 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 12/1(월) 제미나이 3.0 (김덕진 소장) | 강화도 조약 (재원쌤)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26219,19 +26235,6 @@ with 오승훈 MBC 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240212.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240212.mp3</guid>
       <pubDate>Mon, 12 Feb 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/12(월) 후취담보대출은 갈아타기 안 되나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민사연]
-
-안녕하세요. 이번에 주택담보대출 갈아타기를 조회해보니 담보대출 유형이 후취담보대출이라 불가능하다고 나옵니다. 보통 아파트를 분양 받으면 중도금 대출을 이용하다가, 입주 전에 잔금대출로 갈아타기를 할 때 후취담보 대출을 받는 걸로 알고 있는데요. 저는 2018년에 3년 고정 후취담보대출을 받았고 금리는 5%가 넘습니다. 
-
-대출은행에 문의해보니 그냥 그곳에서 일단 일반주담대로 대환하고, 그 후에 다른 은행으로 갈아탈 수 있다고 합니다. 그런데 이율을 물어보니 그것도 5%가 넘는다고 하네요. 그렇게 갈아타기를 이용하게되면 중도상환수수료도 발생하구요. 후취담보대출을 갈아탈 수 있는 방법을 알고 싶습니다. ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240212.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240212.mp3</guid>
-      <pubDate>Mon, 12 Feb 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
