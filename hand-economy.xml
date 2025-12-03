@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/3(수) 내년 재정위기설 | 텔레그램 미국 주식 토큰거래</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 국가부채 한계치.. 내년 선진국 한 곳서 재정위기 온다?
+2) 텔레그램서 미국 주식 ‘토큰’으로 거래한다
+- 김치형 뉴스큐레이터
+- 조미현 한국경제신문 기자
+
+[친절한 경제]
+주가가 오르면 통화량도 늘어나나요?
+- 청취자 홍상민 씨
+ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251203.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251203.mp3</guid>
+      <pubDate>Wed, 03 Dec 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 12/2(화) 코스피 5000 시대, 시간 문제인 이유 - 이선엽 대표 (AFW파트너스)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26218,21 +26236,6 @@ with 오승훈 MBC 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240213.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240213.mp3</guid>
       <pubDate>Tue, 13 Feb 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]2/13(화) 세수 펑크 속 직장인 근로소득세는 늘어  外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 세수 펑크 속 직장인 근로소득세는 늘어
-- 부영이 던진 1억 짜리 숙제, 출산장려금 세제 혜택
-- 트럼프 컴백하면 IRA 철회 가능성?
-- 프리미엄 택시 서비스 영업 줄줄이 중단
-- 금감원의 MBTI는 ESTP?
-
-출연: 송현서 기자, 남궁민 경제뉴스큐레이터, 김치형 경제뉴스큐레이터, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240213.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240213.mp3</guid>
-      <pubDate>Tue, 13 Feb 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
