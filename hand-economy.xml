@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/5(금) 코스닥 과제 | 미국 연비 규제 완화 | 요양 대란</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 코스닥 시가총액 사상 첫 500조 돌파.. 과제는?
+2) 트럼프, 내연차 연비 규제 완화.. 하이브리드 뜬다
+3) 요양보호사 부족 심화.. "요양대란 온다"
+- 서영태 연합인포맥스 기자
+- 박세훈 작가
+- 하수정 뉴스큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251205.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251205.mp3</guid>
+      <pubDate>Fri, 05 Dec 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 12/4(목) 우크라 전쟁은 절대 협상으로 안 끝납니다 - 진재일 전 한국국방연구원 책임연구위원</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26222,19 +26237,6 @@ with 오승훈 MBC 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240214.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240214.mp3</guid>
       <pubDate>Wed, 14 Feb 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/14(수) 대출 있는 집에 월세 살아도 안전한가요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 월세를 구하게 됐는데 걱정되는 일이 있어 문의 드립니다.
-마음에 드는 집이 있는데 융자금이 집값의 30% 이상이더라고요. 부동산에 문의하니 보증금이 500만원으로 적기 때문에 최우선변제가 되어 위험하지 않다고 하네요. 잘은 모르겠지만 위험하지 않다고 하니 그대로 계약을 해도 되는건지, 적은 돈이지만 혹시나 못 받고 나올까봐 걱정이 됩니다.
-그리고 집주인은 같은 건물에 여러 채의 집을 가지고 계신다고도 하네요. 혹시 이런건 상관 없는 걸까요? 참고로 계약기간은 1년으로 하려고 합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240214.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240214.mp3</guid>
-      <pubDate>Wed, 14 Feb 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
