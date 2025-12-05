@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - 어머니와 보리차(손수건 필참)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - 어머니와 보리차(손수건 필참)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/COFFEE20251205.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/COFFEE20251205.mp3</guid>
+      <pubDate>Sat, 06 Dec 2025 08:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/5(금) 코스닥 과제 | 미국 연비 규제 완화 | 요양 대란</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26220,23 +26229,6 @@ with 오승훈 MBC 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240215.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240215.mp3</guid>
       <pubDate>Thu, 15 Feb 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/14(수) 카페공화국의 명품 커피 전쟁 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[키워드경제]
-카페공화국의 명품 커피 전쟁
-- 남궁민 작가
-
-2부
-[책크리스트]
-성공하고 싶다면 포기하라? '신경끄기의 기술'
-- 김치형 뉴스큐레이터]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240214.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240214.mp3</guid>
-      <pubDate>Wed, 14 Feb 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
