@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 12/6(토) 환율은 1500원선을 돌파하지 않을 겁니다 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+환율은 1500원선을 돌파하지 않을 겁니다 
+- 박정호 명지대 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251206.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251206.mp3</guid>
+      <pubDate>Sat, 06 Dec 2025 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - 어머니와 보리차(손수건 필참)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26222,18 +26234,6 @@ with 오승훈 MBC 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240215.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240215.mp3</guid>
       <pubDate>Thu, 15 Feb 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/15(목) 세입자가 쓰레기를 쌓아둡니다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 저희가 전세로 주고 있는 집이 있는데, 현재 살고 있는 임차인이 집에 쓰레기를 가득 모아놓고 계십니다. 지금은 겨울이라 냄새는 안 나는데, 곧 봄이 되고 여름이 되면 심각해 질 것 같습니다. 아직 계약기간이 1년 7개월이나 남았는데, 혹시 그 전에 계약을 종료하고 임차인을 내보낼 수 있는 방법이 있을까요?
-세입자가 고집도 쎄신데다가, 본인이 손해보는 일은 절대 안 할 분으로 보여서 걱정이에요. 혹시 몰라서 집 앞에 높이 쌓인 쓰레기 사진은 모아두고 있습니다. 계약기간 만료 전에도 원만하게 퇴실하게 할 방법이 있을까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240215.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240215.mp3</guid>
-      <pubDate>Thu, 15 Feb 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
