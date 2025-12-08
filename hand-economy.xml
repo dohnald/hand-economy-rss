@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/8(월)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251208.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251208.mp3</guid>
+      <pubDate>Mon, 08 Dec 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 12/7(일) 남들보다 3배 더 받는 국민연금 활용 비법 - 이영주 대표 (연금박사 상담센터)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26220,19 +26229,6 @@ with 오승훈 MBC 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240216_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240216_1.mp3</guid>
       <pubDate>Fri, 16 Feb 2024 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]2/16(금) 실손보험 청구 간소화 10월부터 시작 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 실손보험 청구 간소화 10월부터 시작
-- 공사 중단에 분양 대금은 엉뚱한 곳에? 오피스텔 분양 사기 전말은
-- 글로벌 최저한세로 LG화학 '수천억 토해낼 판'
-
-출연: 이상은 한국경제신문 기자, 김현우 행복자산관리연구소 소장, 안승찬 기자, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240216.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240216.mp3</guid>
-      <pubDate>Fri, 16 Feb 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
