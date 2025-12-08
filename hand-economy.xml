@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 12/8(월) 밸리 휩쓴 중국AI (김덕진 소장) |  일본 근대화의 여파(재원쌤)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+실리콘밸리 휩쓴 중국 AI
+- 김덕진 IT커뮤니케이션연구소장
+
+2부
+일본 근대화, 조선을 삼키다
+- 역사의 재원쌤]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251208.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251208.mp3</guid>
+      <pubDate>Mon, 08 Dec 2025 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/8(월) 디지털 적자 | 세입자 면접제 | 해약환급준비금 </title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26226,19 +26241,6 @@ with 오승훈 MBC 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240216_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240216_2.mp3</guid>
       <pubDate>Fri, 16 Feb 2024 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 안승찬 등판</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 공복 유지
-
-- 발톱 깎기 모임
-
-- 급발진]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240216_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240216_1.mp3</guid>
-      <pubDate>Fri, 16 Feb 2024 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
