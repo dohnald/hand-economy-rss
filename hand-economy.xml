@@ -16,21 +16,6 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>[손경제] 12/9(화) 아이 자립 펀드 | EU 대중관세 | 출국세 인상</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1)‘아이 자립 펀드’ 도입 재검토.. 막대한 재정 투입 우려
-2) 마크롱, 대중 관세 언급.. EU-중국 무역갈등 시작되나
-3) 관광객 늘었는데 재정은 적자.. “출국세 재정비 해야“
-- 김치형 뉴스큐레이터
-- 정지서 연합인포맥스 기자
-- 김아름 머니투데이방송 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251209.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251209.mp3</guid>
-      <pubDate>Tue, 09 Dec 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[플러스] 12/8(월) 밸리 휩쓴 중국AI (김덕진 소장) |  일본 근대화의 여파(재원쌤)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26245,6 +26230,17 @@ with 오승훈 MBC 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240216_3.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240216_3.mp3</guid>
       <pubDate>Fri, 16 Feb 2024 12:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - (2부) 똑게</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[- 출장은 배편으로
+
+- 상사는 게을러야]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240216_2.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240216_2.mp3</guid>
+      <pubDate>Fri, 16 Feb 2024 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
