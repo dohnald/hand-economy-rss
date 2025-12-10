@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/10(수) 상장사 합병 비율 | 엔비디아 중국 수출</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 상장사 합병 비율, 주가 아닌 공정가액 기준으로 산출
+2) 엔비디아 H200, 중국 수출 허가.. 메모리 업계 영향은?
+- 김치형 뉴스큐레이터
+- 노유정 한국경제신문 기자
+
+[친절한 경제]
+쿠팡을 왜 미국 회사라고 하나요?
+- 청취자 조영완 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251210.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251210.mp3</guid>
+      <pubDate>Wed, 10 Dec 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 12/9(화) 코스피 랠리는 이제 끝났습니다 - 김영익 교수 (서강대 경제대학원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26232,19 +26249,6 @@ with 오승훈 MBC 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240216.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240216.mp3</guid>
       <pubDate>Fri, 16 Feb 2024 20:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/16(금) 갱신청구해서 살다가 나오는데 복비 제가 내나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 부모님은 임차인이신데요, 갱신청구권을 사용해서 살다가, 3개월 뒤 이사 나가겠다고 통보를 해둔 상황입니다. 그런데 계약 만료전 이사 시 임차인이 복비를 지불 한다는 특약을 걸어뒀단 이유로 저희에게 복비를 내라고 요구 하고 있습니다.
-이런 경우 임대인이 복비를 부담하는 것이 맞고 이에 반하는 특약은 법적으로 무효라고 알고 있고 있습니다. 하지만 부동산 중개업소에 문의를 해봐도 임대인의 편에서 이야기 하고 있고, 원칙적으로는 제 이야기가 맞으나 현실적으로는 임차인이 복비를 내는 경우가 허다하다고 합니다.
-지인분 중에도 저희와 같은 분쟁이 있었으나, 이사 당일 임대인이 임차인이 복비를 부담하지 않으면 전세금을 반환할 수 없다고 버텨 어쩔 수 없이 복비를 지급하였다고 합니다. 법적으로는 임차인에게 유리한 법이지만 현실에서는 그렇지 못한 것 같은데.. 저희 생각이 맞는지, 맞다면 좋은 방법이 있을지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240216.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240216.mp3</guid>
-      <pubDate>Fri, 16 Feb 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
