@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 12/10(수) 워너브라더스 인수전 (하수정 큐레이터) | 보조공학의 미래 (박동현 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업 되는 기업]
+넷플릭스 vs 파라마운트
+- 하수정 경제뉴스큐레이터
+
+2부
+[사이언스가 머니]
+트랜스휴먼 만드는 보조공학
+- 박동현 기자 (과학동아)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251210.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251210.mp3</guid>
+      <pubDate>Wed, 10 Dec 2025 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/10(수) 상장사 합병 비율 | 엔비디아 중국 수출</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26228,27 +26245,6 @@ with 오승훈 MBC 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240217.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240217.mp3</guid>
       <pubDate>Sat, 17 Feb 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/16(금) 쿠바와 수교하면 뭐가 바뀔까.. 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓 잡은 경제]
-'꿈의 배터리' 손대는 중국 정부
-쿠바 수교로 기대되는 경제 효과
-- 정지서 연합인포맥스 기자
-- 김주영 머니투데이방송 기자
-
-2부
-[글로벌리포트]
-일본 마침내 디스켓을 포기하다
-인도네시아 정부는 한 가족?
-멕시코 국경 넘는 중국 사람들
-- 어예진 해담경제연구소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240216.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240216.mp3</guid>
-      <pubDate>Fri, 16 Feb 2024 20:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
