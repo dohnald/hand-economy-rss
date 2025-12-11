@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/11(목) 미국 금리인하 | 금산분리 완화 | 하이닉스 美 상장 | 미취업 회계사</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 미국 기준금리 0.25% 인하.. 내년 전망은 불투명 
+2) 정부, 첨단산업 한해 금산분리 완화.. 반도체 지원 총력
+3) SK 하이닉스, 자사주 활용해 美 ADR 상장 검토
+4) 회계사 과잉 선발에.. 어렵게 합격하고 백수↑
+- 박세훈 작가
+- 박수익 비즈니스워치 기자
+- 하수정 뉴스큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251211.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251211.mp3</guid>
+      <pubDate>Thu, 11 Dec 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 12/10(수) 워너브라더스 인수전 (하수정 큐레이터) | 보조공학의 미래 (박동현 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26233,18 +26249,6 @@ AI버블 어디까지 왔나
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240218.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240218.mp3</guid>
       <pubDate>Sun, 18 Feb 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/17(토) 수세 몰린 바이든, 중국 희생양 삼을까 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[역시나 박정호]
-미국 압박이 바꿔놓을 중국 경제의 미래
-with 오승훈 MBC 아나운서]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240217.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240217.mp3</guid>
-      <pubDate>Sat, 17 Feb 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
