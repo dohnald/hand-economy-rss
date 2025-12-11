@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 12/11(목)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251211.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251211.mp3</guid>
+      <pubDate>Thu, 11 Dec 2025 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/11(목) 미국 금리인하 | 금산분리 완화 | 하이닉스 美 상장 | 미취업 회계사</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26232,23 +26241,6 @@ AI버블 어디까지 왔나
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240219.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240219.mp3</guid>
       <pubDate>Mon, 19 Feb 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/18(일) 누리호 전에 나로호, 나로호 전에 OOO 있었다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[주간하이라이트]
-카페공화국의 명품커피전쟁
-- 남궁민 작가
-
-2부
-[테코노미]
-누리호 나로호 전에 OOO 있었다
-- 이독실 과학커뮤니케이터, 오승훈 아나운서]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240218.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240218.mp3</guid>
-      <pubDate>Sun, 18 Feb 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
