@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - 저희 경주 풀빌라 갑니다!!</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - 저희 경주 풀빌라 갑니다!!]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee251212.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee251212.mp3</guid>
+      <pubDate>Sat, 13 Dec 2025 08:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/12(금) 한국형 국부펀드 | 전략수출금융기금 | 은값 고공행진 | 유로화 환율 | 연명의료</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26236,18 +26245,6 @@ AI버블 어디까지 왔나
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240219.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240219.mp3</guid>
       <pubDate>Mon, 19 Feb 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/19(월) 연금저축 VS IRP</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민사연]
-
-안녕하세요. 손경제를 통해 조금씩 경제지식을 쌓아가고 있는 51세 애청자입니다
-소득공제용 개인연금 저축이 23년 12월15일로 납입이 끝났습니다. 직장생활은 15년 정도 더 할 수 있을 것 같은데, 연금저축을 다시 가입해야할지 IRP를 가입해야할지 모르겠습니다. IRP는 어느 정도 전문 지식이 있어야 할 것 같은데 그쪽으로는 아는 게 없어서요. 그리고 아내 이름으로 연금저축을 가입해도 남편인 제가 세액공제를 받을 수 있을까요? 어떻게 해야할지 제발 알려주세요~]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240219.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240219.mp3</guid>
-      <pubDate>Mon, 19 Feb 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
