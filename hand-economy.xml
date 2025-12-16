@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/16(화) 국유자산 매각 | 배달수수료 상한제 | 전력난</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 국유자산 헐값 매각 막는다.. 제도 개선방안 발표
+2) ‘배달앱 수수료 상한제’ 입법논의 본격화
+3) AI부터 제조업까지 “전력난이 경제성장 늦춘다”
+- 김치형 뉴스큐레이터
+- 정지서 연합인포맥스 기자
+- 서영태 연합인포맥스 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251216.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251216.mp3</guid>
+      <pubDate>Tue, 16 Dec 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 12/15(월) IP 둘러싼 AI 전쟁(김덕진 소장) | 러일전쟁 (재원쌤)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26225,17 +26240,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240221.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240221.mp3</guid>
       <pubDate>Wed, 21 Feb 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/21(수) 세입자인데 집에 불이 났어요</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 현재 보증금 5천만원에 전세로 살고 있고, 집주인은 캐나다에 살고 있습니다. 그런데 얼마 전 집에 화재가 나서 전소가 되었습니다. 당시 저는 모친 간호를 위해 며칠 동안 집을 비운 상태였는데요, 추정되는 화재 원인은 전기 누전이라고 합니다. 이 경우 화재에 대해 세입자가 책임져야 하는 부분이 있을까요? 또 보증금을 빨리 돌려받아 새로운 집을 구해야 하는데, 방법이 없을까요? 집주인은 4월에야 한국에 올 수 있다고 합니다.  어떻게 해야 할지 막막합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240221.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240221.mp3</guid>
-      <pubDate>Wed, 21 Feb 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
