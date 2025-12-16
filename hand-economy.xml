@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 12/16(화) 데이터센터를 우주에 띄워야 하는 이유 - 김승조 서울대 항공우주공학과 명예교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+데이터센터를 우주에 띄워야 하는 이유
+- 김승조 전 항공우주연구원장 (서울대 항공우주공학과 명예교수)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251216.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251216.mp3</guid>
+      <pubDate>Tue, 16 Dec 2025 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/16(화) 국유자산 매각 | 배달수수료 상한제 | 전력난</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26221,25 +26232,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240222.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240222.mp3</guid>
       <pubDate>Thu, 22 Feb 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/21(수) 항공사 마일리지 빨리 쓰는 게 좋은 이유 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[키워드경제]
-항공사 마일리지
-빨리 쓰는 게 좋은 이유
-- 남궁민 작가
-
-2부
-[공부왕 이종훈]
-세계도 반한 간식
-호빵의 역사
-- 이종훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240221.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240221.mp3</guid>
-      <pubDate>Wed, 21 Feb 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
