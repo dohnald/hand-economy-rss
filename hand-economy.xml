@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/17(수) 코스피 급락 원인 | 유럽 내연차 금지 철회</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 코스피 4000선 붕괴.. 원인은 ‘목표전환형 펀드’?
+2) 유럽, 2035년 내연기관차 금지 철회.. 국내 기업 영향은?
+- 김치형 뉴스큐레이터
+- 노유정 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251217.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251217.mp3</guid>
+      <pubDate>Wed, 17 Dec 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 12/16(화) 데이터센터를 우주에 띄워야 하는 이유 - 김승조 서울대 항공우주공학과 명예교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26218,20 +26231,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240222.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240222.mp3</guid>
       <pubDate>Thu, 22 Feb 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]2/22(목) "실거주 의무 3년 유예" 집주인과 세입자 유의점  外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- "실거주 의무 3년 유예" 집주인과 세입자 유의점
-- 단통법 시행령 개정, 통신비 내릴까?
-- KDI, 낸 만큼 받는 舊 국민연금 제안 
-- 한은 기준금리 동결 유력 
-
-출연: 서은영 경제뉴스큐레이터, 김현우 행복자산관리연구소 소장, 박세훈 작가, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240222.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240222.mp3</guid>
-      <pubDate>Thu, 22 Feb 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
