@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 12/17(수) 트럼프는 정말 베네수엘라를 공격할까? - 민원정 연구원 (서울대 아시아연구소)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+트럼프는 정말 베네수엘라를 공격할까? 
+- 민원정 연구원 (서울대 아시아연구소)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251217.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251217.mp3</guid>
+      <pubDate>Wed, 17 Dec 2025 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/17(수) 코스피 급락 원인 | 유럽 내연차 금지 철회</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26219,18 +26230,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240222.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240222.mp3</guid>
       <pubDate>Thu, 22 Feb 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/22(목) 연금저축 세액공제, 정말 유리할까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요? 
-연금저축과 IRP에 납입한 금액 중 세액공제를 받지 않은 원금은 나중에 연금으로 받을 때도 세금을 내지 않는 것으로 알고 있습니다. 만약 세액공제를 받은 경우 3.3%~5.5%의 연금소득세를 내는데, 연간 수령액이 1500만원을 넘으면 금액 전체가 종합과세에 해당되게 된다고 들었습니다. 그렇다면 지금 당장 세액공제 받는 것보다 나중에 종합과세가 안 되는 것이 나을 수도 있지 않나 싶은데, 판단이 안 섭니다. 현재 급여가 5500만원 이상일 경우 세액공제는 13.2%를 받을 수 있는 것으로 알고 있는데요, 이렇게 당장의 세액공제를 받는 게 나을까요, 아니면 세액공제는 포기하고 종합과세가 될 위험을 낮추는 게 나을까요? 참고로 국민연금은 지금 추세대로 하면 65세부터 120만원쯤 나온다고 조회가 됩니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240222.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240222.mp3</guid>
-      <pubDate>Thu, 22 Feb 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
