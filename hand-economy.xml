@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 12/18(목) 이란이 전쟁 준비에 사활을 걸고 있습니다 - 박현도 (서강대 유로메나연구소 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+이란이 전쟁 준비에 사활을 걸고 있습니다 
+- 박현도 (서강대 유로메나연구소 교수)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251218.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251218.mp3</guid>
+      <pubDate>Thu, 18 Dec 2025 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/18(목) 유산영향평가 | 베네수엘라 봉쇄 | 검색 알고리즘</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26220,19 +26231,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240223_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240223_1.mp3</guid>
       <pubDate>Fri, 23 Feb 2024 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]2/23(금) 美 “반도체 패권 되찾자”, 제2칩스법 나오나  外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 美 “반도체 패권 되찾자”, 제2칩스법 나오나 
-- 日, 독거노인 월세 밀리면 나라가 준다
-- 아파트·빌라 전월세 가격 동향 
-
-출연: 이상은 한국경제신문 기자, 김현우 행복자산관리연구소 소장, 박세훈 작가, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240223.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240223.mp3</guid>
-      <pubDate>Fri, 23 Feb 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
