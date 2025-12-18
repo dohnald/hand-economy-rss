@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/18(목) 유산영향평가 | 베네수엘라 봉쇄 | 검색 알고리즘</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 세계유산 인근 개발 기준 대폭 강화.. 공급 막히나
+2) 트럼프, 베네수엘라 유조선 봉쇄.. 국제 유가 출렁
+3) 네이버, 블로그 검색 체계 개편.. ‘전문성’에 초점
+- 김아름 머니투데이방송 기자
+- 박세훈 작가
+- 박수익 비즈니스워치 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251218.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251218.mp3</guid>
+      <pubDate>Thu, 18 Dec 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 12/17(수) 트럼프는 정말 베네수엘라를 공격할까? - 민원정 연구원 (서울대 아시아연구소)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26218,18 +26233,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240223.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240223.mp3</guid>
       <pubDate>Fri, 23 Feb 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/22(목) 물가 안 잡혔지만 금리인하 시급한 이유 (김학균 센터장)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[이슈플러스]
-물가 안 잡혔지만 금리인하 시급한 이유
-- 김학균 신영증권 리서치센터장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240222.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240222.mp3</guid>
-      <pubDate>Thu, 22 Feb 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
