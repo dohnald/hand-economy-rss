@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 12/21(일) 큰돈 들인 인구 정책, 효과가 없었던 이유- 이철희 교수 (서울대 경제학부)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+큰돈 들인 인구 정책, 효과가 없었던 이유
+- 이철희 교수 (서울대 경제학부)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251221.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251221.mp3</guid>
+      <pubDate>Sun, 21 Dec 2025 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - 질투는 나의 힘</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26238,18 +26249,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240224.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240224.mp3</guid>
       <pubDate>Sat, 24 Feb 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/23(금) 의대 정원이 19년째 그대로인 이유</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1,2부
-[이슈플러스]
-의대 정원 19년째 그대로인 이유
-- 김윤 서울대 의대 의료관리학과 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240223.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240223.mp3</guid>
-      <pubDate>Fri, 23 Feb 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
