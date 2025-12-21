@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - 질투는 나의 힘</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - 질투는 나의 힘]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee251219.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee251219.mp3</guid>
+      <pubDate>Sun, 21 Dec 2025 08:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>협찬인가 - 30대 청년, 땅콩 갈아서 매출 60억?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26241,17 +26250,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240223.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240223.mp3</guid>
       <pubDate>Fri, 23 Feb 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (4부) 또 안승찬</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 장례
-
-- 조문과 감사]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240223_4.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240223_4.mp3</guid>
-      <pubDate>Fri, 23 Feb 2024 12:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
