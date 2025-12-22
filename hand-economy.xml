@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 12/22(월) 아마존 AI 조직 개편 (김덕진 소장) | 을사조약 (재원쌤)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+AI 반도체 전쟁
+아마존도 참전합니다
+- 김덕진 IT커뮤니케이션 연구소 소장
+
+2부
+[쩐설의 김선생]
+을사조약이 조선에 미친 영향
+- 재원쌤 (역사의 재원쌤)
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251222.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251222.mp3</guid>
+      <pubDate>Mon, 22 Dec 2025 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/22(월) 코스닥 활성화 | 텐센트 엔비디아칩 | 고려아연 경영권</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26237,25 +26256,6 @@ HBM 삼파전 본격화, 한국 반도체 미래는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240226.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240226.mp3</guid>
       <pubDate>Mon, 26 Feb 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/25(일) 마소CEO가 방문한 한국 회사가 있다? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[2/25(일) 손경제플러스
-
-1부
-[테코노미]
-가장 과학적인 차 우리기
-- 이창욱 동아사이언스 기자
-
-2부
-[테코노미]
-마소CEO가 직접 방문한 한국 회사
-- 김덕진 IT커뮤니케이션연구소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240225.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240225.mp3</guid>
-      <pubDate>Sun, 25 Feb 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
