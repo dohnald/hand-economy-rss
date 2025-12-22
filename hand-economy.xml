@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/22(월) 코스닥 활성화 | 텐센트 엔비디아칩 | 고려아연 경영권</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 코스닥 활성화 방안 발표.. 기관 투자 유도?상폐 기준 변경
+2) 텐센트, 日 기업 거쳐서 엔비디아 최신칩 쓴다
+3) 고려아연, ‘美 제련소 투자’ 놓고 경영권 분쟁 재점화
+- 서영태 연합인포맥스 기자
+- 조미현 한국경제신문 기자
+
+[친절한 경제]
+일본의 금리 인상에
+왜 전세계가 주목하나요?
+- 청취자 전현식 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251222.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251222.mp3</guid>
+      <pubDate>Mon, 22 Dec 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 12/21(일) 큰돈 들인 인구 정책, 효과가 없었던 이유- 이철희 교수 (서울대 경제학부)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26237,18 +26256,6 @@ HBM 삼파전 본격화, 한국 반도체 미래는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240225.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240225.mp3</guid>
       <pubDate>Sun, 25 Feb 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/24(토) 잠자던 미국을 건드린 시진핑의 자충수</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1,2부
-[역시나 박정호]
-잠자던 미국을 건드린 시진핑의 자충수
-w. 오승훈 아나운서]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240224.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240224.mp3</guid>
-      <pubDate>Sat, 24 Feb 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
