@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/23(화) 비상장주식 | 대출금리 상한제 | 로보택시 중단</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 비상장주식 거래 인프라 개편.. 벤처 투자 활성화 총력
+2) 우리은행, 신용대출 금리 7% 상한제 도입
+3) 美샌프란 정전에 멈춘 웨이모 로보택시.. 자율주행 한계?
+- 김치형 뉴스큐레이터
+- 정지서 연합인포맥스 기자
+- 노유정 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251223.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251223.mp3</guid>
+      <pubDate>Tue, 23 Dec 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 12/22(월) 아마존 AI 조직 개편 (김덕진 소장) | 을사조약 (재원쌤)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26243,19 +26258,6 @@ HBM 삼파전 본격화, 한국 반도체 미래는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240226.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240226.mp3</guid>
       <pubDate>Mon, 26 Feb 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]2/26(월) "대출한도 줄어요" 오늘부터 스트레스 DSR 시행  外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- "대출한도 줄어요" 오늘부터 스트레스 DSR 시행
-- 폴더블폰 시장 성장률, 둔화 예상
-- "기찻길 땅속으로" 서울시, 철도 지하화 계획 착수
-
-출연: 안승찬 언더스탠딩 기자, 손석우 경제뉴스큐레이터, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240226.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240226.mp3</guid>
-      <pubDate>Mon, 26 Feb 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
