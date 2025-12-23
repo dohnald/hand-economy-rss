@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 12/23(화)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251223.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251223.mp3</guid>
+      <pubDate>Wed, 24 Dec 2025 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/23(화) 비상장주식 | 대출금리 상한제 | 로보택시 중단</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26246,18 +26255,6 @@ HBM 삼파전 본격화, 한국 반도체 미래는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240226.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240226.mp3</guid>
       <pubDate>Mon, 26 Feb 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/26(월) 압류가 불가능한 재산은?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 저는 회사를 다니는 근로소득자인데요, IRP계좌가 2개 있습니다. 8년전 전 직장에서 퇴직금을 받은 IRP가 있고, 올해 세액공제를 받기 위해서 IRP를 새로 추가 가입했습니다.
- 그런데 근로소득 외에 개인사업자가 하나 있는데 의도치 않은 민사소송에 휘말릴 가능성이 생겼습니다. 혹시 민사소송에 져서 계좌가 압류되거나 추심을 당할 경우에 퇴직금을 받은 IRP는 압류가 불가하다고 들었는데 맞는 걸까요? 또, 개인 돈을 납입한 IRP도 압류가 불가능한 건가요? 이외에도 압류 및 추심이 원천적으로 불가한 계좌와 가능한 계좌, 그리고 부동산이나 전세보증금은 어떻게 적용되는지도 알고 싶습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240226.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240226.mp3</guid>
-      <pubDate>Mon, 26 Feb 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
