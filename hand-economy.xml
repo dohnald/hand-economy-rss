@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 12/24(수) 반즈앤노블 상장 (하수정 큐레이터) | AI 기상예보 (이창욱 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업 되는 기업]
+오프라인 서점의 화려한 귀환
+- 하수정 경제뉴스큐레이터
+
+2부
+[사이언스가 머니]
+기상 예보가 날개를 달았습니다
+- 이창욱 기자 (과학동아)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251224.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251224.mp3</guid>
+      <pubDate>Wed, 24 Dec 2025 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/24(수) 부동산PF 규제 | 실손보험 | 건강보험 수가</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26243,20 +26260,6 @@ HBM 삼파전 본격화, 한국 반도체 미래는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240227.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240227.mp3</guid>
       <pubDate>Tue, 27 Feb 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]2/27(화) 기업 밸류업, 실효성은 의문  外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 기업 밸류업 프로그램, 실효성은 의문
-- 한은의 파격제안 '출산하면 정년 연장'
-- 은퇴 후 일했던 11만명, 국민연금 깎였다
-- 천연 수소 발견, 새 골드러시 오나
-
-출연: 송현서 기자, 남궁민 경제뉴스큐레이터, 김치형 경제뉴스큐레이터, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240227.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240227.mp3</guid>
-      <pubDate>Tue, 27 Feb 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
