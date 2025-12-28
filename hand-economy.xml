@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 12/27(토) 반즈앤노블 상장 (하수정 큐레이터) | 월드컵 티켓 가격 논란 | 미국 사냥 | 미국 트럭운전사 (한경제 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+오프라인 서점의 귀환, 반즈앤노블
+- 하수정 경제뉴스큐레이터
+
+2부
+북중미 월드컵 티켓값 1천만원을 넘겼습니다
+- 한경제 기자 (한국경제신문]]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251227.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251227.mp3</guid>
+      <pubDate>Sat, 27 Dec 2025 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>협찬인가 - 안경이 안맞으면 100% 환불? 그게 가능?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26248,17 +26263,6 @@ TSLY 함부로 사면 안 되는 이유: 커버드콜 대해부
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240228.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240228.mp3</guid>
       <pubDate>Wed, 28 Feb 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/28(수) 근로계약서상 근로시간이 이상해요</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 평일 퇴근 후에 저녁 6시부터 9시까지 투잡을 하고 있는데요, 시간당 급여는 15,000원이고, 일당으로 4만5천원을 받고 있습니다. 어느덧 1년을 근무했고 일을 그만두게 되었는데요, 퇴직금을 달라고 하니, 퇴직금은 없다면서 근로계약서를 보여주더라구요. 처음 일을 시작할 당시엔 자세히 보지 않고 근무 시간과 시간당 급여만 확인하고 싸인을 했습니다. 그런데 이번에 자세히 보니, 근로시간은 휴게시간 10분 포함 저녁 6시부터 8시50분으로 돼 있고, 급여는 시간당 15000원이라고 써있었습니다. 하루에 4만5천원을 받으니 당연히 3시간이라고 생각하고 있었는데, 근로계약서에는 하루 2시간 40분으로, 주 15시간이 안 되더라구요. 근로시간은 제가 싸인을 한거니 어쩔수 없다 생각을 하면서도 하루 일당을 3시간으로 계산된 금액으로 받았는데 이건 어떻게 생각을 해야 하는건지 궁금합니다. 퇴직금을 받을 방법은 없는 건가요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240228.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240228.mp3</guid>
-      <pubDate>Wed, 28 Feb 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
