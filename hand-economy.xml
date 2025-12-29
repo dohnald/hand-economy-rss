@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 12/29(월) 엔비디아 '그록' 인수 (김덕진 소장) | 청년 전태일 (재원쌤)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+엔비디아가 '그록'에 28조 쓴 이유
+- 김덕진 IT커뮤니케이션연구소장
+
+2부
+[역사의 재원쌤]
+노동자의 상징, 전태일 열사
+- 재원쌤]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251229.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20251229.mp3</guid>
+      <pubDate>Mon, 29 Dec 2025 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 12/29(월) 미국 주식 절세 | 중국 부채 디플레이션</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26252,18 +26269,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240301.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240301.mp3</guid>
       <pubDate>Fri, 01 Mar 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/29(목) 배터리 각축전, K-배터리의 활로는?(박철완 서정대 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[이슈 플러스]
-2차전지 위기론, K-배터리의 활로는?
-- 박철완 서정대 스마트자동차학과 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240229.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240229.mp3</guid>
-      <pubDate>Thu, 29 Feb 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
