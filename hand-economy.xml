@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/29(월) 미국 주식 절세 | 중국 부채 디플레이션</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 손익통산부터 RIA까지.. 복잡해진 서학개미 절세 셈법
+2) 중국, GDP 대비 부채 300% 넘어.. 세계 경제 파장은?
+- 김아름 머니투데이방송 기자
+- 조미현 한국경제신문 기자
+
+[친절한 경제]
+인공지능은 각종 데이터를 공짜로 수집하나요?
+- 청취자 김유미 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251229.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251229.mp3</guid>
+      <pubDate>Mon, 29 Dec 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 12/28(일) 2026년 한국경제 대전망 - 조영무 NH금융연구소장</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26246,19 +26263,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240229.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240229.mp3</guid>
       <pubDate>Thu, 29 Feb 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]2/29(목) 전세 사기 피해 지원책 무력화시킨 SGI의 공문 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 전세 사기 피해 지원책 무력화시킨 SGI 공문
-- 애플, 10년 공들인 애플카 개발 포기
-- 유럽 자동차 업계도 전기차 개발 속도 늦춰 
-
-출연: 서은영 경제뉴스큐레이터, 김현우 행복자산관리연구소 소장, 박세훈 작가, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240229.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240229.mp3</guid>
-      <pubDate>Thu, 29 Feb 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
