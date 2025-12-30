@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/30(화) 미래에셋 코빗 인수 | 수출액 7000억 달러 | 쿠팡 보상안</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 미래에셋, ‘코빗’ 인수 추진.. 금가분리 위반?
+2) 연간 수출액 7천억불 돌파.. 업종별 희비 엇갈려
+3) 쿠팡, 인당 5만원 ‘쿠폰 보상안’ 발표.. 꼼수 논란
+- 김치형 뉴스큐레이터
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251230.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251230.mp3</guid>
+      <pubDate>Tue, 30 Dec 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 12/29(월) 엔비디아 '그록' 인수 (김덕진 소장) | 청년 전태일 (재원쌤)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26255,20 +26270,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240301_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240301_1.mp3</guid>
       <pubDate>Fri, 01 Mar 2024 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]3/1(금) 보금자리론 금리, 시중은행 금리보다 높아 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 보금자리론 금리, 시중은행 금리보다 높아
-- 비트코인, 1억원 넘보나
-- 홍콩, 부동산 규제 폐지 이유는
-- 개인소비지출 물가지수(PCE), 예상대로 둔화세 
-
-출연: 이상은 한국경제신문 기자, 김현우 행복자산관리연구소 소장, 박세훈 작가, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240301.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240301.mp3</guid>
-      <pubDate>Fri, 01 Mar 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
