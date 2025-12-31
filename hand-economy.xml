@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 12/31(수) 중국차 세계 1위 | 공무원 보수 인상</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 중국, 자동차 판매 세계 1위.. 배터리 업계 영향은?
+2) 내년 공무원 보수 3.5% 인상.. 저연차 이탈 막을까
+- 노유정 한국경제신문 기자
+- 하수정 뉴스큐레이터
+
+[친절한 경제]
+태국 바트화가 오르는 게 왜 금값 때문인가요?
+- 청취자 조원우 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251231.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20251231.mp3</guid>
+      <pubDate>Wed, 31 Dec 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 12/30(화) 중국 반도체의 추격, 턱끝까지 왔습니다 - 권석준 교수 (성균관대 화학공학부)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26257,19 +26274,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240301_3.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240301_3.mp3</guid>
       <pubDate>Fri, 01 Mar 2024 12:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 저출생</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 저희 나라
-
-- 마라톤
-
-- 등산 스틱]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240301_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240301_2.mp3</guid>
-      <pubDate>Fri, 01 Mar 2024 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
