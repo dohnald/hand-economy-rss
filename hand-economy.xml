@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 1/1(목) 트럼프는 왜 갑자기 나이지리아를 공습했나 - 서상현 수석연구원 (포스코경영연구원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+트럼프는 왜 갑자기 나이지리아를 공습했나
+- 서상현 수석연구원 (포스코경영연구원)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260101.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260101.mp3</guid>
+      <pubDate>Thu, 01 Jan 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 1/1(목) 2026년 부동산 대전망 - 김건우 대표 (분전 아카데미)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26268,18 +26279,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240301.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240301.mp3</guid>
       <pubDate>Fri, 01 Mar 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/1(금) 전셋집 구하기 전 주의사항</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민사연]
-
- 안녕하세요. 전세를 얻으려고 하는데 여러 가지 난관에 부딪쳐서 사연 보냅니다.
- 부동산 중개업소에는 매물로 나와있지만, 온라인 사이트에서는 검색이 안 되길래 물어봤더니, 중개업소 전용 물건이어서 온라인에선 노출이 되지 않는다고 하는데 믿어도 되는 걸까요? 또, 전세자금 대출을 무엇으로 받을 건지 확인을 하던데, 이건 왜 확인을 하는 건가요? 몇몇 물건 중에는 전입신고가 되지 않는 곳도 있던데, 왜 그런 건가요? 보증금 1억 2천만원 정도되는 전세를 구하고자 하는데, 어떻게 진행해야 안전하고 유리한지 전혀 모르겠습니다. 참고로 제 명의의 빌라가 하나 있는데, 9천만원에 구입해서 4천 5백만원의 대출이 아직 남아있는 상태입니다. 예금과 주식 등 금융재산은 약 9천 5백만원 정도입니다. 부동산쪽으로는 문외한이라 꼭 좀 알려주셨으면 합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240301.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240301.mp3</guid>
-      <pubDate>Fri, 01 Mar 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
