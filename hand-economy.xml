@@ -16,6 +16,26 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/5(월) 마두로 압송 | 2026 달라지는 것</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美, 베네수엘라 대통령 압송.. 국제유가 영향은?
+2) 금리인하요구권 자동으로 행사된다
+3) 너무 많은 서민금융 상품.. 햇살론 일반?특례로 통합
+4) 출산휴가 시 주담대 원금 상환 유예된다
+5) 청년미래적금 올해 출시.. 3년 만기에 수익률 최대 16.9%
+- 조미현 한국경제신문 기자
+- 손희애 경제뉴스 큐레이터
+
+[친절한 경제]
+국가부채가 많아도 외환보유고가 많으면 괜찮은 건가요?
+- 청취자 채희진 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260105.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260105.mp3</guid>
+      <pubDate>Mon, 05 Jan 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/4(일) 일본의 알짜 회사들이 상장폐지되는 이유 - 서병수 애널리스트</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26254,25 +26274,6 @@ TSMC 보조금 6조.. 삼성전자는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240305.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240305.mp3</guid>
       <pubDate>Tue, 05 Mar 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/4(월) 비트코인이 자꾸 오르는 이유 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓 잡은 경제]
-주총 시즌 개막, 개미의 시대 오나
-AI 넘어 휴머노이드까지 빅테크 대전
-- 정지서 연합인포맥스 기자
-- 신인규 한국경제TV 기자
-
-2부
-[증시 열렸다]
-1년만에 3배 된 비트코인, 왜?
-- 이효석 HS아카데미 대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240304.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240304.mp3</guid>
-      <pubDate>Mon, 04 Mar 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
