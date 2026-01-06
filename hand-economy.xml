@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/6(화) 美 반독점법 | 집단소송제 | 소득세 0원 | 스마트폰 보조금</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美 법원 “구글 등 빅테크, 독점 맞지만 강제 분할은 안돼“
+2) ‘집단소송제’ 입법 추진.. 쿠팡 정조준
+3) 직장인 32% 세금 한 푼도 안낸다.. 이유는?
+4) 통신사 점유율 경쟁 격화.. 스마트폰 보조금 대란
+- 김치형 경제뉴스 큐레이터
+- 하수정 경제뉴스 큐레이터
+- 조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260106.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260106.mp3</guid>
+      <pubDate>Tue, 06 Jan 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/5(월) 미리보는 CES (김아람 이사) | 마두로 체포 | 중국 실험용 원숭이 | 러시아 명품 수입 (한경제 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26267,17 +26283,6 @@ TSMC 보조금 6조.. 삼성전자는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240305.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240305.mp3</guid>
       <pubDate>Tue, 05 Mar 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/5(화) 결로 생기는 집, 임대계약 해지 가능한가요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민사연]
-
-안녕하세요. 현재 세입자로 살고 있고, 계약기간은 내년 3월까지라 1년 정도 남았습니다. 그런데 지금 살고 있는 집의 천장과 벽쪽에 습기가 차는데 물이 새는 게 아닐까 의심스러운 정도입니다. 장판 밑은 더 심해서 물을 뿌려놓은 것처럼 항상 축축합니다. 집주인에게 사진을 보여주면서 얘기했더니 처음엔 습기제거제나 곰팡이제거제 같은 걸 사서 써보라고 하더니, 계속해서 문제제기를 하니까 도배를 해주겠다면서 부분 도배를 해줬습니다. 하지만 도배로 해결될 문제는 아니어서 지금도 다시 물이차고 있습니다. 게다가 장판 밑은 해결해 줄 수가 없다고 합니다. 아직 계약기간이 1년이 넘게 남았는데, 이런 사유로도 계약해지가 가능할까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240305.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240305.mp3</guid>
-      <pubDate>Tue, 05 Mar 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
