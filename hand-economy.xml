@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/7(수) 외환보유액 급감 | 최저한세 | 엔비디아 자율주행</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 12월 외환보유액 급감.. 환율 방어 탓?
+2) 글로벌 최저한세, 미국 기업은 면제된다
+3) 엔비디아, 자율주행 소프트웨어 ‘알파마요’ 공개
+- 김치형 경제뉴스 큐레이터
+- 노유정 한국경제신문 기자
+
+[친절한 경제]
+왜 예금보다 적금 금리가 더 높나요?
+- 청취자 송무성 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260107.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260107.mp3</guid>
+      <pubDate>Wed, 07 Jan 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/6(화) 한중 정상회담에 숨겨진 두 정상의 속내 - 안유화 원장 (중국증권행정연구원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26262,19 +26280,6 @@ TSMC 보조금 6조.. 삼성전자는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240306.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240306.mp3</guid>
       <pubDate>Wed, 06 Mar 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제3/6(수)  中, 올해도 5% 성장 목표 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 中, 올해도 5% 성장 목표
-- 日, 개인정보 유출 ‘라인야후’에 네이버 의존 낮춰라 요구
-- EU, 애플에 ‘반독점법 위반’ 과징금 폭탄
-
-출연: 서은영 경제뉴스큐레이터, 남궁민 경제뉴스큐레이터, 김치형 경제뉴스큐레이터, 이진우 진행]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240306(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240306(1).mp3</guid>
-      <pubDate>Wed, 06 Mar 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
