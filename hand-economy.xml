@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 1/7(수) 유니클로 (하수정 큐레이터) | 2차전지 산업 (이안나 연구원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업 되는 기업]
+유니클로의 성장은 고임금 덕분입니다
+- 하수정 경제뉴스 큐레이터
+
+2부
+[주가 왜 이래]
+훅 꺾인 전기차 수요.. 2차전지 활로 있나
+- 이안나 연구원 (유안타증권)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260107.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260107.mp3</guid>
+      <pubDate>Wed, 07 Jan 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 1/7(수) 외환보유액 급감 | 최저한세 | 엔비디아 자율주행</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26269,17 +26286,6 @@ TSMC 보조금 6조.. 삼성전자는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240306.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240306.mp3</guid>
       <pubDate>Wed, 06 Mar 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/6(수) 상속세 안 나올 액수인데 신고해야 하나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 상속세 신고 관련 문의합니다. 부모님 중 한 분이 임종을 앞두고 계신데요, 금융자산만 2억원 정도 가지고 계십니다. 만약 돌아가시면 살아계신 부모님과 남은 자녀 3명에게 상속분이 많지 않아 상속세는 없는 걸로 알고 있습니다. 이렇게 세금을 내지 않아도 되는 금액이더라도, 상속 신고를 하는 게 좋은 걸까요? 상속 신고를 한다면 2억 정도의 금액을 남은 가족들이 어떻게 나눠서 상속받는 게 가장 합리적일까요? 만약 상속 후 몇 년 이내 살아계신 한 분마저 돌아가시면, 이번에 상속받은 것과 훗날 상속받는 금액이 합쳐져 상속세가 계산되는건지도 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240306.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240306.mp3</guid>
-      <pubDate>Wed, 06 Mar 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
