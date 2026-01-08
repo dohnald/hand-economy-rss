@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 1/8(목) 일본이 국가 명운을 건 도박을 시작했습니다 - 이창민 교수 (한국외대 융합일본지역학부)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+일본이 국가 명운을 건 도박을 시작했습니다 
+- 이창민 교수 (한국외대 융합일본지역학부)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260108.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260108.mp3</guid>
+      <pubDate>Thu, 08 Jan 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 1/8(목) 베네수엘라 석유 | 대형 IPO | 고등어 가격</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26271,19 +26282,6 @@ TSMC 보조금 6조.. 삼성전자는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240307.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240307.mp3</guid>
       <pubDate>Thu, 07 Mar 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제3/7(목)  외국인 돌봄 인력에 '최저임금 차등화' 가능할까 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 외국인 돌봄 인력에 '최저임금 차등화' 가능할까
-- 신생아 특공 당첨자, 특레대출 못 받는다
-- EU, 역내 방위 산업 육성 전략 발표
-
-출연: 서은영 경제뉴스큐레이터, 김현우 행복자산관리연구소 소장, 박세훈 작가, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240307(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240307(1).mp3</guid>
-      <pubDate>Thu, 07 Mar 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
