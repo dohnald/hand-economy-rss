@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/9(금) 삼성전자 실적 | 美 주택매입금지 | 스테이블코인 발행</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 삼성전자, 4분기 영업이익 20조.. 국내 기업 최초
+2) 트럼프 “기관투자자 단독주택 매입 금지”
+3) 스테이블코인, 은행 먼저 발행 허용.. 핀테크 업계 반발
+- 김아름 머니투데이방송 기자
+- 박세훈 작가
+- 손희애 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260109.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260109.mp3</guid>
+      <pubDate>Fri, 09 Jan 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/8(목) 일본이 국가 명운을 건 도박을 시작했습니다 - 이창민 교수 (한국외대 융합일본지역학부)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26270,18 +26285,6 @@ TSMC 보조금 6조.. 삼성전자는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240307.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240307.mp3</guid>
       <pubDate>Thu, 07 Mar 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/7(목) 퇴사하면 우리사주 팔 수 있나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민사연]
-
-안녕하세요? 저는 40대 남성 직장인 입니다. 지금 재직 중인 회사가 몇 달 후 코스닥 상장을 앞두고 있습니다. 그렇지만 저는 현재 이직을 고민 중이기 때문에 우리사주를 받고 퇴사를 하는게 저한테 유리한건지 궁금해서 글 남깁니다. 상장 전에 회사 직원들한테 우리사주 분양을 한다고 하는데, 일반적으로 1년간의 보호예수 기간이 적용되고, 이 기간에는 주식을 판매할 수 없다는 조건이 따라오는데, 만약 퇴직자는 보호예수 기간이라도 우리사주 주식을 팔 수 있는지 궁금합니다. 그리고 보호예수 기간에 주식을 매도하게 되면 혹시 어떤 불이익이 있는지 등 퇴사예정자 입장에서 고려해야 할 사항이 있다면 알고 싶습니다.
-참고로, 우리사주 분양은 직원들 모두 은행대출을 통해서 분양받을 계획으로 전해 들었습니다. 상장 후 퇴사하면 주식 대출 금액도 상환해야 하는데, 어떻게 상환하는 게 좋은지도 조언해 주시면 감사하겠습니다. ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240307.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240307.mp3</guid>
-      <pubDate>Thu, 07 Mar 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
