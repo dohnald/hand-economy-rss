@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/12(월) 미국 MBS 매입 | 신용카드 이자 | 가짜 금</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 트럼프, 주담대 금리 인위적으로 낮춘다
+2) 美 신용카드 이자율도 10% 이하로 제한하나?
+3) 종로 금은방서 텅스텐 섞인 ‘가짜 금’ 유통
+- 정지서 연합인포맥스 기자
+- 노유정 한국경제신문 기자
+
+[친절한 경제]
+S&P500 추종하는 국내ETF
+장이 닫혀있는데 뭘 따라가나요?
+- 청취자 정용선 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260112.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260112.mp3</guid>
+      <pubDate>Mon, 12 Jan 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/11(일) 유럽은 그린란드를  지킬 방법이 없습니다 - 이문영 교수 (서울대 통일평화연구원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26271,17 +26290,6 @@ TSMC 보조금 6조.. 삼성전자는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240308_4.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240308_4.mp3</guid>
       <pubDate>Fri, 08 Mar 2024 12:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 부모 여행 10계명</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 잡스, 머스크, 진우?
-
-- 뇌입 일체설]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240308_3.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240308_3.mp3</guid>
-      <pubDate>Fri, 08 Mar 2024 12:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
