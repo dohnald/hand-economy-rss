@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 1/14(수) 셰브론 (하수정 큐레이터) | 2026 경제 전망 (에릭 대표)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업 되는 기업]
+베네수엘라 재건 사업
+최대 수혜자는 여깁니다
+- 하수정 경제뉴스 큐레이터
+
+2부
+월가의 2026년 전망
+비관론이 아예 없습니다
+- 이윤수 대표 (에릭의 거장 연구소)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260114.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260114.mp3</guid>
+      <pubDate>Wed, 14 Jan 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 1/14(수) 미국-대만 무역협상 | 이란 관세 | 엔비디아 신약</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26284,17 +26302,6 @@ TSMC 보조금 6조.. 삼성전자는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240311.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240311.mp3</guid>
       <pubDate>Mon, 11 Mar 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[경제콘서트] 타락한 두뇌에 찬물샤워를: 내 안의 천재를 깨우는 몰입의 힘 (황농문 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[경제콘서트]
-타락한 두뇌에 찬물샤워를
--황농문 서울대 재료공학부 명예교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240310.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240310.mp3</guid>
-      <pubDate>Sun, 10 Mar 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
