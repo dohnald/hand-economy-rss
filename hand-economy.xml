@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/14(수) 미국-대만 무역협상 | 이란 관세 | 엔비디아 신약</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 미국-대만 관세 합의 임박.. TSMC 대미투자 확대
+2) 트럼프 “이란과 거래하면 25% 관세 매길 것“
+3) 엔비디아, 일라이 릴리와 AI 신약 개발한다
+- 김치형 경제뉴스 큐레이터
+- 노유정 한국경제신문 기자
+
+[친절한 경제]
+요즘 원화는 왜 위안화랑 다르게 움직이나요?
+- 청취자 이용우 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260114.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260114.mp3</guid>
+      <pubDate>Wed, 14 Jan 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/13(화) 정답이 흔한 AI 시대 이런 아이가 인재됩니다 - 방종임 대표 (교육대기자TV)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26277,19 +26295,6 @@ TSMC 보조금 6조.. 삼성전자는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240310.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240310.mp3</guid>
       <pubDate>Sun, 10 Mar 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/9(토) 비트코인의 가치가 0이 되는 경우</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[이슈플러스]
-비트코인 가치가 0이 되는
-유일한 경우의 수
-- 권혁준 순천향대 경제금융학과 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240309.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240309.mp3</guid>
-      <pubDate>Sat, 09 Mar 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
