@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 1/15(목) 테헤란의 봄은 이미 시작됐습니다 - 김덕일 연구위원 (고려대 중동·이슬람센터)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+테헤란의 봄은 이미 시작됐습니다 
+- 김덕일 연구위원 (고려대 중동·이슬람센터)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260115.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260115.mp3</guid>
+      <pubDate>Thu, 15 Jan 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 1/15(목) 中 무역흑자 | 전세보증금 신탁제 | 조각투자 거래소</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26293,18 +26304,6 @@ TSMC 보조금 6조.. 삼성전자는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240311.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240311.mp3</guid>
       <pubDate>Mon, 11 Mar 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/11(월) 실손보험 중지 후 재개 가능한가요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 2006년 10월에 가입한 실손보험이 있는데, 회사의 단체 실손보험이 있어서 납입을 중지한 상태입니다. 이번에 퇴사하게 되어 개인 실손보험을 재개해야 하는데, 이 경우 원래 계약인 1세대 보험으로 재개가 되는 건가요? 만약 현재 판매되고 있는 4세대 보험으로 재개해야 되는 거라면, 다른 보험사들과 비교해서 가장 저렴한 실손보험을
-새로 가입하는 것이 더 좋을까요? 최근에 중지한 경우 기존보험 재개와 현재 판매되는 보험을 선택할 수 있다고 하는데 저는 예전에 중지해서 어떤지 모르겠습니다. 콜센터는 지점과 얘기하라고 하고 지점은 잘 모르시는 것 같아요. 도와주세요.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240311.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240311.mp3</guid>
-      <pubDate>Mon, 11 Mar 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
