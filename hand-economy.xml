@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/15(목) 中 무역흑자 | 전세보증금 신탁제 | 조각투자 거래소</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 중국, 작년 무역 흑자 ‘1조 달러’ 돌파.. 美관세 영향 없었나
+2) 전세보증금 신탁제도 도입.. 실효성은?
+3) 조각투자 장외거래소 선정 ‘보류’.. 불공정 논란
+- 하수정 경제뉴스 큐레이터
+- 라예진 이코노미스트 기자
+- 박수익 비즈니스워치 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260115.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260115.mp3</guid>
+      <pubDate>Thu, 15 Jan 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/14(수) 셰브론 (하수정 큐레이터) | 2026 경제 전망 (에릭 대표)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26290,18 +26305,6 @@ TSMC 보조금 6조.. 삼성전자는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240311.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240311.mp3</guid>
       <pubDate>Mon, 11 Mar 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]3/11(월) K배터리 '전고체'로 승부수, '인터배터리 2024' 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- K배터리 '전고체'로 승부수, '인터배터리 2024'
-- 日 증시 강세에 일본은행 305조 원 이익
-
-출연: 안승찬 언더스탠딩 기자, 손석우 경제뉴스큐레이터, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240311.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240311.mp3</guid>
-      <pubDate>Mon, 11 Mar 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
