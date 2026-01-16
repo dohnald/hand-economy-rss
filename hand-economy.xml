@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/16(금) 기준금리 동결 | 토큰증권법 | 담배소송 패소</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 연 2.5% 기준금리 5연속 동결.. “환율 고려“
+2) ‘토큰증권법’ 국회 통과.. 조각투자 활성화될까
+3) 건보공단, 담배회사 상대 500억 손배 소송 또 패소
+- 김아름 머니투데이방송 기자
+- 손희애 경제뉴스 큐레이터
+- 하수정 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260116.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260116.mp3</guid>
+      <pubDate>Fri, 16 Jan 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/15(목) 테헤란의 봄은 이미 시작됐습니다 - 김덕일 연구위원 (고려대 중동·이슬람센터)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26285,25 +26300,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240312.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240312.mp3</guid>
       <pubDate>Tue, 12 Mar 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/11(월) 홍콩ELS 손실 100%도 배상 가능 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓 잡은 경제]
-홍콩ELS 손실 배상, 0~100%
-TSMC 보조금 6조.. 삼성전자는?
-- 정지서 연합인포맥스 기자
-- 추동훈 매일경제신문 기자
-
-2부
-[증시 열렸다]
-일본, 마이너스 금리 종말 임박?
-- 이선엽 신한투자증권 이사]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240311.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240311.mp3</guid>
-      <pubDate>Mon, 11 Mar 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
