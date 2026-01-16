@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - 신년을 맞아 사주를 봤습니다</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[협찬문의 : hand-economy@naver.com]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee260116.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee260116.mp3</guid>
+      <pubDate>Sat, 17 Jan 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 1/16(금) 기준금리 동결 | 토큰증권법 | 담배소송 패소</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26286,20 +26295,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240312.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240312.mp3</guid>
       <pubDate>Tue, 12 Mar 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]3/12(화) 'ASML 절대 지켜', 네덜란드 총리 나선 이유는 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 'ASML 절대 지켜', 네덜란드 총리 나선 이유는
-- 역대급 호황에도 美 유권자들, ‘트럼프가 더 낮다’?
-- 홍콩 H지수 ELS 투자 손실 배상, 얼마나 받나
--‘대형마트 새벽배송 허용법’ 여야 이견으로 폐기
-
-출연: 송현서 기자, 남궁민 경제뉴스큐레이터, 김치형 경제뉴스큐레이터, 이진우 진행 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240312.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240312.mp3</guid>
-      <pubDate>Tue, 12 Mar 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
