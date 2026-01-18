@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 1/18(일) 대한민국의 칭기즈칸  그 화려한 몰락의 역사 - 재원쌤</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+대한민국의 칭기즈칸  그 화려한 몰락의 역사 
+- 재원쌤]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260118.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260118.mp3</guid>
+      <pubDate>Sun, 18 Jan 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/17(토) 북한의 경제성장률이 폭등하고 있습니다 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26272,20 +26283,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240313.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240313.mp3</guid>
       <pubDate>Wed, 13 Mar 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]3/13(수) 소액 연체 갚으면 신용 사면 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 소액 연체 갚으면 신용 사면
-- 英 ETN 승인 가능성에, 비트코인 연일 최고가
--‘비야디의 공습’, 가성비 앞세운 중국 전기차
-- 美 2월 소비자 물가지수 상승, 금리 인하는? 
-
-출연: 서은영 경제뉴스큐레이터, 남궁민 경제뉴스큐레이터, 김치형 경제뉴스큐레이터, 이진우 진행]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240313.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240313.mp3</guid>
-      <pubDate>Wed, 13 Mar 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
