@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/20(화) 코스피 4900 | 은행 자금 이탈 | 다보스포럼</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 코스피, 사상 첫 4900선 넘어 ‘오천피’ 눈앞
+2) 은행서 증시로 30조 ‘머니무브’.. 대출 금리 영향은?
+3) 트럼프, 다보스포럼 참석.. 그린란드?관세 두고 긴장감↑
+- 김치형 경제뉴스 큐레이터
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260120.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260120.mp3</guid>
+      <pubDate>Tue, 20 Jan 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/19(월) 휴머노이드 로봇 상용화 (김덕진 소장) | 항공사 무게 전쟁 | 인도 코끼리 습격 | 일본 승차공유 (한경제 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26278,19 +26293,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240314.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240314.mp3</guid>
       <pubDate>Thu, 14 Mar 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]3/14(목) 토지비와 건설비 차액만 내고 착공 '패키지형 공모사업'  外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 토지비와 건설비 차액만 내고 착공 '패키지형 공모사업' 
-- 동탄 등 개통 임박 GTX 호재 지역에 갭투자 꿈틀
-- '중국'에 개인정보 넘어갈라, 美 하원, 틱톡 금지 법안 가결 
-
-출연: 김현우 행복자산관리연구소 소장, 손석우 경제뉴스큐레이터, 서은영 경제뉴스큐레이터, 이진우 진행]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240314.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240314.mp3</guid>
-      <pubDate>Thu, 14 Mar 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
