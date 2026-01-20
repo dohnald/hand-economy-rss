@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 1/20(화) AI발 전력 대란 해답은 하나뿐입니다 - 김학주 교수 (한동대 AI융합학부)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+AI발 전력 대란 해답은 하나뿐입니다 
+- 김학주 교수 (한동대 AI융합학부)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260120.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260120.mp3</guid>
+      <pubDate>Tue, 20 Jan 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 1/20(화) 코스피 4900 | 은행 자금 이탈 | 다보스포럼</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26281,18 +26292,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240314.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240314.mp3</guid>
       <pubDate>Thu, 14 Mar 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/14(목) 금융권 입사했는데 보증인이 필요하대요</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 금융권 취업을 목표로 대학생때부터 꾸준히 손에 잡히는 경제를 들으며 경제공부를 해왔습니다. 그러다 최근 드디어 2금융권에 입행을 하게 되었어요. 그런데 근로계약서를 쓰는 과정에서 신원보증서를 작성해 오라고 하더라구요. 재산세를 3만원 이상 납부한 사람의 보증이 필요하고, 그 사람의 인감증명서와 납세증명서까지 떼어와야 한
-다고 합니다. 요즘에도 이런 게 있는가 싶기도 하고, 혹시나 어디에 어떻게 쓰일지 모른다는 걱정에 부모님께 말씀드리기도 어렵습니다. 이런 신원보증서가 합법적인건지 그렇다면 대부분의 금융회사에 입사할때 꼭 필요한건지, 이게 보증인에게는 어떤 영향을 미치는지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240314.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240314.mp3</guid>
-      <pubDate>Thu, 14 Mar 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
