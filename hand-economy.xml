@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/21(수) 그린란드 갈등 | 아틀라스</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1)  美-유럽 ‘그린란드 갈등’에 뉴욕증시 불안감↑
+2) ‘아틀라스’ 가격 공개.. “2년 쓰면 32만 달러 본전“
+- 김치형 경제뉴스 큐레이터
+- 조미현 한국경제신문 기자
+
+[친절한 경제]
+정부가 국채를 발행하면 유동성이 풀리는 건가요?
+- 청취자 홍심표 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260121.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260121.mp3</guid>
+      <pubDate>Wed, 21 Jan 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/20(화) AI발 전력 대란 해답은 하나뿐입니다 - 김학주 교수 (한동대 AI융합학부)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26280,18 +26297,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240315.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240315.mp3</guid>
       <pubDate>Fri, 15 Mar 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/14(목) 전세 제도가 사라진다면?(김경민 서울대 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[이슈플러스]
-전세 제도가 사라진다면?
-- 김경민 서울대 환경대학원 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240314.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240314.mp3</guid>
-      <pubDate>Thu, 14 Mar 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
