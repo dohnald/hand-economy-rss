@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 1/21(수) 먹는 비만약 (하수정 큐레이터) | 달러 투자 (이다솔 지점장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업 되는 기업]
+조만간 비만약 가격이
+커피값만큼 떨어집니다
+- 하수정 경제뉴스 큐레이터
+
+2부
+우리나라 주식시장 
+아직 비싸지 않습니다 
+- 이다솔 지점장 (메르츠증권 강남프리미어센터)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260121.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260121.mp3</guid>
+      <pubDate>Wed, 21 Jan 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 1/21(수) 그린란드 갈등 | 아틀라스</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26284,19 +26302,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240315_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240315_1.mp3</guid>
       <pubDate>Fri, 15 Mar 2024 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]3/15(금) 고수익 미끼로 한 '연금형 달러펀드' 투자 주의보  外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 고수익 미끼로 한 '연금형 달러펀드' 투자 주의보
-- 초콜릿 가격도 오르나? 코코아 가격 사상 최고치
-- '번호 이동해도 지원금 안 준다?' 현장 상황은
-
-출연: 이상은 한국경제신문 기자, 김현우 행복자산관리연구소 소장, 박세훈 작가, 이진우 진행]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240315.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240315.mp3</guid>
-      <pubDate>Fri, 15 Mar 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
