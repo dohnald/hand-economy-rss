@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/22(목) 그린란드 철회 | 알테오젠 쇼크 | 소니 TV | 근로자추정제</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 트럼프 대통령, '그린란드 관세' 철회
+2) 코스닥 시총 1위 ‘알테오젠‘ 주가 급락.. 이유는?
+3) 소니, TV 사업 마무리 수순.. 국내 기업 영향은?
+4) ‘근로자추정제’ 도입 추진.. 노동관계법 개정 논란 
+- 박수익 비즈니스워치 기자
+- 하수정 경제뉴스 큐레이터
+- 박세훈 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260122.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260122.mp3</guid>
+      <pubDate>Thu, 22 Jan 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/21(수) 먹는 비만약 (하수정 큐레이터) | 달러 투자 (이다솔 지점장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26291,17 +26307,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240315_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240315_2.mp3</guid>
       <pubDate>Fri, 15 Mar 2024 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 학습된 "괜찮아요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 제모설계사
-
-- 장래희망]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240315_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240315_1.mp3</guid>
-      <pubDate>Fri, 15 Mar 2024 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
