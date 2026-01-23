@@ -16,6 +16,27 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - 이진우 VS 박정호 맞짱 뜨다!</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[.......................................................................
+손경제 청취자들을 위한 히든링크(2026년 3월 20일까지) 
+https://naver.me/GgBhsy5i
+
+지난번 할인링크에 아래 제품 할인이 추가됩니다.
+
+그래놀라 2개묶음 21,800(배송비별도) ? 17,900(무료배송)
+땅콩버터 200g 1병 15,400(배송비별도) ? 13,900(무료배송)
+땅콩버터 200g 2병묶음 30,800(배송비별도) ? 26,900(무료배송)
+.......................................................................
+
+**손경제 협찬문의 : hand-economy@naver.com
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee260123.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee260123.mp3</guid>
+      <pubDate>Sat, 24 Jan 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 1/23(금) 한국 경제성장률 | 부정청약 처벌 | 근로자추정제 | 연말정산</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26301,17 +26322,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240315.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240315.mp3</guid>
       <pubDate>Fri, 15 Mar 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (4부) 트민남</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 슬렉
-
-- 안승찬이 돌아가고 싶은 한 달]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240315_4.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240315_4.mp3</guid>
-      <pubDate>Fri, 15 Mar 2024 12:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
