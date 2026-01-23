@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/23(금) 한국 경제성장률 | 부정청약 처벌 | 근로자추정제 | 연말정산</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 작년 한국 경제 성장률 1% 그쳐.. 올해는 2% 전망
+2) ‘근로자추정제’ 추진.. 프리랜서·특고 보호받나
+3) 재건축 ‘부정 청약’ 처벌 근거 부족.. 해결책은?
+4) ‘13월의 월급’ 연말정산, 올해 바뀐 제도는?
+- 박세훈 작가
+- 김아름 머니투데이방송 기자
+- 손희애 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260123.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260123.mp3</guid>
+      <pubDate>Fri, 23 Jan 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/22(목) 그린란드로 돌아보는 미국 영토 확장의 역사 - 박진빈 교수 (경희대 사학과)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26296,17 +26312,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240315_4.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240315_4.mp3</guid>
       <pubDate>Fri, 15 Mar 2024 12:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) T라서 티나</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 과민성 대장 증후군
-
-- 레모나 경고]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240315_3.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240315_3.mp3</guid>
-      <pubDate>Fri, 15 Mar 2024 12:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
