@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 1/24(토) 캐나다 경제가 사면초가에 몰렸습니다 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+캐나다 경제가
+사면초가에 몰렸습니다
+- 박정호 명지대 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260124.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260124.mp3</guid>
+      <pubDate>Sat, 24 Jan 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - 이진우 VS 박정호 맞짱 뜨다!</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26301,27 +26314,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240316.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240316.mp3</guid>
       <pubDate>Sat, 16 Mar 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/15(금) 홍해가 막혔더니 러시아가 대박 난 사연 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓 잡은 경제]
-행동주의 시동 걸렸다? 
-초거대 우주선 스타십, 절반의 성공
-- 김주영 머니투데이방송 기자
-- 정지서 연합인포맥스 기자
-
-2부
-[글로벌리포터]
-홍해가 막혔는데 왜 러시아가 대박?
-미중 싸움에 갑자기 반도체 강국된 이 나라
-피규어AI 로봇에 전세계 쇼크
-- 어예진 해담경제연구소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240315.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240315.mp3</guid>
-      <pubDate>Fri, 15 Mar 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
