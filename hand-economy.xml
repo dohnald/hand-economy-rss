@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 1/25(일) 대만의 실리콘 방패가 흔들리고 있습니다 - 최준영 전문위원 (법무법인 율촌)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+대만의 실리콘 방패가 흔들리고 있습니다 
+- 최준영 전문위원 (법무법인 율촌)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260125.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260125.mp3</guid>
+      <pubDate>Sun, 25 Jan 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/24(토) 캐나다 경제가 사면초가에 몰렸습니다 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26302,18 +26313,6 @@ AI의 미래 GTC에서 찾다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240317.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240317.mp3</guid>
       <pubDate>Sun, 17 Mar 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/16(토) 일인 체제 떠받치는 시진핑의 비밀조직</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[역시나 박정호]
-일인 체제 떠받치는 시진핑의 비밀조직
-with 오승훈 아나운서]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240316.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240316.mp3</guid>
-      <pubDate>Sat, 16 Mar 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
