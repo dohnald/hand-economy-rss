@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/26(월) 달러원 환율 | 독일 기업 인수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 외화예금 이자 0%대.. 은행권도 ‘환율 방어‘ 동참
+2) 주말 사이 뚝 떨어진 환율.. 배경은?
+3) 흔들리는 독일 제조업, 한국 기업이 쓸어담는다
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자
+
+[친절한 경제]
+코스피가 계속 오르면 
+인버스 ETF는 0원이 되나요?
+- 청취자 빅진규 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260126.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260126.mp3</guid>
+      <pubDate>Mon, 26 Jan 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/25(일) 대만의 실리콘 방패가 흔들리고 있습니다 - 최준영 전문위원 (법무법인 율촌)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26296,23 +26315,6 @@ AI의 미래 GTC에서 찾다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240318.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240318.mp3</guid>
       <pubDate>Mon, 18 Mar 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/17(일) 5G 충분히 빨라도 6G 준비해야 하는 이유 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[키워드경제]
-아이돌 기획사가 파는 건 '유사연애'?
-- 남궁민 작가
-
-2부
-[테코노미]
-5G 빨라도 6G가 필요한 이유
-- 이독실 과학커뮤니케이터]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240317.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240317.mp3</guid>
-      <pubDate>Sun, 17 Mar 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
