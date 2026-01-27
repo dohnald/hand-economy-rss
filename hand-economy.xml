@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/27(화) 코스닥 급등 | 신규 원전 건설 | 렌터카 기업결합 무산</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 7% 급등한 코스닥, ‘천스닥’ 돌파.. 배경은?
+2) 원자력 발전소 2기 추가 건설.. 탈원전 유턴
+3) 롯데-SK렌터카, 기업 결합 무산.. 독과점 우려
+- 김치형 경제뉴스 큐레이터
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260127.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260127.mp3</guid>
+      <pubDate>Tue, 27 Jan 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/26(월) 2026 다보스포럼 (김덕진 소장) | 중국 러닝 | 美 음식 인종차별 | 영국 굴뚝 청소부 (한경제 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26311,17 +26326,6 @@ AI의 미래 GTC에서 찾다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240318.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240318.mp3</guid>
       <pubDate>Mon, 18 Mar 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/18(월) 전세권 설정하면 보증보험 가입 안 해도 되나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 이번에 처음으로 전세로 아파트에 살게 되어 전세보증보험에 가입을 하려고 했는데요. 이사하게 된 집이 인테리어 등의 이유로 같은 단지내 다른 집에 비해 전세금이 높아 전세보증보험에 가입이 어려울 것 같습니다. 이 경우에는 전세권을 설정하면 된다고 하는데.. 인터넷으로 전세권과 전세보증보험의 차이를 찾아봐도 어려운 단어가 많아 이해가 되지 않더라고요. 제가 알아본 바로는 나중에 혹시나 전세금을 돌려받지 못하더라도 경매를 신청할 수 있다는 정도인데, 전세권 설정이 전세보증보험을 대체할 수 있는 방법이 맞는지 궁금합니다. 추가로 혹시나 전세금을 받지 못하게 되면, 이 집을 추후 매수할 생각도 있는데, 이 경우에는 전세권 설정을 할 필요도 없을까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240318.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240318.mp3</guid>
-      <pubDate>Mon, 18 Mar 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
