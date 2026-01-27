@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 1/27(화) 알래스카 가스전 투자 최대한 피해야 하는 이유 - 신현돈 교수 (인하대 에너지자원공학과)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+알래스카 가스전 투자 
+최대한 피해야 하는 이유 
+- 신현돈 교수 (인하대 에너지자원공학과)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260127.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260127.mp3</guid>
+      <pubDate>Tue, 27 Jan 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 1/27(화) 코스닥 급등 | 신규 원전 건설 | 렌터카 기업결합 무산</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26306,26 +26318,6 @@ AI의 미래 GTC에서 찾다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240319.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240319.mp3</guid>
       <pubDate>Tue, 19 Mar 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/18(월) 엔비디아가 제2의 시스코가 되는 경우 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓 잡은 경제]
-사과가 금값된 진짜 이유
-개미 해외투자 100조 시대
-- 정지서 연합인포맥스 기자
-- 추동훈 매일경제신문 기자
-
-2부
-[증시 열렸다]
-일본 금리 인상 임박, 영향은?
-엔비디아 제2의 시스코?
-- 이효석 HS아카데미 대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240318.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240318.mp3</guid>
-      <pubDate>Mon, 18 Mar 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
