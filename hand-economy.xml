@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 1/28(수) 앱손 테크놀로지 (하수정 큐레이터) ｜폰지에 이른 AI (홍춘욱 대표)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업 되는 기업]
+미국 경찰 사고칠 때마다
+돈 버는 회사가 있습니다
+- 하수정 경제뉴스 큐레이터
+
+2부
+AI 빚투가 폭증합니다
+폰지 사기급 속도입니다
+- 홍춘욱 대표 (프리즘투자자문)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260128.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260128.mp3</guid>
+      <pubDate>Wed, 28 Jan 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 1/28(수) 국민연금과 환율 | 재정 사업 평가 | 은 ETF</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26312,17 +26330,6 @@ AI의 미래 GTC에서 찾다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240319.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240319.mp3</guid>
       <pubDate>Tue, 19 Mar 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/19(화) 해외주식 환차익도 양도세 내나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 손경제를 매일매일 빼놓지 않고 들으면서 좋은 정보 많이 얻고 있습니다. 상담소에서 해외주식 양도세 관련하여 알려주신 내용도 많았었는데요, 좀 구체적인 상황에 대해서도 궁금해서 추가로 여쭤봅니다. 해외주식에서 차익이 250만원 이상 발생하면 양도세를 내야하는데, 이땐 환차익도 반영된다고 알고 있습니다. 미국주식에 투자하면 달러로 환전해서 투자를 하게 되는데, 이때 주식에서 수익금이 발생하지 않고 환차익이 발생하게 됐을 때, 그 예수금을 환전하지 않고 그냥 연말까지 갖고 있다거나, 다른 미국 주식에 재투자를 했을 경우에는 환차익에 대해 세금이 어떻게 부과되는지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240319.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240319.mp3</guid>
-      <pubDate>Tue, 19 Mar 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
