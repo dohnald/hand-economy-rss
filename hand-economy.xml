@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/28(수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260128.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260128.mp3</guid>
+      <pubDate>Wed, 28 Jan 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/27(화) 알래스카 가스전 투자 최대한 피해야 하는 이유 - 신현돈 교수 (인하대 에너지자원공학과)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26305,19 +26314,6 @@ AI의 미래 GTC에서 찾다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240319.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240319.mp3</guid>
       <pubDate>Tue, 19 Mar 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]3/19(화) 사과값에 정부지원금 들어간다 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 사과값에 정부지원금 들어간다 
-- '테무깡'에 유통시장 초토화
-- 美, ‘현대차, 리스 전기차 보조금 과다’
-
-출연: 송현서 기자, 남궁민 경제뉴스큐레이터, 김치형 경제뉴스큐레이터, 이진우 진행]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240319.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240319.mp3</guid>
-      <pubDate>Tue, 19 Mar 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
