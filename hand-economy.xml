@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 1/29(목) 미국 금리 동결 | SK하이닉스 실적 | 출산 정책 통폐합</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美 기준금리 동결.. 3연속 인하 후 속도 조절
+2) SK하이닉스, 작년 실적 사상 최고치.. 주주환원도↑
+3) 자녀수당 통폐합 추진.. “혼란 줄이고 예산 절감”
+- 박세훈 작가
+- 노유정 한국경제신문 기자
+- 하수정 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260129.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260129.mp3</guid>
+      <pubDate>Thu, 29 Jan 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 1/28(수) 앱손 테크놀로지 (하수정 큐레이터) ｜폰지에 이른 AI (홍춘욱 대표)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26310,26 +26325,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240320.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240320.mp3</guid>
       <pubDate>Wed, 20 Mar 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/20(화) 배달비 0원 시대 올까? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-
-[갓 잡은 경제]
-2차 배달대전, 배달비는 이제 무료?
-AI의 미래 GTC에서 찾다
-- 추동훈 매일경제신문 기자
-- 이수현 머니투데이방송 기자
-
-2부
-[대가들의 투자노트]
-투자는 역시 주도주, 제럴드 로브
-- 신기주 카운트 대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240319.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240319.mp3</guid>
-      <pubDate>Tue, 19 Mar 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
