@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - 테니스장 밀고 300가구? 진짜 땅이 없구나...</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[협찬문의 : hand-economy@naver.com]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee260130.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee260130.mp3</guid>
+      <pubDate>Sun, 01 Feb 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>협찬인가 - 부부 둘이서 부업으로 연매출 25억! </title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26323,17 +26332,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240321.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240321.mp3</guid>
       <pubDate>Thu, 21 Mar 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/21(목) 전셋집 주인이 후순위 대출을 원합니다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 딱 작년 이맘때 집을 구해 들어온 세입자입니다. 다름이 아니라 며칠 전 집주인분이 집을 내놓으시겠다고 연락을 해오셨는데요, 저희는 원래 지금 집주인과 재계약을 얘기해놓은 상태여서 갑자기 1년 후에는 집을 나가야할지도 모른다는 불안감에 패닉상태입니다. 저희는 장기거주를 위해 일부러 집주인이 투자용으로 구매한 아파트에 들어오기도 했고, 융자를 끼지 않은 집을 고르고 골라 들어온 거라 여간 당황스러운게 아니네요. 부동산중개업소와 얘기해보니깐 만약 새 집주인이 후순위대출을 받으시면 미리 저희에게 동의를 구할 것이고, 저희가 원치 않는 경우 거절할 수 있다고 하는데요, 실제로도 저희가 이 권리를 행사하여 융자를 껴서 집을 구매하는 것을 막을 수 있는지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240321.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240321.mp3</guid>
-      <pubDate>Thu, 21 Mar 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
