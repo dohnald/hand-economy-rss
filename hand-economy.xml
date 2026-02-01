@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 2/1(일) 빅테크가 경제학 박사를 싹쓸이하고 있습니다 - 김현철 원장(연세대 인재와 인재연구원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+빅테크가 경제학 박사를 싹쓸이하고 있습니다
+- 김현철 원장(연세대 인재와 인재연구원)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260201.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260201.mp3</guid>
+      <pubDate>Sun, 01 Feb 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - 테니스장 밀고 300가구? 진짜 땅이 없구나...</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26318,19 +26329,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240322_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240322_1.mp3</guid>
       <pubDate>Fri, 22 Mar 2024 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]3/22(금) 송금 실수 안 하려면 이 기능에 주목하라 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 송금 실수 안 하려면 이 기능에 주목하라
-- 아르헨티나 국민, '달러 대신 비트코인' 
-- 삼성전자, 주가 오른 이유는
-
-출연: 이상은 한국경제신문 기자, 김현우 행복자산관리연구소 소장, 박세훈 작가, 이진우 진행]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240322.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240322.mp3</guid>
-      <pubDate>Fri, 22 Mar 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
