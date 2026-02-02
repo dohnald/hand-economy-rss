@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 2/2(월) 케빈 워시 | 자율주행 보험료 | 산업용 전기요금</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美 연준의장에 케빈 워시 지명.. 금·은·코인 급락
+2) 자율주행차 보험료 깎는 미국.. 한국은 올린다?
+3) 산업용 전기요금 개편.. "낮에 싸고 밤에 비싸게"
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자
+
+[친절한 경제]
+코스피 ETF에 주문이 몰리면
+코스피 지수 보다 더 오르나요?
+- 청취자 이수용 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260202.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260202.mp3</guid>
+      <pubDate>Mon, 02 Feb 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/1(일) 빅테크가 경제학 박사를 싹쓸이하고 있습니다 - 김현철 원장(연세대 인재와 인재연구원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26320,15 +26339,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240322_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240322_2.mp3</guid>
       <pubDate>Fri, 22 Mar 2024 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 대파는 하나로 양재점에서</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 연봉협상]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240322_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240322_1.mp3</guid>
-      <pubDate>Fri, 22 Mar 2024 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
