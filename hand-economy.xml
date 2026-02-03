@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 2/3(화) 10조 담합 적발 | 수입차 점유율 | 위안화 강화 | 핀란드 복지</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 밀가루?설탕?전기 등 생필품 ‘10조 담합’ 줄기소
+2) 수입차 점유율 38년 만에 20% 넘었다
+3) 중국, 위안화 해외 대출 늘린다.. 기축통화 ‘야심’
+4) 핀란드, 재정적자?실업률 급증에.. 복지 개혁 단행
+- 김치형 경제뉴스 큐레이터
+- 라예진 이코노미스트 기자
+- 조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260203.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260203.mp3</guid>
+      <pubDate>Tue, 03 Feb 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/2(월) 자율형 AI 에이전트 '오픈클로' (김덕진 소장) | 중국 농민공 귀향 | 인도 부동산 위기 | 스페인 망명자들 (한경제 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26337,17 +26353,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240322_4.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240322_4.mp3</guid>
       <pubDate>Fri, 22 Mar 2024 12:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 일성생활</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 정우성
-
-- 인어]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240322_3.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240322_3.mp3</guid>
-      <pubDate>Fri, 22 Mar 2024 12:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
