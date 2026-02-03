@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 2/3(화)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260203.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260203.mp3</guid>
+      <pubDate>Tue, 03 Feb 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 2/3(화) 10조 담합 적발 | 수입차 점유율 | 위안화 강화 | 핀란드 복지</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26344,15 +26353,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240322_5.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240322_5.mp3</guid>
       <pubDate>Fri, 22 Mar 2024 12:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (4부) 박정호의 점과 운명</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 10년 후 후회될 일]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240322_4.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240322_4.mp3</guid>
-      <pubDate>Fri, 22 Mar 2024 12:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
