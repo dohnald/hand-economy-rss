@@ -16,10 +16,30 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>[플러스] 2/3(화)</title>
+      <title>[손경제] 2/4(수) 새마을금고 패널티 | 인도 관세</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 새마을금고, 연이은 대출 총량 목표 초과.. 패널티 검토
+2) 인도, 美관세 50→18% 인하.. 러 원유 구매 중단 조건
+- 김치형 경제뉴스 큐레이터
+- 노유정 한국경제신문 기자
+
+[친절한 경제]
+미국 입장에서는 강달러가 
+무조건 유리한가요?
+- 청취자 전현식 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260204.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260204.mp3</guid>
+      <pubDate>Wed, 04 Feb 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 2/3(화) 이란의 반정부 세력이 분열되고 있습니다 - 알파고 시나씨 기자</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+이란의 반정부 세력이 분열되고 있습니다
+- 알파고 시나씨 기자]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260203.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260203.mp3</guid>
       <pubDate>Tue, 03 Feb 2026 22:05:00 +0900</pubDate>
@@ -26344,15 +26364,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240322.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240322.mp3</guid>
       <pubDate>Fri, 22 Mar 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (5부) 욕조보다 못한 당신</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 일주일 동안 머리 못감기 VS 양치 못하기]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240322_5.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240322_5.mp3</guid>
-      <pubDate>Fri, 22 Mar 2024 12:04:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
