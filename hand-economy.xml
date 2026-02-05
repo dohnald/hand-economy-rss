@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 2/5(목) 삼성전자 시총 1천조 | AI 에이전트 | 은행 점포</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 삼성전자, 시총 1천조 돌파.. 국내기업 최초
+2) '클로드 코워크'발 쇼크.. 소프트웨어 무너진다?
+3) 은행 점포 함부로 못 줄인다.. 폐쇄 요건 강화
+- 박수익 비즈니스워치 기자
+- 하수정 경제뉴스 큐레이터
+- 박세훈 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260205.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260205.mp3</guid>
+      <pubDate>Thu, 05 Feb 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/4(수) 스페이스X의 xAI 합병 (하수정 큐레이터) | 반도체 전망 (이형수 HSL파트너스 대표)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26346,29 +26361,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240323.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240323.mp3</guid>
       <pubDate>Sat, 23 Mar 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/22(금) 배짱 장사 에르메스, 소송당했다? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[갓 잡은 경제]
-사면초가 태영건설, 상폐 임박?
-소비자들이 에르메스를 고소한 이유
-- 정지서 연합인포맥스 기자
-- 김주영 머니투데이방송 기자
-
-2부
-[글로벌리포트]
-홍콩판 국가보안법
-공기 최악의 도시, 100 중에 99가 아시아
-영국도 수가 논란, 근데 동물병원?
-일본의 '손주 육아 휴직'
--어예진 해담경제연구소장
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240322.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240322.mp3</guid>
-      <pubDate>Fri, 22 Mar 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
