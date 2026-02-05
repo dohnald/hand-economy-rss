@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 2/5(목) 독일이 징병제를 부활시켰습니다 - 안병억 교수 (대구대 국방군사학과)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+독일이 징병제를 부활시켰습니다 
+- 안병억 교수 (대구대 국방군사학과)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260205.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260205.mp3</guid>
+      <pubDate>Thu, 05 Feb 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 2/5(목) 삼성전자 시총 1천조 | AI 에이전트 | 은행 점포</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26349,18 +26360,6 @@ AI 최대 수혜국, 미국 말고 따로 있다?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240324.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240324.mp3</guid>
       <pubDate>Sun, 24 Mar 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/24(토) 다른 나라는 연금개혁 어떻게 했을까</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[역시나 박정호]
-다른 나라는 연금개혁 어떻게 했을까
-with 오승훈 아나운서]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240323.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240323.mp3</guid>
-      <pubDate>Sat, 23 Mar 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
