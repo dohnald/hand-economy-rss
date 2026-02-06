@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 2/6(금) 공기업 해외광물투자 | 대형마트 새벽배송 | 주택연금</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 희토류 등 핵심광물, 공기업 직접투자 10년만에 재개
+2) 대형마트 새벽배송 허용 추진.. 쿠팡 견제 vs 골목상권 위축?
+3) 주택연금 제도 개선.. 수령액 늘고 실거주 의무 완화
+- 김아름 머니투데이방송 기자
+- 손희애 경제뉴스 큐레이터
+- 조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260206.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260206.mp3</guid>
+      <pubDate>Fri, 06 Feb 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/5(목) 독일이 징병제를 부활시켰습니다 - 안병억 교수 (대구대 국방군사학과)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26343,23 +26358,6 @@ AI 최대 수혜국, 미국 말고 따로 있다?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240325.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240325.mp3</guid>
       <pubDate>Mon, 25 Mar 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/24(일) 인류 평균 보다 똑똑한 AI? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[테코노미]
-초음속 여객기의 부활
--이창욱 과학동아 기자
-
-2부
-[테코노미]
-인류 평균 보다 나은 AI, 클로드
-- 김덕진 IT커뮤니케이션연구소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240324.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240324.mp3</guid>
-      <pubDate>Sun, 24 Mar 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
