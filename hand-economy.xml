@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 2/8(일) 케빈 워시의 연준은 정부 뜻대로 움직입니다 - 성상현 부부장 (중소기업중앙회)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+케빈 워시의 연준은 
+정부 뜻대로 움직입니다 
+- 성상현 부부장 (중소기업중앙회)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260208.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260208.mp3</guid>
+      <pubDate>Sun, 08 Feb 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - 주택보급률 통계, 정말 바보 같은 짓입니다</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26361,17 +26373,6 @@ AI 최대 수혜국, 미국 말고 따로 있다?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240326.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240326.mp3</guid>
       <pubDate>Tue, 26 Mar 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/26(화) 개인연금 종합과세 신청시 국민연금과 건강보험</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 개인연금의 연간 수령금액이 1500만원을 초과하게 되면, 종합과세 또는 분리과세 중에 하나를 선택 할 수 있는 걸로 알고 있습니다. 만약 종합소득과세를 선택했을 경우, 국민연금 수령금액도 합쳐지는 것이 맞는지 궁금합니다. 또, 건강보험에서는 개인연금 수령금액은 제외하는 걸로 알고 있는데, 개인연금 수령액이 연간 1500만원을 초과하여 종합과세를 신청하게 되면 이때는 건강보험료 납부 산정에 포함되는걸까요? 아니면 금액에 상관없이 제외되는 것인지 알고 싶습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240326.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240326.mp3</guid>
-      <pubDate>Tue, 26 Mar 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
