@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 2/10(화) 달러 구독료 | RIA 출시 지연 | 등록임대 혜택</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[정정사항] 21:22 내용 중 'RIA계좌를 지금 증권사 가면 만들 수 있나요?'라는 진행자의 질문에 대해 '어쨌든 신설을 사전에 할 수 있습니다.'라는 답변은 'RIA 계좌 개설이 가능하다'는 의미가 아닌, '사전 이벤트로 발급 신청을 할 수 있다'는 의미 입니다. 현 시점에서 증권사를 통한 RIA 계좌 개설은 불가능한 것이 맞습니다. 정보 전달에 혼선을 드려 죄송합니다.
+
+[깊이 있는 경제뉴스]
+1) 늘어나는 달러 구독료, 환율·물가도 자극한다
+2) 李 “등록 임대에 영구 혜택 의문".. 임사자 매물 유도?
+3) RIA 계좌, 이달 내 출시 어렵다.. 이유는?
+- 김치형 경제뉴스 큐레이터
+- 조미현 한국경제신문 기자
+- 정지서 연합인포맥스 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260210.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260210.mp3</guid>
+      <pubDate>Tue, 10 Feb 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/9(월) AI 에이전트 (김덕진 소장) | 콜롬비아 용병 | 태국 경기침체 | 케냐 발렌타인데이 (한경제 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26366,17 +26383,6 @@ AI 최대 수혜국, 미국 말고 따로 있다?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240327.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240327.mp3</guid>
       <pubDate>Wed, 27 Mar 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/27(수) 폐업한 법인에 실수로 송금한 돈, 돌려받으려면?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 작년 8월에 다른 분의 계좌로 500만원을 잘못 이체하였습니다. 개인계좌가 아닌 법인통장이었는데 이미 폐업한 업체라 연락이 닿지 않는다는 이유로 돌려받지 못했습니다. 예금보험공사에 도움도 청해봤으나 해결이 안 된다는 답만 들었습니다. 예보에서는 법원에 문의해보라고 해서, 상담도 받았지만 이런 경우 거의 돌려받기 힘들다는 답변만 듣고 왔습니다. 그러던 중 우연히 라디오를 듣다가 제가 처한 상황도 도움을 받을 수 있을까해서 글을 올려봅니다. 절박한 심정으로 문의드리니 도움을 주시면 정말 감사하겠습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240327.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240327.mp3</guid>
-      <pubDate>Wed, 27 Mar 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
