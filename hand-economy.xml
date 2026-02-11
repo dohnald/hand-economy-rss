@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 2/11(수) 코카콜라 (하수정 큐레이터) | 비트코인 전망 (김창익 작가)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업 되는 기업]
+코카콜라가 단백질에
+미래를 걸었습니다
+- 하수정 경제뉴스 큐레이터
+
+2부
+비트코인의 폭락 뒤엔
+세력이 존재합니다
+- 김창익 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260211.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260211.mp3</guid>
+      <pubDate>Wed, 11 Feb 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 2/11(수) 美 반도체 관세 면제 | 다이아몬드 몰락 | 미국 역채용</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26368,18 +26386,6 @@ AI 최대 수혜국, 미국 말고 따로 있다?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240328.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240328.mp3</guid>
       <pubDate>Thu, 28 Mar 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/28(목) 받을 수 있는 세액공제 상한선이 정해져있나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요, 노후 준비를 위해 2021년부터 IRP에 매년 200만원씩 납입중인 연봉 5500만원 이하 공무원입니다. 21년과 22년의 연말정산때는 각각 30만원의 세금을 돌려받았습니다. 사실 이 부분도 200만원의 16.5%를 세액공제를 받을 경우 33만원이 돼야 하는데, 별 문제의식 없이 그냥 넘어갔습니다.
-그런데 2023년 모의 연말정산 결과를 보니 30만원이 아닌 약 3만6천원원으로 표시가 되어있었습니다. 작년부터 홀로 사시는 60세 이상의 부모님 한 분을 피부양자로 올려 인적공제를 받게 되었습니다. 그러면서 전체적인 공제액이 커졌는데, 연말정산에 이 부분이 반영되어 퇴직연금으로 돌려받을 세액공제액이 작아진 것인지 궁금합니다. 세액공제에 1인 최대 공제액이 있는건가요? 만약 그렇다면 올해 받지 못한 세액공제를 내년으로 미뤄 차액인 26만원 정도를 받을 수 있는지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240328.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240328.mp3</guid>
-      <pubDate>Thu, 28 Mar 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
