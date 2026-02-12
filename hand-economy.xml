@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 2/12(목) 가격 재결정 명령 | 코스닥 부실기업 퇴출 | 비아파트 공급감소</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 정부, 담합 업계에 ‘가격 재결정 명령’.. 물가 잡힐까?
+2) 코스닥 상장폐지 기준 개선.. 부실기업 퇴출 속도낸다
+3) 비아파트, 수요 양극화에 공급 감소.. 월세 상승 우려
+- 하수정 경제뉴스 큐레이터
+- 박수익 비즈니스워치 기자
+- 라예진 이코노미스트 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260212.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260212.mp3</guid>
+      <pubDate>Thu, 12 Feb 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/11(수) 코카콜라 (하수정 큐레이터) | 비트코인 전망 (김창익 작가)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26374,18 +26389,6 @@ AI 최대 수혜국, 미국 말고 따로 있다?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240329.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240329.mp3</guid>
       <pubDate>Fri, 29 Mar 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/28(목) 30년 뒤 한국, 우리 국토의 미래상(김시덕 도시문헌학자)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[이슈 플러스]
-미래 한국, 이렇게 재편될 겁니다
-- 김시덕 도시문헌학자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240328.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240328.mp3</guid>
-      <pubDate>Thu, 28 Mar 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
