@@ -16,6 +16,33 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임(협찬) - ㅇㅇ렌탈, 눈탱이 안맞으려면! with 렌트리 </title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[?? 커피타임 시청자를 위한 쿠폰 이벤트 ??
+
+아래 링크를 통해 렌트리 접속 후 회원가입을 완료하시면,
+렌트리 서비스 내에서 사용 가능한 쿠폰 1장이 지급됩니다.
+(신규 회원 대상 / 1인 1회)
+?? https://abr.rentre.kr/z0zetq
+
+■ 쿠폰 금액
+1만원 / 5만원 / 30만원 중 1장 무작위 지급
+
+■ 당첨 확률 (월별 발급 한도 기준)
+30만원 0.5% / 5만원 1% / 1만원 98.5%
+
+※ 5만원 및 30만원 쿠폰은 월별 발급 한도 내에서 무작위 지급됩니다.
+※ 월 한도 소진 시 해당 월에는 1만원 쿠폰만 지급됩니다.
+※ 당첨 확률은 월별 발급 한도 및 참여 인원 기준으로 산정됩니다.
+※ 쿠폰은 렌트리 서비스 내에서만 사용 가능하며, 최소 결제금액/ 적용 상품/ 유효기간 등 세부 조건은 앱 내 안내를 따릅니다.
+※ 쿠폰은 현금으로 환급되지 않으며, 타 혜택과 중복 사용이 제한될 수 있습니다.
+※ 본 이벤트는 별도 종료 공지 전까지 운영되며, 당사 사정에 따라 사전 고지 후 변경 또는 종료될 수 있습니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/260213rentree.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/260213rentree.mp3</guid>
+      <pubDate>Sat, 14 Feb 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 2/13(금) 다주택 양도세 중과 | 치매머니 | 트럼프 관세 반대 </title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26380,17 +26407,6 @@ AI 최대 수혜국, 미국 말고 따로 있다?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240329_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240329_2.mp3</guid>
       <pubDate>Fri, 29 Mar 2024 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임- (1부) 이진우 가라사대</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 특파원 당근설
-
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240329_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240329_1.mp3</guid>
-      <pubDate>Fri, 29 Mar 2024 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
