@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 2/15(일) 테슬라 로보택시는 왜 빨리 늘지 않을까? - 박형근 책임매니저 (HMG경영연구원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+테슬라 로보택시는 왜 빨리 늘지 않을까? 
+- 박형근 책임매니저 (HMG경영연구원)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260215.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260215.mp3</guid>
+      <pubDate>Sun, 15 Feb 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/14(토) 비트코인 가격의 미래, 스테이블 코인에 달렸다? - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26404,15 +26415,6 @@ AI 최대 수혜국, 미국 말고 따로 있다?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240329_5.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240329_5.mp3</guid>
       <pubDate>Fri, 29 Mar 2024 12:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (4부) 진우 재산 100억 설</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- '협찬인가' 광고주님을 찾습니다]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240329_4.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240329_4.mp3</guid>
-      <pubDate>Fri, 29 Mar 2024 12:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
