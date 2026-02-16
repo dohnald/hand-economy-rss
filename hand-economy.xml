@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 2/16(월) 고대의 인간들은 왜 은보다 금을 좋아했을까? - 이종훈 작가</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+고대의 인간들은 왜 
+은보다 금을 좋아했을까? 
+- 이종훈 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260216.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260216.mp3</guid>
+      <pubDate>Mon, 16 Feb 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/15(일) 테슬라 로보택시는 왜 빨리 늘지 않을까? - 박형근 책임매니저 (HMG경영연구원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26406,15 +26418,6 @@ AI 최대 수혜국, 미국 말고 따로 있다?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240329.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240329.mp3</guid>
       <pubDate>Fri, 29 Mar 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (5부)  아이엠 닥터</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 소득과 행복]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240329_5.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240329_5.mp3</guid>
-      <pubDate>Fri, 29 Mar 2024 12:04:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
