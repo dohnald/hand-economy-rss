@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 2/18(수) 계속 꼬이는 구리 수급, 이러다 은값 잡습니다 - 이종훈 작가</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+계속 꼬이는 구리 수급
+이러다 은값 잡습니다
+- 이종훈 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260218.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260218.mp3</guid>
+      <pubDate>Wed, 18 Feb 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/17(화) 한국 주식의 상방이 마침내 뚫렸습니다 - 곽상준 대표 (매트릭스 투자자문)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26397,23 +26409,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240401.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240401.mp3</guid>
       <pubDate>Mon, 01 Apr 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/31(일) 일본 열도를 떨게 한 전염병의 정체</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[키워드 경제]
-일론 머스크가 고전하고 있는 유일한 사업
-- 남궁민 작가
-
-2부
-[테코노미]
-연쇄상구균 독소쇼크증후군
-- 이독실 과학평론가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240331.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240331.mp3</guid>
-      <pubDate>Sun, 31 Mar 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
