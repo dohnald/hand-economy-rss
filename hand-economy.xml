@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 2/20(금)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[  ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260220.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260220.mp3</guid>
+      <pubDate>Fri, 20 Feb 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/19(목) 외식 산업의 불모지 인도가 깨어났습니다 - 맹현철 선임연구원 (서울대 아시아연구소)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26399,20 +26408,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240402.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240402.mp3</guid>
       <pubDate>Tue, 02 Apr 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]4/2(화) 유가는 오르는데 가스·석탄값은 떨어지는 이유 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 유가는 오르는데 가스·석탄값은 떨어지는 이유
-- 1분기 우리나라 최대 수출국은 ‘미국’
-- 로봇 청소기도 중국산? 치열한 프리미엄 가전 시장
-- 빅테크에 칼 빼든 미국-유럽, 애플-구글 정조준
-
-출연: 송현서 기자, 남궁민 경제뉴스큐레이터, 김치형 경제뉴스큐레이터, 이진우 진행]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240402.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240402.mp3</guid>
-      <pubDate>Tue, 02 Apr 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
