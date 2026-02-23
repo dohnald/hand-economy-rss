@@ -16,6 +16,26 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 2/23(월) 트럼프 관세 위법 | 다주택자 LTV 0%</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美 대법 “트럼프 상호관세는 위법”.. 우리나라 영향은?
+2) 규제지역 다주택자, 대출 연장 막는다?
+- 이혜인 한국경제신문 기자
+- 조미현 한국경제신문 기자
+
+[친절한 경제]
+선진국의 주가지수는 
+왜 우리나라보다 큰가요?
+- 청취자 조동식 씨
+
+[정정사항] 04:38 진행자의 멘트 중 언급된 우리나라의 대미 관세는 25%가 아닌 15%입니다. 한국이 적용받던 25%의 상호 관세는 한미 관세협의에 따라 지난해 11월부터 '기본관세 10%+국가별 관세 5%, 총 15%'로 인하된 바 있으며, 이번 관세 위법 판결로 인해 효력이 상실되었습니다. 정보 전달에 혼선을 드려 죄송합니다.]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260223.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260223.mp3</guid>
+      <pubDate>Mon, 23 Feb 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/22(일)  미국은 금리 쉽게 못 낮춥니다 - 오건영 단장(신한은행 프리미어 패스파인더)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26392,18 +26412,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240404.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240404.mp3</guid>
       <pubDate>Thu, 04 Apr 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 4/3(수) 청약에 당첨됐는데 기존주택 처분 안 하면?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 올해 8월 신축아파트 입주를 앞둔 40대 가장입니다.
-경북 구미에서 살다가 평택으로 이사 온 지 6년 정도 되었습니다. 2020년 말쯤에 운 좋게 가점제가 아닌 추첨제로 아파트 분양에 당첨이 되었는데, 그 당시 기존 주택을 처분하겠다는 서약을 하고 당첨이 되었습니다. 그런데 아직 예전 구미에서 살던 아파트를 처분하지 못해 걱정입니다. 입주일로부터 6개월 이내 처분해야 한다고 하는데 맞는 건가요? 또, 들리는 말로는 주택처분을 하지 않으면 나중에 대출도 받을 수 없다고 하는데 이것도 맞는 말인지 궁금합니다. 손경제 상담소에서 알려 주셨으면 합니다. ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240403.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240403.mp3</guid>
-      <pubDate>Wed, 03 Apr 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
