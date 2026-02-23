@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 2/23(월) 미군 투입된 클로드 (김덕진 소장) | 실리콘밸리 워라밸 | 중국 기러기아빠 | 이란 비밀조직 (한경제 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+AI 기업들의 무한경쟁
+안전은 포기했습니다
+- 김덕진 IT커뮤니케이션 연구소 소장
+
+2부
+[글로벌 리포트]
+실리콘밸리가 
+중국화되고 있습니다
+- 한경제 기자 (한국경제신문)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260223.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260223.mp3</guid>
+      <pubDate>Mon, 23 Feb 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 2/23(월) 트럼프 관세 위법 | 다주택자 LTV 0%</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26398,20 +26417,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240404.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240404.mp3</guid>
       <pubDate>Thu, 04 Apr 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]4/4(목) 금감원, '은행 주담대 고정금리 비율 30%까지 높여라'  外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 금감원, '은행 주담대 고정금리 비율 30%까지 높여라'
-- 공사 중단 아파트, 분양권 포기 속출 
-- 美 트럼프, 당선되면 '전기차 보조금 폐지' 
-- 유럽 중앙은행, 상반기 금리 인하 가능성  
-
-출연: 서은영 경제뉴스큐레이터, 김현우 행복자산관리연구소, 박세훈 작가, 이진우 진행]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240404.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240404.mp3</guid>
-      <pubDate>Thu, 04 Apr 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
