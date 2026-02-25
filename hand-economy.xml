@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 2/25(수) 기초연금 개편 | AI발 금융위기</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 기초연금 개편 검토.. 소득따라 차등 지급
+2) 미 증시 흔든 보고서 “2028년에 AI발 금융위기” 
+- 김치형 경제뉴스 큐레이터
+- 노유정 한국경제신문 기자
+
+[친절한 경제]
+공모주 청약은 왜 하는 건가요?
+- 청취자 최송화 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260225.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260225.mp3</guid>
+      <pubDate>Wed, 25 Feb 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/24(화) 미국 투자 서두르는 일본의 진짜 노림수 - 서병수 애널리스트</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26403,24 +26420,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240405.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240405.mp3</guid>
       <pubDate>Fri, 05 Apr 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/5(금) 대한민국 밤의 경제, 판도가 뒤집혔다? 외</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[키워드경제]
-대한민국 밤의 경제, 판도가 뒤집혔다?
-- 남궁민 작가
-
-2부
-[글로벌리포트]
-테무 돌풍에 방긋 웃는 산업?
-에르도안 독재 끝나나?
-- 어예진 해담경제연구소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240405.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240405.mp3</guid>
-      <pubDate>Fri, 05 Apr 2024 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
