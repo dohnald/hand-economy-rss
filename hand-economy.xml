@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 2/27(금) 기준금리 동결 | 중동 원유 운송비 | 리폼 상표권</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 점도표 도입한 한은.. 기준금리 6연속 동결
+2) 중동→아시아 원유 운송비, 올해만 5배 급등
+3) 대법 “리폼은 상표권 침해 아냐“.. 루이비통 이긴 수선집
+- 오찬종 매일경제 기자
+- 조미현 한국경제신문 기자
+- 손희애 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260227.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260227.mp3</guid>
+      <pubDate>Fri, 27 Feb 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/26(목) 유한양행 창업자는 CIA 요원이었습니다 - 재원쌤</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26424,15 +26439,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240405_4.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240405_4.mp3</guid>
       <pubDate>Fri, 05 Apr 2024 12:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 좌와 우</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 총선방송 ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240405_3.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240405_3.mp3</guid>
-      <pubDate>Fri, 05 Apr 2024 12:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
