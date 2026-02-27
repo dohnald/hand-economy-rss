@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - 6개월 후 코스피 지수, 제 예상은요...</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[협찬문의 : hand-economy@naver.com]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee260227.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee260227.mp3</guid>
+      <pubDate>Sat, 28 Feb 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 2/27(금) 기준금리 동결 | 중동 원유 운송비 | 리폼 상표권</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26430,15 +26439,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240405.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240405.mp3</guid>
       <pubDate>Fri, 05 Apr 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (4부) 사면초박</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 그럼 CNN이겠어요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240405_4.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240405_4.mp3</guid>
-      <pubDate>Fri, 05 Apr 2024 12:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
