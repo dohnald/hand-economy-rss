@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/1(일) 러시아 경제가 마침내 흔들리고 있습니다..만.. - 이문영 교수 (서울대 통일평화연구원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+러시아 경제가 마침내 흔들리고 있습니다..만.. 
+- 이문영 교수 (서울대 통일평화연구원)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260301.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260301.mp3</guid>
+      <pubDate>Sun, 01 Mar 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 2/28(토) 이란 국민들은 지금 대탈출을 준비합니다 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26414,18 +26425,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240407.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240407.mp3</guid>
       <pubDate>Sun, 07 Apr 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/6(토) 한중일 통화가 녹고 있는 이유</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[역시나 박정호]
-한중일 통화가 녹고 있는 이유
-with 오승훈 아나운서]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240406.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240406.mp3</guid>
-      <pubDate>Sat, 06 Apr 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
