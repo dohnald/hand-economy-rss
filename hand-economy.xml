@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 2/28(토) 이란 국민들은 지금 대탈출을 준비합니다 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+이란 국민들은 지금 대탈출을 준비합니다
+- 박정호 명지대 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260228.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260228.mp3</guid>
+      <pubDate>Sat, 28 Feb 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - 6개월 후 코스피 지수, 제 예상은요...</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26415,29 +26426,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240406.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240406.mp3</guid>
       <pubDate>Sat, 06 Apr 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>협찬인가 - 인성도 고쳐주는 '손경제리포트'(feat.남미 모험가 근황)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[다양한 산업과 직업의 속이야기를 파헤쳐보는 
-- 이것은 협찬인가 콘텐츠인가
- 
-이번 화에 새로운 광고주는 출연하지 않습니다.
-그동안의 출연자들 중, 기억에 남는, 
-뒷 이야기가 궁금한 광고주 분들께 안부 연락을 드렸습니다.
-
-#85 한미 대학생 인턴십 'WEST' 윤수정 교육연구사님
-#75 초음파 튀김봉 '제로원' 박동두 대표님
-#65 세명대 영화웹툰애니메이션학과 성연창 교수님
-#72 지식웹툰 플랫폼 '이만배' 이성업 대표님
-#78 스파게티 밀키트 전문 '식스시즌스' 김서하 대표님
-  
-(이것은 협찬인가 콘텐츠인가) 
-출연 문의: hand-economy@naver.com   ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240405(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240405(1).mp3</guid>
-      <pubDate>Sat, 06 Apr 2024 09:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
