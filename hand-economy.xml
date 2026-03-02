@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/2(월) 美전쟁부와 클로드 (김덕진 소장) | 폴란드 무기거래 | 홍콩 주거정책 부작용 | 베트남 내연오토바이 규제 (이혜인 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+앤스로픽은 뭘 믿고
+미국 정부와 한판 붙나
+- 김덕진 IT커뮤니케이션 연구소 소장
+
+2부
+[글로벌 리포트]
+유럽의 숨은 강자 폴란드
+핵 무장까지 준비한다?
+- 이혜인 기자 (한국경제신문)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260302.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260302.mp3</guid>
+      <pubDate>Mon, 09 Mar 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 3/2(월) 이란 호르무즈 해협 | 구글 고정밀지도</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26416,19 +26435,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240408.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240408.mp3</guid>
       <pubDate>Mon, 08 Apr 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]4/8(월) 美 연준 이사, "추가 금리 인상 필요할 수도..."  外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 美 연준 이사, "추가 금리 인상 필요할 수도..."  
-- "제발 해지해 주세요" 8.2% 적금 팔다 곤경 
-- 아파트 빌트인 가구업체 '10년간 담합' 적발 
-
-출연: 안승찬 언더스탠딩 기자, 손석우 경제뉴스큐레이터, 이진우 진행]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240408.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240408.mp3</guid>
-      <pubDate>Mon, 08 Apr 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
