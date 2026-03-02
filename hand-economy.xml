@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 3/2(월) 이란 호르무즈 해협 | 구글 고정밀지도</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 이란, 美공격에 호르무즈 해협 봉쇄.. 영향은?
+2) 국토부, ‘고정밀 지도’ 국외 반출 조건부 허가
+- 조미현 한국경제신문 기자
+- 손희애 경제뉴스 큐레이터
+
+[친절한 경제]
+레버리지 ETF는 어떻게 구성되나요?
+- 청취자 홍점표 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260302.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260302.mp3</guid>
+      <pubDate>Mon, 02 Mar 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/1(일) 러시아 경제가 마침내 흔들리고 있습니다..만.. - 이문영 교수 (서울대 통일평화연구원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26412,19 +26429,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240408.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240408.mp3</guid>
       <pubDate>Mon, 08 Apr 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/7(일) 강제로 상장된 회사, 14만배 된 사연</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[공부왕 이종훈]
-대한민국 재벌 기업,
-강제로 상장됐다?
-- 이종훈 플레이볼 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240407.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240407.mp3</guid>
-      <pubDate>Sun, 07 Apr 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
