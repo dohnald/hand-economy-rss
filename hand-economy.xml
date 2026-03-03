@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/3(화) 조선 패권 수복을 위한 일본의 마스터플랜 - 권효재 대표 (COR에너지인사이트)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+조선 패권 수복을 위한 일본의 마스터플랜
+- 권효재 대표 (COR에너지인사이트)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260303.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260303.mp3</guid>
+      <pubDate>Tue, 03 Mar 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 3/3(화) 이란 사태와 美증시 | 지하철 무임승차 | 임대사업자 매물</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26429,18 +26440,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240409.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240409.mp3</guid>
       <pubDate>Tue, 09 Apr 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/8(월) 당신의 성공이 '운빨'인 이유(김현철 홍콩과기대 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[김현철의 뉴 퍼스펙티브]
-당신의 성공이 '운빨'인 이유
-- 김현철 홍콩과학기술대 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240408.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240408.mp3</guid>
-      <pubDate>Mon, 08 Apr 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
