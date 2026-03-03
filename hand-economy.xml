@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 3/3(화) 이란 사태와 美증시 | 지하철 무임승차 | 임대사업자 매물</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 이란 전쟁에도 급락은 없었다.. 미국 증시 ‘보합’
+2) 지하철 무임승차 기준 "연령 상향 보다 소득별 차등"
+3) 주임사 만료전에도 매도 허용하나.. 매물 유도 총력
+- 김치형 경제뉴스 큐레이터
+- 최정희 이데일리 기자
+
+[친절한 경제]
+주가 오를 때 레버리지ETF
+가격이 떨어지는 경우는?
+- 청취자 최선주 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260303.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260303.mp3</guid>
+      <pubDate>Tue, 03 Mar 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/2(월) 美전쟁부와 클로드 (김덕진 소장) | 폴란드 무기거래 | 홍콩 주거정책 부작용 | 베트남 내연오토바이 규제 (이혜인 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26422,19 +26441,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240408.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240408.mp3</guid>
       <pubDate>Mon, 08 Apr 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 4/8(월) 주택을 상속받을 떄 고려해야하는 것들</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 얼마 전 아버지가 돌아가셨습니다. 주택지분을 상속 받으면 청약이 안 되는 줄 알고, 엄마가 상속을 받으려고 했는데, 커피타임 방송을 듣고 지분상속은 청약이 가능하다는 것을 알게 되었습니다. 
-아버지 명의로 돼 있던 재산은 네 가구와 상가로 돼 있는 다가구 주택과 종중명의 땅과 그 외 현재는 공터인 땅 지분 일부입니다. 저희 가족은 엄마, 95년생 언니, 98년생인 저, 이렇게 세 명인데요, 엄마는 다가구 주택을 아빠와 공동명의로 소유 중이어서 1주택이고, 언니도 1주택입니다. 이 상태에서 아버지 명의 주택 지분을 저희 세식구가 나눠 가지면 엄마와 언니는 2주택자가 되는 건지 궁금합니다.
-또, 제가 지분을 받은 상태에서 만약 청약에 당첨이 되면, 지분을 처분해야한다고 하던데, 가족한테 처분하면 취득세가 또 발생하는 걸까요? 주택 외에 땅의 지분을 상속 받는다면, 무주택자이지만 재산에는 포함되는 것인지도 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240408.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240408.mp3</guid>
-      <pubDate>Mon, 08 Apr 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
