@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 3/5(목) 사모대출 공포 | 中 반도체 퇴출 | 출산율 증가</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 미국 사모대출 우려 확산.. 블랙스톤 투자금 5.6조원 이탈
+2) 美 정부, 중국 반도체 퇴출 공식화.. 삼성·SK ‘호재’
+3) 출산율 2년 연속 반등.. 지속 가능 여부엔 물음표
+- 하수정 경제뉴스 큐레이터
+- 정지서 연합인포맥스 기자
+- 박수익 비즈니스워치 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260305.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260305.mp3</guid>
+      <pubDate>Thu, 05 Mar 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/4(수) 텔레그램 (하수정 큐레이터) | 배당주 투자 (김채성 대표)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26442,17 +26457,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240410.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240410.mp3</guid>
       <pubDate>Wed, 10 Apr 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/9(화) 앞으로 10년, 휴머노이드가 온다?(한재권 한양대 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-앞으로 10년, 휴머노이드가 온다?
-- 한재권 한양대 로봇공학과 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240409.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240409.mp3</guid>
-      <pubDate>Tue, 09 Apr 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
