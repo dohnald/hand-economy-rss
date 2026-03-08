@@ -16,6 +16,26 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/8(일) 멕시코 마약왕이 죽어도 카르텔은 굳건합니다 - 박정원 교수 (경희대 스페인어학과)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+멕시코 마약왕이 죽어도 카르텔은 굳건합니다 
+- 박정원 교수 (경희대 스페인어학과)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260308.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260308.mp3</guid>
+      <pubDate>Sun, 08 Mar 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - 보톡스, 리주란 그리고 미니쉬</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[협찬문의 : hand-economy@naver.com]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee260306.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee260306.mp3</guid>
+      <pubDate>Sun, 08 Mar 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/7(토) 미국의 이란 공습이 중국에 치명적인 이유 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26448,24 +26468,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240412_3.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240412_3.mp3</guid>
       <pubDate>Fri, 12 Apr 2024 12:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 그의 바람을 잡았습니다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[미안한데 다음에 얘기하면 안돼?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240412_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240412_2.mp3</guid>
-      <pubDate>Fri, 12 Apr 2024 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 왜 떳는지 모르는 유튜버   </title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[작가협회 가입하기]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240412_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240412_1.mp3</guid>
-      <pubDate>Fri, 12 Apr 2024 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
