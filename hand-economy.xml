@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/9(월) 차세대 디바이스 (김덕진 소장) | 세금 도피처 두바이 | 中 소수민족 언어 지우기 | 호주 주2일 재택근무제 (이혜인 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+스마트폰의 시대가
+흔들리고 있습니다
+- 김덕진 IT커뮤니케이션 연구소 소장
+
+2부
+[글로벌 리포트]
+미사일보다 무서운 세금
+두바이로 향하는 부자들
+- 이혜인 기자 (한국경제신문)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260309.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260309.mp3</guid>
+      <pubDate>Mon, 09 Mar 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 3/9(월) 원유 확보 | 美 고용지표 | 전세사기 최소보장제 | 마이너스통장 잔액 급증</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26470,15 +26489,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240412_5.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240412_5.mp3</guid>
       <pubDate>Fri, 12 Apr 2024 12:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (4부)  선상장 후놀림</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- '서로의 끝에서' 작사 비하인드]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240412_4.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240412_4.mp3</guid>
-      <pubDate>Fri, 12 Apr 2024 12:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
