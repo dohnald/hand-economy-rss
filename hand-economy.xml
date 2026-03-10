@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 3/10(화) 트럼프 "전쟁 마무리 수순" | 한전채 급등 기름값 대응 | 중국 오픈클로 열풍</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 트럼프 "전쟁 마무리 수순".. 유가 급락
+2) 한전채·국채 금리 급등.. 신용 경색 우려도 
+3) 정부, 기름값 대응에 총력.. 유류세와 추경도 만지작
+4) 중국은 지금, AI에이전트 '오픈클로' 열풍
+- 김치형 경제뉴스 큐레이터
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260310.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260310.mp3</guid>
+      <pubDate>Tue, 10 Mar 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/9(월) 차세대 디바이스 (김덕진 소장) | 세금 도피처 두바이 | 中 소수민족 언어 지우기 | 호주 주2일 재택근무제 (이혜인 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26480,15 +26496,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240412.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240412.mp3</guid>
       <pubDate>Fri, 12 Apr 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (5부) 죽을 자유와 구출할 자유?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 스토리 있는 정치인]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240412_5.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240412_5.mp3</guid>
-      <pubDate>Fri, 12 Apr 2024 12:04:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
