@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/11(수) 그리스 해운사 '다이나콤 탱커스' (하수정 큐레이터) | 에너지 가격의 미래 (홍성기 연구원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업 되는 기업]
+호르무즈 봉쇄로 
+떼돈 버는 해운사
+- 하수정 경제뉴스 큐레이터
+
+2부
+기뢰가 설치된다면
+유가는 최소 100불입니다
+- 홍성기 연구원 (LS증권)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260311.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260311.mp3</guid>
+      <pubDate>Wed, 11 Mar 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 3/11(수) 국민성장펀드 면책 | 자사주 소각</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26480,18 +26498,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240414.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240414.mp3</guid>
       <pubDate>Sun, 14 Apr 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/13(토) 중국 부동산이 되살아나긴 힘든 이유(박정호 명지대 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[역시나 박정호]
-중국 부동산, 부활은 어렵다?
-w. 오승훈 아나운서]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240413.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240413.mp3</guid>
-      <pubDate>Sat, 13 Apr 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
