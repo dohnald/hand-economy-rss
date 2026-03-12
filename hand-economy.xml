@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 3/12(목) 원자재 공급망 | 삼전 채권투자 | ETF 괴리율</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 전쟁에 원자재 공급망 위기.. 석화·비료·반도체 비상
+2) 현금 쌓인 삼성전자, 12년 만에 채권 투자 검토
+3) 증시 급등락에 ETF 가격 ‘혼란’.. 괴리율 초과 공시 폭증
+- 하수정 경제뉴스 큐레이터
+- 조미현 한국경제신문 기자
+- 박수익 비즈니스워치 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260312.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260312.mp3</guid>
+      <pubDate>Thu, 12 Mar 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/11(수) 그리스 해운사 '다이나콤 탱커스' (하수정 큐레이터) | 에너지 가격의 미래 (홍성기 연구원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26486,18 +26501,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240415.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240415.mp3</guid>
       <pubDate>Mon, 15 Apr 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/14(일) 조선의 일식 예측, 오차가 1분이었다? (이독실 과학커뮤니케이터)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[테코노미]
-조선의 일식 예측, 오차가 1분이었다?
--이독실 과학커뮤니케이터]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240414.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240414.mp3</guid>
-      <pubDate>Sun, 14 Apr 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
