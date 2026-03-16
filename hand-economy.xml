@@ -16,6 +16,28 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 3/16(월) 환율 | 추경 | 반값아파트</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 중동 전쟁에 환율 1500원 웃돌아.. 추경  속도낸다
+2) 서울 마곡에 ‘반값 아파트’ 등장.. 토지임대부 주택이란?
+- 최정희 이데일리 기자
+- 이희수 매일경제신문 기자
+
+[친절한 경제]
+요즘 왜 휘발유보다 
+경유 가격이 더 많이 오르나요?
+- 청취자 조인제 씨
+
+왜 뉴스는 항상 유가를
+브렌트유로 체크하나요?
+- 청취자 전현식 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260316.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260316.mp3</guid>
+      <pubDate>Mon, 16 Mar 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/15(일) 천궁-Ⅱ의 미친 정확도 비결을 파헤쳤습니다 - 안승범 대표 (디펜스 타임즈)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26490,19 +26512,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240417.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240417.mp3</guid>
       <pubDate>Wed, 17 Apr 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 4/17(수) IMF, 올해 한국 경제성장률 2.3% 유지 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- IMF, 올해 한국 경제성장률 2.3% 유지
-- 통신 '메기' 국민은행, 알뜰폰 '출혈경쟁' 중단
-- 태영건설, 자본 확충으로 정상화 돌입 
-
-출연: 서은영 경제뉴스큐레이터, 남궁민 경제뉴스큐레이터, 김치형 경제뉴스큐레이터, 이진우 진행]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240417.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240417.mp3</guid>
-      <pubDate>Wed, 17 Apr 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
