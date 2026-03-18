@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/18(수) 넷플릭스 (하수정 큐레이터) | 증권주 투자 (김지영 센터장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업 되는 기업]
+AI 제작사 인수한 넷플릭스
+- 하수정 경제뉴스 큐레이터
+
+2부
+폭등한 증권주, 천장이 뚫렸다?
+- 김지영 교보증권 리서치센터장
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260318.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260318.mp3</guid>
+      <pubDate>Wed, 18 Mar 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 3/18(수) 아파트 공시가 | 텅스텐 광산 | 신세계 데이터센터</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26516,18 +26533,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240419.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240419.mp3</guid>
       <pubDate>Fri, 19 Apr 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/18(목) 혼돈의 부동산 시장, 데이터로 본다면?(박원갑 KB부동산 수석전문위원)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[이슈 플러스]
-혼돈의 부동산 시장, 데이터로 본다면?
--박원갑 KB부동산 수석전문위원]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240418.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240418.mp3</guid>
-      <pubDate>Thu, 18 Apr 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
