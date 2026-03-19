@@ -16,6 +16,26 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 3/19(목) 원유 공급 쇼크 | 자본시장 개혁</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 4월부터 원유 공급 끊긴다.. 러시아산 수입도 검토
+2) 중동 가스시설 또 피격.. 유가 110달러 뚫었다
+3) 코스닥 개혁 본격화.. 3부 리그 승강제 도입한다
+4) 저PBR 기업 공개하고 중복상장 원칙적 금지
+- 하수정 경제뉴스 큐레이터
+- 박수익 비즈니스워치 기자
+
+[친절한 경제]
+주식 판 돈은
+왜 이틀 후에 들어오나요?
+- 청취자 박상기 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260319.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260319.mp3</guid>
+      <pubDate>Thu, 19 Mar 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/18(수) 넷플릭스 (하수정 큐레이터) | 증권주 투자 (김지영 센터장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26520,19 +26540,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240419_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240419_1.mp3</guid>
       <pubDate>Fri, 19 Apr 2024 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]4/19(금) 한은, "대미 수출 흑자, 무역제재 유발 가능성도"  外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 한은, "대미 수출 흑자, 무역제재 유발 가능성도" 
-- 저신용자 대출 꺼리는 저축은행.. 이유는
-- 국회 직회부된 제 2양곡법.. 쟁점은? 
-
-출연: 이상은 한국경제신문 기자, 김현우 행복자산관리연구소 소장, 박세훈 작가, 이진우 진행]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240419.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240419.mp3</guid>
-      <pubDate>Fri, 19 Apr 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
