@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/19(목) 엔비디아가 그리는 미래, 메모리는 또 부족합니다 - 이수림 책임연구원 (DS투자증권)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+엔비디아가 그리는 미래
+메모리는 또 부족합니다 
+- 이수림 책임연구원 (DS투자증권)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260319.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260319.mp3</guid>
+      <pubDate>Thu, 19 Mar 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 3/19(목) 원유 공급 쇼크 | 자본시장 개혁</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26531,15 +26543,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240419_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240419_2.mp3</guid>
       <pubDate>Fri, 19 Apr 2024 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 레모나 말고 정관장?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[환율 구두 개입 효과]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240419_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240419_1.mp3</guid>
-      <pubDate>Fri, 19 Apr 2024 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
