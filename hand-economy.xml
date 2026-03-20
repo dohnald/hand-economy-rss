@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임(협찬) - 치과의사가 자기 치아엔 미백도 안하는 이유 with 홍동환 원장</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA['커피타임'의 돈줄! 뒷배!
+다양한 직업과 산업의 뒷이야기를 들어보는 '이것은 협찬인가 콘텐츠인가'
+120번째 주인공은 구강외과 전문의 홍동환 원장님입니다.
+
+공학도였다가 사람들과 말하는 게 좋아 다시 치대를 갔다는 홍원장님이
+정말 솔직하게 털어놓는 치과 시술과 구강 건강 이야기.
+손경제 '이것은 협찬인가' 에서만 들을 수 있습니다!
+
+협찬문의 : hand-economy@naver.com]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/260321standard.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/260321standard.mp3</guid>
+      <pubDate>Sat, 21 Mar 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 3/20(금) RIA 지연 | 나스닥 토큰화 | 전기차</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26542,15 +26559,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240419_4.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240419_4.mp3</guid>
       <pubDate>Fri, 19 Apr 2024 12:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 소보로빵과 사발면 </title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 김현우의 돈관리 노하우]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240419_3.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240419_3.mp3</guid>
-      <pubDate>Fri, 19 Apr 2024 12:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
