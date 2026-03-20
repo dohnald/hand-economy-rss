@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 3/20(금) RIA 지연 | 나스닥 토큰화 | 전기차</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) ‘서학개미 복귀’ RIA 계좌, 또 출시 지연.. 증권사 혼란
+2) 나스닥, 토큰화 증권 거래 승인받아.. ‘온체인화’ 본격화
+- 손희애 경제뉴스 큐레이터
+- 정지서 연합인포맥스 기자
+
+[이슈 인터뷰]
+전쟁 이후, 전기차 수요 늘었다?
+- 권용주 자동차 칼럼니스트]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260320.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260320.mp3</guid>
+      <pubDate>Fri, 20 Mar 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/19(목) 엔비디아가 그리는 미래, 메모리는 또 부족합니다 - 이수림 책임연구원 (DS투자증권)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26534,15 +26551,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240419_3.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240419_3.mp3</guid>
       <pubDate>Fri, 19 Apr 2024 12:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 해명타임(feat.가세연 &amp; 뉴공)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[주인공병]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240419_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240419_2.mp3</guid>
-      <pubDate>Fri, 19 Apr 2024 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
