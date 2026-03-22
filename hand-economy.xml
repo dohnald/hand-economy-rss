@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/22(일) K-디스플레이가 초격차를 만들었습니다 - 이태우 교수(서울대 재료공학부)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+K-디스플레이가 
+초격차를 만들었습니다 
+- 이태우 교수(서울대 재료공학부)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260322.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260322.mp3</guid>
+      <pubDate>Sun, 22 Mar 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - 진우와 정호의 연애학 개론</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26543,23 +26555,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240421.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240421.mp3</guid>
       <pubDate>Sun, 21 Apr 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/20(토) 쿠팡은 왜 공짜로 배달? | 사우디 네옴 포기?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[키워드경제]
-쿠팡이 공짜 배달에 사활을 거는 이유
-- 남궁민 작가
-
-2부
-[글로벌리포트]
-돈 떨어진 사우디, 네옴 팍 줄인다?
-- 어예진 해담경제연구소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240420.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240420.mp3</guid>
-      <pubDate>Sat, 20 Apr 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
