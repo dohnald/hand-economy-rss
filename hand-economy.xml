@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 3/23(월) 원자재 쇼크 | 차기 한은 총재 | 사모대출 펀드런</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 전쟁 장기화 국면.. 에틸렌·헬륨 등 원자재 공급 ‘비상’
+2) 한국은행 총재 후보에 신현송 BIS 통화경제국장
+3) 미국 사모대출 ‘펀드런’ 확산.. 국내 영향은?
+- 조미현 한국경제신문 기자
+- 최정희 이데일리 기자
+
+[친절한 경제]
+주식 판 돈은
+왜 이틀 후에 들어오나요?
+- 청취자 박상기 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260323.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260323.mp3</guid>
+      <pubDate>Mon, 23 Mar 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/22(일) K-디스플레이가 초격차를 만들었습니다 - 이태우 교수(서울대 재료공학부)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26543,18 +26562,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240422.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240422.mp3</guid>
       <pubDate>Mon, 22 Apr 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/21(일) 이란 경제의 잠재력(박정호 명지대 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[역시나 박정호]
-이란 경제의 잠재력
-w. 오승훈 아나운서]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240421.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240421.mp3</guid>
-      <pubDate>Sun, 21 Apr 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
