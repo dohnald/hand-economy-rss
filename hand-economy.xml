@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/24(화) 신탁사가 재건축하면 사업이 정말 빨라질까요? - 김예림 대표 변호사 (법무법인 심목)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+신탁사가 재건축하면 
+사업이 정말 빨라질까요? 
+- 김예림 대표 변호사 (법무법인 심목)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260324.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260324.mp3</guid>
+      <pubDate>Tue, 24 Mar 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 3/24(화) TACO | SK하이닉스 ADR | RIA 출시 | 외국인 주택구입</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26561,18 +26573,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240423.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240423.mp3</guid>
       <pubDate>Tue, 23 Apr 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/22(월) 용산국제업무지구, 이번에도 쉽지 않다?(김경민 서울대 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[도시 인사이트]
-용산국제업무지구, 이번에도 쉽지 않다?
-- 김경민 서울대 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240422.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240422.mp3</guid>
-      <pubDate>Mon, 22 Apr 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
