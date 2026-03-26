@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 3/26(목) 원유 비달러화 결제 | 자사주 소각 회피 | 사모대출 환매 제한</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 러시아산 원유 수입길 열렸다.. “비달러화 결제 가능”
+2) 3차 상법개정 이후 첫 주총.. 자사주 소각 회피 ↑
+3) 美 사모대출 연이은 환매 제한.. 신용등급 떨어지기도
+- 정지서 연합인포맥스 기자
+- 박수익 비즈니스워치 기자
+- 하수정 경제 전문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260326.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260326.mp3</guid>
+      <pubDate>Thu, 26 Mar 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/25(수) 카길 (하수정 경제전문 기자) | KF-21 (임철균 전문연구위원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26574,17 +26589,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240424.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240424.mp3</guid>
       <pubDate>Wed, 24 Apr 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/23(화) 한귀로 듣는 2024 반도체 산업지도</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-한귀로 듣는 2024 반도체 산업지도
-- 최리노 인하대 신소재공학과 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240423.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240423.mp3</guid>
-      <pubDate>Tue, 23 Apr 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
