@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/26(목) 5살 때 생긴 돌연변이가 암이 되는 과정 - 오지원 교수 (연세대 의과대학)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+5살 때 생긴 돌연변이가
+암이 되는 과정
+- 오지원 교수 (연세대 의과대학)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260326.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260326.mp3</guid>
+      <pubDate>Thu, 26 Mar 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 3/26(목) 원유 비달러화 결제 | 자사주 소각 회피 | 사모대출 환매 제한</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26576,19 +26588,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20240424.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20240424.mp3</guid>
       <pubDate>Wed, 24 Apr 2024 11:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]4/24(수) 삼성전자, SK하이닉스 올해 법인세 '0'.. 세수 펑크 우려   外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 삼성전자, SK하이닉스 올해 법인세 '0'.. 세수 펑크 우려
-- 뉴욕 증권 거래소, 24시간 거래 검토 
-- 오늘부터 K-패스 발급 시작  
-
-출연: 서은영 경제뉴스큐레이터, 남궁민 경제뉴스큐레이터, 김치형 경제뉴스큐레이터, 이진우 진행]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240424.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240424.mp3</guid>
-      <pubDate>Wed, 24 Apr 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
