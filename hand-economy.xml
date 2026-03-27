@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - 이프로님, 그래서 주식 지금 들어가도 되나요?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[협찬문의 : hand-economy@naver.com]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee260327.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee260327.mp3</guid>
+      <pubDate>Sat, 28 Mar 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 3/27(금) 구글 터보퀀트 | CPU | 유류세 인하</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26559,23 +26568,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240424.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240424.mp3</guid>
       <pubDate>Wed, 24 Apr 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 4/24(수) 서류상 두 회사에서 일 하고 있는데.. 4대 보험료 어쩌죠?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 회사 사정으로 두 군데의 회사 정규직으로 일하게 되었습니다. 한군데서 받던 연봉을 둘로 나뉘어 반반씩 받는 것으로 근로계약을 새로 작성하게 되었는데요, 4대 보험은 양쪽 회사에서 모두 제하고 받기로 했습니다. 궁금한 것이 3가지가 있는데요.
-
-양 회사에서 모두 4대 보험을 제하고 받는 것이 맞는 것인지요? 양 회사에서 모두 4대 보험을 제한다면, 건강보험은 그렇다치고, 국민연금은 양회사에서 낸게 모두 적립되는지요?
-
-두번째는 연말정산때 어떻게 해야 되는지 궁금합니다. 원래 다니던 회사에서 연말정산을 하고, 두번째 회사는 올해 5월 종합소득세 신고를 해야 하나요? 아니면 각 회사에서 올해말에 각각 연말정산을 해야 하나요?
-
-마지막으로 담보대출이나 신용대출을 받을 때 연봉은 어떻게 적용되는지도 궁금합니다. ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240424.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240424.mp3</guid>
-      <pubDate>Wed, 24 Apr 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
