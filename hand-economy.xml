@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 3/27(금) 구글 터보퀀트 | CPU | 유류세 인하</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 유류세 추가 인하·요소수 관리.. 물가 대응 총력
+2) 삼성전자·SK하이닉스 급락.. 구글 ‘터보퀀트’가 뭐길래
+3) AI 에이전트 시대엔 GPU 보다 CPU.. 이유는?
+- 조미현 한국경제신문 기자
+- 오찬종 매일경제신문 기자
+- 손희애 경제뉴스 큐레이터
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260327.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260327.mp3</guid>
+      <pubDate>Fri, 27 Mar 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/26(목) 5살 때 생긴 돌연변이가 암이 되는 과정 - 오지원 교수 (연세대 의과대학)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26560,34 +26576,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240424.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240424.mp3</guid>
       <pubDate>Wed, 24 Apr 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>협찬인가 - 태양신이 점지한 주님이 왔어요</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[다양한 산업과 직업의 속 이야기를 파헤쳐 보는 
-'이것은 협찬인가 콘텐츠인가'
- 
-이번 화의 주인공은 태양광 발전소를 개발하는 '퍼블릭 에너지'의 송봉국 대표입니다. 사업 부지 확보부터 인허가, 시공까지 전 과정에 관여하고 계시는데요. 최근에는 지붕을 놀리고 계신 분들을 위한 '지붕 태양광' 솔루션 사업에 집중하고 있습니다.
-
-공장이나 창고, 축사, 학교 같은 건물의 지붕 위에 태양광 발전소를 짓는 사업인데요. 건물주가 직접 지붕 태양광 발전소를 운영하면서 전력 판매액을 받을 수도 있고요. 복잡한 절차가 귀찮은 분들은 송봉국 대표님을 통해 에너지 공기업을 임차인으로 맞이하고 지붕 임대료를 수취할 수도 있습니다. 
-
-건물주를 연결해줄 분도 찾고 있는데요. 연결해준 곳에서 사업이 성사될 경우 꽤 큰 액수의 컨설팅 수수료를 나눠받으실 수 있습니다. 
-
-부가 수익이 필요한 건물주분들!
-그리고 그런 건물주를 알고 계신 분들은
-아래 연락처로 전화하시면 자세한 사항을 안내 받을 수 있습니다.
-(2~300평 건물에도 설치 가능합니다)
-
-퍼블릭에너지 블로그 ttps://blog.naver.com/publicenergy/223420725168
-퍼블릭에너지 송봉국 대표 010-8833-2708
- 
-송봉국 대표님과 퍼블릭 에너지 흥해라!!
-
-'이것은 협찬인가 콘텐츠인가' 출연 문의는 hand-economy@naver.com]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20240424.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20240424.mp3</guid>
-      <pubDate>Wed, 24 Apr 2024 11:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
