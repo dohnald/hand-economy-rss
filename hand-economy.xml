@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/28(토) 에너지 엄청 쓰는 한국, 국민은 죄가 없습니다 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+에너지 엄청 쓰는 한국
+국민은 죄가 없습니다 
+- 박정호 명지대 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260328.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260328.mp3</guid>
+      <pubDate>Sat, 28 Mar 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - 이프로님, 그래서 주식 지금 들어가도 되나요?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26556,19 +26569,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240425.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240425.mp3</guid>
       <pubDate>Thu, 25 Apr 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]4/25(목) 국내 유일 정제염 공장 가동 중단, 식품업계 우려  外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[-국내 유일 정제염 공장 가동 중단, 식품업계 우려
-- '1인 가구는 10평 원룸에만?' 임대주택 논란
-- 틱톡, 美 '강제 매각법' 제정에, 소송전 예고 
-
-출연: 서은영 경제뉴스큐레이터, 김현우 행복자산관리연구소, 박세훈 작가, 이진우 진행]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240425.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240425.mp3</guid>
-      <pubDate>Thu, 25 Apr 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
