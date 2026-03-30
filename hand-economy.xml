@@ -16,6 +16,28 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 3/30(월) 韓 경제성장률 전망 하향 | 호르무즈 협상 | 다주택자 양도세 중과</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) OECD, 한국 성장률 전망 2.1%→1.7%로 하향
+2) 일본·태국 등 이란과 호르무즈 통과 합의.. 한국은 ‘신중’
+3) '양도세 중과' 급매장 끝나나.. 매물 다시 감소세
+4) 금감원, 강남3구 아파트 사업자대출 들여다본다
+5) 주택담보대출 고정금리 상단 7% 뚫었다
+6) 노량진·흑석 뉴타운 분양.. 국평 25억 넘어섰다
+- 조미현 한국경제신문 기자
+- 최정희 이데일리 기자
+
+[친절한 경제]
+중국은 왜 통화량이 늘어도
+집값이 떨어지나요?
+- 청취자 이용우 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260330.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260330.mp3</guid>
+      <pubDate>Mon, 30 Mar 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/29(일) 인류가 멸종하지 않는 한 뷰티 산업은 불멸입니다 - 재원쌤</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26558,18 +26580,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240426.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240426.mp3</guid>
       <pubDate>Fri, 26 Apr 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/25(목) 비트코인 빙하기 오는 단 하나의 시나리오 (오태민 건국대 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-비트코인 빙하기 오는 
-단 하나의 시나리오
-- 오태민 건국대 정보통신대학원 겸임교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240425.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240425.mp3</guid>
-      <pubDate>Thu, 25 Apr 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
