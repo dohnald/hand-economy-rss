@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 3/30(월) '소라' 서비스 종료 (김덕진 소장) | 베네수엘라 범죄율 | 일본 싱글세 | 도미니카공화국 우주산업 (이혜인 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+전선 넓히는 엔비디아
+오픈클로도 잡아먹는다
+- 김덕진 IT커뮤니케이션 연구소 소장
+
+2부
+[글로벌 리포트]
+소라 폐기한 오픈AI
+자금이 떨어졌나?
+- 이혜인 기자 (한국경제신문)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260330.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260330.mp3</guid>
+      <pubDate>Mon, 30 Mar 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 3/30(월) 韓 경제성장률 전망 하향 | 호르무즈 협상 | 다주택자 양도세 중과</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26566,20 +26585,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240426_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240426_1.mp3</guid>
       <pubDate>Fri, 26 Apr 2024 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]4/26(금) '불효자는 상속권 없다', 유류분 제도 위헌  外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- '불효자는 상속권 없다', 유류분 제도 위헌 
-- 국고채 금리 올라, 금리 인하 늦춰지나
-- k-댄스 열풍에도 '안무 저작권'은 없다?
-- 일용직 월 평균 근로일수 '20일'로
-
-출연: 이상은 한국경제신문 기자, 김현우 행복자산관리연구소 소장, 박세훈 작가, 이진우 진행]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240426.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240426.mp3</guid>
-      <pubDate>Fri, 26 Apr 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
