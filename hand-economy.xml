@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 3/31(화) 삼성전자 ADR | 홈플러스 분할 매각 | 러시아산 나프타 | 한화솔루션</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 이란 전쟁 장기화에 불확실성 커져.. 미국 증시 혼조
+2) "삼성전자도 ADR 상장 필요".. 주주 목소리 ↑
+3) 홈플러스, 슈퍼마켓 사업부 분할 매각 추진
+4) 한화솔루션, 유상증자 후폭풍.. 소액주주 결집
+5) 러시아산 나프타 2.7만 톤 수입.. 3~4일치 분량
+- 김치형 경제뉴스 큐레이터
+- 정지서 연합인포맥스 기자
+- 라예진 이코노미스트 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260331.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260331.mp3</guid>
+      <pubDate>Tue, 31 Mar 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/30(월) '소라' 서비스 종료 (김덕진 소장) | 베네수엘라 범죄율 | 일본 싱글세 | 도미니카공화국 우주산업 (이혜인 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26574,17 +26591,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240426_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240426_2.mp3</guid>
       <pubDate>Fri, 26 Apr 2024 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부)  다저스 모자와 초록 줄무늬 티</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[국회의원이 공부하기 시작하면...
-
- ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240426_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240426_1.mp3</guid>
-      <pubDate>Fri, 26 Apr 2024 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
