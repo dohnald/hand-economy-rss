@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 4/1(수) 데이터센터 건설 (하수정 경제전문 기자) | 초고압 송전 (손현정 유안타증권 연구위원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업 되는 기업]
+데이터센터가
+요새화되고 있습니다
+- 하수정 경제전문 기자
+
+2부
+전력 인프라 슈퍼사이클
+아직 초입에 불과합니다
+- 손현정 유안타증권 연구위원]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260401.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260401.mp3</guid>
+      <pubDate>Wed, 01 Apr 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 4/1(수) 공정위 전속고발권 | 환율 | 고유가 피해지원금 | 긴급재정명령</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26596,15 +26614,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240426_5.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240426_5.mp3</guid>
       <pubDate>Fri, 26 Apr 2024 12:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (4부) 정 회장님과 MB</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 밤양갱]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240426_4.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240426_4.mp3</guid>
-      <pubDate>Fri, 26 Apr 2024 12:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
