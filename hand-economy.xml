@@ -16,6 +16,26 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/1(수) 공정위 전속고발권 | 환율 | 고유가 피해지원금 | 긴급재정명령</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 공정위 ‘전속고발권’ 폐지 추진.. 개편안 내용은?
+2) 환율 1530원선 근접.. 한은 총재 후보자 “큰 우려 없어“
+3) 소득 하위 70%에 ‘고유가 피해지원금’.. 26.2조 추경 편성
+4) '33년만에 소환' 긴급재정명령이란?
+- 김치형 경제뉴스 큐레이터
+- 정지서 연합인포맥스 기자
+
+[친절한 경제]
+우리나라 부동산 세금은
+외국보다 적은 편인가요?
+- 청취자 박병인 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260401.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260401.mp3</guid>
+      <pubDate>Wed, 01 Apr 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 3/31(화) 참전하는 후티 반군, 홍해까지 틀어막나 - 문병준 전 사우디 대사대리</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26585,15 +26605,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240426_4.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240426_4.mp3</guid>
       <pubDate>Fri, 26 Apr 2024 12:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) '이데일리 안승찬 기자'</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 생존눈치]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240426_3.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240426_3.mp3</guid>
-      <pubDate>Fri, 26 Apr 2024 12:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
