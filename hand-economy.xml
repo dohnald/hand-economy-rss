@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/2(목) 다주택자 대출 | 호르무즈 통행료 | 수출 800억달러 | 밸류업 공시</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 이란, 호르무즈 통행료 부과.. 연간 150조 규모
+2) 반도체 호황에 수출 800억 달러 넘었다
+3) 다주택자 대출 연장 금지.. 세입자 있으면 예외
+4) 급증한 ‘밸류업 공시’.. 내용은 부실하다?
+- 라예진 이코노미스트 기자
+- 하수정 경제 전문 기자
+- 박수익 비즈니스워치 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260402.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260402.mp3</guid>
+      <pubDate>Thu, 02 Apr 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/1(수) 데이터센터 건설 (하수정 경제전문 기자) | 초고압 송전 (손현정 유안타증권 연구위원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26605,15 +26621,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240426.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240426.mp3</guid>
       <pubDate>Fri, 26 Apr 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (5부)  "찐우, 조아요? 조으면 됐어요..."</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 오지랖 김현우]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240426_5.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240426_5.mp3</guid>
-      <pubDate>Fri, 26 Apr 2024 12:04:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
