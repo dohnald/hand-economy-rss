@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - 1부 펭귄 다큐를 보며 1부1처제를 생각하다</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[협찬문의 : hand-economy@naver.com]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee260403-1.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee260403-1.mp3</guid>
+      <pubDate>Sat, 04 Apr 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - 2부 다주택자 매물과 전세의 상관관계</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[협찬문의 : hand-economy@naver.com]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee260403-2.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee260403-2.mp3</guid>
+      <pubDate>Sat, 04 Apr 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 4/3(금) </title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26586,30 +26604,6 @@ https://smartstore.naver.com/the-ongi
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240429.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240429.mp3</guid>
       <pubDate>Mon, 29 Apr 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/28(일) AI계의 스티브 잡스, 젠슨 황의 일생 (신기주 카운트 대표)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[라이프러리]
-AI계의 스티브 잡스, 젠슨 황의 일생
-- 신기주 카운트 대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240428.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240428.mp3</guid>
-      <pubDate>Sun, 28 Apr 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/27(토) 고령친화 산업의 부재 (박정호 명지대 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[역시나 박정호]
-한국인이 우울한 이유, 고령친화 산업의 부재?
-w. 오승훈 아나운서]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240427.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240427.mp3</guid>
-      <pubDate>Sat, 27 Apr 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
