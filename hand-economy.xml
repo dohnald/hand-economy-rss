@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/3(금) </title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260403.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260403.mp3</guid>
+      <pubDate>Fri, 03 Apr 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/2(목) 창업 고수가 말하는 AI 시대의 진짜 생존법 - 노정석 대표(비팩토리)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26601,26 +26610,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240427.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240427.mp3</guid>
       <pubDate>Sat, 27 Apr 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/26(금) 세계 경제가 풀지 못한 3가지 숙제 | 밀라노 밤에 젤라또 금지?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[키워드경제]
-세계 경제가 풀지 못한 3가지 숙제
--남궁민 작가
-
-2부
-[글로벌리포트]
-이스라엘과 이란 사이, 인도
-아르헨 16년만에 흑자?
-유럽, 난민 막나
-밀라노 밤에 젤라또 금지?
-- 어예진 해담경제연구소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240426.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240426.mp3</guid>
-      <pubDate>Fri, 26 Apr 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
