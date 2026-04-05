@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 4/4(토) 트럼프는 진짜 쿠바를 집어삼킬 생각입니다 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+트럼프는 진짜 쿠바를
+집어삼킬 생각입니다 
+- 박정호 명지대 교수
+
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260404.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260404.mp3</guid>
+      <pubDate>Sat, 04 Apr 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - 1부 펭귄 다큐를 보며 1부1처제를 생각하다</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26593,17 +26607,6 @@ https://smartstore.naver.com/the-ongi
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240429.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240429.mp3</guid>
       <pubDate>Mon, 29 Apr 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 4/29(월) 대학생 아이의 월세, 부모가 공제 받을 수 있나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요? 이제 아이가 대학생이 되어 자취를 시작했습니다. 아이의 생일은 3월이라 이제 성인이 되었구요, 현재 저희는 집이 있고 아이는 자취를 시작하면서 세대주로 분가했습니다. 4월부터 월세를 내고 있는데 부모가 직접 집주인에게 이체하는 것보다, 아이의 이름으로 이체하면 이력도 남아서 추후 연말정산 할 때 월세 공제를 받을 수 있지 않을까 생각하고 있는데요. 등록금도 비싼데, 제가 대학생 아이를 기본공제 대상자로 등록해서 연말정산을 받는게 나을지, 아니면 아이가 알바 소득이 있으니 직접 연말정산을 해서 공제를 받는게 나을지 판단이 잘 안 됩니다. 도와주세요~]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240429.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240429.mp3</guid>
-      <pubDate>Mon, 29 Apr 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
