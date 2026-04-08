@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/8(수) </title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260408.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260408.mp3</guid>
+      <pubDate>Wed, 08 Apr 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/7(화) 숙련공 사라진 미국 노동력 씨가 말랐습니다 - 서병수 애널리스트</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26599,36 +26608,6 @@ FOMC 성명에 담긴 연준의 속내
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240501.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240501.mp3</guid>
       <pubDate>Wed, 01 May 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>협찬인가 - 마케팅 참 못하는 '이진우 도플갱어'</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[다양한 산업과 직업의 속 이야기를 파헤쳐 보는 
-'이것은 협찬인가 콘텐츠인가'
- 
-이번 화의 주인공은 피부 건강을 생각하는 기초 화장품 
-'온기'의 최윤정 대표입니다. 
-
-최윤정 대표님은 15년 이상 신약을 개발했던 약사인데요. 세상에 화장품이 이렇게 많은데 중력 하나 이기지 못했단 사실에 분개하고는 직접 업계에 뛰어들었습니다. 
-
-상품은 딱 하나뿐입니다. 
-클렌저와 에센스, 밀크가 담긴 기초 화장품 세트인데요. 수많은 논문을 섭렵해서 검증된 특허성분 7가지와 다양한 영양성분을 추렸고요. 모든 성분을 효과가 확실한 함량만큼 듬뿍 담았습니다.  향기를 포기하면서까지 모든 유해성분을 제거해서 '저자극'을 넘어 '무자극'을 자부하고 있습니다. 
-
-동종 업계 대비 원가가 월등히 높은 만큼 소비자가도 다소 부담스러울 수 있는 수준인데요. 손경제 출연을 기념해서 이번만큼은 특별히 사실상 무마진을 감수하고 큰 폭의 할인을 약속해주셨습니다. 
-
-미백, 탄력, 진정, 블랙헤드 개선
-이 모든 효과를 무자극으로 경험해보고 싶은 분들은 
-아래 링크에서 '온기'를 만나보실 수 있습니다.
-
-최윤정 대표님과 온기 화장품 흥해라!!
-
-피부건강을 생각하는 기초 화장품, 온기
-https://smartstore.naver.com/the-ongi
-'이것은 협찬인가 콘텐츠인가' 출연 문의는 hand-economy@naver.com]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20240501.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20240501.mp3</guid>
-      <pubDate>Wed, 01 May 2024 11:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
