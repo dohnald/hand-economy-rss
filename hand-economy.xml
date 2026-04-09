@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/9(목) 호르무즈 차단 | 포괄임금 오남용 방지 | 테라팹 프로젝트</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 이란 “이스라엘 휴전 위반.. 유조선 호르무즈 통행 차단”
+2) 포괄임금 오남용 막는다.. 근로시간 기준 두고 이견
+3) 인텔, 머스크 반도체 기지 ‘테라팹 프로젝트’ 합류
+- 하수정 경제뉴스 큐레이터
+- 정지서 연합인포맥스 기자
+- 라예진 이코노미스트 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260409.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260409.mp3</guid>
+      <pubDate>Thu, 09 Apr 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/8(수) 커피의 역설 (하수정 경제전문 기자) | 상법 개정 이후 (이창환 얼라인파트너스 대표)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26615,18 +26630,6 @@ FOMC 성명에 담긴 연준의 속내
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240502.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240502.mp3</guid>
       <pubDate>Thu, 02 May 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 5/1(수) 한국 의료 위기의 주범, 실손보험 (김현철 홍콩과기대 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[김현철의 뉴퍼스펙티브]
-한국 의료 위기의 주범, 실손보험
-- 김현철 홍콩과기대 경제학과 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240501.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240501.mp3</guid>
-      <pubDate>Wed, 01 May 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
