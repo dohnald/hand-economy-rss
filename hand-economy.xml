@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/10(금) 메타 AI | 소상공인 대출 | 쿠팡 자율주행</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 메타, 회심의 AI 모델 공개.. 깊은 사고에 강점
+2) 소상공인 대출 문턱 낮춘다.. ‘미래 성장성’ 신용평가에 반영
+3) 쿠팡, 물류에 자율주행 테스트.. 쿠팡맨은?
+- 오찬종 매일경제신문 기자
+- 라예진 이코노미스트 기자
+- 조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260410.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260410.mp3</guid>
+      <pubDate>Fri, 10 Apr 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/9(목) 완벽한 한국 원전 생태계, 치명적인 약점이 있다? - 임채영 한국원자력연구원 본부장</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26617,18 +26632,6 @@ FOMC 성명에 담긴 연준의 속내
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240502.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240502.mp3</guid>
       <pubDate>Thu, 02 May 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 5/2(목) 보험 해약하고 다른 재테크로 갈아탈까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 저축보험의 유지하는 게 좋을지 상담을 받고 싶습니다. 두 가지인데요. 첫 번째는 LTC간병보험입니다. 납입 기간은 총 10년이고, 6월이면 완료가 됩니다. 노인장기요양보험 수급대상으로 판정되었을 때 진단금이 지급되는 계약인데요. 원금은 약 1,300만 원이고 완납 후 바로 해지하게 되면 환급률이 95.3%입니다. 100%환급 시점은 2029년 1월이고, 최저 보증이율은 1.5%입니다. 거기서 20년을 더 유지하면 194%의 환급률이 적용됩니다.
-두 번째는 2011년에 3년 납으로 360만 원을 완납했고 현재는 환급률이 119%이며 430만 원인 보험입니다. 최저 이율 2.5%입니다. 둘 다 당장 급하게 필요한 자금은 아니지만 요즘 재테크에 관심이 많아져서 등 여러 상품을 운용하고 있거든요. 은행 예적금도 3% 후반에서 4%짜리도 쉽게 찾을 수 있으니 그냥 예금을 해두는 게 더 낫겠단 생각도 듭니다. 하지만 장기간 들어놨던 복리 저축상품을 해지하는 게 맞는지 망설여지네요.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240502.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240502.mp3</guid>
-      <pubDate>Thu, 02 May 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
