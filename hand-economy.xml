@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - 충격의 방송 사고, 이제야 고백합니다</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[협찬문의 : hand-economy@naver.com]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee260410.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee260410.mp3</guid>
+      <pubDate>Sat, 11 Apr 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 4/10(금) 메타 AI | 소상공인 대출 | 쿠팡 자율주행</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26621,17 +26630,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240503.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240503.mp3</guid>
       <pubDate>Fri, 03 May 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 5/2(목) FOMC 성명에 담긴 연준의 속내(이선엽 신한투자증권 이사)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-FOMC 성명에 담긴 연준의 속내
-- 이선엽 신한투자증권 이사]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240502.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240502.mp3</guid>
-      <pubDate>Thu, 02 May 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
