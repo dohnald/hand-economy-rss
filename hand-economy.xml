@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 4/12(일) 달에 간 아르테미스 2호, 한국 기술도 함께 갔다? - 박재필 대표 (나라스페이스)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+달에 간 아르테미스 2호
+한국 기술도 함께 갔다? 
+- 박재필 대표 (나라스페이스)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260412.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260412.mp3</guid>
+      <pubDate>Sun, 12 Apr 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/11(토) 상하이에서 엿보는 서울 집값 쇼크의 해법 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26623,15 +26635,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240503_3.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240503_3.mp3</guid>
       <pubDate>Fri, 03 May 2024 12:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 기러기의 근황</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[말레이시아]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240503_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240503_2.mp3</guid>
-      <pubDate>Fri, 03 May 2024 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
