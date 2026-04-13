@@ -16,6 +16,27 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/13(월) 종전협상 결렬 | 고유가 피해지원금 | 통신요금제 개편 | 가계대출</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 미국-이란 종전협상 결렬.. “美 해군이 호르무즈 봉쇄“
+2) 고유가 피해지원금, 27일부터 지급.. 신청 방법은?
+3) 통신 3사 요금제 개편.. 데이터 안심 옵션 도입
+4) 가계대출 문 더 좁아진다.. 증가율 1% 안팎으로 관리
+5) 비거주 1주택자, 전세 대출 연장도 막히나
+- 이희수 매일경제신문 기자
+- 최정희 이데일리 기자
+
+[친절한 경제]
+한국은행은
+어떻게 돈을 버나요?
+- 청취자 권유상 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260413.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260413.mp3</guid>
+      <pubDate>Mon, 13 Apr 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/12(일) 달에 간 아르테미스 2호, 한국 기술도 함께 갔다? - 박재필 대표 (나라스페이스)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26626,15 +26647,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240503_4.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240503_4.mp3</guid>
       <pubDate>Fri, 03 May 2024 12:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 좌절한 PT 안</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 광청 종주]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240503_3.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240503_3.mp3</guid>
-      <pubDate>Fri, 03 May 2024 12:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
