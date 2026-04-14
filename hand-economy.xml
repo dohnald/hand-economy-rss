@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/14(화) 포괄적 주식교환 | 초과 세수 | 中 황산 수출 중단 | 학자금대출 체납</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 소액주주 축출에 쓰인다? ‘포괄적 주식교환’이란
+2) 반도체 호황에 주식 거래도 ↑..  초과 세수 최대 45조
+3) 중국, 5월부터 황산 수출 중단.. 구리 수급 ‘빨간불’
+4) 취업해도 학자금대출 못 갚는다.. 체납액 사상 최대
+- 김치형 경제뉴스 큐레이터
+- 정지서 연합인포맥스 기자
+- 라예진 이코노미스트 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260414.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260414.mp3</guid>
+      <pubDate>Tue, 14 Apr 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/13(월) AI 새 모델 (김덕진 소장) | 미국 징병제 | 노르웨이 경제 | 캄보디아 영웅 쥐 (이혜인 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26648,15 +26664,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240503.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240503.mp3</guid>
       <pubDate>Fri, 03 May 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (5부) 어실금은 어디서 치료를..</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 이사장님은 9등급]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240503_5.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240503_5.mp3</guid>
-      <pubDate>Fri, 03 May 2024 12:04:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
