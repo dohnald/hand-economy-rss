@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/17(금) 삼성 파운드리 | 日 원전 재가동 | 대화형 AI 법정 증거</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 테슬라, 삼성에 잇따라 러브콜.. 파운드리 부활 신호?
+2) TSMC, 1분기 순익 58% 증가.. 예상치 또 상회
+3) 日 도쿄전력, 14년만에 원전 운전 재개한다
+4) AI 채팅, 법정 증거로 채택될 수 있다?
+- 오찬종 매일경제신문 기자
+- 박세훈 작가
+- 조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260417.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260417.mp3</guid>
+      <pubDate>Fri, 17 Apr 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스 4/16(목) 알레르기 비염의 치료법은 하나뿐입니다 - 권혁수 교수 (서울아산병원 알레르기내과)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26661,18 +26677,6 @@ https://comic.naver.com/webtoon/detail?titleId=823186&no=1&week=dailyPlus
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240506.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240506.mp3</guid>
       <pubDate>Mon, 06 May 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 5/6(월) 묵시적 갱신의 기준</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 2021년 5월에 전세 세입자로 살다가 2년 뒤인 2023년 5월에 전세금의 변동없이 계속 살기로 집주인과 합의했고, 계약서도 따로 쓰지 않았습니다. 저는 이걸 묵시적 갱신으로 알고 있었는데요, 계약만기가 되기 전 이사를 가야 해서 임대차 분쟁조정 위원회에 물어보니, 집주인과 전화와 문자로 금액조정 없이 살기로 합의했기 때문에 묵시적 갱신에 해당되지 않는다는 말을 들었습니다. 
-집주인과 아무런 말도 하지 않고 넘어가야 묵시적 갱신이 되는 건가요? 만기가 다가오면 집주인은 그 집에서 살지 말지 물어보는 게 당연한 거고, 세입자는 물어보면 대답해줘야 하는 게 당연한데, 그런 말이 오고 가면 묵시적 계약이 성립하지 않는 걸까요? 올해 말에 이사를 가야 할 사정이 생겨서 중간에 계약을 해지해야할 것 같은데, 묵시적 갱신의 기준이 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240506.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240506.mp3</guid>
-      <pubDate>Mon, 06 May 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
