@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - 1부 골프장에서 불륜 판별법</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[협찬문의 : hand-economy@naver.com]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee260417_1.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee260417_1.mp3</guid>
+      <pubDate>Sat, 18 Apr 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 4/17(금) 삼성 파운드리 | 日 원전 재가동 | 대화형 AI 법정 증거</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26666,17 +26675,6 @@ https://comic.naver.com/webtoon/detail?titleId=823186&no=1&week=dailyPlus
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240507.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240507.mp3</guid>
       <pubDate>Tue, 07 May 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 5/6(월) 노화 연구의 현실적인 목표 (정희원 아산병원 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-노화 연구의 현실적인 목표
-- 정희원 서울아산병원 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240506.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240506.mp3</guid>
-      <pubDate>Mon, 06 May 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
