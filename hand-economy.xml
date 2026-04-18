@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - 2부 하이닉스 성과급, 이게 최선입니까?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[협찬 문의 : hand-economy@naver.com]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee260417_2.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee260417_2.mp3</guid>
+      <pubDate>Sun, 19 Apr 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - 1부 골프장에서 불륜 판별법</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26662,18 +26671,6 @@ https://comic.naver.com/webtoon/detail?titleId=823186&no=1&week=dailyPlus
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240507.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240507.mp3</guid>
       <pubDate>Tue, 07 May 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 5/7(화) 컴퓨터에 저장한 유언장의 효력</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하십니까! 제 나이가 어느덧 서른 살에 진입했습니다.아직 젊은 나이지만, 살다보니 언제 어떻게 갑자기 세상을 떠나게 될지 모를 일이라는 생각이 들었습니다.
-그래서 이제부터 미리미리 유언장을 작성해보고 싶은데요, 저는 현재 미혼이고 형 1명 부모님 2명이 있는데 제 재산은 형한테 상속하고 싶습니다. 컴퓨터에 저장해 두고 계속 수정할 생각인데, 그렇게 해두어도 유언장으로 효력이 있을까요? 알려주시면 감사하겠습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240507.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240507.mp3</guid>
-      <pubDate>Tue, 07 May 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
