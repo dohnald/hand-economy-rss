@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/21(화) 포스코 인도 제철소 | 주유소 카드 수수료 | 지역주택조합 | 코스피 배당금</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 포스코, 인도에 제철소 짓는다.. 20년 넘은 숙원 사업
+2) 주유소-카드사 수수료 갈등 재점화.. 최고가격제의 역설?
+3) 지역주택조합 사업 개편.. 알박기 막고 속도 높인다
+4) 코스피 상장사, 작년 배당금 35조 원 넘어.. 역대 최대
+- 김치형 경제뉴스 큐레이터
+- 조미현 한국경제신문 기자
+- 손희애 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260421.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260421.mp3</guid>
+      <pubDate>Tue, 21 Apr 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/20(월) 피지컬 AI (김덕진 소장) | 미국 벙커 산업 | NBA 의도적 패배 | 스위스 추크 (이혜인 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26649,17 +26665,6 @@ hand-economy@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240509.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240509.mp3</guid>
       <pubDate>Thu, 09 May 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 5/8(수) 뇌에 칩을 박으면 가능해지는 것들(이창욱 과학동아 기자)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-뇌에 칩을 박으면 가능해지는 것들
-- 이창욱 과학동아 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240508.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240508.mp3</guid>
-      <pubDate>Wed, 08 May 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
