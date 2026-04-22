@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/22(수) 중복상장금지 | 루이비통 관세 | 애플 CEO | 제미나이 인 크롬</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 중복상장 막힌 대기업, 10조원대 투자금 상환 ‘압박’
+2) 루이비통, 수입가는 낮추고 가격은 인상.. 수백억대 관세 추징
+3) 애플 CEO 팀쿡, 15년만에 물러난다.. 후임은 존 터너스
+4) 구글, 웹 브라우저 크롬에 '제미나이' 탑재
+- 김치형 경제뉴스 큐레이터
+- 라예진 이코노미스트 기자
+
+[친절한 경제]
+코스피 지수는 상한선이 있나요?
+- 청취자 이유진 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260422.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260422.mp3</guid>
+      <pubDate>Wed, 22 Apr 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/21(화) 아직 증시엔 먹을 게 많이 남아있습니다 - 이선엽 대표 (AFW파트너스 대표)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26653,17 +26672,6 @@ hand-economy@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240509.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240509.mp3</guid>
       <pubDate>Thu, 09 May 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 5/9(목) 가계약금은 돌려받을 수 없나요</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 얼마 전 주거용 오피스텔을 둘러보다가 가계약금 500만원을 부동산 중개인에게 송금했습니다. 보통 매도인에게 직접 송금하는 게 일반적이라고 알고 있는데, 중개인이 매매에 대한 사항을 구두로 위임받았다고 하더라구요. 그래서 일단 중개인에게 송금을 하긴 했는데, 이틀 뒤 마음이 바뀌어서 계약을 하지 않기로 하고 가계약금을 돌려달라고 했더니, 그럴 수 없다는 겁니다. 항의했더니 법을 잘 알고 말하라며 가계약금뿐만 아니라 계약금 전체를 제가 줘야 하는 거라고 하네요. 단순 변심이라 저에게 귀책 사유가 있는 것 같지만, 해당 오피스텔 옆에는 공터가 있는데 거기에 건물이 들어설 수도 있다는 중요한 내용을 설명 듣지 못했고, 계약사항에 대해서도 구두로든 서면으로든 정한 바가 없습니다. 이럴 경우 가계약금을 돌려받을 수 없을까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240509.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240509.mp3</guid>
-      <pubDate>Thu, 09 May 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
