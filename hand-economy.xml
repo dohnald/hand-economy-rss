@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/23(목)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260423.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260423.mp3</guid>
+      <pubDate>Thu, 23 Apr 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/22(수) 건설회사는 이제 성장주? 페르미 프로젝트의 구조 - 이상호 교보증권 책임연구원</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26659,20 +26668,6 @@ hand-economy@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240510_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240510_1.mp3</guid>
       <pubDate>Fri, 10 May 2024 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]5/10(금) ‘제 2파두’ 막아라.. 주관사 책임 더 키운다 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[-“전세 없나요”물량난에 서울 전세값 고공행진
-- 요구불 예금,‘안전 자산'으로 모여
-- ‘제 2파두'막아라.. 주관사 책임 더 키운다
-
-출연: 안승찬 기자, 김현우 소장, 박세훈 작가
-진행: 이진우]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240510.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240510.mp3</guid>
-      <pubDate>Fri, 10 May 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
