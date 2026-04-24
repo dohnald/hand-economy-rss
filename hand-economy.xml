@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/24(금) 비거주 1주택자 | 혼다 철수 | 청년미래적금 | 英 담배 금지 | 1분기 성장률</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 전월세난 영향.. 외곽 주도로 서울 집값 상승세
+2) 비거주 1주택자, 5월 이후에도 매도 허용 검토
+3) 혼다, 23년만에 한국서 자동차 사업 철수
+4) '청년미래적금' 6월 출시.. 가입 조건은?
+5) 영국, 2009년생부터 평생 담배 못 산다
+6) 1분기 경제성장률 1.7%.. 예상치 약 2배
+- 정지서 연합인포맥스 기자
+- 이희수 매일경제신문 기자
+- 박세훈 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260424.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260424.mp3</guid>
+      <pubDate>Fri, 24 Apr 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/23(목) 헝가리 16년 독재가 마침내 무너진 이유 - 김지영 교수 (숭실대 기독교문화연구원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26671,15 +26689,6 @@ hand-economy@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240510_3.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240510_3.mp3</guid>
       <pubDate>Fri, 10 May 2024 12:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 탑티어 의전 체험</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[박카스에서 기사 픽업까지]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240510_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240510_2.mp3</guid>
-      <pubDate>Fri, 10 May 2024 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
