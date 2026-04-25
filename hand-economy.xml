@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - 나를 화나게 하는 것들</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[협찬문의 : hand-economy@naver.com]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee260424.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee260424.mp3</guid>
+      <pubDate>Sun, 26 Apr 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임(협찬) - 국대 선수들이 쓰는 매트리스, 뭐가 다를까? with 베스트슬립</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26709,17 +26718,6 @@ hand-economy@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240510.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240510.mp3</guid>
       <pubDate>Fri, 10 May 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (5부) 자기 칭찬글에 '좋아요' 누르는 승찬</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 댓글 전쟁
-
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240510_5.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240510_5.mp3</guid>
-      <pubDate>Fri, 10 May 2024 12:04:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
