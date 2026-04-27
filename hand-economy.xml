@@ -16,6 +16,26 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/27(월) 잠재성장률 최저 | 5세대 실손보험 | 기초연금 개편</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) OECD, 韓 잠재성장률 전망치 또 낮춰.. 원인은 인구
+2) 내달 5세대 실손 출시.. 비중증 자부담 50%까지 ↑
+3) IMF "韓 연금지출 증가폭, G20 중 최대“
+4) 노인 연령 조정시 기초연금 최대 600조 ↓
+- 조미현 한국경제신문 기자
+- 최정희 이데일리 기자
+
+[친절한 경제]
+미국 내 휘발유 값은
+왜 올랐나요?
+- 청취자 권오찬 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260427.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260427.mp3</guid>
+      <pubDate>Mon, 27 Apr 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/26(일) 싱가포르 사람들이 집 걱정 없는 진짜 이유 - 이관옥 교수 (싱가포르국립대 부동산학과)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -697,10 +717,17 @@ AI의 감정을 억제하면
       <pubDate>Fri, 03 Apr 2026 22:05:00 +0900</pubDate>
     </item>
     <item>
-      <title>[손경제] 4/3(금) </title>
+      <title>[손경제] 4/3(금)  재고 비축 | 비거주 1주택 규제 | 8주 룰</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 원료 수급 불안.. 재고 쌓는 기업 증가세
+2) 비거주 1주택자, 전세 대출 보증 제한 검토
+3) 과잉진료 막는 ‘8주 룰’ 한의계 반발에 도입 지연
+
+- 조미현 한국경제신문 기자
+- 이희수 매일경제신문 기자
+- 손희애 경제뉴스 큐레이터]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260403.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260403.mp3</guid>
       <pubDate>Fri, 03 Apr 2026 08:30:00 +0900</pubDate>
@@ -26700,18 +26727,6 @@ hand-economy@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240512.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240512.mp3</guid>
       <pubDate>Sun, 12 May 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 5/11(토) 이란 문화의 현주소(박정호 명지대 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[역시나 박정호]
-이란 문화의 현주소
-- 박정호 명지대 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240511.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240511.mp3</guid>
-      <pubDate>Sat, 11 May 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
