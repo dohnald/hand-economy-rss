@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/28(화) 코스피 6600 | 중금리대출 활성화 | 오픈마켓 불공정 약관</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 국내 증시 시가총액 사상 첫 6천 조 돌파.. 과열 ‘우려’
+2) 중신용자 위한 중금리대출 활성화.. 금리↓ 공급↑
+3) 쿠팡·네이버 등 쇼핑몰 ‘불공정 약관’ 손본다
+- 김치형 경제뉴스 큐레이터
+- 오찬종 매일경제신문 기자
+- 손희애 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260428.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260428.mp3</guid>
+      <pubDate>Tue, 28 Apr 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/27(월) 빅테크 AI 투자 (김덕진 소장) | 플로리다 엑소더스 | 중국 금수저 사장 | 중국 네슬레 (이혜인 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26721,20 +26736,6 @@ hand-economy@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240513.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240513.mp3</guid>
       <pubDate>Mon, 13 May 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제]5/13(월) 미국, 中 전기차에 관세 100% 부과 추진 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 전력 인프라 수요에 국내 설비 업체 호황
-- 동해안 발전소, 송전망 부족해서 가동 중단
-- 미국, 中 전기차에 관세 100% 부과 추진
-
-출연: 안승찬 기자, 손석우 뉴스큐레이터
-진행: 이진우]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240513.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240513.mp3</guid>
-      <pubDate>Mon, 13 May 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
