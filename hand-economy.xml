@@ -16,6 +16,26 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 4/27(월) 빅테크 AI 투자 (김덕진 소장) | 플로리다 엑소더스 | 중국 금수저 사장 | 중국 네슬레 (이혜인 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+품질이 갑자기 엉망?
+클로드 최대의 약점
+- 김덕진 IT커뮤니케이션 연구소 소장
+
+2부
+[글로벌 리포트]
+부자 몰리는 플로리다
+인프라는 무너지는 이유
+- 이혜인 기자 (한국경제신문)
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260427.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260427.mp3</guid>
+      <pubDate>Mon, 27 Apr 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 4/27(월) 잠재성장률 최저 | 5세대 실손보험 | 기초연금 개편</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26715,18 +26735,6 @@ hand-economy@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240513.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240513.mp3</guid>
       <pubDate>Mon, 13 May 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 5/12(일) 자율주행의 현주소, 그리고 숨은 강자 (이독실 과학커뮤니케이터)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[테코노미]
-자율주행의 현주소, 그리고 숨은 강자
-- 이독실 과학커뮤니케이터]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240512.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240512.mp3</guid>
-      <pubDate>Sun, 12 May 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
