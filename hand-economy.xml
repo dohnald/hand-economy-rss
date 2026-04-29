@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 4/29(수) AI 데이터센터 (하수정 경제전문 기자) | 김 산업의 밸류체인 (남성현 IBK투자증권 연구원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업 되는 기업]
+데이터센터 혐오가
+미국을 덮쳤습니다
+- 하수정 경제전문 기자
+
+2부
+세계를 휩쓰는 한국 김
+대기업 탄생하겠는데요?
+- 남성현 IBK투자증권 연구원]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260429.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260429.mp3</guid>
+      <pubDate>Wed, 29 Apr 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 4/29(수) 공정수당 지급 | 교육교부금 개편</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26728,20 +26746,6 @@ hand-economy@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240514.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240514.mp3</guid>
       <pubDate>Tue, 14 May 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 5/14(화) 국토부, 전세사기 특별법 반대 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[- 국토부, 전세사기 특별법 반대 
-- 올리브유 가격 30% 인상
-- 230조 부동산 PF 옥석가리기 본격화
-
-출연: 김치형 큐레이터, 송현서 기자, 정지서 기자
-진행: 이진우]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240514.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240514.mp3</guid>
-      <pubDate>Tue, 14 May 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
