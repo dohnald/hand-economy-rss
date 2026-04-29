@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/29(수) 공정수당 지급 | 교육교부금 개편</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 공공 부문 비정규직에 '공정수당' 지급.. '쪼개기' 계약 방지
+2) 학생 감소하는데 71조 배정.. 교육교부금 개편 착수
+- 김치형 경제뉴스 큐레이터
+- 라예진 이코노미스트 기자
+
+[친절한 경제]
+배당률이 금리보다 낮은데
+투자자는 주식을 왜 사나요?
+- 청취자 홍준영 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260429.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260429.mp3</guid>
+      <pubDate>Wed, 29 Apr 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/28(화) K-로봇의 골든타임 지금 놓치면 끝입니다 - 공경철 교수 (카이스트 기계공학과)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26724,17 +26742,6 @@ hand-economy@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240514.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240514.mp3</guid>
       <pubDate>Tue, 14 May 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 5/13 (월) 치열한 유튜브판에서 살아남는 법 (김도윤 작가)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-치열한 유튜브판에서 살아남는 법
-- 김도윤 작가 (유튜브 김작가TV)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240513.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240513.mp3</guid>
-      <pubDate>Mon, 13 May 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
