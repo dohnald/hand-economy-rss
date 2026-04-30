@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 4/30(목) UAE OPEC 탈퇴 | 상장 리츠 부도 | 공무원 인재 영입</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) UAE, OPEC 탈퇴하고 증산 시사.. 원유값  영향은?
+2) 제이알글로벌, 상장 리츠 사상 첫 부도.. ‘캐시트랩’이란?
+3) 정부, 민간 인재 유치 계획 발표.. 연봉 상한 폐지
+- 정지서 연합인포맥스 기자
+- 하수정 경제전문기자
+- 박수익 비즈니스워치 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260430.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260430.mp3</guid>
+      <pubDate>Thu, 30 Apr 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 4/29(수) AI 데이터센터 (하수정 경제전문 기자) | 김 산업의 밸류체인 (남성현 IBK투자증권 연구원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26735,17 +26750,6 @@ hand-economy@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240514.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240514.mp3</guid>
       <pubDate>Tue, 14 May 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 5/14(화) 늦게 받은 월세, 소득신고는 언제?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 매일 산책하면서 손경제를 듣는 애청자입니다. 매년 5월이면 주택 임대소득을 신고해야 하는 것으로 알고 있습니다. 현재 2주택으로 1개 주택은 월세를 주고 있는데 임차인이 월세를 뒤늦게 주는 경우에는 임대소득은 어떻게 신고하는지 궁금합니다. 예를 들어 작년 1월부터 10월까지는 열달간은 매월 월세 100만원을 받았지만 11월과 12월 2개월분 월세는 작년에 못 받고 해를 넘겨서 받게 되면 어떻게 신고해야 하나요? 실제 받은 금액인 1,000만원만 신고하고, 내년에 1400만원으로 신고하면 되는 걸까요? 아니면 신고 전에라도 받는다면 작년 월세를 1,200만 원으로 신고해야 하는 걸까요? 어떻게 받게 되든 계약서상의 월세와는 다른데, 이럴 경우엔 통장 거래 내역 같은 걸 별도로 제출해야 될까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240514.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240514.mp3</guid>
-      <pubDate>Tue, 14 May 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
