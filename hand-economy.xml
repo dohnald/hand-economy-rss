@@ -16,6 +16,30 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 5/1(금) 빅테크 실적으로 본 반도체 산업의 미래 - 이형수 대표 (HSL파트너스)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[이슈 인터뷰]
+빅테크 실적으로 본
+반도체 산업의 미래 
+ - 이형수 대표 (HSL파트너스)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260501.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260501.mp3</guid>
+      <pubDate>Fri, 01 May 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 4/30(목) 베트남의 지하 경제가 뒤집히고 있습니다 - 곽성일 센터장 (대외정책연구원 세계지역연구2센터)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[베트남의 지하 경제가 
+뒤집히고 있습니다 
+- 곽성일 센터장 
+(대외정책연구원 세계지역연구2센터)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260430.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260430.mp3</guid>
+      <pubDate>Thu, 30 Apr 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 4/30(목) UAE OPEC 탈퇴 | 상장 리츠 부도 | 공무원 인재 영입</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26724,32 +26748,6 @@ hand-economy@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240515.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240515.mp3</guid>
       <pubDate>Wed, 15 May 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 5/15(수) 네이버 "라인야후 지분 안 판다" 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1) 네이버 “라인야후 지분 안 판다”
-2) 공공주택 사전청약 사실상 폐지
-3) OTT 작품 흥행에 따라 성과급 나눈다?
-- 김치형 뉴스큐레이터
-- 손석우 뉴스큐레이터                 
-- 서은영 뉴스큐레이터]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240515.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240515.mp3</guid>
-      <pubDate>Wed, 15 May 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 5/14(화) 오픈AI 새 모델 GPT-4o 공개｜빅테크가 일본으로 모이는 이유 (김덕진 소장)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1, 2부
-오픈AI 새 모델 'GPT-4o' 공개
-빅테크가 일본으로 모이는 이유
-- 김덕진 소장 (IT커뮤니케이션연구소장)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240514.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240514.mp3</guid>
-      <pubDate>Tue, 14 May 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
