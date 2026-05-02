@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 5/1(금) 손에 잡히는 경제 플러스</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[  ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260501.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260501.mp3</guid>
+      <pubDate>Fri, 01 May 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 5/1(금) 빅테크 실적으로 본 반도체 산업의 미래 - 이형수 대표 (HSL파트너스)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26735,19 +26744,6 @@ hand-economy@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20240515.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20240515.mp3</guid>
       <pubDate>Wed, 15 May 2024 15:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 5/15(수) 청약저축통장 물려주기</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 매일 운전하면서 손에 잡히는 경제를 청취하고 있는 청취자입니다.
-오랫동안 갖고 있던 의문이 있어서 질문 드립니다. 저는 2006년 3월에 가입한 '청약저축'을 갖고 있습니다. 가입금액은 2천만 원정도이구요. 청약 저축이다보니 공공분양 물량에만 청약이 가능한 통장입니다. 하지만 저는 이미 유주택자이고, 공공분양의 경우 무주택 기간이 필수인데 앞으로 무주택으로 살 계획이 없는 저로서는 이 통장을 사용할 방법이 없습니다.
-납입 기간도 길고 금액도 많아서 통장을 해지하기도 아까운 상황인데요. 이러던 중 청약저축 통장은 직계 가족끼리 승계가 가능하다는 말을 들었습니다. 현재 7살인 자녀가 성인이 될 때까지 저축 개념으로 납입한 다음 승계해주려고 하는데 가능할까요? 혹시 승계 과정에서 미리 준비해야 할 사항이 있는지도 알고 싶습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240515.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240515.mp3</guid>
-      <pubDate>Wed, 15 May 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
