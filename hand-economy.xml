@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 5/3(일) 메모리 반도체의 2강 원래는 LG였습니다 - 재원쌤</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[쩐설의 김선생]
+메모리 반도체의 2강
+원래는 LG였습니다
+- 김재원 역사커뮤니케이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260503.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260503.mp3</guid>
+      <pubDate>Sun, 03 May 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 5/2(토) 신규 주택 공급은 왜 이렇게 어려울까? - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -29,10 +42,13 @@
       <pubDate>Sat, 02 May 2026 22:05:00 +0900</pubDate>
     </item>
     <item>
-      <title>[플러스] 5/1(금) 손에 잡히는 경제 플러스</title>
+      <title>[플러스] 5/1(금) 내부분열 심한 이란, 협상 쉽지 않을겁니다 - 구기연 교수 (서울대 아시아연구소)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[  ]]></description>
+      <description><![CDATA[1,2부
+내부분열 심한 이란 
+협상 쉽지 않을겁니다 
+- 구기연 교수 (서울대 아시아연구소)]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260501.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260501.mp3</guid>
       <pubDate>Fri, 01 May 2026 22:05:00 +0900</pubDate>
@@ -26707,17 +26723,6 @@ ETF 수수료의 진실
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240516.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240516.mp3</guid>
       <pubDate>Thu, 16 May 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 5/15(수) 첨단 제조업 강국 꿈꾸는 사우디 (서병수 애널리스트)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-첨단 제조업 강국 꿈꾸는 사우디 
-- 서병수 애널리스트]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240515.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240515.mp3</guid>
-      <pubDate>Wed, 15 May 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
