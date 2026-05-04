@@ -16,6 +16,26 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 5/4(월) 오픈AI 위기 (김덕진 소장) | 아웅산 수치 석방 | 인도 소음 문제 | 비만 치료제 웨딩드레스 (이혜인 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+매출 상승세 꺾인 오픈AI
+진짜 리스크 따로 있다?
+- 김덕진 IT커뮤니케이션 연구소 소장
+
+2부
+[글로벌 리포트]
+엄혹하던 미얀마 군부
+전략을 확 바꿨습니다
+- 이혜인 기자 (한국경제신문)
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260504.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260504.mp3</guid>
+      <pubDate>Mon, 04 May 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 5/4(월) 성장률 전망 | EU 자동차 관세 | 버핏의 경고</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26716,18 +26736,6 @@ ETF 수수료의 진실
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240516.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240516.mp3</guid>
       <pubDate>Thu, 16 May 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 5/16(목) 보험 차익도 금융소득종합과세 대상인가요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요? 딸아이를 위해서 1996년부터 18년간 납입한 보험이 얼마 전 만기가 되어 보험금을 수령했습니다.
-교육자금, 양육 연금, 사망위로금, 입원급여 등을 보장하는 보험이었는데요. 총 납입한 보험료는 약 670만 원이고, 보험기간은 25년입니다. 제가 수령한 금액은 1,860만 원 정도 되는데요, 지급명세서에는 만기보험금 500만원, 생존보험금 1,226만원, 배당금 4만원, 가산이자 137만원이고, 과세는 0원으로 되어 있습니다. 이런 경우 "금융소득종합과세" 대상이 되는 이자 소득이 있는지, 있다면 어느 부분이 해당 될지 궁금합니다. 참고로 저는 이자와 주식, 펀드 합쳐서 연간 1,000만 원 정도의 소득이 발생합니다. 어디서도 명확한 답을 들을 수 없어, 답답한 마음에 사연 보내봅니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240516.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240516.mp3</guid>
-      <pubDate>Thu, 16 May 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
