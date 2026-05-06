@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 5/6(수) 애플 in 삼성 파운드리 | 포괄적 배임죄 폐지</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 애플, 삼성과 인텔에 반도체 위탁생산 타진
+2) 포괄적 배임죄 폐지 본격화.. 특례법 추진
+- 김치형 경제뉴스 큐레이터
+- 라예진 이코노미스트 기자
+
+[친절한 경제]
+주가가 오르면 통화량도 느나요?
+- 청취자 신상진 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260506.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260506.mp3</guid>
+      <pubDate>Wed, 06 May 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 5/5(화) 인도의 자본주의가 마침내 꽃 피웠습니다 - 백찬규 센터장 (NH투자증권)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26729,15 +26746,6 @@ ETF 수수료의 진실
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240517_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240517_2.mp3</guid>
       <pubDate>Fri, 17 May 2024 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 불쌍한 몽골 여우</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[몽골 여우는 무슨 죄]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240517_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240517_1.mp3</guid>
-      <pubDate>Fri, 17 May 2024 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
