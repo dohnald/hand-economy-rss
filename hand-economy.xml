@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 5/6(수) 스피릿항공 폐업 (하수정 경제전문기자) | AI 버블 (김영익 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업 되는 기업]
+폭등하는 비행기 값
+진짜 위기는 9월부터?
+- 하수정 경제전문기자
+
+2부
+모든 기술 혁명 뒤에는
+금융위기가 왔습니다
+- 김영익 한양대 미래인재교육원 겸임교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260506.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260506.mp3</guid>
+      <pubDate>Wed, 06 May 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 5/6(수) 애플 in 삼성 파운드리 | 포괄적 배임죄 폐지</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26737,15 +26755,6 @@ ETF 수수료의 진실
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240517_3.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240517_3.mp3</guid>
       <pubDate>Fri, 17 May 2024 12:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 이진우와 무인점포 절도범</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA['네 책상도 내 책상' 이진우와 무인점포]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240517_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240517_2.mp3</guid>
-      <pubDate>Fri, 17 May 2024 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
