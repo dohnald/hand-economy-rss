@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 5/7(목) 이란 종전 임박 | 코스피 7천 | 국민참여성장펀드 | 1분기 수출</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 코스피 7천 돌파.. 신용거래·변동성도 크게 올라
+2) 국민성장펀드, 22일 출시.. 20% 떨어져도 원금 보장
+3) 韓 1분기 수출, 일본 넘어섰다.. 역대 최대
+4) 4월 물가 2.6%. 석유최고가격 없었으면 3.8%
+5) 트럼프 결국 물러섰나.. 미국-이란 종전 합의 임박
+- 박수익 비즈니스워치 기자
+- 하수정 경제전문기자
+- 이승형 아시아경제 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260507.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260507.mp3</guid>
+      <pubDate>Thu, 07 May 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 5/6(수) 스피릿항공 폐업 (하수정 경제전문기자) | AI 버블 (김영익 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26746,15 +26763,6 @@ ETF 수수료의 진실
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240517_4.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240517_4.mp3</guid>
       <pubDate>Fri, 17 May 2024 12:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 비겁한 김현우</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[함정 파고 도망간 현우]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240517_3.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240517_3.mp3</guid>
-      <pubDate>Fri, 17 May 2024 12:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
