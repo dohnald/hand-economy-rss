@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 5/8(금) 주식의 자산효과 | 엔저 관리 | 앤스로픽-xAI</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 한은 보고서 “주식 수익, 소비 안 늘려..부동산行"
+2) 일본 증시 5.58% 급등.. 반도체 강세·종전 기대 반영
+3) 美 재무장관 베선트, '엔저' 대책 논의 위해 일본 간다
+4) 이용자 늘어난 앤트로픽, 머스크 데이터센터 임차
+- 조미현 한국경제신문 기자
+- 오찬종 매일경제신문 기자
+- 정지서 연합인포맥스 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260508.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260508.mp3</guid>
+      <pubDate>Fri, 08 May 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 5/7(목) 북한에도 해커를 위한 AI 데이터센터가 있다 - 한기호 교수 (아주대 아주통일연구소)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26757,15 +26773,6 @@ ETF 수수료의 진실
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240517.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240517.mp3</guid>
       <pubDate>Fri, 17 May 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (5부) 화성인과도 손에 손 잡고</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[화성인과도 손에 손 잡고]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240517_5.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240517_5.mp3</guid>
-      <pubDate>Fri, 17 May 2024 12:04:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
