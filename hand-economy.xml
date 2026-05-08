@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임(협찬) - 이 방송 듣고 나면 마트에서 된장, 간장, 고추장 못 사먹습니다</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[4남매시골된장 손경제 전용 링크 
+https://4namme.com/product/detail.html?product_no=105#none
+
+100% 국산 재료들로 만든 된장, 고추장, 간장부터 이진우 인생 들기름까지!
+5월 9일부터 일주일 동안 특별한 가격으로 구매하실 수 있습니다.
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ad-4namae.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ad-4namae.mp3</guid>
+      <pubDate>Sat, 09 May 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 5/8(금) 주식의 자산효과 | 엔저 관리 | 앤스로픽-xAI</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26762,17 +26776,6 @@ ETF 수수료의 진실
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240524.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240524.mp3</guid>
       <pubDate>Fri, 17 May 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 5/17(금) 분양받은 아파트, 잔금 치를 여력이 없어요</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 저는 50대 후반의 가장입니다. 이런저런 일들을 하다 보니 소득 없이 빚만 늘어 허덕이던 와중에, 장애 1급인 막내 아이 앞으로 아파트가 당첨되었습니다. 어렵지만 또 빚으로 계약금을 내고, 나머지 중도금과 잔금까지 대출로 치러야 할 것 같은데요. 입주시기까지는 세금이고 뭐고 넘어야 할 산이 한 두 개가 아닌데, 그동안 빌린 돈의 이자며 생활비며 앞이 깜깜합니다. 올 6월 입주인 그 아파트를 정리해서 빚을 조금이라도 정리하고 싶은데 그 선택이 맞는 건지... 어떻게 하는 게 좋을지 모르겠습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240517.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240517.mp3</guid>
-      <pubDate>Fri, 17 May 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
