@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 5/12(화) 감마 스퀴즈 | 엔비디아 AI 투자 | 인도 루피화</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 주가 상승이 상승을 부른다.. ‘감마 스퀴즈’란?
+2) 원유 수입국 인도와 중국, 이란전쟁 영향은 갈려
+3) 엔비디아, 올해만 58조 투자.. 빅테크는 또 빌린다
+- 김치형 경제뉴스 큐레이터
+- 손희애 경제뉴스 큐레이터
+- 정지서 연합인포맥스 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260512.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260512.mp3</guid>
+      <pubDate>Tue, 12 May 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 5/11(월) AI와 조직문화 (김덕진 소장) | 캐나다 자진 입대 | 중국 안면인식 기술 | 스페인 이민정책 (이혜인 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26758,27 +26773,6 @@ https://salthabit.co.kr/]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240521.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240521.mp3</guid>
       <pubDate>Tue, 21 May 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 5/21(화) 퇴직금을 받으려는데 IRP가 정확히 뭔가요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. IRP계좌와 퇴직금 운용에 대해 문의드립니다. 
-늘 1-2년씩 짧게 회사생활을 하며 퇴직금을 받고 탕진하는 생활을 반복했는데요, 
-처음으로 길게 다닌 회사에서 꽤 큰 돈의 퇴직금을 받게 되었습니다. 
-그런데 회사가 작아서인지 퇴직연금엔 가입 안 되어 있고, 
-저는 이번만큼은 퇴직금을 바로 써버리지 않고 노후를 위해 제대로 굴려볼까 생각 중입니다.
-그래서 알아보니, 퇴직연금에 가입되지 않은 경우 IRP를 가입하면 된다고 하던데 
-IRP는 정확히 어떤 계좌인가요? 
-찾아보니 연간 1800만원까지만 입금 가능하다는데 그럼 퇴직금이 그 이상일 경우에는 어떻게 되는 건가요? 
-처음으로 2천만원이 넘는 퇴직금을 받게 될 것 같은데, 
-이것을 모두 IRP계좌에 넣어두는 것이 가장 좋은 방법일지 혹은 
-추천해주시는 다른 운용 방법은 없는지 궁금합니다! ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240521.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240521.mp3</guid>
-      <pubDate>Tue, 21 May 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
