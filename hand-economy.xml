@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 5/14(목) 걸리면 38% 죽는다, 한타 바이러스의 실체 - 이근화 교수 (한양대 의대 미생물학교실)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+걸리면 38% 죽는다 
+한타 바이러스의 실체 
+- 이근화 교수 (한양대 의대 미생물학교실)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260514.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260514.mp3</guid>
+      <pubDate>Thu, 14 May 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 5/14(목) 삼성 노사협상 | 상장폐지 요건 | 국민 배당금 | MBA 등록금</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26755,17 +26767,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240523.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240523.mp3</guid>
       <pubDate>Thu, 23 May 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 5/22(수) 중산층 위기론은 틀렸다? (이창근 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1, 2부
-중산층 위기론은 틀렸다?
-- 이창근 KDI국제정책대학원 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240522.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240522.mp3</guid>
-      <pubDate>Wed, 22 May 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
