@@ -25,6 +25,15 @@
       <pubDate>Sat, 16 May 2026 08:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[플러스] 5/15(금) 손에 잡히는 경제 플러스</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[  ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260515.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260515.mp3</guid>
+      <pubDate>Fri, 15 May 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 5/15(금)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26748,17 +26757,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240524.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240524.mp3</guid>
       <pubDate>Fri, 24 May 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 5/23(목) 세계 최고 투자자들은 올해 어떤 주식을 샀을까? (이윤수 연구원)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-세계 최고의 투자자들은 올해 어떤 주식을 샀을까?
-- 이윤수 뉴로퓨전 연구원]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240523.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240523.mp3</guid>
-      <pubDate>Thu, 23 May 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
