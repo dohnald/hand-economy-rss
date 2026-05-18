@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 5/18(월) 클로드 이탈 (김아람 이사) | 스웨덴 보수화 | 스포츠 중계권 | 인도 입시 비리 (이혜인 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+개발자들이 클로드를
+떠나고 있는 이유
+- 김아람 이사(IT커뮤니케이션연구소)
+
+2부
+스웨덴이 복지제도를
+포기하고 있습니다 
+- 이혜인 기자(한국경제신문)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260518(1).mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260518(1).mp3</guid>
+      <pubDate>Mon, 18 May 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 5/18(월) 환율-금리 | 삼성전자 파업 | 美 국방부 인증</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26760,15 +26777,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240524(1).mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240524(1).mp3</guid>
       <pubDate>Fri, 24 May 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (4부) 형들의 밥값</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[된장찌개 먹으러 가서 소고기 얻어먹기]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240524_4.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240524_4.mp3</guid>
-      <pubDate>Fri, 24 May 2024 15:04:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
