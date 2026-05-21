@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 5/20(수) 미국 초대형 IPO (하수정 경제전문기자) | 거장들의 포트폴리오 (이윤수 대표)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업 되는 기업]
+초대형 IPO 첫 해는
+언제나 잔인했습니다
+- 하수정 경제전문기자
+
+2부
+이란 전쟁에 대응하는
+대가들의 투자 전략
+- 이윤수 대표 (에릭의 거장연구소)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260520.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260520.mp3</guid>
+      <pubDate>Wed, 20 May 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 5/20(수) LH 이색 공급 방안 | 농어촌특별세</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26770,25 +26788,6 @@ hand-economy@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240527.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240527.mp3</guid>
       <pubDate>Mon, 27 May 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 5/27(월) 밸류업 프로그램 오늘부터 개시 外 ｜친절한 경제</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[뉴스브리핑]
-1) 뱃길 막히고 악천후..해상운임 또 뛴다
-2) 밸류업 프로그램 오늘부터 개시
-- 서은영 경제뉴스큐레이터
-
-[친절한 경제]
-"우리 증시는 왜 이 모양인가요?"
-
-[이슈인터뷰]
-'라인사태'는 시작? 일본 경제안보법이 온다
-- 이창민 한국외대 융합일본지역학부 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240527.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240527.mp3</guid>
-      <pubDate>Mon, 27 May 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
