@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - 삼전닉스, 샌디스크 그 다음 타자는?</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[협찬문의 : hand-economy@naver.com]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee260522.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee260522.mp3</guid>
+      <pubDate>Sat, 23 May 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 5/22(금) 돈 벌 때 더 써야 산다? 메모리 초격차의 조건 - 김정호 교수 (카이스트 전자및전기공학부)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26776,22 +26785,6 @@ hand-economy@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240528.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240528.mp3</guid>
       <pubDate>Tue, 28 May 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 5/28(화) 월셋집의 빌트인 가전제품, 고장나면 수리는 누가?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 너무 궁금한데 물어볼 곳이 없어서 글을 적어봅니다.
-저는 보증금 3000만원에 월세 100만원짜리 오피스텔을 계약해서 살고 있습니다. 
-새로 지어진 곳에 2년 계약으로 들어왔고, 지금은 재계약으로 3년째 살고 있는 중인데요, 
-오피스텔 옵션이었던 빌트인 냉장고가 고장이 났습니다. 
-기사님이 3번이나 방문했는데 아직 제대로 고쳐지지 않은 상태입니다. 
-방문할 때마다 수리비랑 부품비가 계속 나가는데, 혹시 월세 세입자가 수리가 필요한 경우에는 집주인이 고쳐주는 걸까요? 아니면 저희가 사용하다 고장 났으니 저희가 계속 고치는 게 맞는 걸까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240528.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240528.mp3</guid>
-      <pubDate>Tue, 28 May 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
