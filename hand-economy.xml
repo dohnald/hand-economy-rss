@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 5/28(목) 2배 ETF 첫날 | 샤오미 실적 | 미국 예측시장</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 삼전닉스 2배 ETF 첫날, 거래대금만 10조 넘어
+2) 샤오미, 1분기 실적 부진.. 메모리값 급등에 스마트폰 사업 직격
+3) 커지는 美 예측시장.. 사실상 도박 vs 계속 번성?
+- 하수정 경제전문기자
+- 박수익 비즈니스워치 기자
+- 이승형 아시아경제 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260528.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260528.mp3</guid>
+      <pubDate>Thu, 28 May 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 5/27(수) 패션브랜드 '망고' (하수정 경제전문기자) | 태양광 산업 (윤재성 하나증권 수석연구위원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26770,18 +26785,6 @@ mc800@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240531_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240531_1.mp3</guid>
       <pubDate>Fri, 31 May 2024 15:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 5/31(금) 임차인의 압류된 보증금 어떻게 해야 할까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요~ 저는 임대인인데요, 법원으로부터 임차인의 월세보증금에 대해 ‘채권 압류 및 추심 명령 결정’을 받은 상태입니다. 임차인은 보증금 2천만원에 월세 40만원에 거주하고 있는데요, 결정문을 읽어보니 소액임차보증금에 해당되면 ‘압류에서 제외한다’고 되어 있더라구요. 그리고 임차인 역시, 소액임차보증금이기 때문에 이사 나갈 때 본인에게 달라고 주장하고 있습니다. 이런 상태에서, 보증금을 임차인에게 지급해도 문제가 없는지요? 나름 알아보니 가장 수월한 방법은 보증금을 법원에 공탁하는 거라고 하더라고요. 근데 공탁을 하게 되면 임차인이 추후에 다른 집을 계약할 돈이 없는 곤란한 상황에 빠지게 돼 마음이 편하지는 않습니다. 만약, 공탁을 하게 되면 공탁 비용이 어느 정도 나오는지, 그 비용은 누가 부담해야 되는 건지 알고 싶습니다.
-마지막으로, ‘압류 제외 되는 소액임차보증금’의 요건은 금액만 충족하면 되는 건지 아니면, 대항력과 확정일자 요건을 모두 충족해야 하는 건지도 궁금합니다. 최근에 임차인과 얘기를 해보니 사정상 주민등록을 부모님 집으로 이전해 놓은 상황이더라고요. 이럴 땐 어떻게 해야 할까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240531.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240531.mp3</guid>
-      <pubDate>Fri, 31 May 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
