@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 5/29(금)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260529.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260529.mp3</guid>
+      <pubDate>Fri, 29 May 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 5/28(목) 한국 기업에 열린 유럽 마지막 기회의 땅 - 김지영 교수 (숭실대 한국기독교문화연구원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26780,15 +26789,6 @@ mc800@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240531_3.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240531_3.mp3</guid>
       <pubDate>Fri, 31 May 2024 15:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 맛동산과 낡은 워크맨</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[모함 이진우 선생]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240531_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240531_2.mp3</guid>
-      <pubDate>Fri, 31 May 2024 15:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
