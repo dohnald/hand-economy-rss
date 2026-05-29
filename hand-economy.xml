@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 5/28(목) 한국 기업에 열린 유럽 마지막 기회의 땅 - 김지영 교수 (숭실대 한국기독교문화연구원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+한국 기업에 열린
+유럽 마지막 기회의 땅
+- 김지영 교수 (숭실대 한국기독교문화연구원)
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260528.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260528.mp3</guid>
+      <pubDate>Thu, 28 May 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 5/28(목) 2배 ETF 첫날 | 샤오미 실적 | 미국 예측시장</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26776,15 +26789,6 @@ mc800@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240531_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240531_2.mp3</guid>
       <pubDate>Fri, 31 May 2024 15:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 트레킹 후일담</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[목메게 억울한 안승찬]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240531_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240531_1.mp3</guid>
-      <pubDate>Fri, 31 May 2024 15:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
