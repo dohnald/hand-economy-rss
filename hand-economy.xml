@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 5/30(토) 스타트업 돈줄 뚫어라, IPO 전쟁이 시작됐습니다 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+스타트업 돈줄 뚫어라
+IPO 전쟁이 시작됐습니다
+- 이진우 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260530.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260530.mp3</guid>
+      <pubDate>Sat, 30 May 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 5/29(금) 중국 드라마 열풍.. K-콘텐츠가 위험합니다 - 조영신 작가</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26791,15 +26804,6 @@ mc800@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240531.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240531.mp3</guid>
       <pubDate>Fri, 31 May 2024 20:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (4부) 52세 재입대론</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[빠르진 않아도 50대는 다 잘 지내]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240531_4.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240531_4.mp3</guid>
-      <pubDate>Fri, 31 May 2024 15:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
