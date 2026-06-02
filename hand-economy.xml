@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 6/1(월) 휴머노이드 로봇 (김덕진 소장) | 부자들의 아르헨행 | 러시아 은행원과 드론 | 밥 로스 (한명현 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+깐부 회동의 새 멤버들
+젠슨황의 힌트일까요?
+- 김덕진 IT커뮤니케이션 연구소 소장
+
+2부
+[글로벌 리포트]
+이제 러시아 은행원은
+드론도 잡아야 합니다
+- 한명현 기자 (한국경제신문)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260601.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260601.mp3</guid>
+      <pubDate>Mon, 01 Jun 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 6/1(월) 국민연금 채권 | 외환시장 24시간 | 유럽 데이터센터 | 페라리 전기차</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26785,24 +26804,6 @@ mc800@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240603.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240603.mp3</guid>
       <pubDate>Mon, 03 Jun 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 6/3(월) 보험을 깰까요, 대출을 받을까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 2015년에 가입한 저축보험에서 분할보험금이 나왔다고 수령하라는 안내를 받았습니다. 
-고객센터에 문의해보니 최저 보증이율은 3.25%이고, 선입선출 방식에 복리가 적용되는 상품이라고 합니다. 
-그러면서, 가능하면 만기까지 유지하는 게 좋다고 하는데 고민입니다. 10년을 유지하면 비과세가 적용되고, 
-연금으로 전환 가능한데요, 만기까지는 1년 정도 남았고, 만기 이후 10년 동안은 최저 보증이율이 
-적용되기 때문에, 될 수 있으면 그때까지도 인출이나 연금 개시를 미루는 게 좋다고 고객센터에서 권유하네요.
-지금까지 쌓여있는 적립금은 약 4천만원 정도 되고, 마침 돈이 필요해서 보험을 활용할까 했는데, 
-이 말을 들으니 고민이 됩니다. 
-대출을 받으려면 4%대인데, 그래도 대출을 받고 만기까지 이 상품을 유지하는 게 더 유리할까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240603.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240603.mp3</guid>
-      <pubDate>Mon, 03 Jun 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
