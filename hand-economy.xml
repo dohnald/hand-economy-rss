@@ -16,6 +16,15 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 6/3(수) </title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[ ]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260603.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260603.mp3</guid>
+      <pubDate>Wed, 03 Jun 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/2(화) 폭등장에서 지켜야 하는 불변의 투자 원칙 - 홍춘욱 대표 (프리즘 투자자문)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26786,25 +26795,6 @@ mc800@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240604.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240604.mp3</guid>
       <pubDate>Tue, 04 Jun 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 6/4(화) 집주인이 만기에 보증금을 돌려주지 못하겠다고 합니다.</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 현재 살고 있는 주거용 오피스텔의 만기가 8월이라 집주인에게 퇴거 의사를 밝히니 
-전세금을 돌려주기가 어렵다는 답변을 들었습니다. 지금 집에 대출이 껴있는데, 
-부동산 상황이 어려워서 다음 세입자를 구하기가 어려우니 6개월만 더 살면 안 되겠느냐고 애원을 하십니다.
-현재 주택 시세는 약 8억5천만원이고, 전세보증금은 5억5천만원, 집주인의 대출은 3억원입니다. 
-전세보증보험은 가입이 되어 있는 상태이구요.. 이사를 반드시 가야하는 입장인데, 6개월을 늦춰서 나갔을 때 
-가고자 하는 지역의 전세 가격이 오를 수 있다는 리스크도 감수를 해야 하기에 가급적 만기시점에 이사를 가고 싶습니다.
-가능하면 좋게 풀고자 하는데, 6개월 연장하여 거주하는 경우에도 전세보증보험 연장을 할 수 있을까요? 
-집주인은 전세반환대출이 어렵다고 하는데, 
-대출이 있는 집은 추가로 전세반환대출을 받을 방법이 전혀 없는 걸까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240604.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240604.mp3</guid>
-      <pubDate>Tue, 04 Jun 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
