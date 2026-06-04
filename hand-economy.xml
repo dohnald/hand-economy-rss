@@ -16,10 +16,35 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>[손경제] 6/3(수) </title>
+      <title>[손경제] 6/4(목) 美 강제노동 관세 | 스페이스X 공모가 | 세계 외환보유자산</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ ]]></description>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 미국, 최대 12.5% ‘강제노동 관세’ 부과 추진.. 한국 영향은?
+2) 스페이스X 상장 D-8.. 희망 공모가 주당 135달러
+3) 세계 외환보유자산 1위는 금.. 미국 국채 넘어섰다
+- 하수정 경제전문기자
+- 박수익 비즈니스워치 기자
+- 라예진 이코노미스트 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260604.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260604.mp3</guid>
+      <pubDate>Thu, 04 Jun 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[손경제] 6/3(수) 중복상장 가이드라인 | 구글 유상증자 | 삼성 시총 10위</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 중복상장시 주주동의 받는다.. 대주주 의결권은 3%로 제한
+2) 구글, AI 투자 위해 120조 원 규모 유상증자 단행
+3) 삼성전자, 메타 제치고 글로벌 시가총액 10위 등극
+- 김치형 경제뉴스 큐레이터
+- 정지서 연합인포맥스 기자
+
+[친절한 경제]
+주식 배당과 무상증자는
+무엇이 다른가요?
+- 청취자 문철환 씨]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260603.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260603.mp3</guid>
       <pubDate>Wed, 03 Jun 2026 08:30:00 +0900</pubDate>
@@ -26784,17 +26809,6 @@ mc800@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240605.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240605.mp3</guid>
       <pubDate>Wed, 05 Jun 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 6/4(화) 삼보 컴퓨터, 대한민국 PC시대를 열다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[공부왕 이종훈]
-삼보 컴퓨터, 대한민국 PC시대를 열다]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240604.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240604.mp3</guid>
-      <pubDate>Tue, 04 Jun 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
