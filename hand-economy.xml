@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 6/4(목) 푸틴이 드디어 종전을 언급하기 시작했습니다 - 이문영 교수 (서울대 통일평화연구원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+푸틴이 드디어 종전을 
+언급하기 시작했습니다 
+- 이문영 교수 (서울대 통일평화연구원)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260604.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260604.mp3</guid>
+      <pubDate>Thu, 04 Jun 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 6/4(목) 美 강제노동 관세 | 스페이스X 공모가 | 세계 외환보유자산</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26791,24 +26803,6 @@ mc800@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240605.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240605.mp3</guid>
       <pubDate>Wed, 05 Jun 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 6/5(수) 비금융 기업, ‘역대급’ 영구채 발행｜대전역서 성심당 떠나나..해결방안은? (강동원 변호사)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[뉴스 브리핑]
-비금융 기업, ‘역대급’ 영구채 발행
-- 김치형 경제뉴스큐레이터
-
-[친절한 경제]
-"자사주 소각, 기업에 이득이 있나요?"
-
-[이슈 인터뷰]
-대전역서 성심당 떠나나..해결방안은?
-- 강동원 법무법인 정의 변호사]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240605.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240605.mp3</guid>
-      <pubDate>Wed, 05 Jun 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
