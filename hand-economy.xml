@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 6/5(금) 환율 1540원대 | 전력 가격상한제 | 브라질 원유 증산</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 환율 1540원대까지.. 수출 호조에도 외국인 매도 늘어
+2) 환경부 장관 “발전사 과도한 이익 막겠다” 전력도 가격상한제?
+3) 브라질 원유 30% 증산.. 중동 대체 가능할까
+- 이희수 매일경제신문 기자
+- 정지서 연합인포맥스 기자
+- 조미현 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260605.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260605.mp3</guid>
+      <pubDate>Fri, 05 Jun 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/4(목) 푸틴이 드디어 종전을 언급하기 시작했습니다 - 이문영 교수 (서울대 통일평화연구원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26785,24 +26800,6 @@ mc800@naver.com
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20240605.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ADCONTENTS_20240605.mp3</guid>
       <pubDate>Wed, 05 Jun 2024 18:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 6/5(수) 법인에게 돈을 빌려줄 때 유의사항과 세금은?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 제가 다니는 회사에 투자금이 필요해서 대표님이 저에게 1억원을 2년간 회사에 대여를 해달라고 부탁을 하셨습니다. 저는 그만한 현금이 없어서 주택담보대출을 받아서 회사에 대여해주려고 하는데요, 
-물론 차용증도 쓰고 이자도 받을 예정입니다. 회사에 대여하는 조건은 2024년 5월 30일부터 2년이고, 
-상환은 만기일에 원금과 이자를 모두 지급하며, 
-이자는 아직 정하지는 않았지만 10~20% 사이가 될 것 같습니다. 
-이런 금전 대여 계약서 작성 시 유의해야 할 사항이 있을까요? 
-특히, 제가 받는 이자에 대한 세금은 어떻게 하는 것이 좋을지 궁금합니다. 
-이자소득에 대한 원천징수는 회사에서 하는 것인지, 그렇다면 몇 %를 하는 것인지를 알아야, 
-얼마의 이자를 받아야 할지 구체적인 조건을 정할 수 있을 것 같습니다. ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240605.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240605.mp3</guid>
-      <pubDate>Wed, 05 Jun 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
