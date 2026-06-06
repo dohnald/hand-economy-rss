@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - 1부 위기의 중년 남자는 스페인에 가야합니다</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[협찬문의 : hand-economy@naver.com]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee260605_1.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee260605_1.mp3</guid>
+      <pubDate>Sun, 07 Jun 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커피타임 - 2부 독일 남녀혼탕에서 만난 여성이...</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[협찬문의 : hand-economy@naver.com]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee260605_2.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee260605_2.mp3</guid>
+      <pubDate>Sun, 07 Jun 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임(협찬) - 고든 램지도 손종원도 저희 것만 씁니다 with 바다숲</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26751,37 +26769,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240606.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240606.mp3</guid>
       <pubDate>Thu, 06 Jun 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 6/6(목) 결혼으로 2주택자가 되면 세금은 어떻게 되나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 결혼 예정인 예비 배우자와 제가 각각 주택을 보유하고 있어서 
-결혼을 한 후엔 2주택자가 될 예정인데요, 몇 가지 궁금한 것이 있습니다. 
-저는 2018년부터 실거주 1주택 단독세대주로, 주택가격 4억원 이하라는 조건에 부합해서, 
-연말정산 때 장기주택 저당 차입금 이자상환액에 대해 현재까지 소득공제를 받고 있는 중입니다. 
-이런 상황에서 결혼 후 2주택자가 된다면 연말정산 때 소득공제를 더 이상 받지 못하는 것인지 궁금합니다.
-또, 서로 1주택을 소유한 상태로 결혼하면 바로 다주택자로 분류돼, 
-각종 세금이 2주택자 기준으로 적용되는 걸까요? 결혼 후 몇 년 안에 주택을 팔면 그런 불이익을 피할 수 있다고 얼핏 들은 것 같은데, 정확히 어떻게 해야 하는 건지 알고 싶습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240606.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240606.mp3</guid>
-      <pubDate>Thu, 06 Jun 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 6/6(목) 힘 빠진 전세보증보험, 전세가 자극할 수도 外</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1) 힘 빠진 보증보험, 전세가 자극할 수도
-2) 韓 1인당 국민총소득, 일본 첫 추월
-3) 조선·철강 업계, 후판 가격 협상 ‘난항’
-- 김현우 행복자산관리연구소장
-- 손석우 경제뉴스큐레이터
-- 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240606.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240606.mp3</guid>
-      <pubDate>Thu, 06 Jun 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
