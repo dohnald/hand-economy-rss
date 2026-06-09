@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 6/9(화) NDF 거래 | 앤트로픽 | 장바구니 물가상승</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 외환당국 "환율 급등 원인은 해외 환투기".. 강력 대응 시사
+2) 앤스로픽, 반도체 안 사고 빌려쓴다.. 리스 계약 위험성은??
+3) 달걀값 오름세 두고 정부·농가 이견.. "담합" vs "공급 부족"
+- 연합인포맥스 정지서 기자
+- 한국경제신문 조미현 기자
+- 손희애 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260609.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260609.mp3</guid>
+      <pubDate>Tue, 09 Jun 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/8(월) 젠슨황 방한 (김덕진 소장) | 영국 청년 군입대 | CIA 금괴 절도 | 스웨덴 10대 교도소 (한명현 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26772,15 +26787,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240607_3.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240607_3.mp3</guid>
       <pubDate>Fri, 07 Jun 2024 15:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 부적응자들의 조직썰</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[손에 안 잡혔던 진우]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240607_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240607_2.mp3</guid>
-      <pubDate>Fri, 07 Jun 2024 15:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
