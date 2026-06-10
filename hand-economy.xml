@@ -16,6 +16,30 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 6/10(수) WWDC26 | 엔비디아 동맹 | 레버리지ETF</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 애플, '시리 AI' 본격 상용화.. 시장 반응은 싸늘
+2) 크래프톤·엔씨와 손잡은 엔비디아.. 게임사 역할은?
+3) SK하이닉스 폭등하는데, 레버리지 ETF는 폭락.. 배경은?
+- 매일경제신문 오찬종 기자
+- 이코노미스트 라예진 기자
+
+[친절한 경제１]
+세금을 안 낸 근로자여도
+세액 공제를 받을 수 있나요？
+- 청취자 이현지 씨
+
+[친절한 경제２]
+원화가 약세인데
+외국인은 왜 한국 주식을 팔까요?
+- 청취자 송민호 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260610.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260610.mp3</guid>
+      <pubDate>Wed, 10 Jun 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/9(화) 조합장이 파리 목숨이니 재개발이 늦어지는 겁니다 - 이재식 전문조합관리인 (연희1구역)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26781,15 +26805,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240607_5.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240607_5.mp3</guid>
       <pubDate>Fri, 07 Jun 2024 15:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (4부) 아주 사적인(?) 이야기</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 만들기 대작전]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240607_4.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240607_4.mp3</guid>
-      <pubDate>Fri, 07 Jun 2024 15:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
