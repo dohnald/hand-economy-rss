@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 6/10(수) 월드컵 경제 (하수정 경제전문기자) | 스페이스X 상장 (정의훈 유진투자증권 선임연구원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업되는기업]
+맥주 한잔에 2.5만원
+월드컵 물가 난리난 이유
+- 하수정 경제전문기자
+
+2부
+적자 심한 스페이스X
+올해 안에 흑자날걸요? 
+- 정의훈 유진투자증권 (선임연구원)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260610.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260610.mp3</guid>
+      <pubDate>Wed, 10 Jun 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 6/10(수) WWDC26 | 엔비디아 동맹 | 레버리지ETF</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26796,15 +26814,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240607.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240607.mp3</guid>
       <pubDate>Fri, 07 Jun 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (5부) 다만 아쉽습니다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[함축적인 마법의 말]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240607_5.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240607_5.mp3</guid>
-      <pubDate>Fri, 07 Jun 2024 15:04:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
