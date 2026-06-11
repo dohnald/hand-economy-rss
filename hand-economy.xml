@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 6/11(목) 美 CPI | 스페이스X 공모주 | 은행채</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 고유가에 CPI 전년 대비 4.2%↑.. 근원물가는 선방
+2) 스페이스X 공모주, 상장 당일 한국인만 못 판다
+3) 은행채 발행 110조 넘어.. 대출금리 상승 우려
+- 하수정 경제 전문 기자
+- 비즈니스워치 박수익 기자
+- 아시아경제 이승형 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260611.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260611.mp3</guid>
+      <pubDate>Thu, 11 Jun 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/10(수) 월드컵 경제 (하수정 경제전문기자) | 스페이스X 상장 (정의훈 유진투자증권 선임연구원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26795,25 +26810,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240610.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240610.mp3</guid>
       <pubDate>Mon, 10 Jun 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 6/7(금) ‘거래소’ 앞세울 텍사스, 뉴욕에 맞서나? (남궁민) | 신흥시장 노리는 중국 전기차 (어예진)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[키워드 경제]
-’거래소‘ 앞세울 텍사스, 뉴욕에 맞서나?
--남궁민 뉴스큐레이터
-
-2부
-[글로벌 리포트]
-인도 선거, 모디의 무적 파워는 끝?
-멕시코, 최초 여성 대통령 나오다
-신흥시장 노리는 중국 전기차
--어예진 해담경제연구소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240607.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240607.mp3</guid>
-      <pubDate>Fri, 07 Jun 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
