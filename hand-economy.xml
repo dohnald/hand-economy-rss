@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 6/14(일) 전쟁을 부르는 날씨 슈퍼 엘니뇨가 온다 - 국종성 교수 (서울대 지구환경과학부)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+전쟁을 부르는 날씨
+슈퍼 엘니뇨가 온다
+- 국종성 교수 (서울대 지구환경과학부)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260614.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260614.mp3</guid>
+      <pubDate>Sun, 14 Jun 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/13(토) 젠슨황의 방한으로 엿본 우리나라의 무한 잠재력 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26798,21 +26810,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240612.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240612.mp3</guid>
       <pubDate>Wed, 12 Jun 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 6/12(수) 건산연 "올해 집값 1.8% 하락"｜애플의 AI '애플 인텔리전스', 시장 평가는? (이형수 대표)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-건산연 "올해 집값 1.8% 하락"
-- 김치형 경제뉴스큐레이터
-
-[이슈 인터뷰]
-드디어 공개된 애플 인텔리전스, 시장 평가는? 
-- 이형수 HSL파트너스 대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240612.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240612.mp3</guid>
-      <pubDate>Wed, 12 Jun 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
