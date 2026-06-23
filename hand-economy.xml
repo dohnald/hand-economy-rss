@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 6/23(화) SK하이닉스 | 레버리지 ETF | 상호금융권 | 호텔 투자</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) SK하이닉스, 삼전 제치고 시총 1위.. 26년 만에 대장주 교체
+2) "단일종목 레버리지 ETF 막았어야".. 금감원장의 반성
+3) 새마을금고 등 상호금융권서 15조원 빠졌다.. 머니무브 심화
+4) 외국인 관광객 크게 늘면서 호텔업 초호황.. 투자도 활기
+- 김치형 경제뉴스 큐레이터
+- 연합인포맥스 정지서 기자
+- 손희애 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260623.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260623.mp3</guid>
+      <pubDate>Tue, 23 Jun 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/22(월) AI 효율성 논쟁 (김덕진 소장) | 쿠바 시장경제 | 중국 가상부모 | 역노화 기술 (이혜인 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26866,17 +26882,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSc3kTRPScyrWNUmKuS7F2KyAx1c4tqdmWl-ZAO6
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240618.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240618.mp3</guid>
       <pubDate>Tue, 18 Jun 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 6/17(월) 꿈의 에너지, 핵융합..실용화 어디까지 왔나 (이독실)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1, 2부
-꿈의 에너지, 핵융합..실용화 어디까지 왔나
-- 이독실 과학커뮤니케이터]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240617.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240617.mp3</guid>
-      <pubDate>Mon, 17 Jun 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
