@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 6/22(월) AI 효율성 논쟁 (김덕진 소장) | 쿠바 시장경제 | 중국 가상부모 | 역노화 기술 (이혜인 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+AI 가성비 전쟁이
+시작됐습니다
+- 김덕진 IT커뮤니케이션 연구소 소장
+
+2부
+[글로벌리포트]
+위로가 필요한 中 청년들
+틱톡에서 부모 찾습니다
+- 이혜인 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260622.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260622.mp3</guid>
+      <pubDate>Mon, 22 Jun 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 6/22(월) 국민연금 | 청년미래적금 | 참다랑어 | 고등어</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26858,20 +26877,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSc3kTRPScyrWNUmKuS7F2KyAx1c4tqdmWl-ZAO6
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240617.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240617.mp3</guid>
       <pubDate>Mon, 17 Jun 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 6/17(월) ISA에 국내 주식을 담아서 투자하면 안 되나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요! 올해 취업해서 경제를 차근차근 공부해 나가고 있는 20대입니다.
-다름이 아니라 주식 공부를 하다 보니까 ISA 계좌에 대해 궁금한 점이 있어 질문 남깁니다. 
-ISA의 비과세 혜택을 잘 활용하기 위해선 국내 상장 해외 ETF를 담는 게 유리하다고 들었습니다. 그래서 ISA 계좌에는 미국 ETF, 일반계좌에는 국내 주식을 담고 있는데요, 제가 사회초년생이라 미국 ETF만으로는 200만원의 수익을 내기는 어려울 것 같더라고요. 그냥 ISA에 미국 ETF와 함께 국내주식도 담는 게 더 낫지 않을까하는 고민을 하게 되었습니다.
-제가 알아본 바로는, 국내 주식은 차익에 대한 세금이 없어서 굳이 ISA에 담을 필요가 없다고 하던데, 국내주식도 증권거래세는 거둬가는 것으로 알고 있어서요. 증권거래세라도 면제받기 위해서는 국내 주식을 ISA 계좌에 담는 게 낫지 않을까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240617.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240617.mp3</guid>
-      <pubDate>Mon, 17 Jun 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
