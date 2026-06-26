@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[경제콘서트] 지거국 리턴즈</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[32th 경제콘서트
+지거국 리턴즈
+w. 최은옥 교육부 차관, 조웅래 선양소주 회장, 김현철 연세대 의대 교수
+
+일시: 2025년 6월 20일 (토) 오후 1시
+장소: 상암 MBC 골든마우스홀
+출연: 최은옥 교육부 차관, 조웅래 선양소주 회장, 김현철 연세대 의대 교수, 이진우 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCONCERT_20260626.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCONCERT_20260626.mp3</guid>
+      <pubDate>Fri, 26 Jun 2026 11:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 6/26(금) 마이크론 | 액티브 ETF | 건강보험 수가</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26865,17 +26880,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240620.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240620.mp3</guid>
       <pubDate>Thu, 20 Jun 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 6/19(수) 양극화 심해지는 부동산 시장..정부 대책 효과 있을까 (채상욱)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1, 2부
-양극화 심해지는 부동산 시장..정부 대책 효과 있을까
-- 채상욱 채부심 대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240619.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240619.mp3</guid>
-      <pubDate>Wed, 19 Jun 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
