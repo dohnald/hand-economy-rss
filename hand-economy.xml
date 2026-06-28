@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 6/27(토) 동남아 화폐가 휴지가 되고 있는 이유 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+동남아 화폐가
+휴지가 되고 있는 이유
+- 박정호 명지대 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260627.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260627.mp3</guid>
+      <pubDate>Sat, 27 Jun 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/26(금) 러브버그와의 전쟁 이제는 끝내야 합니다 - 김동건 교수 (삼육대 환경생태연구소)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26860,19 +26873,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240621.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240621.mp3</guid>
       <pubDate>Thu, 20 Jun 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 6/20(목) 마이너스 통장에 돈을 넣고 뺄 때 이자는 어떻게 되나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 현재 청약통장을 담보로 마이너스 통장을 사용하고 있는 직장인입니다.
-저희 회사는 월급날이 휴일일 경우 휴일 전날에 입금이 됩니다. 예를 들어, 10일이 월급날인데 10일이 휴일이면 9일에 월급이 들어오는 식입니다. 그런데 대부분의 자동이체가 10일로 되어 있어서 하루 정도의 여유가 생기게 되는데, 이런 경우 9일에 받은 월급으로 마이너스 통장을 갚고, 10일에 자동이체로 돈이 나갈 때 다시 빌리는 것이 이득인지, 아니면 9일에 받은 월급을 그냥 월급 통장에 그대로 두는 것이 이득인지 궁금합니다.
-제가 알아본 바로는 입출금 통장의 이자는 밤 12시 기준으로 계산되지만, 마이너스 통장의 이자는 그날 빌렸던 최대 금액 기준으로 이자가 청구되기 때문에 오히려 손해라고도 들었습니다. 어떻게 하는 것이 유리할까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240620.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240620.mp3</guid>
-      <pubDate>Thu, 20 Jun 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
