@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 6/28(일) 전세는 우리나라만의 전유물이 아닙니다 - 재원쌤</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[쩐설의 김선생]
+전세는 우리나라만의
+전유물이 아닙니다
+- 김재원 역사커뮤니케이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260628.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260628.mp3</guid>
+      <pubDate>Sun, 28 Jun 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/27(토) 동남아 화폐가 휴지가 되고 있는 이유 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26862,17 +26875,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240621.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240621.mp3</guid>
       <pubDate>Fri, 21 Jun 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 6/20(목) 투르크 사람들이 민주주의에 무관심한 이유 (박정호 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[역시나 박정호]
-투르크 사람들이 민주주의에 무관심한 이유
-w. 오승훈 아나운서]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240621.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240621.mp3</guid>
-      <pubDate>Thu, 20 Jun 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
