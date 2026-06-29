@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 6/29(월) 올드테크 | 양도제한조건부주식 | 전동킥보드</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) AI 수요 폭발에 델·노키아 등 올드테크 화려한 부활
+2) 벤처 업계 요구에도.. 정부, RSU 세제 혜택 뺐다
+3) 강제 견인 피하려.. 지방으로 내려간 서울 전동 킥보드
+- 한국경제신문 조미현 기자
+- 머니투데이신문 김근희 기자
+
+[친절한 경제]
+국고채 ETF에 투자했는데
+왜 손해가 나는 거죠?
+- 청취자 이정길 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260629.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260629.mp3</guid>
+      <pubDate>Mon, 29 Jun 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/28(일) 전세는 우리나라만의 전유물이 아닙니다 - 재원쌤</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26858,23 +26877,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240621.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240621.mp3</guid>
       <pubDate>Fri, 21 Jun 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 6/21(금) 주담대 2%의 속사정｜중앙은행이 위협받는다?｜화물 운임 계속 오른다｜도요타의 베팅</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 고정금리 주담대 하단 2%까지 뚝
-2) 세계의 중앙은행, 금리 두고 정부와 갈등
-3) 해운 이어 비행기 화물 운임도 오른다
-4) 도요타 신형 하이브리드 엔진 개발 착수
-- 김현우 행복자산관리연구소장
-- 안승찬 언더스탠딩 기자
-- 박세훈 작가
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240621.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240621.mp3</guid>
-      <pubDate>Fri, 21 Jun 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
