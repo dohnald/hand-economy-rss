@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 6/30(화) '10년 사이 총리만 7명' 영국은 왜 콩가루가 됐나 - 윤영휘 교수 (경북대 사학과)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+'10년 사이 총리만 7명'
+영국은 왜 콩가루가 됐나
+- 윤영휘 교수 (경북대 사학과)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260630.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260630.mp3</guid>
+      <pubDate>Tue, 30 Jun 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 6/30(화) 반도체 집단소송 | 정유사 보상 | 반도체 투자 | 역직구</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26875,15 +26887,6 @@ with 오승훈 아나운서]]></description>
       <description><![CDATA[2]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240621_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240621_2.mp3</guid>
-      <pubDate>Fri, 21 Jun 2024 17:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 집 산 사람과 안 산 사람</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[3]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240621_3.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240621_3.mp3</guid>
       <pubDate>Fri, 21 Jun 2024 17:00:00 +0900</pubDate>
     </item>
   </channel>
