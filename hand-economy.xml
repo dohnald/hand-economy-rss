@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 7/1(수) 동탄·기흥·구리 | EU 철강 장벽 | 슈퍼엔저</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) '집값 급등' 동탄·기흥·구리.. 부동산 규제지역 지정
+2) EU, 철강 관세 강화.. 무관세 철강 물량 반토막
+3) 엔화, 당국 개입에도 연일 하락세.. 39년 내 최저치
+- 김치형 경제뉴스 큐레이터
+- 이코노미스트 라예진 기자
+
+[친절한 경제]
+OPEC 산유국들의 담합은
+왜 소송을 당하지 않나요?
+- 청취자 원성필 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260701.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260701.mp3</guid>
+      <pubDate>Wed, 01 Jul 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 6/30(화) '10년 사이 총리만 7명' 영국은 왜 콩가루가 됐나 - 윤영휘 교수 (경북대 사학과)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26878,15 +26897,6 @@ with 오승훈 아나운서]]></description>
       <description><![CDATA[1]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240621_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240621_1.mp3</guid>
-      <pubDate>Fri, 21 Jun 2024 17:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 일반인은 주식 못해요(?)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[2]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240621_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240621_2.mp3</guid>
       <pubDate>Fri, 21 Jun 2024 17:00:00 +0900</pubDate>
     </item>
   </channel>
