@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/1(수) 폭스바겐 (하수정 경제전문기자) | 2차전지 (이안나 유안타증권 연구원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업되는기업]
+자동차 왕국 폭스바겐이
+몰락하고 있습니다
+- 하수정 경제전문기자
+
+2부
+2차전지를 노린다면
+내년이 기회인 이유
+- 이안나 유안타증권 연구원]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260701.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260701.mp3</guid>
+      <pubDate>Wed, 01 Jul 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/1(수) 동탄·기흥·구리 | EU 철강 장벽 | 슈퍼엔저</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26889,15 +26907,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240623.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240623.mp3</guid>
       <pubDate>Fri, 21 Jun 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 누군 뛰는데 누구는 걷고</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240621_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240621_1.mp3</guid>
-      <pubDate>Fri, 21 Jun 2024 17:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
