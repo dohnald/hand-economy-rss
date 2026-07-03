@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/2(목) 태평양 깊은 곳에서 희토류 직접 캤습니다 - 김윤미 센터장 (한국지질자원연구원 해저지질연구센터)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+태평양 깊은 곳에서
+희토류 직접 캤습니다
+ - 김윤미 센터장 (한국지질자원연구원 해저지질연구센터)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260702.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260702.mp3</guid>
+      <pubDate>Thu, 02 Jul 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/2(목) 수출 데이터 | 메타 클라우드 | 오픈 USD | 풍선효과 | 앱마켓 </title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26891,21 +26903,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240624.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240624.mp3</guid>
       <pubDate>Mon, 24 Jun 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 6/24(월) '공짜 전기'가 는다｜[공정위 인터뷰] 쿠팡 순위 조작</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제 뉴스]
-재생E 일시적 과잉 공급.. ‘공짜 전기’ 는다
-- 안승찬 언더스탠딩 기자
-
-[이슈 인터뷰]
-“쿠팡은 불법인 줄 알고 있었습니다”
-- 이영희 공정거래위원회 시장감시국 사무관]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240624.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240624.mp3</guid>
-      <pubDate>Mon, 24 Jun 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
