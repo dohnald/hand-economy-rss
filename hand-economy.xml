@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/4(토) 패권 전쟁의 숨겨진 전장 동남아시아인 이유 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+패권 전쟁의 숨겨진 전장
+동남아시아인 이유
+- 박정호 명지대 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260704.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260704.mp3</guid>
+      <pubDate>Sat, 04 Jul 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/3(금) 달걀값 오른 건 유통탓? 범인은 따로 있습니다 - 노준기 대표 (계림농장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26885,18 +26898,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240626.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240626.mp3</guid>
       <pubDate>Wed, 26 Jun 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 6/25(화) 왜 제약사들은 우주에서 약을 만들까(이창욱 과학동아 기자)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[테코노미]
-왜 제약사들은 우주에서 약을 만들까
-- 이창욱 과학동아 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240625.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240625.mp3</guid>
-      <pubDate>Tue, 25 Jun 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
