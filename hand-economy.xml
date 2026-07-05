@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/5(일) 강북 집값이 덜 오르는 건 사실 버스 때문입니다 - 임삼진 원장 (녹색도시연구원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+강북 집값이 덜 오르는 건
+사실 버스 때문입니다
+- 임삼진 원장 (녹색도시연구원)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260705.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260705.mp3</guid>
+      <pubDate>Sun, 05 Jul 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/4(토) 패권 전쟁의 숨겨진 전장 동남아시아인 이유 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26883,21 +26895,6 @@ with 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240626.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240626.mp3</guid>
       <pubDate>Wed, 26 Jun 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 6/26(수) 스트레스 DSR 2달 연기｜잇따른 이상기후, 경제 영향은?(홍종호 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제 뉴스]
-금융위, 2단계 스트레스DSR 돌연 연기 
-- 김치형 뉴스큐레이터
-
-[이슈 인터뷰]
-때 아닌 폭염.. 이상기후, 경제적 영향은? 
-- 홍종호 서울대 환경대학원 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240626.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240626.mp3</guid>
-      <pubDate>Wed, 26 Jun 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
