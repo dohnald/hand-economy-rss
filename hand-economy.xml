@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/6(월) 메타 컴퓨트 (김덕진 소장) | 중국 청년 유령도시 | 남아공 이주민 갈등 | 러시아 연료난 (이혜인 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+클라우드 진출하는
+메타의 진짜 속사정
+- 김덕진 소장(IT커뮤니케이션 연구소)
+
+2부
+[글로벌 리포트]
+중국의 유령도시로
+청년이 모이고 있습니다
+- 이혜인 기자(한국경제신문)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260706.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260706.mp3</guid>
+      <pubDate>Mon, 06 Jul 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/6(월) 엔캐리 트레이드 | 반도체 비관론 | 홈플러스</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26895,18 +26914,6 @@ K-엔터주 투자의 리스크
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240627.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240627.mp3</guid>
       <pubDate>Thu, 27 Jun 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 6/26(수) 우즈벡엔 선남선녀가 많지 않습니다 (박정호 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[역시나 박정호]
-우즈벡엔 선남선녀가 많지 않습니다
-with 오승훈 아나운서]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240626.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240626.mp3</guid>
-      <pubDate>Wed, 26 Jun 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
