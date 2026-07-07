@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/7(화) 금의 슈퍼사이클 앞으로 5년 남았습니다 - 조규원 대표 (스태커스)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+금의 슈퍼사이클
+앞으로 5년 남았습니다
+- 조규원 대표 (스태커스)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260707.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260707.mp3</guid>
+      <pubDate>Tue, 07 Jul 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/7(화) 삼성전자 실적 | 국민연금 리밸런싱 유예 | 중복상장 금지 | 반도체 추가 세수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26902,18 +26914,6 @@ K-엔터주 투자의 리스크
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240627.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240627.mp3</guid>
       <pubDate>Thu, 27 Jun 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 06/27(목) 개인실손 있는데 단체실손 중복가입</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요 결혼 전에 1세대 실비 보험을 가입해두었는데 결혼을 하면서 신랑 직장에서 저까지 단체실비보험에 자동 가입되어 있는 상태입니다. 문제는 제1세대 실비보험료가 처음 10년은 3만원이었는데 계속 조금씩 오르더니 지금은 10만원을 넘게 내고 있습니다. 병원도 잘 안 가는데 부담스럽고 실비 청구할때는 비례적용이라 번거롭고 불편합니다. 그런데 보험을 중지할 수 있다는 이야기를 듣고 자세히 알고 싶어 도움 요청 드립니다.
-첫 번째로, 제가 개인보험을 중지한 후 나중에 다시 부활시키면 보장 내용은 그대로 유지되는 건지 궁금합니다. 어떤 분들은 개인 보험을 중지했다가 다시 부활하게 되면, 원래의 보장 내용 대신 부활 시점의 보장 내용으로 변경된다고 하면서, 부담스럽더라도 계속 납입하라고 하시더라구요. 뭐가 맞는지 알고 싶습니다. 두 번째로, 제 보험에 100세 만기 100세 납입과 20년 납입 특약이 있는데, 계속 보험료라는 건 계속 내야하는 건가요? 또, 20년 납입 특약은 20년 이후 보장을 못 받는 건지도 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240627.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240627.mp3</guid>
-      <pubDate>Thu, 27 Jun 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
