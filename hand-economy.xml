@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 7/7(화) 삼성전자 실적 | 국민연금 리밸런싱 유예 | 중복상장 금지 | 반도체 추가 세수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 삼성전자 2분기 성적표, 매출 171조에 영업이익 89조원
+2) 여당, 국민연금 리밸런싱 유예 뒷받침.. 법적 근거 마련한다
+3) 중복상장 원칙적 금지.. 쪼개기 상장 땐 주주동의 필수
+4) '초과 세수' 아니라 '추가 세수'.. 용어 바꾼 배경은?
+- 김치형 경제뉴스 큐레이터
+- 연합인포맥스 정지서 기자
+- 손희애 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260707.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260707.mp3</guid>
+      <pubDate>Tue, 07 Jul 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/6(월) 메타 컴퓨트 (김덕진 소장) | 중국 청년 유령도시 | 남아공 이주민 갈등 | 러시아 연료난 (이혜인 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26898,22 +26914,6 @@ K-엔터주 투자의 리스크
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240627.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240627.mp3</guid>
       <pubDate>Thu, 27 Jun 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 6/27(목) 화성 화재 공장, 불법파견 정황｜군 복무 중 실손 중지｜환율은 왜</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제 뉴스]
-1) 화성 화재 아리셀 공장, 불법 파견 정황
-2) 군 복무 중 실손 중지 가능해진다
-3) 1400원선이 코앞.. 환율 상승 원인은?
-- 손석우 뉴스큐레이터
-- 김현우 행복자산관리연구소장
-- 박세훈 작가
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240627.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240627.mp3</guid>
-      <pubDate>Thu, 27 Jun 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
