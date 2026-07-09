@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 7/9(목) 딥시크 AI칩 | 중국 AI 장벽 | SK하이닉스 ADR | 중고폰 시장</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 딥시크, 美 수출 규제 속 자체 AI칩 개발 추진
+2) 中, 자국 AI 해외 사용 제한 검토
+3) SK하이닉스 ADR 상장 D-1.. 본주와 교환 가능성은?
+4) 중고폰 거래 연간 900만 대.. 시장 못 따라가는 세금 제도
+- 하수정 경제 전문 기자
+- 매일경제신문 명지예 기자
+- 비즈니스워치 박수익 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260709.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260709.mp3</guid>
+      <pubDate>Thu, 09 Jul 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/8(수) 450조 중동 재건사업 한국이 1순위인 이유 - 임병구 한국대표 (러머스 테크놀로지)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26910,17 +26926,6 @@ K-엔터주 투자의 리스크
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240628_1_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240628_1_1.mp3</guid>
       <pubDate>Fri, 28 Jun 2024 15:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 06/28(금) 창고 임대시 화재보험은 누가 가입해요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 지방에서 물류창고 임대업을 하고 있습니다. 3급 샌드위치 판넬 건물이어서 화재에 취약해 화재보험에 가입하려 하는데요, 이때 가입의 주체는 임대인일까요 임차인일까요? 임대인인 저는 건물에 대한 보상이 필요하고 임차인은 집기나 물건에 대한 보상과 불이 옆 창고까지 번졌을 경우 그에 대한 보상까지도 필요할 것으로 생각됩니다. 그렇다면 창고 사용의 주체는 임차인이니 화재 보험료를 임차인이 부담하는 것이 맞지 않을까요? 보통 보험료는 매월 납입하던데 만약 임차인이 어느 시점 납입을 중단하게 되면 임대인은 그 사실을 알 수 없을 텐데 그 경우 화재가 나면 어떻게 되는 건가요? 구상권을 청구한다고 들었는데 변제 능력이 안 되면 보상을 못 받는 것 아닌가요? 그리고 화재가 났을 경우 건물에 대한 보험금은 보험사에서 임대인에게 바로 지급하는 것인가요? 아울러 물류 창고 임대업은 "상가 임대차 보호법"의 적용을 받는 것인지도 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240628.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240628.mp3</guid>
-      <pubDate>Fri, 28 Jun 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
