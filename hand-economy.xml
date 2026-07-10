@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/9(목) 새로운 병목의 등장 얼마 남지 않았습니다 - 이선엽 대표 (AFW 파트너스)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+새로운 병목의 등장
+얼마 남지 않았습니다
+ - 이선엽 대표 (AFW 파트너스)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260709.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260709.mp3</guid>
+      <pubDate>Thu, 09 Jul 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/9(목) 딥시크 AI칩 | 중국 AI 장벽 | SK하이닉스 ADR | 중고폰 시장</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26917,15 +26929,6 @@ K-엔터주 투자의 리스크
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240628_2(1).mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240628_2(1).mp3</guid>
       <pubDate>Fri, 28 Jun 2024 15:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 안승찬의 편지</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[앞으로 커피타임은 오후 5시에 올라옵니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240628_1_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240628_1_1.mp3</guid>
-      <pubDate>Fri, 28 Jun 2024 15:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
