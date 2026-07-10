@@ -16,6 +16,31 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[커피타임] 세상만사 9할이 우연인데</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[커피타임] 세상만사 9할이 우연인데
+
+프리미엄 쇼핑몰 [큐레이션]X손경제 오픈! ??
+
+손경제에서 소개된 바로 그 상품,
+지금 큐레이션에서 한정 초특가로 만나보세요.
+
+https://quration.co.kr]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_coffee_260710_2.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_coffee_260710_2.mp3</guid>
+      <pubDate>Fri, 10 Jul 2026 16:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[커피타임] 그놈의 레버리지 ETF</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[커피타임] 그놈의 레버리지 ETF]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_coffee_260710_1.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_coffee_260710_1.mp3</guid>
+      <pubDate>Fri, 10 Jul 2026 16:10:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/10(금) 외환위기 망령 | 모아주택 규제 완화 | 먹거리 물가</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26918,24 +26943,6 @@ K-엔터주 투자의 리스크
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240628_5.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240628_5.mp3</guid>
       <pubDate>Fri, 28 Jun 2024 15:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (4부) 영혼이 없다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[앞으로 커피타임은 오후 5시에 올라옵니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240628_4.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240628_4.mp3</guid>
-      <pubDate>Fri, 28 Jun 2024 15:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 댓글 읽기</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[앞으로 커피타임은 오후 5시에 올라옵니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240628_3.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240628_3.mp3</guid>
-      <pubDate>Fri, 28 Jun 2024 15:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
