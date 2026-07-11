@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/10(금) 살 수 있다는 헛된 희망이 가장 잔인한 위로입니다 - 박중철 교수 (연세암병원 완화의료센터)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+살 수 있다는 헛된 희망이
+가장 잔인한 위로입니다
+- 박중철 교수 (연세암병원 완화의료센터)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260710.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260710.mp3</guid>
+      <pubDate>Fri, 10 Jul 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[커피타임] 세상만사 9할이 우연인데</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26934,15 +26946,6 @@ K-엔터주 투자의 리스크
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240630.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240630.mp3</guid>
       <pubDate>Fri, 28 Jun 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (5부) 줄 하나에 5만원</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[앞으로 커피타임은 오후 5시에 올라옵니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240628_5.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240628_5.mp3</guid>
-      <pubDate>Fri, 28 Jun 2024 15:04:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
