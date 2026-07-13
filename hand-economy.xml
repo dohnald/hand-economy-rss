@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/12(일) 화성 이주의 꿈은 판타지입니다 - 지웅배 교수 (세종대 자유전공학부)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+화성 이주의 꿈은
+판타지입니다
+- 지웅배 교수 (세종대 자유전공학부)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260712.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260712.mp3</guid>
+      <pubDate>Sun, 12 Jul 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/11(토) 세상의 통화가 달러로 통일되고 있습니다 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26932,22 +26944,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240701.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240701.mp3</guid>
       <pubDate>Mon, 01 Jul 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 7/1(월) 횡재세 위헌 판결 in 이탈리아｜미국 대선 전망(민정훈 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1) 깊이 있는 경제 뉴스
-이탈리아 헌재, 횡재세 위헌 판결
-- 안승찬 언더스탠딩 기자
-
-2) 이슈 인터뷰
-"참패" 바이든 사퇴론 확산.. 미 대선 전망은?
-- 민정훈 국립외교원 교수
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240701(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240701(1).mp3</guid>
-      <pubDate>Mon, 01 Jul 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
