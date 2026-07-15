@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/15(수) AI워싱 (하수정 경제전문기자) | 중국 기술주 (박수현 KB증권 아시아시장팀장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업되는기업]
+AI 핑계로 감원했는데
+생산성 그대로였습니다
+- 하수정 경제전문기자
+
+2부
+중국 AI 모델 가격이
+절대 비싸질 수 없는 이유
+- 박수현 팀장 (KB증권 아시아시장팀)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260715.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260715.mp3</guid>
+      <pubDate>Wed, 15 Jul 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/15(수) 국제유가 상승 | 345 성장 전략 | 중소기업 취업 혜택 | 주가 누르기 차단</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26948,21 +26966,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240703.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240703.mp3</guid>
       <pubDate>Wed, 03 Jul 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 7/3(수) 물가상승률 3개월 연속 2%대｜12년만 한우 반납 집회, 배경은? (이연섭 농축산부 과장)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제 뉴스]
-물가상승률 2.4%, 3개월 연속 2%대
--김치형 경제뉴스큐레이터
-
-[이슈 인터뷰]
-12년만의 한우 반납 집회, 배경은?
-- 이연섭 농림축산식품부 축산경영과장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240703.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240703.mp3</guid>
-      <pubDate>Wed, 03 Jul 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
