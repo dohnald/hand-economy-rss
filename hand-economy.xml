@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/16(목) 약세장을 알리는 신호탄 아직 터지지 않았습니다 - 김효진 박사 (신영증권)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+약세장을 알리는 신호탄
+아직 터지지 않았습니다
+- 김효진 박사 (신영증권)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260716.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260716.mp3</guid>
+      <pubDate>Thu, 16 Jul 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/16(목) 순대외금융자산 | 뉴욕 데이터센터 건설금지 | 공모주 청약증거금 | 매도담보대출 이자율 | F4회의</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26960,17 +26972,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240704.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240704.mp3</guid>
       <pubDate>Thu, 04 Jul 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 7/3(수) 부자들의 투자법에서 엿본 공통점은? (최홍석 미래에셋증권 매니저)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1, 2부
-부자들의 투자법에서 엿본 공통점은?
-- 최홍석 미래에셋증권 선임매니저]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240703.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240703.mp3</guid>
-      <pubDate>Wed, 03 Jul 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
