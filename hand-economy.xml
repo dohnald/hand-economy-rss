@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/20(월) 중국 AI (김덕진 소장) | 미국 기업 약물 검사 | 미국 상원의원 고령화 | 일본 빈티지 맨션 (이혜인 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+개발도상국의 AI판
+중국이 선점했습니다
+- 김덕진 소장(IT커뮤니케이션 연구소)
+
+2부
+[글로벌 리포트]
+사람 부족한 미국 회사
+약쟁이도 뽑습니다
+- 이혜인 기자(한국경제신문)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260720.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260720.mp3</guid>
+      <pubDate>Mon, 20 Jul 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>협찬인가 - 보험사 말을 믿으십니까?</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26968,15 +26987,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_240705_3.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_240705_3.mp3</guid>
       <pubDate>Fri, 05 Jul 2024 17:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 말레이시아 이민 광고 받습니다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[기승전 부동산]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_240705_2.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_240705_2.mp3</guid>
-      <pubDate>Fri, 05 Jul 2024 17:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
