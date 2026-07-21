@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 7/21(화) 국내생산촉진세제 | 세계화 역전 | 명품업계 관행</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) '한국판 IRA' 국내생산촉진세제 도입.. 관건은 직접환급제
+2) 뒤집힌 세계화.. 선진국은 문 닫고, 개도국은 문 열었다
+3) 명품 브랜드, 안 팔리는 옷 폐기 못한다.. EU 규제 시행
+- 김치형 경제뉴스 큐레이터
+- 연합인포맥스 정지서 기자
+- 손희애 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260721.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260721.mp3</guid>
+      <pubDate>Tue, 21 Jul 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/20(월) 중국 AI (김덕진 소장) | 미국 기업 약물 검사 | 미국 상원의원 고령화 | 일본 빈티지 맨션 (이혜인 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26978,15 +26993,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_240705_4.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_240705_4.mp3</guid>
       <pubDate>Fri, 05 Jul 2024 17:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 햄토리 세훈</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[가성비 떨어지는 햄토리]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_240705_3.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_240705_3.mp3</guid>
-      <pubDate>Fri, 05 Jul 2024 17:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
