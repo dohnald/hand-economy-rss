@@ -16,6 +16,36 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 7/22(수) 홈플러스 | 로봇 사업</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 법원, 홈플러스 회생절차 폐지결정 취소.. 사모펀드 규제 논의
+2) 삼전, 로봇 사업 본격화.. 대표이사 직속 로봇사업조직 신설
+- 김치형 경제뉴스 큐레이터
+- 이코노미스트 라예진 기자
+
+[친절한 경제]
+법인카드는 왜 할부거래와
+포인트 적립이 안 되나요?
+- 청취자 고영수 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260722.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260722.mp3</guid>
+      <pubDate>Wed, 22 Jul 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 7/21(화) 서울 도심의 미래를 도쿄에서 찾았습니다 - 남성현, 조정현 연구원 (IBK투자증권)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+서울 도심의 미래를
+도쿄에서 찾았습니다
+- 남성현, 조정현 연구원 (IBK투자증권)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260721.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260721.mp3</guid>
+      <pubDate>Tue, 21 Jul 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/21(화) 국내생산촉진세제 | 세계화 역전 | 명품업계 관행</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26966,33 +26996,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240706.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240706.mp3</guid>
       <pubDate>Sat, 06 Jul 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 7/5(금) 개인투자용 국채의 숨겨진 디테일 (남궁민) | 극우 돌풍 부는 프랑스 총선의 미래는? (어예진)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[키워드 경제]
-개인투자용 국채의 디테일을 살펴볼 때
-- 남궁민 뉴스큐레이터
-
-2부 
-[글로벌 리포트]
-의회 해산으로 총선 치르는 프랑스..마크롱의 속내는?
-엔비디아가 중국 암시장에서 팔리고 있다
-- 어예진 해담경제연구소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240705.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240705.mp3</guid>
-      <pubDate>Fri, 05 Jul 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (4부) 속고 속는 인생</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[꿈 없는 자여 즐겨라]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_240705_4.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_240705_4.mp3</guid>
-      <pubDate>Fri, 05 Jul 2024 17:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
