@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 7/23(목) SK하이닉스 ADR | 주가누르기 방지법 | 국내 음악 플랫폼 | 의료기기 간납사</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) SK하닉 본주, 29일부터 ADR로 전환 가능.. 간극 줄어드나
+2) '주가 누르기 방지법' 논의 본격화.. PBR 0.8 기준 유력
+3) 외국인 몰려오는데 해외 수익 안 나는 K-음악앱.. 배경은?
+4) 병원 특수관계인, 의료기기 납품 막힌다.. '간납사' 매물로
+- 하수정 경제 전문 기자
+- 비즈니스워치 박수익 기자
+- 한국경제신문 조미현 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260723(1).mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260723(1).mp3</guid>
+      <pubDate>Thu, 23 Jul 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/22(수) 데이터센터 (하수정 경제전문기자) | 레버리지ETF (윤선중 동국대 경영학과 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26987,21 +27003,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240708.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240708.mp3</guid>
       <pubDate>Mon, 08 Jul 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[경제콘서트] 노후 준비: 너무 늦었다고 생각하는 당신을 위해(김경록 고문)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[27th 경제콘서트
-‘너무 늦었다고 생각하는 당신을 위해’
-w. 김경록 미래에셋자산운용 고문
-
-일시: 2024년 6월 29일 (토) 오후 2시
-장소: 상암 MBC 골든마우스홀
-출연: 김경록 미래에셋자산운용 고문, 이진우 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240707.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240707.mp3</guid>
-      <pubDate>Sun, 07 Jul 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
