@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/26(일) 트럼프의 이민자 때리기 속내는 따로 있습니다 - 박구병 교수 (아주대 사학과)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+트럼프의 이민자 때리기
+속내는 따로 있습니다
+- 박구병 교수 (아주대 사학과)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260726.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260726.mp3</guid>
+      <pubDate>Sun, 26 Jul 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 7/25(토) 인구 소멸 문제 직면해야 지방을 살릴 수 있습니다 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27016,21 +27028,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240710.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240710.mp3</guid>
       <pubDate>Wed, 10 Jul 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 7/10(수) 인천시 신혼부부에 '천원주택'｜"한우법이 필요한 이유" (서영석 한우협 정책지도국장)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제 뉴스]
-인천시 신혼부부에 "천원주택" 공급
-- 김치형 경제뉴스큐레이터
-
-[이슈 인터뷰]
-"한우법이 꼭 필요한 이유"
-- 서영석 전국한우협회 정책지도국장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240710(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240710(1).mp3</guid>
-      <pubDate>Wed, 10 Jul 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
