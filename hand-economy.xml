@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 7/30(목) 전쟁 영웅 몰아냈다 젤렌스키의 생존 방식 - 이문영 교수 (서울대 통일평화연구원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+전쟁 영웅 몰아냈다
+젤렌스키의 생존 방식
+- 이문영 교수 (서울대 통일평화연구원)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260730.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260730.mp3</guid>
+      <pubDate>Thu, 30 Jul 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 7/30(목) 서킷브레이커 | 미국 기준금리 | 로봇 수입 규제</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27035,15 +27047,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240712_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240712_2.mp3</guid>
       <pubDate>Fri, 12 Jul 2024 17:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 아저씨 입맛</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[자꾸 입이 가는 신상 음료수?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240712_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240712_1.mp3</guid>
-      <pubDate>Fri, 12 Jul 2024 17:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
