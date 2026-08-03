@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/2(일) 우리 국민이 굶고 있어도 외국 빈민을 도와야 할까? - 김부열 교수 (서울대 환경대학원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+우리 국민이 굶고 있어도
+외국 빈민을 도와야 할까?
+- 김부열 교수 (서울대 환경대학원)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260802.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260802.mp3</guid>
+      <pubDate>Sun, 02 Aug 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/1(토) 분배의 딜레마가 낳은 무책임의 정치학 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27071,17 +27083,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240715.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240715.mp3</guid>
       <pubDate>Mon, 15 Jul 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 7/14(일) AI로 우리 농업이 이렇게 바뀔 겁니다 (민승규 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1, 2부
- AI로 우리 농업이 이렇게 바뀔 겁니다 
-- 민승규 세종대 스마트생명산업융합학과 석좌교수 (전 농촌진흥청장)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240714.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240714.mp3</guid>
-      <pubDate>Sun, 14 Jul 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
