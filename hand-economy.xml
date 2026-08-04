@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/4(화) 부동산 세제개편안 | 코스닥 부진 | 한은 금 매입 | 구리가격</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 정부, 세제개편안 발표.. 비거주·초고가주택 종부세 ↑
+2) 코스닥 폭락에 상장 폐지 위기 기업 ↑
+3) 한은, 13년 만에 실물 금 매입.. 국내 생산 금 모은다
+4) AI 열풍에 구리값 폭등하는데, 제련 업계는 수익성 비상
+- 비즈니즈워치 박수익 기자
+- 매일경제신문 명지예 기자
+- 손희애 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260804.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260804.mp3</guid>
+      <pubDate>Tue, 04 Aug 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/3(월) 마이크로소프트 (김덕진 소장) | 스페인 불법이민 | 수도권 이탈 | 중동 부자 재산상속 (이혜인 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27085,17 +27101,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240716.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240716.mp3</guid>
       <pubDate>Tue, 16 Jul 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 7/15(월) 서울 부동산 강세장 언제까지 계속되나 (채상욱 대표)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1, 2부
-서울 부동산 강세장 언제까지 계속되나
-- 채상욱 채부심 대표]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240715.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240715.mp3</guid>
-      <pubDate>Mon, 15 Jul 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
