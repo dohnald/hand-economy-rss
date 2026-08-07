@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/7(금) 단일종목 레버리지 | 중국 세무조사 | 국유자산 관리</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 단일종목 레버리지 거래대금 급감.. 지수형으로 몰렸다
+2) 中, 재정난에 고소득층 해외자산 세무조사 실시
+3) 1,400조 국유자산 관리체계 전면 개편.. 가상자산도 담는다
+- 머니투데이 김근희 기자
+- 이코노미스트 라예진 기자
+- 연합인포맥스 정지서 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260807.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260807.mp3</guid>
+      <pubDate>Fri, 07 Aug 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/6(목) 일본 엔화 떠받치는 미국의 진짜 속셈 - 이창민 교수 (한국외대 융합일본지역학부)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27097,17 +27112,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240718(1).mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240718(1).mp3</guid>
       <pubDate>Thu, 18 Jul 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 7/17(수) 유럽의 우경화, 배경과 전망은? (최준영 박사)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1, 2부
-유럽의 우경화, 배경과 전망은?
-- 최준영 법무법인 율촌 전문위원]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240718.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240718.mp3</guid>
-      <pubDate>Wed, 17 Jul 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
