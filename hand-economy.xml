@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[협찬인가] 국세청 캐비닛의 비밀</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[세금이 눈덩이처럼 불어나는 국세청 캐비닛의 비밀
+
+이미정 세무사
+상담문의: 0507-1323-6058
+딴셈: https://www.youtube.com/@ddansemm]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_sponsor_tax_RE.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_sponsor_tax_RE.mp3</guid>
+      <pubDate>Fri, 07 Aug 2026 15:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/7(금) 단일종목 레버리지 | 중국 세무조사 | 국유자산 관리</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27094,24 +27107,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240718.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240718.mp3</guid>
       <pubDate>Thu, 18 Jul 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 7/18(목) 체코원전 수주 성공｜국토부 "서울 아파트 입주물량 충분"｜트럼프 금리인하 반대</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제 뉴스]
-1) 24조원 규모 체코 원전, 우리가 잡았다
-2) 입주물량 충분하단 국토부.. 시장은 갸우뚱 
-3) 트럼프, 대선 전 금리인하 반대..영향은?
-- 손석우 뉴스큐레이터
-- 김현우 행복자산관리연구소장
-- 박세훈 작가
-
-[친절한 경제]
-한국은행이 통화량을 늘리는 방법]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240718(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240718(1).mp3</guid>
-      <pubDate>Thu, 18 Jul 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
