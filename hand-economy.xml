@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/10(월) 결혼 페널티 | 고신용자 대출 | 아마존 발전소</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 대통령, 결혼 페널티 22개 점검.. 대출·청약·세제 손본다
+2) 고신용자도 은행 대출 막혔다.. 총량 규제 후폭풍
+3) 아마존, 데이터센터 전력 공급 위해 대형 가스발전소 짓는다
+- 머니투데이 김근희 기자
+- 한국경제신문 조미현 기자
+
+[친절한 경제]
+레버리지 ETF는
+순기능이 무엇인가요?
+- 청취자 황동건 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260810.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260810.mp3</guid>
+      <pubDate>Mon, 10 Aug 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/9(일) 테슬라 출신 영입해도 자율주행 안 되는 이유 - 권용주 교수 (국민대 자동차·운송디자인학과)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27091,15 +27110,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240719_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240719_2.mp3</guid>
       <pubDate>Fri, 19 Jul 2024 17:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 코리아 부장님 코스</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[주말 등산 권유]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240719_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240719_1.mp3</guid>
-      <pubDate>Fri, 19 Jul 2024 17:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
