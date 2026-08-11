@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/11(화) 증권사 건전성 규제 | 해외 부동산 펀드 | 엔화 수요</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 대형 증권사, 부실 채권 증가세.. 당국, 건전성 규제 강화
+2) 원금 걱정 없다더니 전액 손실.. 부동산 펀드 유의사항
+3) 800원대 '엔저' 지속될까.. 관건은 美 국채금리
+- 김치형 경제뉴스 큐레이터
+- 손희애 경제뉴스 큐레이터
+- 연합인포맥스 정지서 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260811.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260811.mp3</guid>
+      <pubDate>Tue, 11 Aug 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/10(월) 구글 위기 (김덕진 소장) | 미국 병원 경영난 | 멕시코 아보카도 보호 | 우주 핵전쟁 (이혜인 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27111,15 +27126,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240719_4.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240719_4.mp3</guid>
       <pubDate>Fri, 19 Jul 2024 17:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 알고보니 민달팽이</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[청약 상담소 개장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240719_3.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240719_3.mp3</guid>
-      <pubDate>Fri, 19 Jul 2024 17:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
