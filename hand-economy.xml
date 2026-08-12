@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/12(수) 매출 공제 축소 | 실업급여 확대 | 경기도 재정</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 카드매출 세액공제 혜택 축소.. 자영업자 타격 우려
+2) 실업 급여 확대 추진.. 자발적 퇴사에도 최대 100만원
+3) 경기도 '재정 위기'.. 반도체 대박에도 세입 없다
+- 김치형 경제뉴스 큐레이터
+- 매일경제신문 명지예 기자
+
+[친절한 경제]
+주가 떨어져 증발한 수십조 원,
+정말 사라진 건가요?
+- 청취자 최규림 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260812.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260812.mp3</guid>
+      <pubDate>Wed, 12 Aug 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/11(화) 밀레이는 왜 룰라를 모욕했나 - 임수진 교수 (대구가톨릭대학교 스페인어중남미학과)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27117,18 +27136,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240720.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240720.mp3</guid>
       <pubDate>Sat, 20 Jul 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 7/19(금) 파리올림픽 D-5..올림픽의 경제학은 이렇습니다 (이종훈 작가)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1, 2부
-[공부왕 이종훈]
-파리올림픽 D-5..올림픽의 경제학은 이렇습니다
-- 이종훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240719.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240719.mp3</guid>
-      <pubDate>Fri, 19 Jul 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
