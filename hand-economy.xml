@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/12(수) 우주 쓰레기 (하수정 경제전문기자) | 코스닥 셀렉트 (나승두 SK증권 연구위원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업되는 기업]
+추락하는 우주 쓰레기
+폭발적으로 늘어납니다
+- 하수정 경제전문기자
+
+2부
+코스닥의 만년 저평가
+'셀렉트'가 해소할까?
+-  나승두 SK증권 연구위원]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260812.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260812.mp3</guid>
+      <pubDate>Wed, 12 Aug 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/12(수) 매출 공제 축소 | 실업급여 확대 | 경기도 재정</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27124,18 +27142,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240721.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240721.mp3</guid>
       <pubDate>Sun, 21 Jul 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 7/20(토) 미국 향한 대체지인 멕시코의 치안은 이렇습니다 (박정호 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1, 2부
-[역시나 박정호]
-미국 향한 대체지인 멕시코의 치안은 이렇습니다
-w. 오승훈 아나운서]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240720.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240720.mp3</guid>
-      <pubDate>Sat, 20 Jul 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
