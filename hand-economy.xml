@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/16(일) 삼성도 혼자 못하는 로봇 살길은 오직 하나입니다 - 공경철 교수 (카이스트 기계공학과)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+삼성도 혼자 못하는 로봇
+살길은 오직 하나입니다
+- 공경철 교수 (카이스트 기계공학과)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260816.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260816.mp3</guid>
+      <pubDate>Sun, 16 Aug 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/15(토) 세계 바다에서 펼쳐질 호르무즈발 부동산 전쟁 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27124,21 +27136,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240724.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240724.mp3</guid>
       <pubDate>Wed, 24 Jul 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 7/24(수) 코인 거래소 예치금 이자 경쟁｜계속고용, 고령사회 해법되나? (김덕호 경사노위 상임위원)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제 뉴스]
-코인거래소 예치금 이자 경쟁 심화
--서은영 경제뉴스큐레이터
-
-[이슈 인터뷰]
-계속고용, 소득공백 메울 해법 되나?
--김덕호 경제사회노동위원회 상임위원]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240724.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240724.mp3</guid>
-      <pubDate>Wed, 24 Jul 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
