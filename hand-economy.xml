@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/17(월) 인공지능 바이러스 (김덕진 소장) | 중국 간부 숙청 | 미국 유품 정리 | 미국 별장세 (이혜인 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+자연에서 찾던 바이러스
+AI가 직접 설계합니다
+- 김덕진 소장(IT커뮤니케이션 연구소)
+
+2부
+[글로벌 리포트]
+시진핑이 숙청 정치로
+4연임을 노리고 있습니다
+- 이혜인 기자(한국경제신문)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260817.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260817.mp3</guid>
+      <pubDate>Mon, 17 Aug 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/17(월)  LH 공공임대 | GPU 선물시장</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27129,17 +27148,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240725.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240725.mp3</guid>
       <pubDate>Thu, 25 Jul 2024 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 7/24(수) 미국 방위 산업이 DIU 주도로 변하고 있습니다 (서병수 애널리스트) </title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1, 2부
-미국 방위 산업이 DIU 주도로 변하고 있습니다
-- 서병수 애널리스트]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240724.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240724.mp3</guid>
-      <pubDate>Wed, 24 Jul 2024 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
