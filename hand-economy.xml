@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/17(월)  LH 공공임대 | GPU 선물시장</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) LH, 무순위 청약 물량 사들인다.. '기회 박탈' vs '과열 해소'
+2) GPU 선물 시장 출범.. 수요 급증·가격 변동 위험 대비한다
+- 머니투데이신문 김근희 기자
+- 한국경제신문 조미현 기자
+
+[친절한 경제]
+외환시장이 닫혀있을 때는
+어떤 환율을 적용하나요?
+- 청취자 박진규 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260817.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260817.mp3</guid>
+      <pubDate>Mon, 17 Aug 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/16(일) 삼성도 혼자 못하는 로봇 살길은 오직 하나입니다 - 공경철 교수 (카이스트 기계공학과)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27122,20 +27140,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240724.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20240724.mp3</guid>
       <pubDate>Wed, 24 Jul 2024 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 7/24(수) IRP의 절세효과와 연금수령 조건은 어떻게 되나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 저는 회사에서 DC형 퇴직연금을 가입했고, 개인적으로 절세 및 노후자금 목적으로 별도의 IRP계좌를 만들어서 작년부터 연간 900만원씩 납입하고 있습니다. 16.5%의 세금을 돌려받을 수 있고, 연금을 수령할 땐 5.5%의 세금을 내야한다고 하니, 낼 때는 약 150만원의 세금을 아끼고, 연금을 받을 땐 약 27만원의 세금만 내면 되는 걸까요?
-또, IRP는 가입 후 5년이 지나야 수령할 수 있다고 하더라구요. 앞으로 4년 뒤인 2028년이 되면 만 60세가 돼서 퇴직 예정인데요, 올해 납입하는 돈은 2028년이 되면 4년밖에 안 되었으니 수령을 할 수 없는 건가요? 
-그럼 퇴직 후 해마다 수령할 수 있는 연금액은 어떻게 되는 걸까요? 
-제가 생각한 세금 계산방법이 맞는 건지, 연간 수령액은 얼마인 건지 알고 싶습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240724.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240724.mp3</guid>
-      <pubDate>Wed, 24 Jul 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
