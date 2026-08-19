@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/19(수) 엔진오일 품귀 (하수정 경제전문기자) | 조선업 성장동력 (엄경아 신영증권 연구위원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업되는 기업]
+중동발 엔진오일 대란에
+K-정유사만 웃는 이유
+- 하수정 경제전문기자
+
+2부
+조선업 새 먹거리. 바다 위 데이터센터
+- 엄경아 신영증권 연구위원]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260819.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260819.mp3</guid>
+      <pubDate>Wed, 19 Aug 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/19(수) 대만 AI 배당금 | 미국 국채금리</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27139,21 +27156,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240726.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240726.mp3</guid>
       <pubDate>Fri, 26 Jul 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 7/26(금) 2024 세법개정안 핵심정리｜엔화가 오른다?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제 뉴스]
-1) 상속세율 40%로 인하.. 자녀공제 5천만→5억원
-2) ISA 납입 한도?비과세 한도 2배 확대
-3) 엔화가 드디어 오르고 있다?
-- 안승찬 언더스탠딩 기자
-- 김현우 행복자산관리연구소장
-- 박세훈 작가]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240726.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240726.mp3</guid>
-      <pubDate>Fri, 26 Jul 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
