@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/20(목) 자사주 소각 | K9 미국 수출 | 집단대출 | 가비아</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) SK하이닉스, 40조 자사주 소각.. 국내 상장사 최대 규모
+2) 한화 K9, 美 육군 뚫었다.. 국산 자주포 첫 수출
+3) 총량 규제 풀었는데, 잔금대출 문턱 여전.. 배경은?
+4) 맥쿼리 vs 얼라인, 가비아 공개매수 두고 공방.. 쟁점은?
+- 하수정 경제 전문 기자
+- 매일경제신문 명지예 기자
+- 비즈니스워치 박수익 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260820.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260820.mp3</guid>
+      <pubDate>Thu, 20 Aug 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/19(수) 엔진오일 품귀 (하수정 경제전문기자) | 조선업 성장동력 (엄경아 신영증권 연구위원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27144,18 +27160,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY240726_1.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY240726_1.mp3</guid>
       <pubDate>Fri, 26 Jul 2024 17:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 7/26(금) 자동차 명의를 이전하려면 어떻게 해야 할까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민 사연]
-
-안녕하세요. 저희 장인어른 소유의 자동차를 제 아내 명의로 소유권 이전을 하려는데 궁금한 게 있습니다.
-몇 달 전부터 저희 장인어른께서 건강이 많이 안 좋아지셔서, 운전을 할 수 없는 상태이신데, 장인어른 명의로 되어 있다 보니, 자동차보험료도 비싸고, 사위인 저는 보험적용도 안 됩니다. 저는 무직인 상태라 건강보험료에 영향이 있을 것 같아서, 직장을 다니고 있는 아내 명의로 이전하려고 합니다. 아내는 이미 자동차가 한 대 있는 상태인데요, 그냥 소유권을 이전해 와도 되는지, 아니면 거래나 증여 같은 절차를 거쳐야 하는지 궁금합니다. 장인어른의 차는 2016년식 중형차인데, 거래나 증여를 해야 한다면 금액을 어느 정도로 해야 하는 걸까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240726.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240726.mp3</guid>
-      <pubDate>Fri, 26 Jul 2024 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
