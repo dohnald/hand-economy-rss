@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/20(목) 북극항로를 둘러싼 치열한 눈치게임 - 김근섭 선임연구위원 (한국해양수산개발원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+북극항로를 둘러싼
+치열한 눈치게임
+- 김근섭 선임연구위원 (한국해양수산개발원)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260820.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260820.mp3</guid>
+      <pubDate>Thu, 20 Aug 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/20(목) 자사주 소각 | K9 미국 수출 | 집단대출 | 가비아</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27151,16 +27163,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY240726_2.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY240726_2.mp3</guid>
       <pubDate>Fri, 26 Jul 2024 17:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 커피타임 댓글중독</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[놀랍도록 침착한 집주인 / 라디오여 부흥하라
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY240726_1.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY240726_1.mp3</guid>
-      <pubDate>Fri, 26 Jul 2024 17:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
