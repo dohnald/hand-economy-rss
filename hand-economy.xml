@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/23(일) 일론 머스크의 무리수, 피지컬 AI 시대에 통할까? - 박형근 실장 (HMG경영연구원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+일론 머스크의 무리수
+피지컬 AI 시대에 통할까?
+ - 박형근 실장 (HMG경영연구원)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260823.mp3" type="audio/mpeg" length="" />
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260823.mp3</guid>
+      <pubDate>Sun, 23 Aug 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/22(토) 미중 정부가 버블을 강요하고 있습니다 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27180,21 +27192,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240729.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20240729.mp3</guid>
       <pubDate>Mon, 29 Jul 2024 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 7/29(월) 오픈AI, 서치GPT 만든다｜[인터뷰] AI·반도체 폭풍성장 끝났나 (송명섭 연구위원)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제 뉴스]
-오픈AI, AI검색엔진 '서치GPT' 출시 예고
--안승찬 언더스탠딩 기자
-
-[이슈 인터뷰]
-AI·반도체 벌써 정점 찍었나? 
--송명섭 하이투자증권 수석연구위원]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240729.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20240729.mp3</guid>
-      <pubDate>Mon, 29 Jul 2024 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
