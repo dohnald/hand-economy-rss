@@ -16,6 +16,26 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/24(월) 피지컬 AI (김덕진 소장) | 캐나다 결집 | 인도네시아 니켈 | 유럽인 절약 (이혜인 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+유니트리 창업자가 밝힌
+피지컬 AI의 진짜 현실
+- 김덕진 소장 (IT커뮤니케이션 연구소)
+
+2부
+[글로벌 리포트]
+캐나다 분열의 씨앗
+트럼프가 잠재웠습니다
+- 이혜인 기자 (한국경제신문)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260824.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:46:05</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260824.mp3</guid>
+      <pubDate>Mon, 24 Aug 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/24(월) 미래대응기금 | 엔비디아 가격 인상</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19497,15 +19517,6 @@ w. 오승훈 아나운서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250207_33.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250207_33.mp3</guid>
       <pubDate>Fri, 07 Feb 2025 18:15:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 세뱃돈과 축의금</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (2부) 세뱃돈과 축의금]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250207_22.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250207_22.mp3</guid>
-      <pubDate>Fri, 07 Feb 2025 18:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
