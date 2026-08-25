@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/25(화) 소비자물가 집값 | 삼전 주주환원 | 전기차 충전시장</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 한은, 소비자물가에 집값 반영 검토.. 영향은?
+2) 110조 환원에도 삼성전자 주가 급락.. 이유는?
+3) 전기차 늘어나는데 쓰러지는 충전 기업들.. 배경은?
+- 김치형 경제뉴스 큐레이터
+- 연합인포맥스 정지서 기자
+- 손희애 경제뉴스 큐레이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260825.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:24</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260825.mp3</guid>
+      <pubDate>Tue, 25 Aug 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/24(월) 피지컬 AI (김덕진 소장) | 캐나다 결집 | 인도네시아 니켈 | 유럽인 절약 (이혜인 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19508,15 +19524,6 @@ w. 오승훈 아나운서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250207_44.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250207_44.mp3</guid>
       <pubDate>Fri, 07 Feb 2025 18:20:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 금은 금이다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (3부) 금은 금이다]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250207_33.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250207_33.mp3</guid>
-      <pubDate>Fri, 07 Feb 2025 18:15:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
