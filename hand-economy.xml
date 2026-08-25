@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/25(화) 천연가스 기업은 이제 단연코 고성장주입니다 - 서병수 애널리스트</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+천연가스 기업은 이제
+단연코 고성장주입니다
+- 서병수 애널리스트]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260825.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:48</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260825.mp3</guid>
+      <pubDate>Tue, 25 Aug 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/25(화) 소비자물가 집값 | 삼전 주주환원 | 전기차 충전시장</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19515,15 +19528,6 @@ w. 오승훈 아나운서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250207.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250207.mp3</guid>
       <pubDate>Fri, 07 Feb 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (4부) 따르릉 따르릉 [끝]</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (4부) 전화 왔어요 [끝]]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250207_44.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250207_44.mp3</guid>
-      <pubDate>Fri, 07 Feb 2025 18:20:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
