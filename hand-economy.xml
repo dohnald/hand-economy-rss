@@ -16,6 +16,26 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/26(수) 전력 인프라 투자 | 황제사택</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 정부, 전력·용수 확보 위해 한전·한수원 자본 확충
+2) 美 웨스팅하우스 지분 공동인수설.. 산업부는 일단 부인
+3) 국세청, '황제사택' 기업 50곳 세무조사.. 최고가 200억 ↑
+- 김치형 경제뉴스 큐레이터
+- 이코노미스트 라예진 기자
+
+[친절한 경제]
+백화점 상품권은 왜 
+개인 신용카드는 안 받나요?
+- 청취자 한지혜 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260826.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:37</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260826.mp3</guid>
+      <pubDate>Wed, 26 Aug 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/25(화) 천연가스 기업은 이제 단연코 고성장주입니다 - 서병수 애널리스트</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19511,23 +19531,6 @@ w. 오승훈 아나운서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250208.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250208.mp3</guid>
       <pubDate>Sat, 08 Feb 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/7(금) 슈퍼볼과 미국증시 (이종훈 작가) | 해외원조 끊는 미국｜비만약의 피해자들｜절도범 증가 (어예진 소장)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[공부왕 이종훈]
-슈퍼볼과 미국증시
-- 이종훈 스포츠평론가 (플레이볼 작가)
-
-2부
-[글로벌리포트]
-해외원조 끊는 미국｜비만약의 피해자들｜절도범 증가
-- 어예진 해담경제연구소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250207.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250207.mp3</guid>
-      <pubDate>Fri, 07 Feb 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
