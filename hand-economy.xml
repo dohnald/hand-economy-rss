@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 8/27(목) 용산공원 | SK이노베이션 흡수합병 | 쿠팡 현장조사</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 국토부·서울시, 용산공원 두고 계속 이견.. 탄천·그린벨트 논의
+2) SK이노, SKIET 흡수합병.. '쪼개기 상장'의 말로
+3) 공정위 현장조사, 쿠팡 거부로 무산.. 관련 법 개정 급물살
+- 매일경제신문 명지예 기자
+- 비즈니스워치 박수익 기자
+- 한국경제신문 조미현 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260827.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:27</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260827.mp3</guid>
+      <pubDate>Thu, 27 Aug 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/26(수) 미국 관세 환급 (하수정 경제전문기자) | 알트코인 (김준우 쟁글 대표)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19525,17 +19541,6 @@ K-미사일의 미래
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250210.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250210.mp3</guid>
       <pubDate>Mon, 10 Feb 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/9(일) 대한민국 자산 불평등의 진짜 원인은? (최병천 소장)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-대한민국 자산 불평등의 진짜 원인은?
-- 최병천 신성장경제연구소장 (전 민주연구원 부원장)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250209.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250209.mp3</guid>
-      <pubDate>Sun, 09 Feb 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
