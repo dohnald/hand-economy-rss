@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/26(수) 미국 관세 환급 (하수정 경제전문기자) | 알트코인 (김준우 쟁글 대표)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업되는 기업]
+230조 관세 환급금
+미국 기업이 독식한다?
+- 하수정 경제전문기자
+
+2부
+크립토 겨울은
+이제 끝난 걸까요?
+- 김준우 쟁글 대표]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260826.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:20</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260826.mp3</guid>
+      <pubDate>Wed, 26 Aug 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/26(수) 전력 인프라 투자 | 황제사택</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19517,20 +19536,6 @@ K-미사일의 미래
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250209.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250209.mp3</guid>
       <pubDate>Sun, 09 Feb 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/8(토) 성과급 전쟁, 얼마가 적당할까? (박정호 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[역시나 박정호]
-성과급 전쟁, 얼마가 적당할까?
-- 박정호 명지대 교수
-w. 오승훈 아나운서
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250208.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250208.mp3</guid>
-      <pubDate>Sat, 08 Feb 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
