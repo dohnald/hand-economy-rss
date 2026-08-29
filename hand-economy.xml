@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/28(금) 새 땅은 어차피 하세월, 막힌 곳을 뚫어야 합니다 - 김건우 대표 (분전 아카데미)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+새 땅은 어차피 하세월
+막힌 곳을 뚫어야 합니다
+- 김건우 대표 (분전 아카데미)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260828.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:55</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260828.mp3</guid>
+      <pubDate>Fri, 28 Aug 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - 그의 인스타</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19520,22 +19533,6 @@ K-미사일의 미래
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250211.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250211.mp3</guid>
       <pubDate>Tue, 11 Feb 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 2/11(화) 테무 국내 진출 | 美 철강 관세 | 절세계좌 과세 대책 | 세수펑크</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 테무, 韓시장 직진출 시동.. 이커머스 경쟁 ↑
-2) 트럼프 “모든 철강에 25%”.. 관세전쟁 확전
-3) 政, 절세계좌 이중과세 해법 내놨다.. 내용은?
-4) 작년 세수펑크 30조.. 결손 반복 원인은?
--김치형 경제뉴스 큐레이터
--정지서 연합인포맥스 기자
--조미현 한국경제신문 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250211.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250211.mp3</guid>
-      <pubDate>Tue, 11 Feb 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
