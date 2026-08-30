@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/29(토) 기업 성공의 치트키, 단연코 혈연입니다 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+기업 성공의 치트키
+단연코 혈연입니다
+- 박정호 명지대 교수
+- 이진우 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260829.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:47:55</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260829.mp3</guid>
+      <pubDate>Sat, 29 Aug 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 8/28(금) 새 땅은 어차피 하세월, 막힌 곳을 뚫어야 합니다 - 김건우 대표 (분전 아카데미)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19523,16 +19538,6 @@ K-미사일의 미래
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250211.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250211.mp3</guid>
       <pubDate>Tue, 11 Feb 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/11(화) 해외에 나갈 때 보험료 납입을 중지할 수 있나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민사연]
-안녕하세요, 남편의 주재원 발령으로 인해 일처리 하던 중 궁금한 점이 생겨 처음으로 사연을 남겨봅니다. 저와 남편, 그리고 아이들은 실손보험과 생명보험을 가입하고 있습니다. 남편은 주재원 발령으로 2월에 먼저 출국을 할 예정이고, 저와 아이들은 몇 달 후 출국 예정에 있습니다. 해외 거주는 5년 정도를 예상하고 있는데, 5년 후에 귀국해서 보험 혜택을 받기 위해서는 한국에서 거주하지 않는 5년 동안에도 보험료를 계속 납부하여야 하는건지 궁금합니다. 보험의 혜택을 받지도 못하는데, 혹시 해외 체류기간 동안 일시적으로 보험료 납입을 중지할 수 있는 제도가 있을까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250211.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250211.mp3</guid>
-      <pubDate>Tue, 11 Feb 2025 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
