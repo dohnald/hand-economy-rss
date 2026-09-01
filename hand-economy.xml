@@ -16,6 +16,26 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 8/31(월) 청소년 SNS 규제 (김덕진 소장) | 미국 집값 | 일본 운동부 | 호주 제3의 신분 (이혜인 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+AI가 정답을 늦게 주니
+성적이 확 뛰었습니다
+- 김덕진 소장 (IT커뮤니케이션 연구소)
+
+2부
+[글로벌 리포트]
+일본의 채용 트렌드
+"운동부를 찾아라"
+- 이혜인 기자 (한국경제신문)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260831.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:52</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260831.mp3</guid>
+      <pubDate>Mon, 31 Aug 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 8/31(월) 미국 금리 인상 | 탈모 치료제 시장</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -26,8 +46,13 @@
 - 한국경제신문 조미현 기자
 
 [친절한 경제]
-?
-- 청취자 ? 씨]]></description>
+한국에서 만든 미국 자동차는
+어느 나라의 수출로 잡히나요?
+- 청취자 이주형 씨
+
+경제 지표들은 왜
+잠정치를 발표하나요?
+- 청취자 이효식 씨]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260831.mp3" type="audio/mpeg" length="" />
       <itunes:duration>00:22:52</itunes:duration>
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260831.mp3</guid>
@@ -19530,16 +19555,6 @@ K-미사일의 미래
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250212.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250212.mp3</guid>
       <pubDate>Wed, 12 Feb 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/12(수) 생활형 숙박시설도 임대차 보호법 적용이 되나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민사연]
-안녕하세요. 직장 인사발령으로 가족을 떠나 타지에서 혼자 생활형숙박시설에서 거주하고 있습니다. 보증금은 1,500만 원에 월세 50만 원으로, 계약기간은 1년이며, 전입신고는 하지 않은 상태입니다. 거주한 지 11개월이 되었고, 한 달 정도 임차기간이 남은 상태입니다. 앞으로 1년 정도 계약 연장을 하고 싶은데요. 집주인과 계약연장에 대해서 별도로 얘기해보지는 않았습니다. 주택임대차보호법 적용을 받는다면, 묵시적 갱신으로 현 임대차 조건을 그대로 유지하면서 1년 정도 더 살 수 있을 것 같은데요. 그게 안 된다면, 지금이라도 주인한테 임대차 연장에 대해 협의를 요청하는 게 맞을까요? 임대차계약서에 자동연장 조항은 없는데, 만일 임차료 변경이 없더라도, 부동산 중개인을 통해 수수료를 부담하더라도 계약갱신을 해야 하는지, 아니면 주인과의 합의로 별도로 계약서 작성없이 거주연장이 가능할지 궁금합니다. 또, 임차기간 잔여 1개월 미만이라도 집주인이 임차료 인상을 요구할 수 있는지도 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250212.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250212.mp3</guid>
-      <pubDate>Wed, 12 Feb 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
