@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/2(수) 미국 명문대 위기 (하수정 경제전문기자) | K-뷰티 성장 (권우정 교보증권 책임연구원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업되는기업]
+학비가 수억원이지만
+아이비리그는 적자다
+- 하수정 경제전문기자
+
+2부
+K-뷰티의 성장 속도
+더 빨라졌습니다
+- 권우정 교보증권 책임연구원]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260902.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:49:50</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260902.mp3</guid>
+      <pubDate>Wed, 02 Sep 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/2(수) 베네수엘라 석유 | 종부세 공제 | 중국 로보택시</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19556,17 +19575,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250214.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250214.mp3</guid>
       <pubDate>Fri, 14 Feb 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/13(목) 트럼프 행정부의 핵전략은? (김동현 기자)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-트럼프 행정부의 핵전략은?
-- 김동현 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250213.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250213.mp3</guid>
-      <pubDate>Thu, 13 Feb 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
