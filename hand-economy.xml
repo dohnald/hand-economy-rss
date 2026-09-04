@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/3(목) 국채 금리 잡을 카드, 미국은 차고 넘칩니다 - 성상현 부부장 (중소기업중앙회)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+국채 금리 잡을 카드
+미국은 차고 넘칩니다
+- 성상현 부부장 (중소기업중앙회)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260903.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:49:43</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260903.mp3</guid>
+      <pubDate>Thu, 03 Sep 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/3(목) 국채금리 급등 | 증시 자금 유출 | SK 일본 반도체 공장</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19565,16 +19578,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20250214_111..mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20250214_111..mp3</guid>
       <pubDate>Fri, 14 Feb 2025 18:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/14(금) 실손보험을 해지하고 적금을 가입하는게 나을까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민사연]
-안녕하세요. 올해 69세가 되는 주부입니다. 제가 가입한 실손보험은 5년마다 갱신이 되는데요, 현재 한달에 약 8만 1천 원 정도를 납부하고 있습니다. 올해 3월 4일이 되면 또다시 갱신이 되는데요, 갱신 후 보험료는 9만 8천 원이고, 다른 특약들의 보험료와 합치면, 거의 18만 원을 매달 납부해야 됩니다. 보험료가 너무 많이 인상 되어서, 차라리 실손보험을 해약하고 매달 18만 원씩 적금을 부을까 고민 중입니다. 보험료가 비싸더라도 실손보험을 유지는게 이익일지, 아니면 적금을 가입하는게 이익일지 알고 싶습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250214.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250214.mp3</guid>
-      <pubDate>Fri, 14 Feb 2025 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
