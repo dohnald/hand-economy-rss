@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/4(금) 공공기관 통폐합 | 美 반도체 관세 | 전기료 선납 | 환헤지</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 공공기관 109곳 줄인다.. 발전사·에너지사 통합, LH는 분리
+2) 美, 반도체 '표적관세' 예고.. 삼성·하닉에 투자 압박
+3) 한전, 삼전닉스에 5년치 전기요금 선납 제안.. 배경은?
+4) 주요국 환헤지 10년 만에 최저.. 달러 약세에 환손실 직면
+- 매일경제신문 이희수 기자
+- 연합인포맥스 정지서 기자
+- 한국경제신문 조미현 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260904.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:44</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260904.mp3</guid>
+      <pubDate>Fri, 04 Sep 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/3(목) 국채 금리 잡을 카드, 미국은 차고 넘칩니다 - 성상현 부부장 (중소기업중앙회)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19569,15 +19586,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20250214_222..mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20250214_222..mp3</guid>
       <pubDate>Fri, 14 Feb 2025 18:15:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 온누리</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (1부) 온누리]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20250214_111..mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20250214_111..mp3</guid>
-      <pubDate>Fri, 14 Feb 2025 18:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
