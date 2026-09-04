@@ -16,6 +16,41 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[커파타임] 내부고발｜여의도의 불꽃</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[가쉬 프로모션은 일요일부터 개시
+
+GASH × MBC손에잡히는경제 커피타임 특별 구매링크
+https://gearbygash.com/product/detail.html?product_no=409
+
+붙이지 말고, 흔들고 바르면 끝! 약 10초 NO-WASH 마스크팩
+GASH 신제품 출시 기념 커피타임 앵콜 프로모션!
+9/6 ~ 9/18 한정｜최대 39% 할인
+? 2개입 52,000원(37%), 4개입 102,000원(38%), 6개입 150,000원(39%)
+
+구매자 증정 이벤트
+? 구매 선착순 100명 → 가쉬 헤어핀
+? 6개입 구매 선착순 50명 → 가쉬 실버 파우치
+? 구매인증 댓글 작성자 랜덤 50명 → 투썸 커피쿠폰
+투썸 커피쿠폰 구매인증(이벤트) 참여
+https://forms.gle/ksnwqdnFmG4BnvEc6]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee_260904_2.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:49:06</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee_260904_2.mp3</guid>
+      <pubDate>Fri, 04 Sep 2026 17:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[커파타임] 치졸과 간절 사이｜플랫폼과 생태계</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[커파타임] 치졸과 간절 사이｜플랫폼과 생태계]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee_260904_1.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:33:47</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee_260904_1.mp3</guid>
+      <pubDate>Fri, 04 Sep 2026 17:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/4(금) 공공기관 통폐합 | 美 반도체 관세 | 전기료 선납 | 환헤지</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19568,24 +19603,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20250214_444..mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20250214_444..mp3</guid>
       <pubDate>Fri, 14 Feb 2025 18:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 진짜 혁명</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (3부) 진짜 혁명]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20250214_333..mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20250214_333..mp3</guid>
-      <pubDate>Fri, 14 Feb 2025 18:20:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 돈 돈 무슨 돈</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (2부) 돈 돈 무슨 돈]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20250214_222..mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20250214_222..mp3</guid>
-      <pubDate>Fri, 14 Feb 2025 18:15:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
