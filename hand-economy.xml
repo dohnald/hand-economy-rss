@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/4(금) 도심 속 초대형 공원, 해외는 이렇게 만들었다 - 김영민 교수 (서울시립대 조경학과)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+도심 속 초대형 공원
+해외는 이렇게 만들었다
+- 김영민 교수 (서울시립대 조경학과)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260904.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:36</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260904.mp3</guid>
+      <pubDate>Fri, 04 Sep 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[커파타임] 내부고발｜여의도의 불꽃</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19594,15 +19607,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20250214_555.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20250214_555.mp3</guid>
       <pubDate>Fri, 14 Feb 2025 18:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (4부) 성공적인 인생</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (4부) 성공적인 인생]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/economy_20250214_444..mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/economy_20250214_444..mp3</guid>
-      <pubDate>Fri, 14 Feb 2025 18:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
