@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/8(화) 대미투자 1호 | 국민연금 달러 매수 | GPT6</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 대미투자 1호 LNG 발전소로 확정.. 원전 8기도 논의
+2) 환율 급락에 국민연금, 환헤지 중단하고 달러 매수
+3) chatGPT 아스트라, AGI급 성능에 속도조절론 ↑
+- 김치형 경제뉴스큐레이터
+- 연합인포맥스 정지서 기자
+- 이코노미스트 라예진 기자
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260908.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:24:04</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260908.mp3</guid>
+      <pubDate>Tue, 08 Sep 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/7(월) 엔비디아와 허깅페이스 (김덕진 소장) | 캐나다 도난차 | 대리 자녀 | 전문직 몸값 (이혜인 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19596,25 +19613,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250217.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250217.mp3</guid>
       <pubDate>Mon, 17 Feb 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 2/17(월) 금값 상승 | TSMC 인텔 투자 논의 | 美 달걀값 폭등 | 해피머니 보상비율</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 고공행진하는 금값.. 품절대란에 韓프리미엄도
-2) 트럼프, TSMC에 인텔 투자 압박.. 가능성은?
-3) 美, 금값된 달걀값.. 반려닭 수요 늘었다
-4) 중단된 해피머니.. M&A 실패시 8%만 보상
-- 안승찬 언더스탠딩 기자
-- 정지서 연합인포맥스 기자
-
-[친절한 경제]
-국민연금도 해외주식
-차익에 세금을 내나요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250217.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250217.mp3</guid>
-      <pubDate>Mon, 17 Feb 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
