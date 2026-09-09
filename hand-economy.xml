@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/9(수) 건강보험료 | 엔화 환율 | 역외펀드</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 건강보험료율 동결.. 반도체 호황으로 보험료 수입 ↑
+2) 미국 압박에 엔화 가치 급등.. 엔캐리 청산 가능성은?
+- 김치형 경제뉴스큐레이터
+- 이코노미스트 라예진 기자
+
+[친절한 경제]
+역외펀드는 뭔가요?
+- 청취자 고성진 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260909.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:24:23</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260909.mp3</guid>
+      <pubDate>Wed, 09 Sep 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/8(화) 아파트 공사비, 왜 이렇게 올랐나 (최도영 교수)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19597,23 +19615,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250218.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250218.mp3</guid>
       <pubDate>Tue, 18 Feb 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/17(월) 인공지능과 인간의 지능 (김덕진 소장) | 롯데는 일본 기업일까? (김재원 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[텍코노미]
-인공지능과 인간의 지능
-- 김덕진 IT커뮤니케이션 연구소장
-
-2부
-[역사의 재원쌤]
-롯데는 일본 기업일까?
-- 김재원 역사학자 (가톨릭대 겸임교수)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250212(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250212(1).mp3</guid>
-      <pubDate>Mon, 17 Feb 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
