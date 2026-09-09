@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/8(화) 아파트 공사비, 왜 이렇게 올랐나 (최도영 교수)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[아파트 공사비, 왜 이렇게 올랐나
+- 최도영 교수(고려사이버대 건축공학부/DL이앤씨 30년 근무)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260908.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:47:11</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260908.mp3</guid>
+      <pubDate>Tue, 08 Sep 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/8(화) 대미투자 1호 | 국민연금 달러 매수 | GPT6</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19603,16 +19614,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250212(1).mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250212(1).mp3</guid>
       <pubDate>Mon, 17 Feb 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/17(월) 집주인이 바뀌면 계약서를 새로 써야 하나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민사연]
-안녕하세요, 전세 계약 만기가 다가오고 있습니다. 저는 현재 살고 있는 집에 만족해서 전세 연장을 원하는데요, 기존 부동산 중개인이 먼저 연장 여부를 물어 보셔서, 연장 의사를 밝혔습니다. 이럴 경우 그냥 그대로 거주를 하면 되는 것으로 알고 있는데, 부동산 측에선 재계약을 해야 한다고 하더군요. 부동산 중개인 말로는 제가 거주 도중에 임대인이 변경됐기 때문에 재계약서를 작성해야 된다고 하는데요, 임대인이 도중에 변경된 건 이미 저도 알고 있었습니다. 그런데 계약이 갱신되면 재계약서를 작성해야 되는 건가요? 계약서를 새로 쓰게 되면 수수료나 중개보수를 내야하는 건지도 궁금합니다. 또, 현재 버팀목전세자금대출을 이용하고 있는 중인데, 집주인 변경으로 인해 버팀목전세자금대출 연장이 안 될 수도 있는지도 알고 싶습니다. ]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250217.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250217.mp3</guid>
-      <pubDate>Mon, 17 Feb 2025 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
