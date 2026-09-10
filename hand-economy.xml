@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/9(수) 텅스텐의 경제학 (하수정 경제전문기자) | 흔들리는 쿠팡천하 (신승윤 커넥터스 편집장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[텅스텐의 경제학
+- 하수정 경제 전문 기자
+
+흔들리는 쿠팡 천하
+- 신승윤 커넥터스 편집장]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260909.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:49:32</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260909.mp3</guid>
+      <pubDate>Wed, 09 Sep 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/9(수) 건강보험료 | 엔화 환율 | 역외펀드</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19600,21 +19614,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250218.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250218.mp3</guid>
       <pubDate>Tue, 18 Feb 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 2/18(화) 담뱃세·주세 개편 | 시진핑-中빅테크 회동 | 해저케이블 훼손</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 담뱃세·주세 개편 논의.. “액상담배도 과세해야”
-2) 시진핑, 中빅테크 수장단과 회담.. 중화권 증시 ↑
-3) 해저 케이블, 훼손 늘었다.. 범인은 중국·러시아?
--김치형 경제뉴스 큐레이터
--정지서 연합인포맥스 기자
--조미현 한국경제신문 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250218.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250218.mp3</guid>
-      <pubDate>Tue, 18 Feb 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
