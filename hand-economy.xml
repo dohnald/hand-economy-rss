@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/10(목) 국제유가 | 오염토 반출정화 | 국제 설탕값</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 후티, 사우디 정유시설 폭격.. 브렌트유 또 100달러 돌파
+2) 정부, 오염토 '반출 정화' 허용.. 용산 공사 기간 단축되나
+3) 설탕값, 올들어 20% 넘게 상승.. 배경은?
+- 하수정 경제 전문 기자
+- 국민일보 이광수 기자
+- 매일경제신문 명지예 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260910.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:24:07</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260910.mp3</guid>
+      <pubDate>Thu, 10 Sep 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/9(수) 텅스텐의 경제학 (하수정 경제전문기자) | 흔들리는 쿠팡천하 (신승윤 커넥터스 편집장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19603,17 +19619,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250218.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250218.mp3</guid>
       <pubDate>Tue, 18 Feb 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/18(화) 임차인이 상가 월세를 주지 않고 있습니다</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민사연]
-안녕하세요. 제 명의로 아파트 상가를 하나 보유하고 있는데요, 2023년 4월부터 2년 동안 임대를 주기로 하고, 
-보증금 150만 원에 월세 25만 원으로 계약을 했습니다. 그런데 지난 4월부터 월세가 입금되지 않기 시작하더니, 문자를 보내도 답장이 없고 이젠 아예 전화통화도 되지 않습니다. 결국 내용 증명도 보내봤지만 수취거부로 반송된 이후 시간만 흐르고 있는 상황입니다. 이럴 때는 어떻게 해야 하는 건가요? 얼마 안 되는 금액이라고 할 수도 있지만 너무 답답합니다......]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250218.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250218.mp3</guid>
-      <pubDate>Tue, 18 Feb 2025 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
