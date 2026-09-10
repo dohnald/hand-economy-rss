@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/10(목) 국채 시장 안정을 위한 세 가지 선결 요건 - 김명실 연구위원 (iM증권)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+국채 시장 안정을 위한
+세 가지 선결 요건
+- 김명실 연구위원 (iM증권)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260910.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:18</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260910.mp3</guid>
+      <pubDate>Thu, 10 Sep 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/10(목) 국제유가 | 오염토 반출정화 | 국제 설탕값</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19608,17 +19621,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250219.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250219.mp3</guid>
       <pubDate>Wed, 19 Feb 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/18(화) 트럼프가 끊은 해외원조, 국제사회의 미래는? (김영완 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-트럼프가 끊은 해외원조, 국제사회의 미래는?
-- 김영완 서강대 정치외교학과 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250218.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250218.mp3</guid>
-      <pubDate>Tue, 18 Feb 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
