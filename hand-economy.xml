@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/11(금) 지식산업센터 주거시설 | 애플 폴더블폰 | 미국 노동 계급</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 지식산업센터 공실률 ↑.. 청년·신혼 공공임대주택으로 
+2) 애플, ‘아이폰 듀오‘ 공개.. 폴더블폰 시장 본격 진출
+3) AI가 만든 제3계급.. ‘호모플루티아’
+- 한국경제신문 조미현 기자
+- 매일경제신문 오찬종 기자
+- 연합인포맥스 정지서 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260911.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:24:01</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260911.mp3</guid>
+      <pubDate>Fri, 11 Sep 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/10(목) 국채 시장 안정을 위한 세 가지 선결 요건 - 김명실 연구위원 (iM증권)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19604,23 +19620,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250219.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250219.mp3</guid>
       <pubDate>Wed, 19 Feb 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 2/19(수) 政 부동산 대책 | 러-우전쟁 종전 논의</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 악성 미분양, LH가 사들인다?.. “CR리츠도 협의”
-2) 우크라이나 전쟁, 美·러시아만 종전 회담 시작
-- 김치형 경제뉴스 큐레이터
-- 손석우 경제뉴스 큐레이터
-
-[친절한 경제]
-왜 은행과 금거래소의
-금 가격이 다른가요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250219.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250219.mp3</guid>
-      <pubDate>Wed, 19 Feb 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
