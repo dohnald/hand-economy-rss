@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/11(금) 빅테크 고객 못 잡으면 대미 투자 적자 납니다 - 권효재 대표 (COR 에너지 인사이트)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+빅테크 고객 못 잡으면
+대미 투자 적자 납니다
+- 권효재 대표 (COR 에너지 인사이트)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260911.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:49:05</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260911.mp3</guid>
+      <pubDate>Fri, 11 Sep 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[커피타임] 어릴 적 도서관에서 </title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19606,22 +19619,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250220.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250220.mp3</guid>
       <pubDate>Thu, 20 Feb 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 2/20(목) 한한령 해제 기대 | 美 자동차 관세 | 대출금리 ↑ | 政 중장기 전략</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 中, 한한령 해제 기대감.. K콘텐츠 전망은?
-2) 트럼프 “자동차 관세, 25% 정도”.. 韓 협상카드는?
-3) 늘어난 정책대출.. 하반기 대출문턱 높아지나
-4) 政 “노인연령 높이고 정년 폐지”.. 중장기전략 발표
-- 손석우 경제뉴스 큐레이터
-- 박세훈 작가
-- 김현우 행복자산관리연구소 소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250220.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250220.mp3</guid>
-      <pubDate>Thu, 20 Feb 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
