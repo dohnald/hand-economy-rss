@@ -16,6 +16,26 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/14(월) 인공지능 감속론 | 중국차 미국 진출 | KRX 애프터마켓</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) AI 빅3 CEO 일제히 경고…“개발 속도 조절해야”
+2) 중국 자동차, 미국 시장 뚫나.. 트럼프 "현지 생산시 OK"
+3) 한국거래소 애프터마켓 개장.. 밤 8시까지 주식 거래
+- 한국경제신문 조미현 기자
+- 머니투데이신문 김근희 기자
+
+[친절한 경제]
+국가부채의 채권자는
+누구인가요?
+- 청취자 박정근 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260914(1).mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:38</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260914(1).mp3</guid>
+      <pubDate>Mon, 14 Sep 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/13(일) 진입장벽 높은 위스키, 마진이 어마어마합니다 - 미스터 위스키 (위스키 콘텐츠 크리에이터)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19610,21 +19630,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250221.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250221.mp3</guid>
       <pubDate>Fri, 21 Feb 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 2/21(금) 中후판 관세 | 은행사 배당 전망 | 프리미엄 없는 금</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 政 "중국산 후판에 관세".. 저가공세 막는다
-2) 국내 은행주, 배당 줄어들까.. 고환율 여파에 위기
-3) 韓프리미엄 붙은 금.. 은행에선 제값에 판매
-- 박세훈 작가
-- 안승찬 언더스탠딩 기자
-- 김현우 행복자산관리연구소 소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250221.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250221.mp3</guid>
-      <pubDate>Fri, 21 Feb 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
