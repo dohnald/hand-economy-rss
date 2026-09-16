@@ -16,6 +16,27 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/16(수) 미국 경유값 | 토허제 실거주 | 의무공개매수제</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 사우디 육상 송유관 가동 중단.. 美 경유값 최고치
+2) 유조선 용선료도 ↑, 파나마운하 통항권도 ↑
+3) 與 ‘토허제 실거주 의무 유예’ 내년까지 연장 추진
+4) '의무공개매수제' 여야 합의.. 기업 인수시 "50%+1주"
+- 김치형 경제뉴스 큐레이터
+- 한국경제신문 조미현 기자
+
+[친절한 경제]
+한국은행의
+추석자금 방출?
+- 청취자 한기영 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260916.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:24:09</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260916.mp3</guid>
+      <pubDate>Wed, 16 Sep 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/15(화) 한국 주식 시장은 단단히 낙인찍혔습니다 - 홍춘욱 대표 (프리즘투자자문)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19590,15 +19611,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250221_222.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250221_222.mp3</guid>
       <pubDate>Fri, 21 Feb 2025 20:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 미생물의 분노</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (1부) 미생물의 분노]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250221_111.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250221_111.mp3</guid>
-      <pubDate>Fri, 21 Feb 2025 20:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
