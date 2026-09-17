@@ -16,6 +16,43 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/17(목) 미국 금리인상 | SK하이닉스 | 가계부채 비율 | 클래리티 법안</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美 연준, 기준금리 0.25%p 인상.. 연내 추가 인상 시사
+2) SK하이닉스, 미국 인텔 공장에서 메모리 생산 타진
+3) 가계부채 비율 10년 만에 최저.. 빚보다 GDP ↑
+4) 가상화폐 '클래리티법' 통과 무산.. "트럼프 일가 이해충돌"
+- 하수정 경제 전문 기자
+- 이코노미스트 라예진 기자
+- 매일경제신문 명지예 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260917.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:24:17</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260917.mp3</guid>
+      <pubDate>Thu, 17 Sep 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 9/16(수) 단백질 시장 (하수정 경제전문기자) | 노르웨이 국부펀드 (하수정 피터슨 솔루션 코리아 대표)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업되는 기업]
+비만약 열풍의 숨은 승자
+단백질 기업이 돈 버는 법
+- 하수정 경제 전문 기자
+
+2부
+노르웨이 국부펀드는
+왜 자국 주식을 안 살까?
+- 하수정 대표 (피터슨 솔루션 코리아)
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260916.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:41</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260916.mp3</guid>
+      <pubDate>Wed, 16 Sep 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/16(수) 미국 경유값 | 토허제 실거주 | 의무공개매수제</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19593,24 +19630,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250221_444.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250221_444.mp3</guid>
       <pubDate>Fri, 21 Feb 2025 20:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 묻지마 투자</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (3부) 묻지마 투자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250221_333.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250221_333.mp3</guid>
-      <pubDate>Fri, 21 Feb 2025 20:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 오피셜한 뇌피셜</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (2부) 오피셜한 뇌피셜]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250221_222.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250221_222.mp3</guid>
-      <pubDate>Fri, 21 Feb 2025 20:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
