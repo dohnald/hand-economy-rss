@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[커피타임] 자영업자 수난시대</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[영상에서 소개된
+마스카써틴과 태추단감!
+지금 큐레이션에서 한정 초특가로 만나보세요.
+
+신규 회원가입 시 [웰컴 할인 쿠폰] 100% 지급!
+오픈 특가에 쿠폰 적용하고 [무료배송/적립금] 혜택까지!
+
+quration.co.kr]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee_260918.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>01:04:54</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee_260918.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 19:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[협찬인가] 'Oh Sticky' to 'Wow Sticky'</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19631,17 +19648,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250224.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250224.mp3</guid>
       <pubDate>Mon, 24 Feb 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/23(일) 언론이 말하지 않은 우크라 전쟁의 실상 (진재일 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-언론이 말하지 않은 우크라 전쟁의 실상
-- 진재일 금오공대 초빙교수 (전 한국국방연구원 명예연구위원)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250223.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250223.mp3</guid>
-      <pubDate>Sun, 23 Feb 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
