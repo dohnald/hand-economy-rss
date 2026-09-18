@@ -16,6 +16,27 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[협찬인가] 'Oh Sticky' to 'Wow Sticky'</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[https://maumiga.co.kr/product/detail.html?product_no=362&cate_no=64&display_group=1
+
+[공동구매 특별 혜택]
+? 마음이가 인기 제품 특별 구성 및 할인가
+? 최대 33% 15,000원 할인
+? 추석선물용부터 간식용까지 다양하게 선택 가능한 구성
+
+[공동구매 상품]
+? 꿀떡350g + 바람떡350g + 단팥크림떡8EA + 블루베리크림떡8EA 28,000원
+? 꿀떡350g + 바람떡350g + 호박인절미300g 12,000원
+? 단팥크림떡4EA + 블루베리크림떡4EA + 딸기크림떡4EA 17,800원
+이 외에 전통떡부터 크림떡까지 취향에 따라 고르는 7가지 구성 준비!]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee_sponsor_ricecake.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:59:20</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee_sponsor_ricecake.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 15:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/18(금) 석유 최고가격 | 토허제 실거주 | 정비사업 이주 | 이착륙수당</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19621,19 +19642,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250223.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250223.mp3</guid>
       <pubDate>Sun, 23 Feb 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/22(토) 러시아의 다음 타깃은 이 나라들입니다 (박정호 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[역시나 박정호]
-러시아의 다음 타깃은 이 나라들입니다
-- 박정호 명지대 교수
-w. 오승훈 아나운서]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250222.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250222.mp3</guid>
-      <pubDate>Sat, 22 Feb 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
