@@ -16,6 +16,36 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/18(금) 석유 최고가격 | 토허제 실거주 | 정비사업 이주 | 이착륙수당</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 국제유가 100달러 재돌파.. 정부, 오늘 석유 최고가격 발표
+2) 토허제 실거주 유예 내년 말까지 연장.. 최대 3년 3개월 
+3) 서울 정비사업 이주 28년까지 8.3만.. '전세대란' 우려
+4) 조종사 이착륙수당 과세 논란.. "실비변상" vs "근로소득"
+- 국민일보 이광수 기자
+- 매일경제신문 이희수 기자
+- 한국경제신문 조미현 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260918.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:24:16</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260918.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 9/17(목) 후발주자 에어버스가 보잉을 넘어선 비결 - 이성일 실장 (한국우주항공산업협회)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+후발주자 에어버스가
+보잉을 넘어선 비결
+- 이성일 실장 (한국우주항공산업협회)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260917.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:47</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260917.mp3</guid>
+      <pubDate>Thu, 17 Sep 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/17(목) 미국 금리인상 | SK하이닉스 | 가계부채 비율 | 클래리티 법안</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19604,32 +19634,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250222.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250222.mp3</guid>
       <pubDate>Sat, 22 Feb 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/21(금) 우리나라 자가용의 역사 (이종훈 작가) | 독일 조기 총선 | 무너지는 인니 중산층 (어예진 소장)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[공부왕 이종훈]
-우리나라 자가용의 역사
-- 이종훈 스포츠평론가 (플레이볼 작가)
-
-2부
-[글로벌리포트]
-독일의 조기 총선 | 무너지는 인니 중산층
-- 어예진 해담경제연구소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250221.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250221.mp3</guid>
-      <pubDate>Fri, 21 Feb 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (4부) 샤워의 저주 (끝)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (4부) 샤워의 저주 (끝)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250221_444.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250221_444.mp3</guid>
-      <pubDate>Fri, 21 Feb 2025 20:04:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
