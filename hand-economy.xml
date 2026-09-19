@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/18(금) 입신양명의 썩은 사다리 인도 청년들이 폭발했다  - 전명윤 편집장 (주간 인도 동향)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+입신양명의 썩은 사다리
+인도 청년들이 폭발했다
+- 전명윤 편집장 (주간 인도 동향)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260918.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:36</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260918.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[커피타임] 자영업자 수난시대</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19630,24 +19643,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250224.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250224.mp3</guid>
       <pubDate>Mon, 24 Feb 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 2/24(월) 중국의 AI 투자 | 서울형 용적이양제 | 외국인 가사관리사 연장</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 中, AI 투자 러시.. 알리바바 “220조 투입”
-2) 서울시, 용적이양제 추진.. 남은 용적률 사고 판다
-3) 필리핀 가사관리사, 취업기간 연장.. 시급도 ↑
-- 안승찬 언더스탠딩 기자
-- 정지서 연합인포맥스 기자
-
-[친절한 경제]
-맨 처음 화폐는
-어떻게 유통됐나요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250224.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250224.mp3</guid>
-      <pubDate>Mon, 24 Feb 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
