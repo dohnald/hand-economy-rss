@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/19(토) 대책 없는 속도조절론, 무책임의 끝판왕입니다 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+대책 없는 속도조절론
+무책임의 끝판왕입니다
+- 박정호 명지대 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260919.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:49:15</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260919.mp3</guid>
+      <pubDate>Sat, 19 Sep 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/18(금) 입신양명의 썩은 사다리 인도 청년들이 폭발했다  - 전명윤 편집장 (주간 인도 동향)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19633,16 +19647,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250224.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250224.mp3</guid>
       <pubDate>Mon, 24 Feb 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/24(월) 주택임대 사업자 등록을 해야 할까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민사연]
-안녕하세요. 2022년 말, 한창 집값이 비쌀 때 미분양 소형 평수 아파트를 매입했습니다. 이후 집값이 한없이 떨어진 상태라 매매는 어렵고 월세로 내놓으려고 하다가 고민이 생겼습니다. 연간 임대소득이 2천만원 이하라면, 소득신고만 진행하는 방법이 있고, 임대사업자 등록 후 소득신고를 하는 방법이 있더라구요. 그 중에서 소득신고만 진행하는 게 저한텐 조금 더 좋은 방향인 것 같았습니다. 이럴 경우, 임대차 계약서와 월세 입금 내역만 있으면 임차인이 월세 연말정산 공제를 받을 수 있어서 문제가 없을 것 같은데, 현금영수증 발행을 요청하는 경우도 있다고 해서 임대사업자 등록을 해야하는지 너무 고민됩니다. 첫 걸음이 제일 중요하니 꼭 도움을 받아보고 싶습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250224.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250224.mp3</guid>
-      <pubDate>Mon, 24 Feb 2025 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
