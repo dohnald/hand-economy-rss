@@ -16,6 +16,27 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/21(월) 일본 금리 인상 | 비축유 | 태국 두리안</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 일본은행, 기준금리 1.25%로 인상.. 엔화 가치는 ↓
+2) 유가 급등 막았던 비축유.. 소진 속도 빨라졌다
+3) 태국, 중국 두리안 시장 점유율 95%→49%.. 이유는?
+- 머니투데이신문 김근희 기자
+- 한국경제신문 조미현 기자
+
+[친절한 경제]
+명절 귀성객 규모 예측은
+어떻게 하나요?
+- 청취자 이유진 씨
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260921.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:28</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260921.mp3</guid>
+      <pubDate>Mon, 21 Sep 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/20(일) 2027 부동산 대전망 - 김경민 교수 (서울대 도시계획학과)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19624,24 +19645,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250225.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250225.mp3</guid>
       <pubDate>Tue, 25 Feb 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 2/25(화) 상법개정안 | 엔비디아 품귀현상 | 우크라 기금 | 공매도 재개 | 삼성 해외법인세</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 상법개정안, 국회 첫 문턱 넘었다.. 與 반대에 시끌
-2) 엔비디아 GPU, 국내서 품귀.. 원인은 중국인?
-3) 미-우크라, 광물협정 체결 임박.. 사실상 전쟁청구서
-4) 필리핀 가사관리사, 취업기간 연장.. 시급 논쟁도
-5) 공매도, 내달 말부터 전 종목 재개.. 보완책은?
-6) 삼성전자, 베트남서 추가로 법인세 폭탄.. 이유는?
--김치형 경제뉴스 큐레이터
--정지서 연합인포맥스 기자
--조미현 한국경제신문 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250225.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250225.mp3</guid>
-      <pubDate>Tue, 25 Feb 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
