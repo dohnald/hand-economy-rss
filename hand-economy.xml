@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/22(화) 공적주택 | 뮤즈 AI | AI 집단소송 | 소득재분배 최하위</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 정부, 2030년까지 공적주택 약 119만호 공급 계획
+2) 메타 AI 에이전트 '뮤즈', 출시 2주만에 다운로드 1위
+3) "속도조절은 담합".. 앤트로픽·오픈AI 등 4개사 피소
+4) 韓, '소득재분배' OECD 최하위권.. 소득 격차 완화 효과 ↓ 
+- 김치형 경제뉴스 큐레이터
+- 연합인포맥스 정지서 기자
+- 매일경제신문 명지예 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260922.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:24:11</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260922.mp3</guid>
+      <pubDate>Tue, 22 Sep 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/21(월) AI 속도조절론 반박 (김덕진 소장) | 중국 인재 출국 제한 | 미국 우편투표 | 워런버핏 경영 승계 (이혜인 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19644,17 +19661,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250226.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250226.mp3</guid>
       <pubDate>Wed, 26 Feb 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/25(화) 트럼프 시대, 베트남 경제와 우리 기업의 미래 (곽성일 센터장)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-트럼프 시대, 베트남 경제와 우리 기업의 미래
-- 곽성인 대외경제정책연구원 세계지역연구센터 센터장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250225.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250225.mp3</guid>
-      <pubDate>Tue, 25 Feb 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
