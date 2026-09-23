@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/23(수) 미국 원전 | 우버 배민 인수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 대미투자 2호, 美에 원전 8기 짓는다.. '한국형'도 2기
+2) 우버, 배민 인수 본격화.. 택시·배달 한 번에 노린다
+- 김치형 경제뉴스 큐레이터
+- 이코노미스트 라예진 기자
+
+[친절한 경제]
+기준금리는 왜
+0.25%p씩 조정하나요?
+- 청취자 김지하 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260923.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:24:06</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260923.mp3</guid>
+      <pubDate>Wed, 23 Sep 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/22(화) AI 빅2의 IPO, 더 늦추면 위험합니다 - 윤지호 경제평론가</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19645,16 +19664,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250226.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250226.mp3</guid>
       <pubDate>Wed, 26 Feb 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/26(수) 2주택을 갖고 있으면 주택연금은 어떻게 되나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민사연]
-안녕하세요, 부모님이 주택금융공사에서 운영하는 주택연금을 신청하시려는데, 그 전에 먼저 알아보고 싶은게 있어 문의드립니다. 현재 아버지는 78세, 어머니는 73세로 주택연금 신청 가능 대상자이십니다. 현재 아버지와 어머니는 지방광역시에 각자의 명의로 각 1채씩, 총 2채를 소유하고 계신데요. 주택 가격은 각각 1억3천만 원과 3억 원 정도입니다. 이 경우, 아버지, 어머니 각각 주택연금 신청이 가능할까요? 그리고, 제가 알기로는 주택연금을 수령하다 돌아가시면 주택처분금액이 연금지급액 보다 더 클 경우, 상속인에게 돌아간다고 알고 있는데요. 이 돈이 자녀 중 특정인에게만 상속되게 할 수 있는지도 알고 싶습니다. 현재 오빠가 중증장애인으로 장애인시설에 입소해 있는데요. 자산이 생길경우 기초수급자 자격이 박탈되어 장애인시설에서 퇴소를 해아합니다. 제가 오빠를 돌볼 여력이 되지 않아 오빠에게는 상속이 안 되었으면 해서 문의드립니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250226.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250226.mp3</guid>
-      <pubDate>Wed, 26 Feb 2025 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
