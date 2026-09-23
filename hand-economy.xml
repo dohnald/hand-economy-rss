@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/23(수) 상속 싸움 커지면 건물도 둘로 쪼갭니다 - 신은숙 변호사 (법무법인 신)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+상속 싸움 커지면
+건물도 둘로 쪼갭니다
+- 신은숙 변호사 (법무법인 신)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260923.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:47:33</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260923.mp3</guid>
+      <pubDate>Wed, 23 Sep 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/23(수) 미국 원전 | 우버 배민 인수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19647,23 +19660,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250227.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250227.mp3</guid>
       <pubDate>Thu, 27 Feb 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/26(수) 유럽증시가 뜨거운 이유 (이선엽 이사) | 인공혈액의 등장 (김미래 기자)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-유럽증시가 뜨거운 이유
-- 이선엽 신한투자증권 이사
-
-2부
-[사이언스가 머니]
-인공혈액의 등장
-- 김미래 과학동아 기자
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250226.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250226.mp3</guid>
-      <pubDate>Wed, 26 Feb 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
