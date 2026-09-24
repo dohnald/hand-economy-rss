@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/24(목) 메모리 반도체 전망 CEO들도 엇갈립니다 - 이형수 대표 (HSL 파트너스)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[메모리 반도체 전망
+CEO들도 엇갈립니다
+- 이형수 대표 (HSL 파트너스)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260924.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:24:05</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260924.mp3</guid>
+      <pubDate>Thu, 24 Sep 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/23(수) 상속 싸움 커지면 건물도 둘로 쪼갭니다 - 신은숙 변호사 (법무법인 신)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19645,21 +19657,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250227.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250227.mp3</guid>
       <pubDate>Thu, 27 Feb 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 2/27(목) 엔비디아 실적 | 中선박 규제하는 美 | 자동차보험 개선책</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 엔비디아, 실적 기대치 상회.. 中수출 리스크는?
-2) 美, 중국산 선박에 입항 수수료.. 韓 반사이익 기대
-3) 자동차보험, ‘나이롱 환자’ 막는다.. 추가 변화는?
-- 손석우 경제뉴스 큐레이터
-- 박세훈 작가
-- 김현우 행복자산관리연구소 소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250227.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250227.mp3</guid>
-      <pubDate>Thu, 27 Feb 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
