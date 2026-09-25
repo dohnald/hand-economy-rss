@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/24(목) 곧 계획경제의 시대가 도래할지 모릅니다 - 한순구 교수 (연세대 경제학과)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+곧 계획경제의 시대가
+도래할지 모릅니다
+- 한순구 교수 (연세대 경제학과)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260924.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:49:06</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260924.mp3</guid>
+      <pubDate>Thu, 24 Sep 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/24(목) 메모리 반도체 전망 CEO들도 엇갈립니다 - 이형수 대표 (HSL 파트너스)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19647,16 +19660,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250227.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250227.mp3</guid>
       <pubDate>Thu, 27 Feb 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/27(목) 단체보험 때문에 해약한 실손을 부활할 수 있나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민사연]
-안녕하세요. 저는 예전에 2세대 실손보험을 가입하고 있었는데요, 회사에서 단체 실손보험이 있길래, 제가 가입한 실손보험과 중복되는 것이 낭비라고 생각했습니다. 다만, 2세대 실손보험의 보장이 좋아서 그대로 유지하고 싶었는데, 당시 보험 설계사분이 하는 말씀이 "어차피 갱신기간이 도래하면 다음 세대로 자동 갱신된다."고 하더라구요. 4세대든 5세대든 다음 세대 실손보험으로 바뀌게 된다면 굳이 2세대 실손 보험을 유지하는 것이 비경제적이라 생각해서 특약을 해지하였습니다. 추후 다시 특약을 살릴 수 있다고 들었기도 했구요. 그런데 이번에 5세대 실손에 대한 이야기가 많이 나오면서 기존에 가입하고 있던 1,2세대 실손 가입자들은 유지하는 것이 좋다는 내용을 접하게 됐습니다. 마치 1,2세대는 갱신이 되더라도 계속 유지할 수 있는 것처럼 설명을 하더라구요. 제가 잘못 알고 있던 것인지... 지금이라도 특약을 되살리면 2세대 실손을 지속적으로 가지고 갈 수 있을까요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250227.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250227.mp3</guid>
-      <pubDate>Thu, 27 Feb 2025 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
