@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/25(금) 추석 호구 탈출을 위한 최소한의 생존 지식 - 김나영 작가</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[추석 호구 탈출을 위한
+최소한의 생존 지식
+- 김나영 경제 전문 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260925.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:24:21</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260925.mp3</guid>
+      <pubDate>Fri, 25 Sep 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/24(목) 곧 계획경제의 시대가 도래할지 모릅니다 - 한순구 교수 (연세대 경제학과)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19649,17 +19661,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250228.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250228.mp3</guid>
       <pubDate>Fri, 28 Feb 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 2/27(목) 화웨이 혁신의 비결은 무엇일까? (최명철 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-화웨이 혁신의 비결은 무엇일까?
--최명철 가천대 경영학부 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250227.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250227.mp3</guid>
-      <pubDate>Thu, 27 Feb 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
