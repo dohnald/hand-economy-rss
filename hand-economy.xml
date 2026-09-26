@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/25(금) 차세대 KTX의 위력 400km/h를 넘봅니다 - 김상수 실장 (한국철도기술연구원 고속철도실)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+차세대 KTX의 위력
+400km/h를 넘봅니다
+- 김상수 실장 (한국철도기술연구원 고속철도실)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260925.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:49:16</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260925.mp3</guid>
+      <pubDate>Fri, 25 Sep 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/25(금) 추석 호구 탈출을 위한 최소한의 생존 지식 - 김나영 작가</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19645,22 +19658,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250228.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250228.mp3</guid>
       <pubDate>Fri, 28 Feb 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 2/28(금) 순대외금융자산 ↑ | 소액주주 결집 | 대출모집인 규제 폐지</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 순대외금융자산, 1조달러 돌파.. 안전판 커졌다
-2) 소액주주, 플랫폼으로 뭉쳤다.. 창업자 해임 사례도
-3) 대출모집인, ‘1사 전속’ 없앤다.. 대출상품도 경쟁
-4) 독일 차기 총리 “군비 늘려야”.. 국채 발행할까?
-- 박세훈 작가
-- 안승찬 언더스탠딩 기자
-- 김현우 행복자산관리연구소 소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250228.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250228.mp3</guid>
-      <pubDate>Fri, 28 Feb 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
