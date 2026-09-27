@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 9/26(토) 민족 대이동의 종말, 2050년의 추석 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+민족 대이동의 종말
+2050년의 추석
+- 박정호 명지대 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260926.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:49:14</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260926.mp3</guid>
+      <pubDate>Sat, 26 Sep 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/25(금) 차세대 KTX의 위력 400km/h를 넘봅니다 - 김상수 실장 (한국철도기술연구원 고속철도실)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19648,16 +19662,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250228_111.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250228_111.mp3</guid>
       <pubDate>Fri, 28 Feb 2025 18:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 2/28(금) 외국에 거주하게 되면 국내증권사 거래가 불법인가요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민사연]
-안녕하세요, 시간 날 때마다 손경제를 재밌게 들으면서, 상담소에 나온 고민들을 청취만 하다가 제게도 고민이 생겨 글을 올리게 되었습니다. 직장 문제로 곧 호주로 출국을 하게 되었고, 최소 3년을 거주할 예정입니다. 현재 국내 증권사를 통해 미국 주식을 보유하고 있는데요. 이주를 앞두고 문득 해외 거주를 하게 되면 주식 거래로 인한 세금 문제가 다소 복잡해질 것 같은 느낌이 들어 알아보게 됐습니다. 그런데 세법상 해외 거주자일 경우 예탁결제원 서비스 대상이 아니어서 국내 증권사를 통한 해외 주식 거래가 불법이라 거래를 할 수 없다고 합니다. 지금이라도 갖고 있는 주식을 다 팔아야 되는 건가 걱정되어 조금 더 알아보니, 호주와 대한민국은 모두 183일간 거주를 기준으로 세법상 거주자를 결정한다고 합니다. 그러면 183일 안에만 제가 가지고 있는 미국 주식을 다 팔면 되는지, 아니면 그냥 복잡하게 생각하지 말고 호주로 가기 전에 다 팔고 가는게 더 나은 건지, 이걸 어떻게 처리를 하면 좋을지 너무 고민입니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250228.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250228.mp3</guid>
-      <pubDate>Fri, 28 Feb 2025 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
