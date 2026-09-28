@@ -16,6 +16,41 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/28(월) 한국 전기차 가격 | 솔리다임 美 상장 | 경유값 상승</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 전기차, 한국에서 유독 저렴하다.. 이유는?
+2) SK하닉 손자회사 솔리다임, 美 상장 추진.. 중복상장 논란
+3) 디젤 가격, 공급난에 사상 최고치.. 美 정부, 수출 금지 검토
+- 한국경제신문 조미현 기자
+- 머니투데이신문 김근희 기자
+
+[친절한 경제]
+금융감독원은 
+왜 사기업인가요?
+- 청취자 최송화 씨
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260928.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:56</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260928.mp3</guid>
+      <pubDate>Mon, 28 Sep 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 9/27(일) 용산의 90%는 사실 일본인 땅이었습니다 - 재원쌤</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[쩐설의 김선생]
+용산의 90%는 사실
+일본인 땅이었습니다
+- 김재원 역사커뮤니케이터]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260927.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:47</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260927.mp3</guid>
+      <pubDate>Sun, 27 Sep 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 9/26(토) 민족 대이동의 종말, 2050년의 추석 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19644,24 +19679,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250228_333333.MP3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250228_333333.MP3</guid>
       <pubDate>Fri, 28 Feb 2025 18:13:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 그 남자의 취향</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (2부) 그 남자의 취향]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250228_222.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250228_222.mp3</guid>
-      <pubDate>Fri, 28 Feb 2025 18:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 선과 악</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (1부) 선과 악]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250228_111.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250228_111.mp3</guid>
-      <pubDate>Fri, 28 Feb 2025 18:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
