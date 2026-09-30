@@ -16,6 +16,38 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 9/30(수) 의무공개매수제도 | 앤스로픽 투자설명서</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 자산운용업계, 의무공개매수제 보류 요구.. 이유는?
+2) 앤스로픽, 2조달러 IPO 추진.. 설명서엔 AI 위험성 경고
+- 김치형 경제뉴스 큐레이터
+- 이코노미스트 라예진 기자
+
+[친절한 경제]
+환율이 40년 새
+왜 두 배가 된 건가요?
+- 청취자 채성엽 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260930(1).mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:24:02</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20260930(1).mp3</guid>
+      <pubDate>Wed, 30 Sep 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 9/29(화) 중동 전쟁의 꽃놀이패, 후티반군 손에 있습니다 - 박현도 교수 (서강대 종교학과)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+중동 전쟁의 꽃놀이패
+후티반군 손에 있습니다
+- 박현도 교수 (서강대 종교학과)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260929.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:49:06</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20260929.mp3</guid>
+      <pubDate>Tue, 29 Sep 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 9/29(화) 국가대표 AI | 국채 금리 | 명륜당 과징금</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19665,30 +19697,6 @@ AI전쟁, 메타를 주목해야 합니다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250303.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250303.mp3</guid>
       <pubDate>Mon, 03 Mar 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/2(일) 초장시간 노동도 필요한 이유 (김현철 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-초장시간 노동도 필요한 이유
-- 김현철 연세대·홍콩과기대 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250302.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250302.mp3</guid>
-      <pubDate>Sun, 02 Mar 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/1(토) 유럽이 러시아산 가스에 의존하게 된 이유 (박정호 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[역시나 박정호]
-유럽이 러시아산 가스에 의존하게 된 이유
-- 박정호 명지대 교수
-w. 오승훈 아나운서]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250301.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250301.mp3</guid>
-      <pubDate>Sat, 01 Mar 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
