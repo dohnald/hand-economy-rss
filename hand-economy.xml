@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/1(목) 딸깍이면 다 되는 시대, 인간의 마지막 가치 - 송길영 작가</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+딸깍이면 다 되는 시대
+인간의 마지막 가치
+- 송길영 작가]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261001.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:47:54</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261001.mp3</guid>
+      <pubDate>Thu, 01 Oct 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/1(목) AI 뱅크런 | 괌행 비행기 | 프랑스 재정위기</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19693,23 +19706,6 @@ AI 디지털 교과서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250304.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250304.mp3</guid>
       <pubDate>Tue, 04 Mar 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/3(월) AI전쟁, 메타를 주목해야 합니다 (김덕진 소장) | 조선 부촌의 역사 (김재원 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[텍코노미]
-AI전쟁, 메타를 주목해야 합니다
-- 김덕진 IT커뮤니케이션 연구소장
-
-2부
-[역사의 재원쌤]
-조선시대 부촌의 역사
-- 김재원 역사학자 (가톨릭대 겸임교수)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250303.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250303.mp3</guid>
-      <pubDate>Mon, 03 Mar 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
