@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/2(금) 대미 투자 | 증권사 보고서 | 싱가포르 소개팅앱 | 흰 우유</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 트럼프, 韓 대미투자안 발표.. 산업부 "아직 확정 안 돼"
+2) '대형주·매수 위주' 증권사 보고서 손본다.. 중소형주 의무화
+3) 싱가포르, 정부가 '데이팅앱' 만들었다.. 이유는?
+4) 낙농·유업계, 흰우유 원유 줄이고 가공유 늘린다
+- 매일경제신문 이희수 기자
+- 연합인포맥스 정지서 기자
+- 한국경제신문 조미현 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261002.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:45</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261002.mp3</guid>
+      <pubDate>Fri, 02 Oct 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/1(목) 딸깍이면 다 되는 시대, 인간의 마지막 가치 - 송길영 작가</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19691,21 +19708,6 @@ AI 디지털 교과서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250304.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250304.mp3</guid>
       <pubDate>Tue, 04 Mar 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/4(화) 중국 양회 | 대체거래소 출범 | 트럼프 가상자산 발언</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 中, 양회 열린다.. 증시·경기 부양책 기대
-2) 대체거래소 ‘넥스트레이드’ 출범.. 운영 방식은?
-3) 트럼프 “美 가상자산 비축 추진”.. 가능성은?
--김치형 경제뉴스 큐레이터
--정지서 연합인포맥스 기자
--조미현 한국경제신문 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250304.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250304.mp3</guid>
-      <pubDate>Tue, 04 Mar 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
