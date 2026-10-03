@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/2(금) 독일인들의 히틀러 지지 결국 돈 때문이었습니다 - 최준영 박사 (법무법인 율촌)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+독일인들의 히틀러 지지
+결국 돈 때문이었습니다
+- 최준영 박사 (법무법인 율촌)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261002.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:46:56</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261002.mp3</guid>
+      <pubDate>Fri, 02 Oct 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[커피타임] 김현우 앱｜암살자들｜능력주의｜홍콩여행｜</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19698,17 +19711,6 @@ AI 디지털 교과서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250305.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250305.mp3</guid>
       <pubDate>Wed, 05 Mar 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/4(화) 인도 정치가 자꾸 실패하는 이유 (맹현철 연구원)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-인도 정치가 자꾸 실패하는 이유
-- 맹현철 서울대 남아시아센터 연구원]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250304.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250304.mp3</guid>
-      <pubDate>Tue, 04 Mar 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
