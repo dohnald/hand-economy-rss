@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/3(토) 미중 정상회담으로 본 자산 시장의 미래 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나박정호]
+미중 정상회담으로 본
+자산 시장의 미래
+- 박정호 명지대 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261003.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:35</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261003.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/2(금) 독일인들의 히틀러 지지 결국 돈 때문이었습니다 - 최준영 박사 (법무법인 율촌)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19694,23 +19708,6 @@ AI 디지털 교과서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250305.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250305.mp3</guid>
       <pubDate>Wed, 05 Mar 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/5(수) 여당 민생지원책 | 홈플러스 회생절차</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 與 “취약계층·소상공인, 선별 지원”.. 그런데 1천만 명?
-2) ‘마트 넘버2’ 홈플러스, 회생절차 밟는 이유는?
-- 김치형 경제뉴스 큐레이터
-- 손석우 경제뉴스 큐레이터
-
-[친절한 경제]
-국민연금에 도입하려는
-자동조정장치가 뭔가요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250305.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250305.mp3</guid>
-      <pubDate>Wed, 05 Mar 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
