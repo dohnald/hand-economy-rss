@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/7(수) 맥도날드 가격 (하수정 경제전문기자) | 한국 게임산업 (게임제너레이션 이경혁 편집장)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업되는 기업]
+내 햄버거만 더 비싸다?
+맥도날드 가격의 비밀
+- 하수정 경제 전문 기자
+
+2부
+베트남 휩쓴 K-게임이
+흔들리고 있습니다
+- 이경혁 편집장 (게임제너레이션)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261007.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:51</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261007.mp3</guid>
+      <pubDate>Wed, 07 Oct 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/7(수) GPU ABS | 전세사기 피해자 지원</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19720,16 +19739,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_111.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_111.mp3</guid>
       <pubDate>Fri, 07 Mar 2025 16:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/7(금) 자녀를 위해 금을 사서 투자해 주는 건 어떨까요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민사연]
-안녕하세요. 올해 저희 아들이 초등학교 입학을 합니다. 어른들께서 입학 선물로 목돈을 주셨어요. 처음에는 저금을 해주려고 생각했는데 주변에서 금을 사는 친구를 보고 차라리 골드바를 사줄까? 라는 생각을 하게 되었습니다. 요즘은 코인이나 주식도 많이들 하지만, 코인은 제가 잘 모르고, 주식은 변동성이 큰 것 같아 금에 투자를 할까 고민중입니다. 아이의 용돈이나 목돈으로 금테크를 하는게 과연 괜찮은 선택일까요? 그리고 금을 산다면 금은방에서 사는 것과 은행에서 구매하는 방법이 있는데 알아보니 금액차이가 많이 나더라구요. 은행이 안전한 느낌이 들지만,동네 금은방에서 사도 괜찮겠죠?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250307.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250307.mp3</guid>
-      <pubDate>Fri, 07 Mar 2025 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
