@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/7(수) GPU ABS | 전세사기 피해자 지원</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) GPU 담보 ABS 첫 등장.. 복잡한 조달 방식에 우려 ↑
+2) 정부, 전세사기 피해자에 보증금 1/3 보장.. 선지급 후정산
+- 김치형 경제뉴스 큐레이터
+- 이코노미스트 라예진 기자
+
+[친절한 경제]
+구매력 기준 국민소득
+그냥 국민소득과 뭐가 달라요?
+- 청취자 고수민 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261007.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:42</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261007.mp3</guid>
+      <pubDate>Wed, 07 Oct 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/6(화) 궁극의 반도체, 뉴로모픽의 잠재력 - 정대성 교수 (포스텍 화학공학과)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19711,21 +19730,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250307.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250307.mp3</guid>
       <pubDate>Fri, 07 Mar 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/7(금) 홈플러스 사태 파장 | 유로화 강세의 이유 | 외국인 인재 유치</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 홈플러스, 제2의 티메프 될라.. “상품권 안 받아요”
-2) 유로화·독일 국채 ↑.. 국방·인프라 투자에 기대감
-3) 政, 톱티어 비자 신설.. 해외 고급인재 들인다
-- 김현우 행복자산관리연구소 소장
-- 박세훈 작가
-- 안승찬 언더스탠딩 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307.mp3</guid>
-      <pubDate>Fri, 07 Mar 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
