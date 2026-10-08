@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/8(목) 삼성전자 잠정 실적 | 누리호 발사 | 장기수선충당금 | 일본 기름값 보조금</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 삼성전자 3분기 잠정 실적 발표.. 영업이익 107조 원
+2) 누리호 5차 발사 성공.. 한화에어로 등 민간 역할↑
+3) 11조 쌓인 아파트 장기수선충당금, 5년간 비위 3천여 건
+4) 일본도 유가 보조금 10조원.. 최고가격제와 차이는?
+- 매일경제신문 명지예 기자
+- 하수정 경제 전문 기자
+- 파이낸셜뉴스 박문수 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261008.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:24:17</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261008.mp3</guid>
+      <pubDate>Thu, 08 Oct 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/7(수) 맥도날드 가격 (하수정 경제전문기자) | 한국 게임산업 (게임제너레이션 이경혁 편집장)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19730,15 +19747,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_333.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_333.mp3</guid>
       <pubDate>Fri, 07 Mar 2025 16:15:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 무용담 말고 낙오담</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (1부) 무용담 말고 낙오담]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_111.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_111.mp3</guid>
-      <pubDate>Fri, 07 Mar 2025 16:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
