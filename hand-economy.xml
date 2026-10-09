@@ -16,6 +16,35 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/9(금) 서울 아파트값 | 농지법 위반 | 솔리다임 상장</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 서울 아파트값, 87주 연속 상승.. 공급계획 달성률은 3.6%
+2) 정부, '농지법 위반' 처분 기준 완화.. "투기만 처분"
+3) 솔리다임, 중복상장 본격화.. 美 IPO 주관사 선정
+- 한국경제신문 조미현 기자
+- 매일경제신문 오찬종 기자
+- 매일경제신문 박대의 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261009.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:48</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261009.mp3</guid>
+      <pubDate>Fri, 09 Oct 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 10/8(목) 시진핑 위기론 왜 반복되는가? - 조영남 교수 (서울대 국제대학원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+시진핑 위기론
+왜 반복되는가?
+- 조영남 교수 (서울대 국제대학원)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261008.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:52</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261008.mp3</guid>
+      <pubDate>Thu, 08 Oct 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/8(목) 삼성전자 잠정 실적 | 누리호 발사 | 장기수선충당금 | 일본 기름값 보조금</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19729,24 +19758,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_555.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_555.mp3</guid>
       <pubDate>Fri, 07 Mar 2025 16:29:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (4부) 진짜 이유</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (4부) 진짜 이유]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_444.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_444.mp3</guid>
-      <pubDate>Fri, 07 Mar 2025 16:20:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (3부) 말의 형식</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (2부) 말의 형식]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_333.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_333.mp3</guid>
-      <pubDate>Fri, 07 Mar 2025 16:15:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
