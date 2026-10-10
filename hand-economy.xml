@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/9(금) 영국이 다시 EU 합류를 꿈꾼다 - 윤영휘 교수 (경북대 사학과)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+영국이 다시
+EU 합류를 꿈꾼다
+- 윤영휘 교수 (경북대 사학과)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261009.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:56</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261009.mp3</guid>
+      <pubDate>Fri, 09 Oct 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[커피타임] 털을 뽑는 일 (29금주의)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19739,19 +19752,6 @@ MWC의 주인공이 된 중국
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250309.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250309.mp3</guid>
       <pubDate>Sun, 09 Mar 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/8(토) 러시아를 움직이는 건 '돈'입니다 (박정호 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[역시나 박정호]
-러시아를 움직이는 건 '돈'입니다
-- 박정호 명지대 교수
-w. 오승훈 아나운서]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250308.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250308.mp3</guid>
-      <pubDate>Sat, 08 Mar 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
