@@ -16,6 +16,39 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/12(월) 오픈AI 매출 | 마이크론 파업 | 좀비ETF</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 90조 → 65조 → 90조.. 오픈AI 예상 매출 따라 증시 급등락
+2) 마이크론 대만 노조, 삼전닉스급 성과급 요구..파업 99% 찬성
+3) 인기 테마 좇다 거래 뚝.. 좀비 ETF, 20% 넘는다
+- 연합인포맥스 정지서 기자
+- 머니투데이신문 김근희 기자
+
+[친절한 경제]
+미국은 부채도 많은데
+왜 달러가 강세인가요?
+- 청취자 이용우 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261012.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:24:14</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261012.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 10/11(일) 데이터센터 늦춰져도 전력 투자는 못 멈춥니다 - 서병수 PB (메리츠증권)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+데이터센터 늦춰져도
+전력 투자는 못 멈춥니다
+- 서병수 PB (메리츠증권)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261011.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:05</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261011.mp3</guid>
+      <pubDate>Sun, 11 Oct 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/10(토) AI 시대 생존 전략 회사 밖에는 답 없습니다 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19728,33 +19761,6 @@ MWC의 주인공이 된 중국
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250310.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250310.mp3</guid>
       <pubDate>Mon, 10 Mar 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 하등한 존재 [재업로드]</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (2부) 하등한 존재들 [재업로드]]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_222222.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250307_222222.mp3</guid>
-      <pubDate>Mon, 10 Mar 2025 09:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/10(월) 캐나다 관세폭탄 | 국내투자형 ISA | 부부간 상속세</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 캐나다, 관세폭탄 맞았다.. 美·中 싸움에 새우등
-2) 政, 국내투자형 ISA 신설.. 달러 유출 막는다
-3) 배우자 상속세, 폐지 논의 급물살.. 내용은?
-- 정지서 연합인포맥스 기자
-- 안승찬 언더스탠딩 기자
-
-[친절한 경제]
-회사가 자사주를 사서 
-소각할 때 단점은 없나요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250310.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250310.mp3</guid>
-      <pubDate>Mon, 10 Mar 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
