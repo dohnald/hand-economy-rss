@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/13(화) 착시를 걷어낸 한국 경제의 현주소 - 조영무 소장 (NH금융연구소)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+착시를 걷어낸
+한국 경제의 현주소
+- 조영무 소장 (NH금융연구소)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261013.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:47:59</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261013.mp3</guid>
+      <pubDate>Tue, 13 Oct 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/13(화) 환율 | 중고 유조선 | 중국 하이브리드차</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19754,22 +19767,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250311.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250311.mp3</guid>
       <pubDate>Tue, 11 Mar 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/11(화) 관세전쟁의 기회 | 호봉제 증가 | 펫보험 보험사기 |  빈집 재산세</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 에너지·방산, 韓기회 열렸다.. 관세전쟁의 반전
-2) 호봉제, 15년 만에 증가세.. 원인은 노조 반발
-3) 펫보험 보험사기, 470% 늘었다.. 업계 대책은?
-4) 빈집 철거, 재산세 부담 키운다.. 政 대책은?
--김치형 경제뉴스 큐레이터
--조미현 한국경제신문 기자
--정지서 연합인포맥스 기자 (전화)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250311(1).mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250311(1).mp3</guid>
-      <pubDate>Tue, 11 Mar 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
