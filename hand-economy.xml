@@ -16,6 +16,26 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/14(수) 창신메모리 D램 | 행정기관 이전 | 한국 경제성장률 </title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 창신메모리, 서버용 차세대 D램 개발.. 韓 증시 급락
+2) 수도권 44개 행정기관 세종行 확정.. 공무원 1만명 이동
+3) IMF, 올해 韓 성장률 2.6→3.3% 상향
+- 김치형 경제뉴스 큐레이터
+- 이코노미스트 라예진 기자
+
+[친절한 경제]
+요즘 주식과 채권은
+왜 같이 움직이나요?
+- 청취자 박성진 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261014.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:56</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261014.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/13(화) 착시를 걷어낸 한국 경제의 현주소 - 조영무 소장 (NH금융연구소)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19757,16 +19777,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250311.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250311.mp3</guid>
       <pubDate>Tue, 11 Mar 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/11(화) 건강보험료에 영향을 미칠 수 있는 금융소득은?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민사연]
-안녕하세요. 손에 잡히는 경제를 듣다가 궁금한 점이 생겨 문의드립니다. 이자와 배당금이 연간 1천만 원을 초과하면 건강보험료를 많이 낼 수도 있다는 이야기를 들었는데요. 이때 이자와 배당금 기준이 세전 금액인지 세후 금액인지 알고 싶습니다. 또, 제가 10년 동안 일시납 연금상품에 돈을 넣어둔 적이 있는데, 이를 일시금으로 받거나 연금으로 받을 경우 누적된 이자도 함께 지급 될텐데요, 여기서 발생하는 이자도 다른 금융소득과 합산하여 건강보험료 산정에 포함되는지 궁금합니다. 만약 합산 후 총액이 1천만 원을 넘는다면, 보험료가 추가로 부과되는지 알고 싶습니다. 마지막으로, 제가 이미 받고 있는 우체국 개인연금에서 발생하는 이자 역시 금융소득 1천만 원 한도에 포함되는지도 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250311.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250311.mp3</guid>
-      <pubDate>Tue, 11 Mar 2025 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
