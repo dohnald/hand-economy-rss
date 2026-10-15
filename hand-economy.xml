@@ -16,6 +16,25 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/14(수) 퍼머스 상장 철회 (하수정 경제전문기자) | 반도체 급락 (노근창 세미콘리서치랩 대표)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업되는 기업]
+IPO 시장에서
+포착된 경고 신호
+- 하수정 경제 전문 기자
+
+2부
+창신메모리 신기술
+쓸모가 없다
+- 노근창 대표 (세미콘리서치랩)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261014.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:29</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261014.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/14(수) 창신메모리 D램 | 행정기관 이전 | 한국 경제성장률 </title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19766,17 +19785,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250312.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250312.mp3</guid>
       <pubDate>Wed, 12 Mar 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/11(화) 우크라이나 전쟁에 대한 여론의 변화 (이재승 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
- 우크라이나 전쟁에 대한 여론의 변화
-- 이재승 고려대 국제대학원 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250311.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250311.mp3</guid>
-      <pubDate>Tue, 11 Mar 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
