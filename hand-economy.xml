@@ -16,6 +16,17 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>협찬인가 - 대형치과의 치명적인 위험성</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[여건봉치과
+https://www.yeogunbong.com/]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/sponsorship_yeodentist.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>01:15:48</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/sponsorship_yeodentist.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 15:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/16(금) 코스피 폭락 | 대미 투자 계획 | 브라질산 계란값</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19771,22 +19782,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250313.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250313.mp3</guid>
       <pubDate>Thu, 13 Mar 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/13(목) 상속세 개편안 | 美 철강관세 발효 | GTX-C 사업 위기 </title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 政, 상속세 전면 개편한다.. 유산취득세란?
-2) 美, 철강·알루미늄에 관세 발효.. 韓도 예외 없다
-3) 美 2월 CPI, 전년 대비 2.8% ↑.. 예상치 하회
-4) GTX-C노선, 사업 좌초 위기.. “공사비 급등했다”
-- 김현우 행복자산관리연구소 소장
-- 박세훈 작가
-- 손석우 경제뉴스 큐레이터]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250313.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250313.mp3</guid>
-      <pubDate>Thu, 13 Mar 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
