@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/16(금) 코스피 폭락 | 대미 투자 계획 | 브라질산 계란값</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) '검은 목요일'.. 한국증시 하락폭이 유독 컸던 이유
+2) 트럼프, 韓·日·대만 대미투자 발표.. 알래스카 못박아
+3) '한판에 4.4만원' 브라질산 달걀 논란.. "수입처 다변화"
+- 연합인포맥스 정지서 기자
+- 매일경제신문 오찬종 기자
+- 한국경제신문 조미현 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261016.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:24:35</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261016.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/15(목) 코스피 대폭락 투자는 끝났나 - 김학균 리서치센터장 (신영증권)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19771,22 +19787,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250313.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250313.mp3</guid>
       <pubDate>Thu, 13 Mar 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/12(수) 중국 정부의 불안감 (전가림 교수) | 뇌세포로 만든 컴퓨터 (이창욱 기자)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-중국 정부의 불안감
-- 전가림 호서대 교수
-
-2부
-[사이언스가 머니]
-뇌세포로 만든 컴퓨터
-- 이창욱 과학동아 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250312.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250312.mp3</guid>
-      <pubDate>Wed, 12 Mar 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
