@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/16(금) 러시아 페스트 연구원의 의문스런 죽음 - 이재갑 교수 (한림대 감염내과)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+러시아 페스트 연구원의
+의문스런 죽음
+- 이재갑 교수 (한림대 감염내과)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261016.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:47:56</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261016.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[커피타임] 신탁이 내려왔다</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19771,17 +19784,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250314.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250314.mp3</guid>
       <pubDate>Fri, 14 Mar 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/13(목) 바다로 번진 미중패권 전쟁 (정구연 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-바다로 번진 미중패권 전쟁
-- 정구연 강원대 정치외교학과 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250313.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250313.mp3</guid>
-      <pubDate>Thu, 13 Mar 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
