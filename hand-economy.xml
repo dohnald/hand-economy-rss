@@ -16,6 +16,38 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/20(화) </title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261020.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:59</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261020.mp3</guid>
+      <pubDate>Tue, 20 Oct 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 10/19(월) 구글 AI (김아람 이사) | 아프리카 도시화 | 중국 먹거리 저가 공세 | 중국 인구 (이혜인 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+민심 잃은 제미나이
+이번엔 다르다
+- 김아람 이사 (IT커뮤니케이션 연구소)
+
+2부
+[글로벌 리포트]
+중국인
+1억 3천만 명의
+기묘한 실종
+- 이혜인 기자 (한국경제신문)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261019.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:28</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261019.mp3</guid>
+      <pubDate>Mon, 19 Oct 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/19(월) 미국 기준금리 | 1인당 국민소득 | 에이피알</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19760,24 +19792,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250314_333.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250314_333.mp3</guid>
       <pubDate>Fri, 14 Mar 2025 20:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 무욕과 탐욕</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (2부) 무욕과 탐욕]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250314_222.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250314_222.mp3</guid>
-      <pubDate>Fri, 14 Mar 2025 20:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 강아지야</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (1부) 강아지야]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250314_111.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250314_111.mp3</guid>
-      <pubDate>Fri, 14 Mar 2025 20:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
