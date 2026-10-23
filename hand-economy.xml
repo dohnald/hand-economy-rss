@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/23(금) 기준금리 동결 | 솔리다임 상장 철회 | 쌀값 상승 | 싱가포르 금</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 한은, 기준금리 3%로 동결.. 추가 금리 인상 가능성 有
+2) SK하이닉스, 솔리다임 분리 상장 자진 철회
+3) 쌀 소비 주는데, 떡 구매액은 1년 새 30% 증가.. 쌀값은 ↑
+4) 싱가포르로 금 옮기는 세계의 부자들.. 800t ↑
+- 매일경제신문 이희수 기자
+- 한국경제신문 조미현 기자
+- 이코노미스트 라예진 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261023.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:49</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261023.mp3</guid>
+      <pubDate>Fri, 23 Oct 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/22(목) 6월에 판 코스피 다시 사모은 이유 - 홍춘욱 대표 (프리즘투자자문)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19808,17 +19825,6 @@ w. 김동연 경기도지사]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250317.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250317.mp3</guid>
       <pubDate>Mon, 17 Mar 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/16(일) 초고령화시대, 노인을 위한 주거환경은? (주서령 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-초고령화 시대, 노인을 위한 주거환경은?
-- 주서령 경희대 주거환경학과 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250316.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250316.mp3</guid>
-      <pubDate>Sun, 16 Mar 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
