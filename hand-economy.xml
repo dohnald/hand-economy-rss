@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/23(금) 한국형 원전 160조 시장 뚫었다 - 정범진 교수 (경희대 원자력공학과)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+한국형 원전
+160조 시장 뚫었다
+- 정범진 교수 (경희대 원자력공학과)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261023.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:47:55</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261023.mp3</guid>
+      <pubDate>Fri, 23 Oct 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/23(금) 기준금리 동결 | 솔리다임 상장 철회 | 쌀값 상승 | 싱가포르 금</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19807,24 +19820,6 @@ w. 김동연 경기도지사]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250317.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250317.mp3</guid>
       <pubDate>Mon, 17 Mar 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/17(월) 민감국가된 한국 | MBK회장 사재 출연 | 연금개혁 합의점</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 美에 민감국가된 한국.. 기술협력에 제동 우려
-2) MBK 김병주 회장, 홈플러스에 사재 출연 약속
-3) 연금개혁, 여야 소득대체율 합의.. 내용은?
-- 정지서 연합인포맥스 기자
-- 안승찬 언더스탠딩 기자
-
-[친절한 경제]
-테슬라 주가를 추종하는
-국산 종목을 만들 순 없나요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250317.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250317.mp3</guid>
-      <pubDate>Mon, 17 Mar 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
