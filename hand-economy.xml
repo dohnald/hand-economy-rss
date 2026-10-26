@@ -16,6 +16,27 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/26(월) SK하이닉스 특별배당 | 주식-부동산 | 한전 사채 | 가상자산 과세</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) SK하이닉스, 日 키옥시아 지분 차익 16조원 특별배당 추진
+2) 결국 주식 팔아서 집 샀다.. '생산적 금융' 어려운 이유
+3) 한전, 사채 한도 19조 초과.. 전기료 인상론 재점화
+4) 가상자산 과세 재유예 검토.. 해외 거래 정보 확보 못해
+- 한국경제신문 조미현 기자
+- 머니투데이신문 김근희 기자
+
+[친절한 경제]
+스포츠 암표 거래
+개선 방법 없나요?
+- 청취자 이상원 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261026.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:43</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261026.mp3</guid>
+      <pubDate>Mon, 26 Oct 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/25(일) 서울은 지금이 고점이다 - 김경민 교수 (서울대 도시계획학과)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19803,22 +19824,6 @@ w. 김동연 경기도지사]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250318.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250318.mp3</guid>
       <pubDate>Tue, 18 Mar 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/18(화) 中 내수부양책 | 삼성 위기론 대응 | 해외부동산 투자 ↑</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 中, 소득 올려 내수 살린다.. 양회서 대책 발표
-2) 한국GM, 트럼프발 관세에 철수설 불거져
-3) 이재용 ‘사즉생’ 외쳤다.. 삼성 위기론 꺼질까
-4) 한국인, 해외 부동산에 몰렸다.. 투자 규모 ↑
--김치형 경제뉴스 큐레이터
--정지서 연합인포맥스 기자
--조미현 한국경제신문 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250318.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250318.mp3</guid>
-      <pubDate>Tue, 18 Mar 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
