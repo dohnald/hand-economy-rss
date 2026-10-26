@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/25(일) 서울은 지금이 고점이다 - 김경민 교수 (서울대 도시계획학과)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+서울은 지금이 고점이다
+- 김경민 교수 (서울대 도시계획학과)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261025.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:47:20</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261025.mp3</guid>
+      <pubDate>Sun, 25 Oct 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/24(토) 친중 로비를 주도했던 뜻밖의 흑막 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19807,23 +19819,6 @@ w. 김동연 경기도지사]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250318.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250318.mp3</guid>
       <pubDate>Tue, 18 Mar 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/17(월) 마누스는 제2의 딥시크다? (김덕진 소장) | 우리나라 금 채굴의 역사 (김재원 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[텍코노미]
-마누스는 제2의 딥시크다?
-- 김덕진 IT커뮤니케이션 연구소장
-
-2부
-[역사의 재원쌤]
-우리나라 금 채굴의 역사
-- 김재원 역사학자 (가톨릭대 겸임교수)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250317.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250317.mp3</guid>
-      <pubDate>Mon, 17 Mar 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
