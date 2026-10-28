@@ -16,6 +16,20 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/27(화) 트럼프의 미치광이 전략, 왜 실패했나 - 한순구 교수 (연세대 경제학부)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+트럼프의
+미치광이 전략
+왜 실패했나
+- 한순구 교수 (연세대 경제학부)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261027.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:45:55</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261027.mp3</guid>
+      <pubDate>Tue, 27 Oct 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/27(화) 앤트로픽 상장 | 美 중간선거 | 브라질 대선 | 자산 양극화</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19829,17 +19843,6 @@ w. 오승훈 아나운서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250319.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250319.mp3</guid>
       <pubDate>Wed, 19 Mar 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/19(수) 위기의 한국 경제, 정책적 해법 있을까? (김동연 경기도지사) </title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[이슈 인터뷰]
-위기의 한국 경제, 정책적 해법 있을까?
-w. 김동연 경기도지사]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250319.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250319.mp3</guid>
-      <pubDate>Wed, 19 Mar 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
