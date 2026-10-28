@@ -16,6 +16,24 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/28(수) 석유 최고가격제 | 넷플릭스 구조조정</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 산업연구원 "석유최고가격제, '밴드형 상한제' 도입해야"
+2) 넷플릭스, 시청 시간 줄고 성장 둔화.. 내부 갈등 ↑
+- 김치형 경제뉴스 큐레이터
+- 이코노미스트 라예진 기자
+
+[친절한 경제]
+?
+-청취자 ? 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261028.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:45</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261028.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 10/27(화) 트럼프의 미치광이 전략, 왜 실패했나 - 한순구 교수 (연세대 경제학부)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19832,17 +19850,6 @@ w. 오승훈 아나운서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250319.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250319.mp3</guid>
       <pubDate>Wed, 19 Mar 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/19(수) 투자 중인 채권이 부도가 나면 어떻게 되나요?</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민사연]
-안녕하세요. 현재 예적금 금리가 너무 낮아 단기자금을 투자기간 대비 금리가 더 높은 장외채권에 투자 하고 있습니다. 채권의 신용등급과 위험 정도 등을 감안해서 투자하고 있지만, 가끔 채권만기일에 상환이 늦게 이뤄지는 경우도 있다고 들어서, 혹시나 투자하고 있는 채권이 만기에 상환되지 않으면 어쩌나 하는 생각이 든 적이 몇 번 있습니다. 
-채권은 발행회사가 망하지만 않으면 상환 받을 수 있다는 이야기를 들었는데요, 혹시 채권만기일에 상환이 이루어지지 않으면 무슨 일이 일어나는지, 채권 투자자금 회수는 어떤 방식으로 진행되는지 궁금합니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250319.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250319.mp3</guid>
-      <pubDate>Wed, 19 Mar 2025 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
