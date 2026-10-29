@@ -16,6 +16,42 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 10/29(목) FOMC | 알파벳·MS 실적 | SK하이닉스 | 이스라엘 총선</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 美 연준, 기준금리 동결.. 12월 추가 인상 유력
+2) 알파벳·MS 나란히 실적 발표.. 주가 엇갈린 이유는?
+3) SK하닉, 역대 최대 실적.. "3년치 D램·HBM 완판"
+4) 초박빙 이스라엘 총선.. 아랍계가 운명 가른다
+- 하수정 경제 전문 기자
+- 매일경제신문 명지예 기자
+- 한국경제신문 조미현 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261029.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:59</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261029.mp3</guid>
+      <pubDate>Thu, 29 Oct 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 10/28(수) 뷔페의 부활 (하수정 경제전문기자) | 공모주 투자 (배지원 딜사이트 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[업되는 기업]
+살인적 외식 물가
+미국이 찾은 뜻밖의 탈출구
+- 하수정 경제 전문 기자
+
+2부
+공모주 수익률
+깜짝 놀라실 걸요?
+- 배지원 기자 (딜사이트)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261028.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:47:27</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261028.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/28(수) 석유 최고가격제 | 넷플릭스 구조조정</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19818,38 +19854,6 @@ w. 오승훈 아나운서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250320.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250320.mp3</guid>
       <pubDate>Thu, 20 Mar 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/20(목) 토허제 재지정 | 美 금리동결 | 자동차보험료 일원화</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 토허제, 한 달 만에 번복.. 확대 재지정한다
-2) 美연준, 금리 동결했다.. “경제 불확실성 커져”
-3) 자동차 보험료, 비교플랫폼도 가격 일원화
-- 손석우 경제뉴스 큐레이터
-- 박세훈 작가
-- 김현우 행복자산관리연구소 소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250320.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250320.mp3</guid>
-      <pubDate>Thu, 20 Mar 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/19(수) 엔비디아의 미래는? (노근창 센터장) | 태양전지의 혁신 (김미래 기자)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[주가 왜 이래]
-엔비디아의 미래는?
-- 노근창 현대차증권 리서치센터장
-
-2부
-[사이언스가 머니]
-태양전지의 혁신
-- 김미래 과학동아 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250319.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250319.mp3</guid>
-      <pubDate>Wed, 19 Mar 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
