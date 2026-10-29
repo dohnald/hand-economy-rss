@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 10/29(목) 목숨 건 빅테크 투자 더 늘린다 - 이선엽 대표 (AFW 파트너스)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+목숨 건 빅테크
+투자 더 늘린다
+- 이선엽 대표 (AFW 파트너스)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261029.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:31</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261029.mp3</guid>
+      <pubDate>Thu, 29 Oct 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 10/29(목) FOMC | 알파벳·MS 실적 | SK하이닉스 | 이스라엘 총선</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19844,16 +19857,6 @@ w. 오승훈 아나운서
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250320.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250320.mp3</guid>
       <pubDate>Thu, 20 Mar 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[상담소] 3/20(목) 생활형 숙박시설의 주택 산입시점이 궁금합니다.</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[고민사연]
-안녕하세요. 생활형 숙박시설을 취득한 후 현재까지 거주 중인데요, 올해 3~4월에 주거용 오피스텔로 변경 예정입니다. 1가구 1주택 비과세 혜택을 받기 위해선 3년 내에 기존 주택을 매도해야 되는 것으로 알고 있는데요. 생활형 숙박시설의 주택 산입시점이 궁금합니다. 기존 주택을 신규주택을 취득한 후 3년 이내에 매도해야 된다면, 생활형 숙박시설이 주택으로 전환된 이후 3년 이내에 기존 주택을 처분하면 되는 걸까요? 또, 신규로 취득한 주택 역시 2년 보유 후 매도하면 비과세 혜택을 받을 수 있다고 하는데, 저 같은 경우 신규 주택의 취득시기를 언제로 봐야 할까요? 어떤 분은 생활형숙박시설의 잔금을 완납한 날짜, 어떤 분은 등기한 날짜, 어떤 분은 주택으로 실제 사용한 날짜, 어떤 분은 전입날짜, 어떤 분은 용도변경 날짜 등등 전부 말들이 전부 다릅니다. 심지어 세무서 직원 분들도 다르게 얘기하는데, 3년 내 매도시점 기준이 되는 신규주택 취득시기는 가장 빠른 잔금완납일이고, 신규주택 취득 2년 후 매도시점은 가장 느린 용도변경 후라고 하기도 하고... 같은 물건인데 상황에 따라 주택의 산입시점이 다른 날짜라고 설명을 해줘서 혼란스럽습니다.]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250320.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250320.mp3</guid>
-      <pubDate>Thu, 20 Mar 2025 13:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
