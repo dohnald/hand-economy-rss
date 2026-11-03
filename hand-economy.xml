@@ -16,6 +16,43 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 11/3(화) 미래대응기금 | 빅테크 광고 사업 | 북극항로</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 미래기금 '지속가능성' 우려.. 2029년부터 추가세수 없다?
+2) AI, 빅테크 광고 매출 위협.. 쇼핑·검색 영향
+3) 올해 북극항로 이용 50% 증가 전망.. 아직은 러시아 위주
+- 김치형 경제뉴스 큐레이터
+- 이코노미스트 라예진 기자
+- 한국경제신문 이혜인 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261103.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:43</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261103.mp3</guid>
+      <pubDate>Tue, 03 Nov 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 11/2(월) AI 비서 (김덕진 소장) | 일본 사고물건 | 중국 취업난 | 미국 부자 세금 (이혜인 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+스타트업 AI 비서
+카카오 잡는다?
+- 김덕진 소장 (IT커뮤니케이션 연구소)
+
+2부
+[글로벌 리포트]
+월세 무서워
+사람 죽은 집 찾는 
+일본 사람들 
+- 이혜인 기자 (한국경제신문)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261102.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:18</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261102.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/2(월) AI 자금조달 | 담뱃세 인상</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19853,37 +19890,6 @@ K뷰티의 진짜 리더는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250323.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250323.mp3</guid>
       <pubDate>Sun, 23 Mar 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/22(토) 미국은 어떻게 우주를 독점하고 있을까? (박정호 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[역시나 박정호]
-미국은 어떻게 우주를 독점하고 있을까?
-- 박정호 명지대 교수
-w. 오승훈 아나운서
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250322.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250322.mp3</guid>
-      <pubDate>Sat, 22 Mar 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/21(금) 공중전화의 역사 (이종훈 작가) | 차이나쇼크 | 일본 쌀값 | 30억의 비만 (어예진 소장)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[ 1부
-[공부왕 이종훈]
-공중전화의 역사
-- 이종훈 스포츠 평론가 (플레이볼 작가)
-
-2부
-[글로벌 리포트]
-차이나쇼크 | 일본 쌀값 | 30억의 비만
-- 어예진 해담경제연구소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250321.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250321.mp3</guid>
-      <pubDate>Fri, 21 Mar 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
