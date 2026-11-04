@@ -16,6 +16,39 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 11/4(수) 코너스톤 투자자 제도 | 위안화 가치</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) IPO 공모주 사전배정 제도 도입.. '따상 후 급락' 막는다
+2) 위안화 가치 4년새 최고 수준.. 中, 외화 지급준비율 인상
+- 김치형 경제뉴스 큐레이터
+- 연합인포맥스 정지서 기자
+
+[친절한 경제]
+전산자료 사라지면
+잔액 어떻게 입증하나요?
+- 청취자 최영주 씨]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261104.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:03</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261104.mp3</guid>
+      <pubDate>Wed, 04 Nov 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 11/3(화) 한국 부자들이 도쿄 타워맨션에 빠진 이유 - 정두신 대표 (미야마앤정 파트너스)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+한국 부자들이
+도쿄 타워맨션에
+빠진 이유
+- 정두신 대표 (미야마앤정 파트너스)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261103.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:47:33</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261103.mp3</guid>
+      <pubDate>Tue, 03 Nov 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/3(화) 미래대응기금 | 빅테크 광고 사업 | 북극항로</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19861,35 +19894,6 @@ K뷰티의 진짜 리더는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250324.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250324.mp3</guid>
       <pubDate>Mon, 24 Mar 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/24(월) 美 LNG 투자 압박 | 삼성-샤오미 회동 | 개인용 국채 인기</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) LNG 투자 압박하는 美.. 알래스카 주지사 온다
-2) 이재용, 2년 만에 방중.. 샤오미 회동에 주목
-3) 개인투자용 국채, 5년물 등장에 청약 몰렸다
-- 안승찬 언더스탠딩 기자
-- 정지서 연합인포맥스 기자
-
-[친절한 경제]
-경제가 성장을 안 하면
-무슨 일이 벌어지나요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250324.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250324.mp3</guid>
-      <pubDate>Mon, 24 Mar 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/23(일) 흔들리는 7광구 협정의 미래는? (김기범 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-흔들리는 7광구 협정의 미래는?
-- 김기범 부산대 지질환경과학과 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250323.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250323.mp3</guid>
-      <pubDate>Sun, 23 Mar 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
