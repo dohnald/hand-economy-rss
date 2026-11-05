@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 11/5(목) 트럼프 레임덕 한국 기업의 운명 - 우정엽 선임연구위원 (미국 허드슨연구소)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+트럼프 레임덕
+한국 기업의 운명
+- 우정엽 선임연구위원 (미국 허드슨연구소)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261105.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:47:54</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261105.mp3</guid>
+      <pubDate>Thu, 05 Nov 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/5(목) 미국 중간선거 | 테슬라 합병 세금 | 금융위원회 사업</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19885,23 +19898,6 @@ K뷰티의 진짜 리더는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250325.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250325.mp3</guid>
       <pubDate>Tue, 25 Mar 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/25(화) 현대차 美투자 | 비과세 배당 | 연금 운용 | 美에그플레이션 여파 | 디지털화폐</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 현대차 “美에 31조 투자할 것”.. 트럼프 대만족
-2) 떠오르는 비과세 배당.. 세수 펑크 우려도
-3) 국민연금, 위험자산 투자 늘린다.. 증시 영향력 ↑ 
-4) 美, 에그플레이션에 SOS.. “韓달걀 수입 늘릴 것”
-5) 한은, 디지털 화폐 실험한다.. 도입 시 장점은?
-- 김치형 경제뉴스 큐레이터
-- 정지서 연합인포맥스 기자
-- 나수지 한국경제신문 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250325.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250325.mp3</guid>
-      <pubDate>Tue, 25 Mar 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
