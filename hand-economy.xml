@@ -16,6 +16,26 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커파타임 - 비행기는 설국열차</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커파타임 - 비행기는 설국열차]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee_1106_2.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:50:39</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee_1106_2.mp3</guid>
+      <pubDate>Fri, 06 Nov 2026 15:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커파타임 - 인생이 바뀌는 투자</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커파타임 - 인생이 바뀌는 투자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee_1106_1.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>01:06:21</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee_1106_1.mp3</guid>
+      <pubDate>Fri, 06 Nov 2026 15:01:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/6(금) 美 반도체주 | 커버드콜 ETF 분배금 | 집중투표제 | 지분적립형 분양주택</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -19876,35 +19896,6 @@ K뷰티의 진짜 리더는?
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250326.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250326.mp3</guid>
       <pubDate>Wed, 26 Mar 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/26(수) 내년도 예산 편성 | 철도요금 인상 | 실업급여 관리 강화</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 내년 예산, 700조 돌파한다.. 민생·AI에 지출 ↑
-2) 코레일 “KTX 요금, 17% 인상해야”.. 적자 위기
-3) 실업급여, 반복수급자 막는다.. 구체적 대책은?
-- 김치형 경제뉴스 큐레이터
-- 손석우 경제뉴스 큐레이터
-
-[친절한 경제]
-국민연금 보험료가 오르면
-회사는 어떻게 대응하나요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250326.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250326.mp3</guid>
-      <pubDate>Wed, 26 Mar 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/25(화) 네타냐후가 가자휴전을 깬 진짜 이유 (박현도 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-네타냐후가 가자휴전을 깬 진짜 이유
-- 박현도 교수(서강대 유로메나연구소)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250325.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250325.mp3</guid>
-      <pubDate>Tue, 25 Mar 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
