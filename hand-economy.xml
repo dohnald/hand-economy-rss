@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
   <channel>
     <title>손에 잡히는 경제</title>
-    <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+    <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
     <itunes:author>MBC</itunes:author>
     <description>MBC 표준 FM [이진우의 손에 잡히는 경제]평일 오전 8시 30분~9시, [박정호의 손경제 플러스]매일 오후 10시 5분~11시</description>
     <language>ko</language>
