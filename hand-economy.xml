@@ -16,6 +16,43 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 11/10(화) 산업용 가스요금 66% 급등 | 주가 누르기 방지법 충돌 | 빚 안 갚는 '대출 포모'</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+
+1) 산업용 가스요금 1년 새 66%↑.. 기업 부담 가중
+2) '주가누르기 방지법' 놓고 당·정 충돌.. 쟁점은?
+3) 손해봐도 빚 안 갚아.. '대출 포모' 확산
+
+- 김치형 경제뉴스 큐레이터
+- 연합인포맥스 정지서 기자
+- 한국경제신문 이혜인 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261110.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:44</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261110.mp3</guid>
+      <pubDate>Tue, 10 Nov 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 11/9(월) AI 줄이는 애플 (김아람 이사) | 中 학생 감시 | 영국 노예무역 배상 | 리비아 나이키 금지령 (이혜인 기자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1부
+[텍코노미]
+돈 많은 애플도 
+AI 비용 줄인다
+- 김아람 이사 (IT커뮤니케이션 연구소)
+
+2부
+[글로벌 리포트]
+中 명문대, 학생 감시한다?
+- 이혜인 기자 (한국경제신문)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261109.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:47:36</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261109.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 20:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/9(월) 반대매매 규제 완화 | 건강검진비에 과세 | 구글 넘어 1위 넘보는 메타</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
@@ -27,7 +64,7 @@
 - 머니투데이신문 김근희 기자
 
 [친절한 경제]
-- 청취자 000씨
+- 청취자 이보람씨
 ]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261109.mp3" type="audio/mpeg" length="" />
       <itunes:duration>00:23:24</itunes:duration>
@@ -19879,31 +19916,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250328.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250328.mp3</guid>
       <pubDate>Fri, 28 Mar 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/28(금) 발란 미정산 | 현대제철 셧다운 | 우체국 은행대리업</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 발란, 정산금 밀렸다.. 티메프 사태와 유사
-2) 현대제철, 인천공장 한 달간 멈춘다.. 불황에 극약처방
-3) 우체국도 곧 은행 업무한다.. 금융소외계층 지원 ↑
-- 안승찬 언더스탠딩 기자
-- 박세훈 작가
-- 김현우 행복자산관리연구소 소장]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250328.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250328.mp3</guid>
-      <pubDate>Fri, 28 Mar 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/27(목) 유럽은 이제 다시는 러시아에 의존하지 않을 겁니다 (서병수 애널리스트)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[유럽의 새 에너지 수급처, 흑해
-- 서병수 애널리스트]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250327.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250327.mp3</guid>
-      <pubDate>Thu, 27 Mar 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
