@@ -16,6 +16,26 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커파타임 - 팀장님들 필청!</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커파타임 - 팀장님들 필청!]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee_1115.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>01:02:36</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee_1115.mp3</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>협찬인가 - 잘되는 무인카페엔 똑같은 비밀이 있다</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[카페인24]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/sponsorship_cafein24.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>01:11:40</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/sponsorship_cafein24.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 21:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/13(금) 수출 1조달러 눈앞｜네이버도 새벽배송｜국채 담보로 달러 조달</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
@@ -19891,35 +19911,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250331.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250331.mp3</guid>
       <pubDate>Mon, 31 Mar 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 3/31(월) 10조 추경 카드 | 공매도 전면 재개 | 미중 최혜국 갈등</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 정부 “10조원 필수추경 추진”.. 입장 갈린 여야
-2) 공매도, 오늘부터 전면 재개.. 유의 사항은?
-3) 美, 中최혜국 지위 박탈할까.. 중국도 반격 예고
-- 정지서 연합인포맥스 기자
-- 조미현 한국경제신문 기자
-
-[친절한 경제]
-금을 안전자산이라고
-부르는 이유가 뭔가요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250331.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250331.mp3</guid>
-      <pubDate>Mon, 31 Mar 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/30(일) 일론 머스크의 캐시카우는 스타링크입니다 (강원석 이사)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-일론 머스크의 캐시카우는 스타링크입니다
-- 강원석 스페이스 빔 이사]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250330.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250330.mp3</guid>
-      <pubDate>Sun, 30 Mar 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
