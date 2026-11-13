@@ -16,6 +16,23 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 11/13(금) 수출 1조달러 눈앞｜네이버도 새벽배송｜국채 담보로 달러 조달</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제 뉴스]
+1) 수출 호황 이끈 K반도체…美 견제 우려도
+2) 네이버, 1조 투자해 새벽배송 확대…쿠팡 잡을까
+3) 국채 맡겨 달러 빌린 신흥국…재정 부담 커지나
+-이재연 한겨레신문 기자
+-오찬종 매일경제신문 기자
+-조미현 한국경제신문 기자
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261113.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:35</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261113.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 11/12(목) 폭등한 일본 부동산 뜻밖의 나비효과 - 서병수 PB (메리츠 증권)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
@@ -19903,19 +19920,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250330.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250330.mp3</guid>
       <pubDate>Sun, 30 Mar 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/29(토) 러시아가 위성 기술을 회복하고 있습니다 (박정호 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[역시나 박정호]
-러시아가 위성 기술을 회복하고 있습니다
-- 박정호 명지대 교수
-w. 오승훈 아나운서]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250329.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250329.mp3</guid>
-      <pubDate>Sat, 29 Mar 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
