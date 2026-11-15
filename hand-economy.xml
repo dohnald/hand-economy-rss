@@ -16,6 +16,18 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 11/14(토) 우리나라가 망하지 않은 건 IMF 덕분입니다 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+우리나라가 망하지 않은 건 IMF 덕분입니다 
+- 박정호 명지대 교수]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261114.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:35</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261114.mp3</guid>
+      <pubDate>Sat, 14 Nov 2026 22:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커파타임 - 팀장님들 필청!</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
@@ -19896,23 +19908,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250401.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250401.mp3</guid>
       <pubDate>Tue, 01 Apr 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 3/31(월) 진화한 챗GPT 이미지 (김덕진 소장) | 한국 문화재를 지킨 재력가 (김재원 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1부
-[텍코노미]
-진화한 챗GPT 이미지
-- 김덕진 IT커뮤니케이션 연구소장
-
-2부
-[역사의 재원쌤]
-한국 문화재를 지킨 재력가
-- 김재원 역사커뮤니케이터 (가톨릭대 겸임교수)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250331.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250331.mp3</guid>
-      <pubDate>Mon, 31 Mar 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
