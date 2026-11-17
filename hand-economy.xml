@@ -16,6 +16,22 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 11/17(화) 젠슨 황 복귀론｜주가누르기방지법 딜레마｜명품 가격 인하</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제 뉴스]
+1) 젠슨 황 복귀론 확산…엔비디아 다시 이끌까?
+2) 저PBR 기업 90% 수익성 부진…주가누르기방지법 딜레마
+3) 명품 가격도 내린다…소비자들 지갑 닫은 이유
+-김치형 경제뉴스 큐레이터
+-정지서 연합인포맥스 기자
+-이혜인 한국경제신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261117.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:23</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261117.mp3</guid>
+      <pubDate>Tue, 17 Nov 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 11/16(월) AI 부정행위 (김덕진 소장) | 멕시코 주택 절도 | 일본 담배 뺏는 러시아 | 폴란드 헌법재판소 (이혜인 기자)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
@@ -19904,23 +19920,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250402.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250402.mp3</guid>
       <pubDate>Wed, 02 Apr 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 4/2(수) 5세대 실손보험 출시 | 美무역장벽 보고서</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 5세대 실손, 덜 내고 덜 받는다.. 도수치료도 제외
-2) 美, 무역장벽 보고서 내놨다.. 한국 사례도 저격
-- 김치형 경제뉴스 큐레이터
-- 손석우 경제뉴스 큐레이터
-
-[친절한 경제]
-한국은행은 뭘로 돈을 벌길래
-세금을 이렇게 많이 내나요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250402.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250402.mp3</guid>
-      <pubDate>Wed, 02 Apr 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
