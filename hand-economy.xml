@@ -16,6 +16,36 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 11/20(금) 앤트로픽 IPO｜개미들 -563조｜원화 강세에 생활비 절감｜제지업계 적자</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) ‘사상 최대 IPO’ 앤트로픽에 143조원 몰렸다
+2) 코스피 급락에 개미들 손실 563조 추정
+3) 원화 강세에 생활비 절감…저소득층 혜택 더 크다
+4) 원재료값 오르고 종잇값 하락…제지업계 적자
+-정지서 연합인포맥스 기자
+-이재연 한겨레신문 기자
+-라예진 이코노미스트 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261120.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:22:42</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261120.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[플러스] 11/19(목) 반도체 산업이 바꾸는 부동산 지도 - 김시덕 박사 (도시문헌학자)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+동탄 용인 뜨는 이유
+반도체 따라 집값도 간다
+- 김시덕 박사 (도시문헌학자)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261119.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:09</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261119.mp3</guid>
+      <pubDate>Thu, 19 Nov 2026 22:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/19(목) 한한령 풀리나｜노조 지원비에 세금｜월세 카드결제</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
@@ -19899,32 +19929,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250404_111.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250404_111.mp3</guid>
       <pubDate>Fri, 04 Apr 2025 16:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 4/4(금) 美상호관세 논란 | 유료방송 생존전략 | 흑자 스타트업</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 美 상호관세, 주먹구구 계산법에 후폭풍.. 전망은?
-2) 케이블-IPTV, 콘텐츠 사용료 깎는다.. 업계 고사 위기
-3) 3대 유니콘, 흑자 전환 성공.. 향후 전략은?
-- 조미현 한국경제신문 기자
-- 손석우 경제뉴스 큐레이터
-- 정혜진 서울경제신문 기자]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250404.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250404.mp3</guid>
-      <pubDate>Fri, 04 Apr 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/3(목) 튀르키예 반정부 시위가 번지고 있습니다 (오종진 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-튀르키예 반정부 시위가 번지고 있습니다
-- 오종진 교수(한국외대 튀르키예·아제르바이잔어학과)]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250403.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250403.mp3</guid>
-      <pubDate>Thu, 03 Apr 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
