@@ -16,6 +16,16 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>커피타임 - 어쩌다 쌍화차 타임</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[커피타임 - 어쩌다 쌍화차 타임]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/coffee_1120.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>01:03:03</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/coffee_1120.mp3</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/20(금) 앤트로픽 IPO｜개미들 -563조｜원화 강세에 생활비 절감｜제지업계 적자</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
@@ -182,7 +192,7 @@ AI 컨닝에 수능도 비상
       <pubDate>Sat, 14 Nov 2026 22:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>커파타임 - 팀장님들 필청!</title>
+      <title>커피타임 - 팀장님들 필청!</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
       <description><![CDATA[커파타임 - 팀장님들 필청!]]></description>
@@ -19919,16 +19929,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250404_222.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250404_222.mp3</guid>
       <pubDate>Fri, 04 Apr 2025 16:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (1부) 한번 더 이별</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (1부) 한번 더 이별
-]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250404_111.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250404_111.mp3</guid>
-      <pubDate>Fri, 04 Apr 2025 16:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
