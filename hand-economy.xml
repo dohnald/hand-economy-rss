@@ -26,6 +26,20 @@
       <pubDate>Sat, 21 Nov 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[플러스] 11/20(금) 다음 사이클을 대비한 올겨울 투자전략 - 윤지호 경제평론가</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1, 2부
+다음 사이클을 대비한
+올겨울 투자전략
+- 윤지호 경제평론가
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261120.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:53</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261120.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 22:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[손경제] 11/20(금) 앤트로픽 IPO｜개미들 -563조｜원화 강세에 생활비 절감｜제지업계 적자</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
@@ -19920,15 +19934,6 @@ w. 오승훈 아나운서]]></description>
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250405.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250405.mp3</guid>
       <pubDate>Sat, 05 Apr 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>커피타임 - (2부) 잠시만 안녕 [끝]</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[커피타임 - (2부) 잠시만 안녕 [끝]]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250404_222.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250404_222.mp3</guid>
-      <pubDate>Fri, 04 Apr 2025 16:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
