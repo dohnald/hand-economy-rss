@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title> [플러스] 11/21(토) AI 컨닝 논란의 핵심은 전문직의 종말 - 박정호 명지대 교수</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+[역시나 박정호]
+AI 컨닝 논란?
+핵심은 전문직의 종말
+ - 박정호 명지대 교수
+]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261121.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:35</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261121.mp3</guid>
+      <pubDate>Sat, 21 Nov 2026 22:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>커피타임 - 어쩌다 쌍화차 타임</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
@@ -19921,19 +19936,6 @@ AI에도 표준이 생깁니다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250406.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250406.mp3</guid>
       <pubDate>Sun, 06 Apr 2025 20:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/5(토) 중국이 우주연합을 구축하려는 이유는? (박정호 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-[역시나 박정호]
- 중국이 우주연합을 구축하려는 이유는?
-- 박정호 명지대 교수
-w. 오승훈 아나운서]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250405.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250405.mp3</guid>
-      <pubDate>Sat, 05 Apr 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
