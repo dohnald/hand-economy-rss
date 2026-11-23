@@ -16,6 +16,21 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[손경제] 11/23(월) 10조 증안펀드｜국산 전기차 세액공제｜트럼프 데이터센터 경고</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[[깊이 있는 경제뉴스]
+1) 검은 월요일 우려에..정부, ‘증안펀드’ 투입 준비
+2) 中 공세에..전기차 ‘국내생산세액공제’ 확대 가닥
+3) 트럼프 "해외 데이터센터에 세금 폭탄"..파장은?
+-조미현 한국경제신문 기자
+-김근희 머니투데이신문 기자]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261123.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:23:02</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20261123.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[플러스] 11/22(일) 눈부신 무기 수출 굶주린 북한 주민 - 임수호 책임연구위원 (국가안보전략연구원)</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
@@ -19920,24 +19935,6 @@ AI에도 표준이 생깁니다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250407.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYCOUNSEL_20250407.mp3</guid>
       <pubDate>Mon, 07 Apr 2025 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[손경제] 4/7(월) 반트럼프 시위 | K-보안업체 호실적 | 일본 온천수 부족</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[[깊이 있는 경제뉴스]
-1) 美 전역, 반트럼프 시위 열려.. 中·유럽은 보복 준비
-2) K-보안업체들, 해외서 호실적 냈다.. 배경은?
-3) 日, 심야온천 막는다.. 관광객 급증에 물부족 걱정
-- 조미현 한국경제신문 기자
-- 정지서 연합인포맥스 기자
-
-[친절한 경제]
-인버스 ETF는 어떻게
-설계된 상품인가요?]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250407.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250407.mp3</guid>
-      <pubDate>Mon, 07 Apr 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
