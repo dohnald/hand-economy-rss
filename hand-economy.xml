@@ -16,6 +16,19 @@
       <itunes:email>mbcrpod@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>[플러스] 11/22(일) 눈부신 무기 수출 굶주린 북한 주민 - 임수호 책임연구위원 (국가안보전략연구원)</title>
+      <itunes:author>iMBC</itunes:author>
+      <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
+      <description><![CDATA[1,2부
+눈부신 무기 수출 
+굶주린 북한 주민
+- 임수호 책임연구위원 (국가안보전략연구원)]]></description>
+      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261122.mp3" type="audio/mpeg" length="" />
+      <itunes:duration>00:48:18</itunes:duration>
+      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20261122.mp3</guid>
+      <pubDate>Sun, 22 Nov 2026 22:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title> [플러스] 11/21(토) AI 컨닝 논란의 핵심은 전문직의 종말 - 박정호 명지대 교수</title>
       <itunes:author>iMBC</itunes:author>
       <link>https://miniwebapp.imbc.com/index?service=podcast&amp;program=1000671100000100000</link>
@@ -19925,17 +19938,6 @@ AI에도 표준이 생깁니다
       <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250407.mp3" type="audio/mpeg" length="" />
       <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMY_20250407.mp3</guid>
       <pubDate>Mon, 07 Apr 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[플러스] 4/6(일) 식량주권의 핵심, 우리 종자산업의 미래는? (강병철 교수)</title>
-      <itunes:author>iMBC</itunes:author>
-      <link>https://mini.imbc.com/index_v3.html?service=podcast&amp;program=1000671100000100000</link>
-      <description><![CDATA[1,2부
-식량주권의 핵심, 우리 종자산업의 미래는?
-- 강병철 서울대 농림생명자원학부 교수]]></description>
-      <enclosure url="https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250406.mp3" type="audio/mpeg" length="" />
-      <guid>https://podcastfiledown.imbc.com/originaldata/economy/ECONOMYPLUS_20250406.mp3</guid>
-      <pubDate>Sun, 06 Apr 2025 20:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
